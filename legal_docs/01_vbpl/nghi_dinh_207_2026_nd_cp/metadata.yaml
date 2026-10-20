@@ -29,7 +29,8 @@ legal_basis:
   title: Luật Đầu tư theo phương thức đối tác công tư số 64/2020/QH14 đã được sửa
     đổi, bổ sung một số điều theo Luật số 03/2022/QH15, Luật số 28/2023/QH15, Luật
     số 35/2024/QH15, Luật số 57/2024/QH15 và Luật số 90/2025/QH15
-replaces: []
+replaces: &id001
+- 06/2021/NĐ-CP
 bundle_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -50,6 +51,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-207-2026-ND-CP-quan-ly-chat-luong-thi-cong-bao-tri-cong-trinh-701883.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

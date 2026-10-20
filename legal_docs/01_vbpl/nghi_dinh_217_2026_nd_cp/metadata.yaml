@@ -17,7 +17,9 @@ legal_basis:
   title: Luật Tổ chức chính quyền địa phương số 72/2025/QH15
 - doc_id: Luat-Xay-dung-2025-135-2025-QH15
   title: Luật Xây dựng số 135/2025/QH15
-replaces: []
+replaces: &id001
+- 15/2021/NĐ-CP
+- 175/2024/NĐ-CP
 bundle_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -38,6 +40,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-217-2026-ND-CP-quan-ly-du-an-dau-tu-xay-dung-696494.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

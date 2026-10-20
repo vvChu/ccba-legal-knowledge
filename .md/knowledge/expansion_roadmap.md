@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-10-04 14:26:23` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-10-13 19:59:59` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **96** | **92.3%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **8** | **7.7%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **104** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **96** | **100.0%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **0** | **0.0%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **96** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 
@@ -28,18 +28,10 @@ graph TD
     subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (0 Văn bản)"]
     end
 
-    subgraph T3["🟡 TIER 3: MEP, PCCC, MÔI TRƯỜNG & CHUYÊN NGÀNH (4 Văn bản)"]
-        T3_1["TCVN 7114-1:2008<br/>(MEP Điện - Điểm: 8.5)"]
-        T3_2["TCVN 7161-1:2009<br/>(PCCC Khí - Điểm: 8.4)"]
-        T3_3["QCVN 01:2020/BCT<br/>(Chuyên ngành - Điểm: 8.4)"]
-        T3_4["QCVN 26:2025/BNNMT<br/>(Môi trường - Điểm: 8.2)"]
+    subgraph T3["🟡 TIER 3: MEP, PCCC, MÔI TRƯỜNG & CHUYÊN NGÀNH (0 Văn bản)"]
     end
 
-    subgraph T4["🔵 TIER 4: ĐỊA KỸ THUẬT, KIỂM ĐỊNH & BIM VẬN HÀNH (4 Văn bản)"]
-        T4_1["TCVN 9361:2012<br/>(Địa kỹ thuật - Điểm: 7.7)"]
-        T4_2["TCVN 9381:2012<br/>(Kiểm định - Điểm: 7.6)"]
-        T4_3["TCVN 9377-1:2012<br/>(Thi công hoàn thiện - Điểm: 7.5)"]
-        T4_4["TCVN ISO 19650-3:2024<br/>(Quản trị BIM - Điểm: 7.4)"]
+    subgraph T4["🔵 TIER 4: ĐỊA KỸ THUẬT, KIỂM ĐỊNH & BIM VẬN HÀNH (0 Văn bản)"]
     end
 
     T1 --> T2
@@ -61,21 +53,11 @@ graph TD
 
 ### 🟡 TIER 3: MEP, PCCC, Môi Trường & Chuyên Ngành Kỹ Thuật
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[TCVN 7114-1:2008](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-Trong-nha-901412.aspx)** | Ecgônômi — Chiếu sáng nơi làm việc — Phần 1: Trong nhà | MEP Điện | 0 | **8.5** | `python -m ccba_legal ingest "TCVN 7114-1:2008" --category 03_tcvn --upload-drive` |
-| 2 | **[TCVN 7161-1:2009](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-7161-1-2009-He-thong-chua-chay-bang-khi-901512.aspx)** | Hệ thống chữa cháy bằng khí — Tính chất vật lý và thiết kế hệ thống — Phần 1: Yêu cầu chung | PCCC Khí | 0 | **8.4** | `python -m ccba_legal ingest "TCVN 7161-1:2009" --category 03_tcvn --upload-drive` |
-| 3 | **[QCVN 01:2020/BCT](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-yeu-cau-thiet-ke-cua-hang-xang-dau-447065.aspx)** | Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu (Ban hành kèm Thông tư 15/2020/TT-BCT) | Chuyên ngành | 30 | **8.4** | `python -m ccba_legal ingest "15/2020/TT-BCT" --category 02_qcvn --upload-drive` |
-| 4 | **[QCVN 26:2025/BNNMT](https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-01-2025-TT-BNNMT-QCVN-26-2025-QCVN-27-2025-tieng-on-do-rung-652312.aspx)** | Quy chuẩn kỹ thuật quốc gia về Tiếng ồn và Độ rung (Ban hành kèm Thông tư 01/2025/TT-BNNMT) | Môi trường | 0 | **8.2** | `python -m ccba_legal ingest "01/2025/TT-BNNMT" --category 02_qcvn --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ### 🔵 TIER 4: Địa Kỹ Thuật, Kiểm Định Thi Công & Quản Trị BIM ISO
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[TCVN 9361:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9361-2012-Cong-tac-nen-mong-Thi-cong-va-nghiem-thu-907123.aspx)** | Công tác nền móng — Thi công và nghiệm thu | Địa kỹ thuật | 0 | **7.7** | `python -m ccba_legal ingest "TCVN 9361:2012" --category 03_tcvn --upload-drive` |
-| 2 | **[TCVN 9381:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9381-2012-Huong-dan-danh-gia-muc-do-nguy-hiem-cua-ket-cau-nha-907412.aspx)** | Hướng dẫn đánh giá mức độ nguy hiểm của kết cấu nhà | Kiểm định | 0 | **7.6** | `python -m ccba_legal ingest "TCVN 9381:2012" --category 03_tcvn --upload-drive` |
-| 3 | **[TCVN 9377-1:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9377-1-2012-Cong-tac-hoan-thien-trong-xay-dung-Thi-cong-va-nghiem-thu-Phan-1-907651.aspx)** | Công tác hoàn thiện trong xây dựng — Thi công và nghiệm thu — Phần 1: Công tác lát và láng trong xây dựng | Thi công hoàn thiện | 0 | **7.5** | `python -m ccba_legal ingest "TCVN 9377-1:2012" --category 03_tcvn --upload-drive` |
-| 4 | **[TCVN ISO 19650-3:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-3-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-3-921453.aspx)** | Tổ chức và số hóa thông tin về công trình xây dựng (BIM) — Quản lý thông tin bằng BIM: Phần 3 (Giai đoạn vận hành tài sản) và Phần 5 (Phương pháp tiếp cận an ninh) | Quản trị BIM | 0 | **7.4** | `python -m ccba_legal ingest "TCVN ISO 19650-3:2024" --category 03_tcvn --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ## ✅ IV. Danh Mục Ứng Viên Đã Được Nạp Hoàn Tất
 
@@ -124,6 +106,14 @@ graph TD
 | **TCVN 13456:2022** | Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt | MEP / PCCC | 2022-03-01 | 🟢 `INGESTED` |
 | **08/2021/TT-BXD** | Thông tư hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc | Kiến trúc / Dự toán | 2021-10-15 | 🟢 `INGESTED` |
 | **02/2024/TT-BKHĐT** | Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu | Đấu thầu | 2024-05-01 | 🟢 `INGESTED` |
+| **TCVN 7114-1:2008** | Ecgônômi — Chiếu sáng nơi làm việc — Phần 1: Trong nhà | MEP Điện | 2008-12-31 | 🟢 `INGESTED` |
+| **TCVN 7161-1:2022** | Hệ thống chữa cháy bằng khí — Tính chất vật lý và thiết kế hệ thống — Phần 1: Yêu cầu chung | PCCC Khí | 2022-12-28 | 🟢 `INGESTED` |
+| **QCVN 26:2025/BNNMT** | Quy chuẩn kỹ thuật quốc gia về Tiếng ồn và Độ rung (Ban hành kèm Thông tư 01/2025/TT-BNNMT) | Môi trường | 2025-11-14 | 🟢 `INGESTED` |
+| **QCVN 01:2020/BCT** | Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu (Ban hành kèm Thông tư 15/2020/TT-BCT) | Chuyên ngành | 2021-01-01 | 🟢 `INGESTED` |
+| **TCVN 9361:2012** | Công tác nền móng — Thi công và nghiệm thu | Địa kỹ thuật | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 9381:2012** | Hướng dẫn đánh giá mức độ nguy hiểm của kết cấu nhà | Kiểm định | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 9377-1:2012** | Công tác hoàn thiện trong xây dựng — Thi công và nghiệm thu — Phần 1: Công tác lát và láng trong xây dựng | Thi công hoàn thiện | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 14176-2:2024** | Công trình xây dựng - Tổ chức thông tin về công trình xây dựng - Phần 2: Khung phân loại | Quản trị BIM | 2024-05-15 | 🟢 `INGESTED` |
 | **349/2026/NĐ-CP** | Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 2026-09-09 | 🟢 `INGESTED` |
 | **57/2024/QH15** | Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu | Đấu thầu / Thể chế | 2025-01-15 | 🟢 `INGESTED` |
 | **225/2025/NĐ-CP** | Nghị định sửa đổi, bổ sung một số điều của Nghị định số 23/2024/NĐ-CP và Nghị định số 115/2024/NĐ-CP quy định chi tiết thi hành Luật Đấu thầu về lựa chọn nhà đầu tư | Đấu thầu | 2025-08-15 | 🟢 `INGESTED` |

@@ -38,7 +38,8 @@ legal_basis:
 - doc_id: nghị_định_số_22_2026_nđ_cp_ngày_16_tháng_01_năm_20
   title: Nghị định số 22/2026/NĐ-CP ngày 16 tháng 01 năm 2026 của Chính phủ quy định
     chi tiết một số điều và biện pháp thi hành Luật Tiêu chuẩn và Quy chuẩn kỹ thuật
-replaces: []
+replaces: &id001
+- 10/2024/TT-BXD
 bundle_path: legal_docs/01_vbpl/thong_tu_41_2026_tt_bxd/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -53,6 +54,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-41-2026-TT-BXD-quan-ly-chat-luong-san-pham-hang-hoa-697288.aspx
 relations:
   guided_by: nghi_dinh_209_2026_nd_cp
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

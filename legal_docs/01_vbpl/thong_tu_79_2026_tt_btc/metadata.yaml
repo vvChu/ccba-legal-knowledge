@@ -49,7 +49,8 @@ legal_basis:
   title: Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định
     chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính được sửa đổi,
     bổ sung tại Nghị định số 166/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ
-replaces: []
+replaces: &id001
+- 70/2024/TT-BTC
 bundle_path: legal_docs/01_vbpl/thong_tu_79_2026_tt_btc/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -70,6 +71,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-79-2026-TT-BTC-thu-chi-chu-dau-tu-ban-qlda-713348.aspx
 relations:
   guided_by: nghi_dinh_193_2026_nd_cp
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
