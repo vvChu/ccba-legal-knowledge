@@ -1,71 +1,76 @@
-# Walkthrough: Phát Hành Tính Năng PR #32 (Triển Khai Pstack Verification Harness, Features Map & Hiện Đại Hóa Ma Trận 6 CI Gates)
+# Walkthrough: Phát Hành Tính Năng PR #37 (Mạng Tri Thức Pháp Lý 5 Vành Đai Luật Xây Dựng 2025 & Suy Diễn Ngược Hai Chiều Trên RAM)
 
-> **Mục tiêu:** Thiết lập bộ công cụ kiểm định Pstack 5 khối (`ccba-verify-legal-knowledge`) tuân thủ chuẩn mực ADR-0009/ADR-0044/ADR-0066; lập bản đồ 9 tính năng quy phạm trong `features/INDEX.md` kèm quy tắc COND-01; tham vấn phản biện song phương với Grok-4.7; và tái cấu trúc CI GitHub Actions từ 1 job nguyên khối thành ma trận 5 cổng song song kèm Master Aggregator Gate ("Deterministic Parity & Schema Audit") giải quyết triệt để GitHub Ruleset #23696513.
+> **Mục tiêu:** Thiết lập Mạng Tri thức Pháp lý 5 Vành đai (5-Ring Legal Knowledge Graph) cho Luật Xây dựng 2025 (`135/2025/QH15`); triển khai động cơ suy diễn quan hệ 2 chiều động trong bộ nhớ RAM (`build_bidirectional_legal_graph`) tuân thủ nghiêm ngặt nguyên lý Single Source of Truth và KISS v2.0 (ADR-0061); xây dựng Sub-Gate 5.4 Referential Integrity và Sub-Gate 2.1 Orphan Bundle Lock trong `validate_legal_spoke.py`; nâng cấp Two-Stage Semantic Routing cho Agent Skills (`ccba-legal-advisor`, `ccba-hybrid-rag-search`); đạt chứng nhận thẩm định đối kháng song phương từ Grok (xAI) với mức rủi ro tối thiểu (Risk 1.0/10).
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **PR #32:** [vvChu/ccba-legal-knowledge#32](https://github.com/vvChu/ccba-legal-knowledge/pull/32)
-> - **Merge Commit:** `7920331` (Squash and merge)
-> **CI Gate:** 100% Green (6/6 Checks Passed, 0 Errors, 0 Warnings, 100% Parity)
+> - **PR #37:** [vvChu/ccba-legal-knowledge#37](https://github.com/vvChu/ccba-legal-knowledge/pull/37)
+> - **Merge Commit:** `80cefd9` (Squash and merge)
+> - **CI Gate:** 100% Green (6/6 Checks Passed, 0 Errors, 0 Blocker Warnings, 100% Referential & Parity Integrity)
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #32)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #37)
 
-### A. Triển Khai Pstack 5-Block Verification Harness (`ccba-verify-legal-knowledge`)
-- **Kiến trúc Pstack 5 khối độc lập**:
-  1. **Block 1 — Clean-Slate Pre-flight**: Dọn dẹp triệt để tiến trình mồ côi, kiểm tra tính sẵn sàng của port, tệp tin và môi trường cô lập trước khi chạy.
-  2. **Block 2 — Dual-Mode Process Lifecycle**: Tương thích đa nền tảng hoàn toàn giữa POSIX (`os.setsid`) và Windows (`CREATE_NEW_PROCESS_GROUP`), quản lý vòng đời tiến trình kiểm định chặt chẽ.
-  3. **Block 3 — Deterministic Health Barrier**: Cơ chế rào chắn xác định với độ trễ tối thiểu ($0.087\text{ s}$), đảm bảo dịch vụ sẵn sàng trước khi nạp bài test.
-  4. **Block 4 — Evidence-Capture Suite**: Hỗ trợ 4 chế độ thu thập bằng chứng kiểm định (`snapshot`, `coverage`, `performance`, `full`) phục vụ truy vết lỗi và nghiệm thu.
-  5. **Block 5 — Guaranteed Cleanup**: Khối dọn dẹp tất định cưỡng chế kết thúc tiến trình sau khi kiểm định, hỗ trợ per-step timeout $300.0\text{ s}$ chống treo vĩnh viễn.
-- **Chuẩn hóa Metadata kỹ năng theo ADR-0066 / ADR-0057**:
-  - `bundle: _core`, `scope: spoke`.
-  - Chỉ số giá trị kỹ năng: $\mathbf{GPI} = 2.5S + 2.0K + 2.0A - 1.5P = 24.0 \ge 12.0$ (Đạt chuẩn Tier 2B Standalone Skill).
+### A. Thiết Lập Mạng Tri Thức Pháp Lý 5 Vành Đai cho Luật Xây Dựng 2025
+- **Ontology đa vành đai toàn diện**:
+  1. **Vành đai 1 — Khung Thi hành Trực tiếp (`enacted_by`):** Kết nối 7 Nghị định trụ cột thi hành Luật 135/2025/QH15 (`193/2026/NĐ-CP`, `206/2026/NĐ-CP`, `207/2026/NĐ-CP`, `209/2026/NĐ-CP`, `210/2026/NĐ-CP`, `212/2026/NĐ-CP`, `217/2026/NĐ-CP`).
+  2. **Vành đai 2 — Chế tài Xử phạt VPHC (`sanctioned_by`):** Kết nối Nghị định `339/2026/NĐ-CP` (thay thế Nghị định 16/2022/NĐ-CP).
+  3. **Vành đai 3 — Thủ tục Liên thông 1 Cửa & Pháp luật Chuyên ngành (`interlocks_with` & `related_statutes`):** Kết nối Luật PCCC & CNCH 2024 (`55/2024/QH15`), Nghị định `105/2025/NĐ-CP`, Luật Quy hoạch Đô thị & Nông thôn (`47/2024/QH15`), Luật Đấu thầu (`22/2023/QH15` & `90/2025/QH15`), Luật Đất đai 2024 (`31/2024/QH15`), Luật Nhà ở 2023 (`27/2023/QH15`), Luật Kiến trúc (`40/2019/QH14`).
+  4. **Vành đai 4 — Quy chuẩn Kỹ thuật Bắt buộc (`mandatory_codes`):** Kết nối 6 quy chuẩn cốt lõi (`QCVN 06:2022/BXD`, `QCVN 04:2021/BXD`, `QCVN 18:2021/BXD`, `QCVN 16:2023/BXD`, `QCVN 03:2022/BXD`, `QCVN 01:2021/BXD`).
+  5. **Vành đai 5 — Phân cấp Địa phương (`local_delegations`):** Kết nối Quyết định `38/2026/QĐ-UBND` (Hà Nội) về phân cấp thẩm quyền quản lý quy hoạch - kiến trúc và cấp phép xây dựng.
 
-### B. Lập Bản Đồ Tính Năng Quy Phạm (`features/INDEX.md`)
-- **Bản đồ 9 tính năng cốt lõi**:
-  - `FEAT-001`: Tra cứu & kiểm định tính toàn vẹn Sổ bộ Quy chuẩn / Tiêu chuẩn (`legal_registry.yaml`).
-  - `FEAT-002`: AST Clause Extraction & Zero-LLM Paraphrase Invariant.
-  - `FEAT-003`: 2D Table Knowledge Extraction & Grid Regularity.
-  - `FEAT-004`: Atomic Form Templates (`templates/`).
-  - `FEAT-005`: High-Resolution Multimodal Vector Diagrams & SVG/Cards Integrity.
-  - `FEAT-006`: KaTeX Math Syntax Integrity.
-  - `FEAT-007`: In-Bundle Comparative Matrix & VBHN Consolidation.
-  - `FEAT-008`: Tri-Tier Cloud Binary Vault & Provenance Tracking.
-  - `FEAT-009`: Shift-Left Verification & 15-Gate Master CI Gate.
-- **Rào chắn chống gian lận COND-01**: Cấm mọi hành vi mock dữ liệu, bỏ qua bước kiểm tra hoặc hạ ngưỡng chấp nhận.
+### B. Động Cơ Suy Diễn Ngược Hai Chiều Trên RAM (In-Memory Graph Inversion — ADR-0061)
+- **Bảo toàn Single Source of Truth trên đĩa:**
+  - Dữ liệu lưu trữ tĩnh tại `legal_registry.yaml` và `metadata.yaml` chỉ lưu quan hệ một chiều trực tiếp từ gốc văn bản.
+  - Hàm `build_bidirectional_legal_graph` trong `scripts/spoke_cli.py` tự động hoán vị ma trận kề (transpose adjacency list) trên bộ nhớ RAM khi truy vấn, tổng hợp tức thì các quan hệ nghịch đảo:
+    - `enacted_by` $\longleftrightarrow$ `enacts`
+    - `guided_by` $\longleftrightarrow$ `guides`
+    - `sanctioned_by` $\longleftrightarrow$ `sanctions`
+    - `interlocks_with` $\longleftrightarrow$ `interlocks_with`
+    - `related_statutes` $\longleftrightarrow$ `related_statutes`
+    - `mandatory_codes` $\longleftrightarrow$ `governs`
+    - `local_delegations` $\longleftrightarrow$ `delegated_from`
+    - `replaces` $\longleftrightarrow$ `replaced_by`
+    - `amends` $\longleftrightarrow$ `amended_by`
+- **Giao diện CLI trực quan:** Cung cấp lệnh CLI phong phú:
+  ```bash
+  python scripts/spoke_cli.py graph --doc <id|so_van_ban|slug> [--json]
+  ```
+  Hiển thị trực tiếp cây hệ sinh thái pháp lý với các khối `QUAN HỆ HƯỚNG TÂM` và `QUAN HỆ SUY DIỄN NGƯỢC`.
 
-### C. Tham Vấn Đối Soát Peer Review Song Phương Với Grok-4.7
-- **Đánh giá Harness Pstack**: `.md/peer_exchange/grok_review_legal_spoke_verification_harness.md` (Kết luận: `APPROVE_WITH_CONDITIONS`, điểm rủi ro: 2/10).
-- **Đánh giá Kiến trúc Ma trận CI**: `.md/peer_exchange/grok_review_ci_granularity_matrix.md` (Kết luận: `APPROVE_WITH_CONDITIONS`, điểm rủi ro: 2/10).
-- **Ghi nhận & tiếp thu**: Bổ sung per-step timeout $300.0\text{ s}$, thiết lập umbrella aggregation gate chống rò rỉ trạng thái kiểm định.
+### C. Hai Tầng Kiểm Định Toàn Vẹn Mới (Sub-Gate 5.4 & Sub-Gate 2.1)
+- **Sub-Gate 5.4 (Semantic Relations Referential Integrity):** Tự động đối soát chéo toàn bộ 6 trường quan hệ mở rộng trên cả `legal_registry.yaml` và `metadata.yaml`, chặn đứng 100% các liên kết đứt gãy (dangling references) hoặc trỏ tới văn bản chưa đăng ký.
+- **Sub-Gate 2.1 (Orphan Bundle Lock):** Quét toàn bộ thư mục `legal_docs/01_vbpl`, `02_qcvn`, `03_tcvn`, ngăn chặn tuyệt đối tình trạng các bundle được commit / tracked trong git nhưng chưa đăng ký vào `legal_registry.yaml` (giải quyết triệt để lỗ hổng lách kiểm định).
 
-### D. Tái Cấu Trúc & Hiện Đại Hóa Ma Trận 6 Cổng CI GitHub Actions
-- **Chuyển đổi từ 1 Job nguyên khối sang Ma trận 5 cổng song song**:
-  1. `security-secrets-gate`: Quét bảo mật toàn diện với `ccba-maskara` (cài đặt trực tiếp từ Hub Git repository).
-  2. `spoke-cleanliness-gate`: Giám sát vệ sinh Spoke và ngân sách nghiêm ngặt $15/15$ scripts tại `scripts/`.
-  3. `skills-governance-gate`: Kiểm tra tính hợp lệ của metadata kỹ năng theo ADR-0066 / ADR-0057 thông qua inline Python AST checker.
-  4. `pstack-verification-gate`: Chạy bộ kiểm tra tự động của harness `ccba-verify-legal-knowledge`.
-  5. `legal-knowledge-gates`: Chạy toàn bộ 15 Cổng kiểm định văn bản pháp lý Master CI (`validate_legal_spoke.py`).
-- **Master Aggregator Gate (`Deterministic Parity & Schema Audit`)**:
-  - Thu thập kết quả từ cả 5 cổng song song với `needs: [...]` và `if: always()`.
-  - Khớp $1:1$ với Required Status Check của GitHub Ruleset `#23696513`, loại bỏ triệt để tình trạng check bị pending/treo vĩnh viễn mà không cần can thiệp quyền Admin repo.
+### D. Tối Ưu Hóa Chuẩn Mực Code Quality & KISS v2.0
+- Refactor toàn bộ các hàm xử lý đồ thị và validator thành các module nhỏ $\le 50$ dòng theo đúng `<RULE[user_global]>` Mục 5.
+- Tự động chuẩn hóa đường dẫn `source_file` từ `.md/extracted_docs/...` về đúng ngăn kéo chuẩn `sources/` của từng bundle (ADR 0036).
 
 ---
 
 ## 2. Ma Trận Nghiệm Thu Kiểm Định (Verification Matrix)
 
 | Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
-| :--- | :--- | :--- | :---: | :---: |
+| :--- | :--- | :--- | :--- | :---: |
 | **Maskara Secret Gate** | Bảo mật mã nguồn | `python -m ccba_maskara.cli scan --staged` / CI | **0 secret leaks** | ✅ **PASSED** |
 | **Cleanliness & Budget** | Vệ sinh Spoke | `python scripts/check_spoke_cleanliness.py` | **15/15 scripts budget, Clean** | ✅ **PASSED** |
-| **Skills Governance** | Metadata Governance | Inline Python AST (ADR-0066/ADR-0057) | **100% Valid, GPI = 24.0** | ✅ **PASSED** |
-| **Pstack Verification** | Harness Unit Test | `python -m unittest discover` | **All tests passed** | ✅ **PASSED** |
-| **Master Legal CI Gates**| Pháp lý OKF v2.4 | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed** | ✅ **PASSED** |
-| **Master Aggregator Gate**| GitHub Ruleset #23696513 | `Deterministic Parity & Schema Audit` | **Aggregated 5/5 sub-gates (3s)** | ✅ **PASSED** |
+| **Skills Governance** | Metadata Governance | Inline Python AST (ADR-0066/ADR-0057) | **100% Valid, GPI $\ge$ 12.0** | ✅ **PASSED** |
+| **Pstack Verification** | Harness Smoke Test | `verify_legal_harness.py --smoke` | **All tests passed** | ✅ **PASSED** |
+| **Master Legal CI Gates**| 15 Cổng Tri thức | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors)** | ✅ **PASSED** |
+| **Master Aggregator Gate**| Ruleset #23696513 | `Deterministic Parity & Schema Audit` | **Aggregated 5/5 sub-gates (3s)** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #32 (Phát hành ngày 2026-10-06)</summary>
+
+### PR #32: Triển Khai Pstack Verification Harness, Features Map & Hiện Đại Hóa Ma Trận 6 CI Gates
+- **Kiến trúc Pstack 5 khối độc lập**: Clean-Slate Pre-flight, Dual-Mode Lifecycle, Deterministic Health Barrier, Evidence-Capture Suite, Guaranteed Cleanup ($300.0\text{ s}$ timeout).
+- **Lập Bản Đồ 9 Tính Năng Quy Phạm**: Trong `features/INDEX.md` kèm quy tắc COND-01 chống gian lận dữ liệu.
+- **Tái cấu trúc Ma trận CI 6 cổng song song**: Phân rã 1 job nguyên khối thành 5 cổng song song kèm Master Aggregator Gate khớp $1:1$ GitHub Ruleset `#23696513`.
+
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #30 (Phát hành ngày 2026-10-05)</summary>
@@ -74,7 +79,6 @@
 - **Số hóa toàn diện 6 tiêu chuẩn**: `QCVN 02:2020/BCA`, `TCVN 13456:2022`, `TCVN 6379:2024`, `TCVN 7568-14:2025`, `TCCS 41:2022/TCĐBVN`, `TCCS 39:2022/TCĐBVN`.
 - **Cài đặt Client-Side Guardrail**: Cài đặt `.githooks/pre-commit` kích hoạt `ccba-maskara` trước mỗi commit.
 - **Đồng bộ Tri-Tier Cloud Vault**: 18 tệp nhị phân nguồn lên Google Drive Vault `gdrive:CCBA_Legal_Vault`.
-- **Giải quyết triệt để 6/6 góp ý từ Copilot Code Review**.
 
 </details>
 
@@ -96,55 +100,5 @@
 - **Luật Đất đai 2024 (`31/2024/QH15`)**: 1,500 AST clauses, 2 bảng dữ liệu, 1,500 QA pairs.
 - **Sổ bộ Pháp lý (`legal_registry.yaml`)**: Nâng từ 70 lên 72 văn bản pháp quy.
 - **Google Drive Vault (`CCBA_Legal_Vault`)**: Tải lên và xác thực 100% SHA-256 cho 4 tệp DOCX/PDF gốc.
-
-</details>
-
-<details>
-<summary>Nhấn để xem chi tiết PR #17 (Phát hành ngày 2026-10-02)</summary>
-
-### PR #17: Kiến Trúc & Hoàn Thiện Dữ Liệu Tri Thức Pháp Lý OKF v2.4 Universal
-- **Khắc phục môi trường CI & Gate 11**: Bổ sung `python-docx` trên Linux, cấu hình `requirements-dev.txt`, nâng cấp nhận diện phạm vi `verification_scope` VBHN.
-- **Audit toàn diện 70/70 bundles**: Chuẩn hóa `registry_summary`, bổ sung `index.md` cho `qcvn_10_2024_bxd`.
-- **Vệ sinh Spoke**: Lưu trữ `analyze_gate_audit.py` vào `.md/archive/legacy_scripts/`, bảo đảm 15/15 scripts budget.
-
-</details>
-
-<details>
-<summary>Nhấn để xem chi tiết PR #13 (Phát hành ngày 2026-09-23)</summary>
-
-### PR #13: Tri-Tier Cloud Vault Hydration, Parity Hardening & Catalog Sync (ADR 0035, ADR 0059)
-- **Đẩy kho nhị phân lên Cloud Vault**: Toàn bộ 142 tệp nguồn vật lý từ local `sources/` đã được đồng bộ an toàn lên Google Drive `CCBA_Legal_Vault` (`macvnboy@gmail.com`).
-- **Động cơ Hydration Đa Nền Tảng (`scripts/hydrate_sources_from_vault.py`)**: Hỗ trợ đầy đủ cờ CLI, mount letter động, Self-Healing SHA-256.
-- **Git Index Hygiene & Rào Chắn Pre-Commit Binary Shield**: Trục xuất 4 tệp nhị phân khỏi Git index, bảo vệ quy tắc `.gitignore`, bổ sung pre-commit hook.
-- **Đồng Bộ Metadata & Catalog Registry (13 Văn Bản Quy Phạm)**: Khai báo `source_assets.docx` kèm mã băm SHA-256, bảo lưu TT 38/2026/TT-BXD chờ bóc tách 2,838 bảng định mức.
-- **Thanh Lọc Cloud Vault & Dọn Dẹp Cục Bộ**: Xóa sạch 61 tệp `desktop.ini`, 5 tệp nháp duplicate trên Vault.
-
-</details>
-
-<details>
-<summary>Nhấn để xem chi tiết PR #12 (Phát hành ngày 2026-09-23)</summary>
-
-### PR #12: Modular Dual-Dispatch Converter, Multipart Tables & QCVN 07 Parity
-- **`strategy.py`**: Rút gọn từ 622 dòng xuống **184 dòng**, đóng vai trò **Dual-Dispatch Orchestrator** thuần túy.
-- **`preprocessor.py` & `exporter.py`**: Bóc tách duyệt DOM blocks, ranh giới tiêu đề/quy phạm và xuất bundle markdown.
-- **Khử trùng lặp bảng đa phần (ADR 0044) & Bóc tách footnote (ADR 0041)**: Tiền tố phân phần `bang_pXX_YY.csv/json`, trường `part_id` và bóc tách footnote khỏi ma trận CSV.
-- **Re-convert QCVN 07:2023/BXD**: 25 bảng phân phần độc lập, khôi phục đầy đủ số liệu 50/50.
-- **Golden Snapshot**: 60/60 bundles khớp 100%.
-
-</details>
-
-<details>
-<summary>Nhấn để xem chi tiết PR #10 & PR #11 (Phát hành ngày 2026-09-22)</summary>
-
-### PR #10: Ingestion NĐ 339, NĐ 10, Sub-Gate 5.3 DAG & 24 VBPL Multi-line Spans
-- **Nghị định 339/2026/NĐ-CP**: Nạp toàn diện vào `legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/` với 135 điều khoản AST multi-line.
-- **Nghị định 10/2021/NĐ-CP**: Đóng gói bundle lịch sử và đánh dấu trạng thái `expired`.
-- **Sub-Gate 5.3 Transitive DAG BFS Engine**: Nâng cấp `scripts/validate_legal_spoke.py` với bộ giải đồ thị có hướng hai tầng.
-- **Batch Span Migration 24 VBPL Bundles**: Chuyển dịch toàn bộ 24 bundles VBPL di sản từ single-line span sang multi-line AST spans chuẩn xác.
-
-### PR #11: Tinh Chỉnh CI Ergonomics, Triệt Tiêu Warnings & Idempotent RPC Sync
-- **Khử 2 False-Positive Warnings**: Tinh chỉnh heuristic kiểm tra số lượng điều khoản AST tại `_validate_vbpl_ast_clauses`.
-- **Hỗ trợ Local Developer Ergonomics**: Bổ sung cờ CLI `--skip-pdf-vault` và nhận diện biến môi trường `CCBA_SKIP_PDF_VAULT=1`.
-- **Đồng bộ Idempotent Cloud RAG (NotebookLM)**: Kết nối phiên Google thật (`macvnboy@gmail.com`) và nạp hoàn tất **47 nguồn tri thức hoạt động** vào `CCBA_Legal_Knowledge_Base_2026`.
 
 </details>
