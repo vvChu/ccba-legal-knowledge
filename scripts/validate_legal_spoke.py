@@ -210,11 +210,83 @@ class LegalSpokeValidator:
 
         return (len(self.errors), len(self.warnings))
 
+    def _get_registered_bundle_slugs(self) -> Set[str]:
+        """Collect set of registered bundle folder names and IDs from legal_registry.yaml."""
+        if not self.registry_file.exists():
+            return set()
+        try:
+            with open(self.registry_file, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f) or {}
+        except Exception:
+            return set()
+        slugs: Set[str] = set()
+        all_items: List[Dict[str, Any]] = []
+        for sec in ["laws", "standards", "decrees"]:
+            items = data.get(sec, [])
+            if isinstance(items, list):
+                all_items.extend(items)
+        docs = data.get("documents", {})
+        if isinstance(docs, dict):
+            all_items.extend(docs.values())
+        elif isinstance(docs, list):
+            all_items.extend(docs)
+
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = item.get("id")
+            if doc_id:
+                slugs.add(str(doc_id).strip())
+                slugs.update(self._canonical_keys(doc_id))
+            bp = item.get("bundle_path")
+            if bp:
+                bname = Path(bp).name.strip()
+                slugs.add(bname)
+                slugs.update(self._canonical_keys(bname))
+        return slugs
+
+    def _check_bundle_registration(
+        self, doc_dir: Path, cat: str, registered_bundles: Set[str]
+    ) -> None:
+        """Sub-Gate 2.1: Enforce that all bundles in legal_docs/ are registered in legal_registry.yaml (ADR 0036)."""
+        if cat == "04_appendices":
+            return
+        slug = doc_dir.name
+        is_registered = slug in registered_bundles or any(
+            tok in registered_bundles for tok in self._canonical_keys(slug)
+        )
+        if not is_registered:
+            is_ci = bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS"))
+            is_tracked = False
+            try:
+                res = subprocess.run(
+                    ["git", "ls-files", str(doc_dir)],
+                    cwd=self.root_dir,
+                    capture_output=True,
+                    text=True,
+                    check=False,
+                )
+                is_tracked = bool(res.stdout.strip())
+            except Exception:
+                pass
+
+            if is_ci or is_tracked:
+                self.errors.append(
+                    f"Orphan Bundle Error [{slug}]: Bundle exists in 'legal_docs/{cat}/' and is tracked in git, "
+                    f"but is NOT registered in legal_registry.yaml (ADR 0036)."
+                )
+            else:
+                self.warnings.append(
+                    f"Unregistered Local Draft [{slug}]: Bundle in 'legal_docs/{cat}/' is not registered in legal_registry.yaml."
+                )
+
     def validate_okf_bundles(self) -> Tuple[int, int]:
         """Validate OKF Bundle markdown files, frontmatter, and metadata in legal_docs/."""
         if not self.legal_docs_dir.exists():
             self.warnings.append(f"Warning: legal_docs/ directory does not exist at {self.legal_docs_dir}")
             return (len(self.errors), len(self.warnings))
+
+        registered_bundles = self._get_registered_bundle_slugs()
 
         for cat in ["01_vbpl", "02_qcvn", "03_tcvn", "04_appendices"]:
             cat_dir = self.legal_docs_dir / cat
@@ -225,6 +297,7 @@ class LegalSpokeValidator:
                 if doc_dir.is_dir() and not doc_dir.name.startswith("."):
                     if self.target_bundle and doc_dir.name != self.target_bundle:
                         continue
+                    self._check_bundle_registration(doc_dir, cat, registered_bundles)
                     self._check_single_bundle_structure(doc_dir, cat)
 
         return (len(self.errors), len(self.warnings))
@@ -713,16 +786,57 @@ class LegalSpokeValidator:
                             f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
                         )
 
-    def _validate_semantic_relations_integrity(self) -> None:
-        """Sub-Gate 5.4: Semantic Relations Referential Integrity Gate (ADR 0007, ADR 0059).
+    def _build_registered_canonical_keys(self, all_items: List[Dict[str, Any]]) -> Set[str]:
+        """Extract set of canonical lookup tokens for all registered documents."""
+        registered_canonical_keys: Set[str] = set()
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            for field in ("id", "document_number"):
+                val = item.get(field)
+                if val:
+                    registered_canonical_keys.update(self._canonical_keys(val))
+            bundle_p = item.get("bundle_path")
+            if bundle_p:
+                registered_canonical_keys.update(self._canonical_keys(Path(bundle_p).name))
+        return registered_canonical_keys
 
-        Verifies that:
-        1. All referenced targets in extended semantic relation fields
-           ('enacted_by', 'sanctioned_by', 'interlocks_with', 'related_statutes', 'mandatory_codes')
-           exist and resolve to a valid registered document in legal_registry.yaml.
-        2. Applies to both legal_registry.yaml and bundle metadata.yaml.
-        3. Rejects dangling references, invalid document numbers, or unregistered slugs.
-        """
+    def _check_semantic_relation_dict(
+        self,
+        rels: Any,
+        source_label: str,
+        semantic_keys: List[str],
+        registered_keys: Set[str],
+    ) -> None:
+        """Validates that all targets in a relations dictionary exist in the registry."""
+        if not isinstance(rels, dict):
+            return
+        for rel_key in semantic_keys:
+            targets = rels.get(rel_key)
+            if not targets:
+                continue
+            if isinstance(targets, str):
+                target_list = [targets]
+            elif isinstance(targets, list):
+                target_list = targets
+            else:
+                self.errors.append(
+                    f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' must be a string or list of strings."
+                )
+                continue
+
+            for target in target_list:
+                if not target or not str(target).strip():
+                    continue
+                t_str = str(target).strip()
+                target_tokens = self._canonical_keys(t_str)
+                if not (target_tokens & registered_keys):
+                    self.errors.append(
+                        f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' points to unregistered target '{t_str}'."
+                    )
+
+    def _validate_semantic_relations_integrity(self) -> None:
+        """Sub-Gate 5.4: Semantic Relations Referential Integrity Gate (ADR 0007, ADR 0059)."""
         try:
             with open(self.registry_file, "r", encoding="utf-8") as f:
                 data = yaml.safe_load(f) or {}
@@ -736,20 +850,8 @@ class LegalSpokeValidator:
             if isinstance(items, list):
                 all_items.extend(items)
 
-        # Build registered canonical keys set
-        registered_canonical_keys: Set[str] = set()
-        for item in all_items:
-            if not isinstance(item, dict):
-                continue
-            for field in ("id", "document_number"):
-                val = item.get(field)
-                if val:
-                    registered_canonical_keys.update(self._canonical_keys(val))
-            bundle_p = item.get("bundle_path")
-            if bundle_p:
-                registered_canonical_keys.update(self._canonical_keys(Path(bundle_p).name))
-
-        semantic_relation_keys = [
+        registered_canonical_keys = self._build_registered_canonical_keys(all_items)
+        semantic_keys = [
             "enacted_by",
             "sanctioned_by",
             "interlocks_with",
@@ -757,33 +859,6 @@ class LegalSpokeValidator:
             "mandatory_codes",
             "local_delegations",
         ]
-
-        def _check_relations(rels: Any, source_label: str) -> None:
-            if not isinstance(rels, dict):
-                return
-            for rel_key in semantic_relation_keys:
-                targets = rels.get(rel_key)
-                if not targets:
-                    continue
-                if isinstance(targets, str):
-                    target_list = [targets]
-                elif isinstance(targets, list):
-                    target_list = targets
-                else:
-                    self.errors.append(
-                        f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' must be a string or list of strings."
-                    )
-                    continue
-
-                for target in target_list:
-                    if not target or not str(target).strip():
-                        continue
-                    t_str = str(target).strip()
-                    target_tokens = self._canonical_keys(t_str)
-                    if not (target_tokens & registered_canonical_keys):
-                        self.errors.append(
-                            f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' points to unregistered target '{t_str}'."
-                        )
 
         for item in all_items:
             if not isinstance(item, dict):
@@ -795,17 +870,18 @@ class LegalSpokeValidator:
             if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
                 continue
 
-            # 1. Check registry relations
-            _check_relations(item.get("relations"), f"registry:{doc_id}")
+            self._check_semantic_relation_dict(
+                item.get("relations"), f"registry:{doc_id}", semantic_keys, registered_canonical_keys
+            )
 
-            # 2. Check bundle metadata relations
             if bundle_p:
-                bundle_dir = self.root_dir / bundle_p.strip("/")
-                meta_file = bundle_dir / "metadata.yaml"
+                meta_file = self.root_dir / bundle_p.strip("/") / "metadata.yaml"
                 if meta_file.exists():
                     try:
                         b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
-                        _check_relations(b_meta.get("relations"), f"bundle:{Path(bundle_p).name}")
+                        self._check_semantic_relation_dict(
+                            b_meta.get("relations"), f"bundle:{Path(bundle_p).name}", semantic_keys, registered_canonical_keys
+                        )
                     except Exception:
                         pass
 

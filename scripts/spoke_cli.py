@@ -439,117 +439,146 @@ def run_provenance_audit(
     return 0
 
 
-def build_bidirectional_legal_graph(reg_data: dict[str, Any]) -> dict[str, Any]:
-    """Constructs in-memory bidirectional legal knowledge graph with dynamic edge inversion (ADR-0061 / Grok COND-02).
+def canonical_legal_tokens(val: Any) -> set[str]:
+    """Generates canonical lookup tokens for legal document IDs and numbers."""
+    if not val:
+        return set()
+    s = str(val).strip().lower().replace("đ", "d")
+    s = re.sub(r"[\s\/\-\.:]+", "_", s)
+    s = re.sub(r"_+", "_", s).strip("_")
+    tokens = {s}
+    for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+        if s.startswith(prefix):
+            tokens.add(s[len(prefix):])
+    m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
+    if m:
+        tokens.add(m.group(1))
+    return tokens
 
-    Preserves Single Source of Truth on disk by dynamically synthesizing reverse edges:
-    - enacted_by <-> enacts
-    - sanctioned_by <-> sanctions
-    - interlocks_with <-> interlocks_with
-    - related_statutes <-> related_statutes
-    - mandatory_codes <-> governs
-    - local_delegations <-> delegated_from
-    - replaces <-> replaced_by
-    """
-    documents: dict[str, dict[str, Any]] = {}
-    canonical_to_doc_id: dict[str, str] = {}
 
-    def _canonical_tokens(val: Any) -> set[str]:
-        if not val:
-            return set()
-        s = str(val).strip().lower().replace("đ", "d")
-        s = re.sub(r"[\s\/\-\.:]+", "_", s)
-        s = re.sub(r"_+", "_", s).strip("_")
-        tokens = {s}
-        for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
-            if s.startswith(prefix):
-                tokens.add(s[len(prefix):])
-        m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
-        if m:
-            tokens.add(m.group(1))
-        return tokens
-
+def _collect_registry_items(reg_data: dict[str, Any]) -> list[dict[str, Any]]:
+    """Extracts all document records from registry sections."""
     all_items: list[dict[str, Any]] = []
     for sec in ["laws", "standards", "decrees"]:
         items = reg_data.get(sec, [])
         if isinstance(items, list):
             all_items.extend(items)
+    docs = reg_data.get("documents", {})
+    if isinstance(docs, dict):
+        all_items.extend(docs.values())
+    elif isinstance(docs, list):
+        all_items.extend(docs)
+    return [it for it in all_items if isinstance(it, dict)]
 
-    for item in all_items:
-        if not isinstance(item, dict):
-            continue
+
+def _build_document_index(
+    items: list[dict[str, Any]],
+) -> tuple[dict[str, dict[str, Any]], dict[str, str]]:
+    """Initializes document nodes and canonical token lookup index."""
+    documents: dict[str, dict[str, Any]] = {}
+    canonical_to_doc_id: dict[str, str] = {}
+    for item in items:
         doc_id = str(item.get("id") or item.get("document_number") or "UNKNOWN")
         doc_num = str(item.get("document_number", "")).strip()
-        title = str(item.get("title", "")).strip()
         bundle_p = str(item.get("bundle_path", "")).strip()
-        doc_type = str(item.get("type", "")).strip()
-
         documents[doc_id] = {
             "id": doc_id,
             "document_number": doc_num,
-            "title": title,
-            "type": doc_type,
+            "title": str(item.get("title", "")).strip(),
+            "type": str(item.get("type", "")).strip(),
             "bundle_path": bundle_p,
             "forward_relations": {},
             "reverse_relations": {},
         }
-
         for field_val in (doc_id, doc_num):
-            for tok in _canonical_tokens(field_val):
+            for tok in canonical_legal_tokens(field_val):
                 canonical_to_doc_id[tok] = doc_id
         if bundle_p:
-            for tok in _canonical_tokens(Path(bundle_p).name):
+            for tok in canonical_legal_tokens(Path(bundle_p).name):
                 canonical_to_doc_id[tok] = doc_id
+    return documents, canonical_to_doc_id
 
-    INVERSE_RELATION_MAP = {
-        "enacted_by": "enacts",
-        "sanctioned_by": "sanctions",
-        "interlocks_with": "interlocks_with",
-        "related_statutes": "related_statutes",
-        "mandatory_codes": "governs",
-        "local_delegations": "delegated_from",
-        "replaces": "replaced_by",
-    }
 
-    for item in all_items:
-        if not isinstance(item, dict):
+INVERSE_RELATION_MAP: dict[str, str] = {
+    "enacted_by": "enacts",
+    "enacts": "enacted_by",
+    "guided_by": "guides",
+    "guides": "guided_by",
+    "sanctioned_by": "sanctions",
+    "sanctions": "sanctioned_by",
+    "interlocks_with": "interlocks_with",
+    "related_statutes": "related_statutes",
+    "mandatory_codes": "governs",
+    "governs": "mandatory_codes",
+    "local_delegations": "delegated_from",
+    "delegated_from": "local_delegations",
+    "replaces": "replaced_by",
+    "replaced_by": "replaces",
+    "amends": "amended_by",
+    "amended_by": "amends",
+}
+
+
+def _resolve_relation_targets(
+    raw_targets: Any,
+    canonical_to_doc_id: dict[str, str],
+) -> list[str]:
+    """Resolves target identifiers to canonical document IDs."""
+    if isinstance(raw_targets, str):
+        target_list = [raw_targets]
+    elif isinstance(raw_targets, list):
+        target_list = raw_targets
+    else:
+        target_list = []
+
+    resolved: list[str] = []
+    for t in target_list:
+        t_str = str(t).strip()
+        if not t_str:
             continue
+        matched_id = None
+        for tok in canonical_legal_tokens(t_str):
+            if tok in canonical_to_doc_id:
+                matched_id = canonical_to_doc_id[tok]
+                break
+        resolved.append(matched_id or t_str)
+    return resolved
+
+
+def _link_inverse_edges(
+    documents: dict[str, dict[str, Any]],
+    items: list[dict[str, Any]],
+    canonical_to_doc_id: dict[str, str],
+) -> None:
+    """Computes forward relations and synthesizes in-memory reverse edges."""
+    for item in items:
         src_id = str(item.get("id") or item.get("document_number") or "UNKNOWN")
         if src_id not in documents:
             continue
-
         raw_relations = item.get("relations")
         if not isinstance(raw_relations, dict):
             continue
-
-        for rel_key, targets in raw_relations.items():
-            if not targets:
+        for rel_key, raw_targets in raw_relations.items():
+            resolved = _resolve_relation_targets(raw_targets, canonical_to_doc_id)
+            if not resolved:
                 continue
-            target_list = [targets] if isinstance(targets, str) else (targets if isinstance(targets, list) else [])
-            resolved_targets: list[str] = []
+            documents[src_id]["forward_relations"][rel_key] = resolved
+            inv_key = INVERSE_RELATION_MAP.get(rel_key)
+            if not inv_key:
+                continue
+            for target_id in resolved:
+                if target_id in documents:
+                    rev_dict = documents[target_id]["reverse_relations"]
+                    rev_dict.setdefault(inv_key, [])
+                    if src_id not in rev_dict[inv_key]:
+                        rev_dict[inv_key].append(src_id)
 
-            for t in target_list:
-                t_str = str(t).strip()
-                if not t_str:
-                    continue
-                matched_id = None
-                for tok in _canonical_tokens(t_str):
-                    if tok in canonical_to_doc_id:
-                        matched_id = canonical_to_doc_id[tok]
-                        break
-                resolved_id = matched_id or t_str
-                resolved_targets.append(resolved_id)
 
-                inv_rel_key = INVERSE_RELATION_MAP.get(rel_key)
-                if inv_rel_key and matched_id and matched_id in documents:
-                    rev_dict = documents[matched_id]["reverse_relations"]
-                    rev_dict.setdefault(inv_rel_key, [])
-                    if src_id not in rev_dict[inv_rel_key]:
-                        rev_dict[inv_rel_key].append(src_id)
-
-            if resolved_targets:
-                documents[src_id]["forward_relations"][rel_key] = resolved_targets
-
+def build_bidirectional_legal_graph(reg_data: dict[str, Any]) -> dict[str, Any]:
+    """Constructs in-memory bidirectional legal knowledge graph with dynamic edge inversion (ADR-0061)."""
+    items = _collect_registry_items(reg_data)
+    documents, canonical_to_doc_id = _build_document_index(items)
+    _link_inverse_edges(documents, items, canonical_to_doc_id)
     return {
         "documents": documents,
         "canonical_to_doc_id": canonical_to_doc_id,
@@ -561,29 +590,62 @@ def query_legal_graph(graph: dict[str, Any], query: str) -> dict[str, Any] | Non
     """Queries legal knowledge graph by doc_id, document number, or slug."""
     docs = graph.get("documents", {})
     canon_map = graph.get("canonical_to_doc_id", {})
-
     q_clean = query.strip()
     if q_clean in docs:
         return docs[q_clean]
-
-    s = q_clean.lower().replace("đ", "d")
-    s = re.sub(r"[\s\/\-\.:]+", "_", s)
-    s = re.sub(r"_+", "_", s).strip("_")
-    tokens = {s}
-    for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
-        if s.startswith(prefix):
-            tokens.add(s[len(prefix):])
-    m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
-    if m:
-        tokens.add(m.group(1))
-
-    for tok in tokens:
-        if tok in canon_map:
-            doc_id = canon_map[tok]
-            if doc_id in docs:
-                return docs[doc_id]
-
+    for tok in canonical_legal_tokens(q_clean):
+        if tok in canon_map and canon_map[tok] in docs:
+            return docs[canon_map[tok]]
     return None
+
+
+RING_LABELS: dict[str, str] = {
+    "enacted_by": "Vành đai 1 (Khung Thi hành Trực tiếp / Enacted By)",
+    "guided_by": "Hướng dẫn thi hành bởi (Guided By)",
+    "sanctioned_by": "Vành đai 2 (Chế tài Xử phạt VPHC / Sanctioned By)",
+    "interlocks_with": "Vành đai 3 (Thủ tục Liên thông 1 Cửa / Interlocks With)",
+    "related_statutes": "Vành đai 3 (Pháp luật Chuyên ngành Giao thoa / Related Statutes)",
+    "mandatory_codes": "Vành đai 4 (Quy chuẩn Kỹ thuật Bắt buộc / Mandatory Codes)",
+    "local_delegations": "Vành đai 5 (Phân cấp Địa phương / Local Delegations)",
+    "replaces": "Kế thừa / Thay thế (Replaces)",
+    "amends": "Sửa đổi / Bổ sung (Amends)",
+}
+
+REVERSE_LABELS: dict[str, str] = {
+    "enacts": "Thi hành trực tiếp cho (Enacts)",
+    "guides": "Hướng dẫn thi hành cho (Guides)",
+    "sanctions": "Chế tài xử phạt vi phạm của (Sanctions)",
+    "interlocks_with": "Liên thông thủ tục 1 cửa với (Interlocks With)",
+    "related_statutes": "Giao thoa quy định với (Related Statutes)",
+    "governs": "Điều chỉnh quy chuẩn kỹ thuật cho (Governs)",
+    "delegated_from": "Được phân cấp thẩm quyền từ (Delegated From)",
+    "replaced_by": "Được thay thế bởi (Replaced By)",
+    "amended_by": "Được sửa đổi / bổ sung bởi (Amended By)",
+}
+
+
+def _render_relations_tree(
+    heading: str,
+    relations: dict[str, list[str]],
+    labels: dict[str, str],
+    docs: dict[str, Any],
+    bullet_symbol: str,
+) -> None:
+    """Helper to render a tree section of forward or reverse relations."""
+    if not relations:
+        print(f"{heading} Không có")
+        return
+    print(heading)
+    for rel_k, targets in relations.items():
+        label = labels.get(rel_k, rel_k)
+        print(f"  {bullet_symbol} {label}:")
+        for t in targets:
+            desc = ""
+            if t in docs:
+                t_title = docs[t].get("title", "")
+                t_num = docs[t].get("document_number", "")
+                desc = f" -> {t_num} ({t_title[:60]}...)" if len(t_title) > 60 else f" -> {t_num} ({t_title})"
+            print(f"     ├── {t}{desc}")
 
 
 def print_graph_ecosystem(doc: dict[str, Any], graph: dict[str, Any]) -> None:
@@ -593,15 +655,7 @@ def print_graph_ecosystem(doc: dict[str, Any], graph: dict[str, Any]) -> None:
     title = doc.get("title", "")
     doc_type = doc.get("type", "")
     bundle_p = doc.get("bundle_path", "")
-
     docs = graph.get("documents", {})
-
-    def _get_title(target_id: str) -> str:
-        if target_id in docs:
-            t = docs[target_id].get("title", "")
-            n = docs[target_id].get("document_number", "")
-            return f"{n} ({t[:60]}...)" if len(t) > 60 else f"{n} ({t})"
-        return target_id
 
     print("\n" + "=" * 80)
     print("🏛️  HỆ SINH THÁI MẠNG TRI THỨC PHÁP LÝ (LEGAL KNOWLEDGE GRAPH)")
@@ -612,50 +666,9 @@ def print_graph_ecosystem(doc: dict[str, Any], graph: dict[str, Any]) -> None:
     print(f"  📁 Bundle:  {bundle_p}")
     print("-" * 80)
 
-    fwd = doc.get("forward_relations", {})
-    rev = doc.get("reverse_relations", {})
-
-    RING_LABELS = {
-        "enacted_by": "Vành đai 1 (Khung Thi hành Trực tiếp / Enacted By)",
-        "sanctioned_by": "Vành đai 2 (Chế tài Xử phạt VPHC / Sanctioned By)",
-        "interlocks_with": "Vành đai 3 (Thủ tục Liên thông 1 Cửa / Interlocks With)",
-        "related_statutes": "Vành đai 3 (Pháp luật Chuyên ngành Giao thoa / Related Statutes)",
-        "mandatory_codes": "Vành đai 4 (Quy chuẩn Kỹ thuật Bắt buộc / Mandatory Codes)",
-        "local_delegations": "Vành đai 5 (Phân cấp Địa phương / Local Delegations)",
-        "replaces": "Kế thừa / Thay thế (Replaces)",
-        "amends": "Sửa đổi / Bổ sung (Amends)",
-    }
-
-    REVERSE_LABELS = {
-        "enacts": "Thi hành trực tiếp cho (Enacts)",
-        "sanctions": "Chế tài xử phạt vi phạm của (Sanctions)",
-        "interlocks_with": "Liên thông thủ tục 1 cửa với (Interlocks With)",
-        "related_statutes": "Giao thoa quy định với (Related Statutes)",
-        "governs": "Điều chỉnh quy chuẩn kỹ thuật cho (Governs)",
-        "delegated_from": "Được phân cấp thẩm quyền từ (Delegated From)",
-        "replaced_by": "Được thay thế bởi (Replaced By)",
-    }
-
-    if fwd:
-        print("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS):")
-        for rel_k, targets in fwd.items():
-            label = RING_LABELS.get(rel_k, rel_k)
-            print(f"  🔹 {label}:")
-            for t in targets:
-                print(f"     ├── {t} -> {_get_title(t)}")
-    else:
-        print("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS): Không có")
-
+    _render_relations_tree("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS):", doc.get("forward_relations", {}), RING_LABELS, docs, "🔹")
     print()
-    if rev:
-        print("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS):")
-        for rel_k, sources in rev.items():
-            label = REVERSE_LABELS.get(rel_k, rel_k)
-            print(f"  🔸 {label}:")
-            for s in sources:
-                print(f"     └── {s} -> {_get_title(s)}")
-    else:
-        print("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS): Không có")
+    _render_relations_tree("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS):", doc.get("reverse_relations", {}), REVERSE_LABELS, docs, "🔸")
     print("=" * 80 + "\n")
 
 
