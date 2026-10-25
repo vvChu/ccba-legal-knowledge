@@ -1,0 +1,629 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 2. Phân cấp công trình xây dựng theo quy mô kết cấu",
+  "rows_count": 62,
+  "columns_count": 8,
+  "headers": [
+    "STT",
+    "Loại kết cấu",
+    "Tiêu chí phân cấp",
+    "Cấp công trình — Đặc biệt",
+    "Cấp công trình — I",
+    "Cấp công trình — II",
+    "Cấp công trình — III",
+    "Cấp công trình — IV"
+  ],
+  "records": [
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "a) Chiều cao (m)",
+      "Cấp công trình — Đặc biệt": "> 200",
+      "Cấp công trình — I": "> 75 ÷ 200",
+      "Cấp công trình — II": "> 28 ÷ 75",
+      "Cấp công trình — III": "> 6 ÷ 28",
+      "Cấp công trình — IV": "≤ 6"
+    },
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "b) Số tầng cao",
+      "Cấp công trình — Đặc biệt": "> 50",
+      "Cấp công trình — I": "25 ÷ 50",
+      "Cấp công trình — II": "8 ÷ 24",
+      "Cấp công trình — III": "2 ÷ 7",
+      "Cấp công trình — IV": "1"
+    },
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "c) Tổng diện tích sàn (nghìn m2)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 30",
+      "Cấp công trình — II": "> 10 ÷ 30",
+      "Cấp công trình — III": "1 ÷ 10",
+      "Cấp công trình — IV": "< 1"
+    },
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "d) Nhịp kết cấu lớn nhất (m)",
+      "Cấp công trình — Đặc biệt": "> 200",
+      "Cấp công trình — I": "100 ÷ 200",
+      "Cấp công trình — II": "50 ÷ < 100",
+      "Cấp công trình — III": "15 ÷ < 50",
+      "Cấp công trình — IV": "< 15"
+    },
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "đ) Độ sâu ngầm (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 18",
+      "Cấp công trình — II": "6 ÷ 18",
+      "Cấp công trình — III": "< 6",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.1",
+      "Loại kết cấu": "2.1.1 Nhà, Kết cấu dạng nhà Cấp công trình của nhà ở riêng lẻ, nhà ở riêng lẻ kết hợp các mục đích dân dụng khác được xác định theo quy mô kết cấu quy định tại mục này. Nhà ở biệt thự không thấp hơn cấp III. 2.1.2 Công trình nhiều tầng có sàn (không bao gồm kết cấu mục 2.2) 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5) Ví dụ: Cổng chào, nhà cầu, cầu băng tải, khung treo biển báo giao thông, kết cấu tại các trạm thu phí trên các tuyến giao thông và các kết cấu nhịp lớn tương tự khác.",
+      "Tiêu chí phân cấp": "e) Số tầng ngầm",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 5",
+      "Cấp công trình — II": "2 ÷ 4",
+      "Cấp công trình — III": "1",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.2",
+      "Loại kết cấu": "2.2.1 Kết cấu dạng cột, trụ, tháp trong các công trình dân dụng, công nghiệp, giao thông (không gồm mục 2.2.3) Ví dụ: Tượng đài, cột/tháp quảng cáo, cột truyền tải điện, ống khói, cột tín hiệu giao thông và các kết cấu tương tự khác.",
+      "Tiêu chí phân cấp": "Chiều cao của kết cấu (m)",
+      "Cấp công trình — Đặc biệt": "> 200",
+      "Cấp công trình — I": "> 75 ÷ 200",
+      "Cấp công trình — II": "> 28 ÷ 75",
+      "Cấp công trình — III": "> 6 ÷ 28",
+      "Cấp công trình — IV": "≤ 6"
+    },
+    {
+      "STT": "2.2",
+      "Loại kết cấu": "2.2.2 Kết cấu dạng cột, trụ, tháp trong công trình hạ tầng kỹ thuật Ví dụ: Cột ăng ten, tháp thu phát sóng truyền thanh/truyền hình; cột BTS; cột đèn, cột điện trong hệ thống chiếu sáng…",
+      "Tiêu chí phân cấp": "Chiều cao của kết cấu (m)",
+      "Cấp công trình — Đặc biệt": "≥ 300",
+      "Cấp công trình — I": "150 ÷ < 300",
+      "Cấp công trình — II": "75 ÷ < 150",
+      "Cấp công trình — III": "> 45 ÷ < 75",
+      "Cấp công trình — IV": "≤ 45"
+    },
+    {
+      "STT": "2.2",
+      "Loại kết cấu": "2.2.3 Đèn biển, đăng tiêu",
+      "Tiêu chí phân cấp": "Chiều cao của kết cấu (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 58",
+      "Cấp công trình — II": "26,5 ÷ < 58",
+      "Cấp công trình — III": "7,5 ÷ < 26,5",
+      "Cấp công trình — IV": "< 7,5"
+    },
+    {
+      "STT": "2.3",
+      "Loại kết cấu": "Tuyến cáp treo",
+      "Tiêu chí phân cấp": "a) Chiều cao trụ đỡ (m) hoặc Độ cao so với mặt đất, mặt nước (m)",
+      "Cấp công trình — Đặc biệt": "> 200",
+      "Cấp công trình — I": "> 75 ÷ 200",
+      "Cấp công trình — II": "> 28 ÷ 75",
+      "Cấp công trình — III": "> 6 ÷ 28",
+      "Cấp công trình — IV": "≤ 6"
+    },
+    {
+      "STT": "2.3",
+      "Loại kết cấu": "Tuyến cáp treo",
+      "Tiêu chí phân cấp": "b) Khoảng cách lớn nhất (m) giữa hai trụ cáp",
+      "Cấp công trình — Đặc biệt": "≥ 1.000",
+      "Cấp công trình — I": "500 ÷ < 1.000",
+      "Cấp công trình — II": "200 ÷ < 500",
+      "Cấp công trình — III": "50 ÷ < 200",
+      "Cấp công trình — IV": "< 50"
+    },
+    {
+      "STT": "2.4",
+      "Loại kết cấu": "Kết cấu dạng bể chứa, si lô (Bể bơi, bể/giếng chứa các chất lỏng, chất khí, vật liệu rời; các loại bể kỹ thuật đặt thiết máy móc/thiết bị; Si lô; Tháp nước và các kết cấu chứa tương tự khác). Đối với kết cấu chứa các chất độc hại (nguy hiểm tới sức khỏe con người, động vật, ảnh hưởng đến sự sống của thực vật): sau khi xác định cấp công trình theo Bảng này thì tăng lên một cấp, nhưng không thấp hơn cấp II và không có cấp đặc biệt.",
+      "Tiêu chí phân cấp": "a) Dung tích chứa (nghìn m3)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 15",
+      "Cấp công trình — II": "5 ÷ 15",
+      "Cấp công trình — III": "1 ÷ < 5",
+      "Cấp công trình — IV": "< 1"
+    },
+    {
+      "STT": "2.4",
+      "Loại kết cấu": "Kết cấu dạng bể chứa, si lô (Bể bơi, bể/giếng chứa các chất lỏng, chất khí, vật liệu rời; các loại bể kỹ thuật đặt thiết máy móc/thiết bị; Si lô; Tháp nước và các kết cấu chứa tương tự khác). Đối với kết cấu chứa các chất độc hại (nguy hiểm tới sức khỏe con người, động vật, ảnh hưởng đến sự sống của thực vật): sau khi xác định cấp công trình theo Bảng này thì tăng lên một cấp, nhưng không thấp hơn cấp II và không có cấp đặc biệt.",
+      "Tiêu chí phân cấp": "b) Chiều cao kết cấu chứa (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 75",
+      "Cấp công trình — II": "> 28 ÷     < 75",
+      "Cấp công trình — III": "6 ÷ 28",
+      "Cấp công trình — IV": "< 6"
+    },
+    {
+      "STT": "2.4",
+      "Loại kết cấu": "Kết cấu dạng bể chứa, si lô (Bể bơi, bể/giếng chứa các chất lỏng, chất khí, vật liệu rời; các loại bể kỹ thuật đặt thiết máy móc/thiết bị; Si lô; Tháp nước và các kết cấu chứa tương tự khác). Đối với kết cấu chứa các chất độc hại (nguy hiểm tới sức khỏe con người, động vật, ảnh hưởng đến sự sống của thực vật): sau khi xác định cấp công trình theo Bảng này thì tăng lên một cấp, nhưng không thấp hơn cấp II và không có cấp đặc biệt.",
+      "Tiêu chí phân cấp": "c) Độ sâu ngầm (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 18",
+      "Cấp công trình — II": "> 6 ÷ 18",
+      "Cấp công trình — III": "> 3 ÷ 6",
+      "Cấp công trình — IV": "≤ 3"
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "Cầu (trong công trình giao thông)",
+      "Tiêu chí phân cấp": "Cầu (trong công trình giao thông)",
+      "Cấp công trình — Đặc biệt": "Cầu (trong công trình giao thông)",
+      "Cấp công trình — I": "Cầu (trong công trình giao thông)",
+      "Cấp công trình — II": "Cầu (trong công trình giao thông)",
+      "Cấp công trình — III": "Cầu (trong công trình giao thông)",
+      "Cấp công trình — IV": "Cầu (trong công trình giao thông)"
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "2.5.1 Cầu đường bộ: Xét theo các tiêu chí a và b 2.5.2 Cầu đường sắt: Xét theo các tiêu chí b và c",
+      "Tiêu chí phân cấp": "a) Nhịp kết cấu lớn nhất (m)",
+      "Cấp công trình — Đặc biệt": "> 150",
+      "Cấp công trình — I": "> 100 ÷ 150",
+      "Cấp công trình — II": "> 42 ÷ 100",
+      "Cấp công trình — III": "> 25 ÷ 42",
+      "Cấp công trình — IV": "≤ 25"
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "2.5.1 Cầu đường bộ: Xét theo các tiêu chí a và b 2.5.2 Cầu đường sắt: Xét theo các tiêu chí b và c",
+      "Tiêu chí phân cấp": "b) Chiều cao trụ cầu (m)",
+      "Cấp công trình — Đặc biệt": "> 50",
+      "Cấp công trình — I": "30 ÷ 50",
+      "Cấp công trình — II": "15 ÷ < 30",
+      "Cấp công trình — III": "6 ÷ < 15",
+      "Cấp công trình — IV": "< 6"
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "2.5.1 Cầu đường bộ: Xét theo các tiêu chí a và b 2.5.2 Cầu đường sắt: Xét theo các tiêu chí b và c",
+      "Tiêu chí phân cấp": "c) Nhịp kết cấu lớn nhất (m)",
+      "Cấp công trình — Đặc biệt": "> 100",
+      "Cấp công trình — I": "50 ÷ 100",
+      "Cấp công trình — II": "25 ÷ < 50",
+      "Cấp công trình — III": "< 25",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "2.5.3 Cầu vượt dành cho người đi bộ, xe đạp; Cầu treo dân sinh (dành cho người đi bộ, gia súc, xe đạp, xe mô tô/ gắn máy và xe thô sơ khác; cầu dây võng, một nhịp, nằm trên đường giao thông nông thôn và khổ cầu không lớn hơn 3,5 m)",
+      "Tiêu chí phân cấp": "a) Nhịp kết cấu lớn nhất (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 50",
+      "Cấp công trình — III": "25 ÷ 50",
+      "Cấp công trình — IV": "< 25"
+    },
+    {
+      "STT": "2.5",
+      "Loại kết cấu": "2.5.3 Cầu vượt dành cho người đi bộ, xe đạp; Cầu treo dân sinh (dành cho người đi bộ, gia súc, xe đạp, xe mô tô/ gắn máy và xe thô sơ khác; cầu dây võng, một nhịp, nằm trên đường giao thông nông thôn và khổ cầu không lớn hơn 3,5 m)",
+      "Tiêu chí phân cấp": "b) Chiều cao trụ cầu hoặc Độ cao tính từ đáy kết cấu dầm cầu tới mặt đất/nước bên dưới (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 30",
+      "Cấp công trình — III": "15 ÷ 30",
+      "Cấp công trình — IV": "< 15"
+    },
+    {
+      "STT": "2.6",
+      "Loại kết cấu": "2.6.1 Hầm (hầm giao thông đường bộ, đường sắt; hầm thủy lợi, hầm thủy điện…) Mục này không bao gồm các loại hầm sau: hầm tàu điện ngầm, hầm dạng tuy nen kỹ thuật trong các nhà máy (mục 2.10.4.b) và hầm mỏ khai thác tài nguyên, khoáng sản.",
+      "Tiêu chí phân cấp": "a) Tổng chiều dài (m)",
+      "Cấp công trình — Đặc biệt": "> 1.500",
+      "Cấp công trình — I": "500 ÷ 1.500",
+      "Cấp công trình — II": "100 ÷ < 500",
+      "Cấp công trình — III": "< 100",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.6",
+      "Loại kết cấu": "2.6.1 Hầm (hầm giao thông đường bộ, đường sắt; hầm thủy lợi, hầm thủy điện…) Mục này không bao gồm các loại hầm sau: hầm tàu điện ngầm, hầm dạng tuy nen kỹ thuật trong các nhà máy (mục 2.10.4.b) và hầm mỏ khai thác tài nguyên, khoáng sản.",
+      "Tiêu chí phân cấp": "b) Diện tích mặt cắt ngang theo kích thước thông thủy của hầm (m2)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 100",
+      "Cấp công trình — II": "30 ÷ < 100",
+      "Cấp công trình — III": "< 30",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.6",
+      "Loại kết cấu": "2.6.1 Hầm (hầm giao thông đường bộ, đường sắt; hầm thủy lợi, hầm thủy điện…) Mục này không bao gồm các loại hầm sau: hầm tàu điện ngầm, hầm dạng tuy nen kỹ thuật trong các nhà máy (mục 2.10.4.b) và hầm mỏ khai thác tài nguyên, khoáng sản.",
+      "Tiêu chí phân cấp": "c) Kết cấu vỏ hầm",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "Có kết cấu vỏ hầm",
+      "Cấp công trình — III": "Không có kết cấu vỏ hầm",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.6",
+      "Loại kết cấu": "2.6.2 Bán hầm phục vụ cho giao thông đường bộ, đường sắt và để chống đất, đá rơi",
+      "Tiêu chí phân cấp": "Tổng chiều dài (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 1.500",
+      "Cấp công trình — II": "500 ÷ 1.500",
+      "Cấp công trình — III": "100 ÷ < 500",
+      "Cấp công trình — IV": "< 100"
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Tiêu chí phân cấp": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — Đặc biệt": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — I": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — II": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — III": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — IV": "Tường chắn, Kè Đối với tường chắn, kè có tổng chiều dài ≤ 500 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV."
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Tiêu chí phân cấp": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Cấp công trình — Đặc biệt": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Cấp công trình — I": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Cấp công trình — II": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Cấp công trình — III": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này",
+      "Cấp công trình — IV": "2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không gồm kết cấu mục 2.9) Tường chắn sử dụng trong công trình chỉnh trị thuộc mục 2.11 và 2.12 thì xét thêm các tiêu chí của kết cấu tại các mục này"
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "a) Nền là đá",
+      "Tiêu chí phân cấp": "Chiều cao tường (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 25 ÷ 40",
+      "Cấp công trình — II": "> 15 ÷ 25",
+      "Cấp công trình — III": "> 8 ÷ 15",
+      "Cấp công trình — IV": "≤ 8"
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng",
+      "Tiêu chí phân cấp": "Chiều cao tường (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 12 ÷ 20",
+      "Cấp công trình — III": "> 5 ÷ 12",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "c) Nền là đất sét bão hòa nước ở trạng thái dẻo",
+      "Tiêu chí phân cấp": "Chiều cao tường (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 10 ÷ 15",
+      "Cấp công trình — III": "> 4 ÷ 10",
+      "Cấp công trình — IV": "≤ 4"
+    },
+    {
+      "STT": "2.7",
+      "Loại kết cấu": "2.7.2 Kè bảo vệ bờ (sông, hồ) sử dụng trong các loại dự án đầu tư xây dựng nhưng không gồm các kết cấu mục 2.9 và 2.11.2)",
+      "Tiêu chí phân cấp": "Chiều cao kè (m) hoặc Độ sâu mực nước (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 8",
+      "Cấp công trình — II": "> 5 ÷ 8",
+      "Cấp công trình — III": "> 3 ÷ 5",
+      "Cấp công trình — IV": "≤ 3"
+    },
+    {
+      "STT": "2.8",
+      "Loại kết cấu": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Tiêu chí phân cấp": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — Đặc biệt": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — I": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — II": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — III": "Đập và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — IV": "Đập và các công trình thủy lợi, thủy điện chịu áp khác"
+    },
+    {
+      "STT": "2.8",
+      "Loại kết cấu": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Tiêu chí phân cấp": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Cấp công trình — Đặc biệt": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Cấp công trình — I": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Cấp công trình — II": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Cấp công trình — III": "2.8.1 Đập đất, đập đất - đá các loại",
+      "Cấp công trình — IV": "2.8.1 Đập đất, đập đất - đá các loại"
+    },
+    {
+      "STT": "2.8",
+      "Loại kết cấu": "a) Nền là đá",
+      "Tiêu chí phân cấp": "Chiều cao đập (m)",
+      "Cấp công trình — Đặc biệt": "> 100",
+      "Cấp công trình — I": "> 70 ÷ 100",
+      "Cấp công trình — II": "> 25 ÷ 70",
+      "Cấp công trình — III": "> 10 ÷ 25",
+      "Cấp công trình — IV": "≤ 10"
+    },
+    {
+      "STT": "2.8",
+      "Loại kết cấu": "b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng",
+      "Tiêu chí phân cấp": "Chiều cao đập (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 35 ÷ 75",
+      "Cấp công trình — II": "> 15 ÷ 35",
+      "Cấp công trình — III": "> 8 ÷ 15",
+      "Cấp công trình — IV": "≤ 8"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "c) Nền là đất sét bão hòa nước ở trạng thái dẻo",
+      "Tiêu chí phân cấp": "",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 15 ÷ 25",
+      "Cấp công trình — III": "> 5 ÷ 15",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Tiêu chí phân cấp": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — Đặc biệt": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — I": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — II": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — III": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác",
+      "Cấp công trình — IV": "2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "a) Nền là đá",
+      "Tiêu chí phân cấp": "Chiều cao đập (m)",
+      "Cấp công trình — Đặc biệt": "> 100",
+      "Cấp công trình — I": "> 60 ÷ 100",
+      "Cấp công trình — II": "> 25 ÷ 60",
+      "Cấp công trình — III": "> 10 ÷ 25",
+      "Cấp công trình — IV": "≤ 10"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng",
+      "Tiêu chí phân cấp": "Chiều cao đập (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 25 ÷ 50",
+      "Cấp công trình — II": "> 10 ÷ 25",
+      "Cấp công trình — III": "> 5 ÷ 10",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "c) Nền là đất sét bão hòa nước ở trạng thái dẻo",
+      "Tiêu chí phân cấp": "Chiều cao đập (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 10 ÷ 20",
+      "Cấp công trình — III": "> 5 ÷ 10",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "2.9",
+      "Loại kết cấu": "Kết cấu gia cố bề mặt mái dốc (xây ốp gạch/đá, đổ bê tông hay các giải pháp khác trừ kết cấu tường chắn đất mục 2.7)",
+      "Tiêu chí phân cấp": "Chiều cao tính từ chân tới đỉnh mái dốc (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "> 30",
+      "Cấp công trình — IV": "≤ 30"
+    },
+    {
+      "STT": "2.10",
+      "Loại kết cấu": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Tiêu chí phân cấp": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — Đặc biệt": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — I": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — II": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — III": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — IV": "Đường ống/cống Đối với đường ống/cống có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV."
+    },
+    {
+      "STT": "2.10",
+      "Loại kết cấu": "2.10.1 Đường ống cấp nước (nước thô hoặc nước sạch)",
+      "Tiêu chí phân cấp": "Đường kính trong của ống (mm) hoặc Diện tích mặt cắt ngang bên trong ống (m2)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 800 hoặc ≥ 0,51",
+      "Cấp công trình — II": "400 ÷ < 800 hoặc 0,13 ÷ < 0,51",
+      "Cấp công trình — III": "150 ÷ < 400 hoặc 0,02 ÷ < 0,13",
+      "Cấp công trình — IV": "< 150 hoặc < 0,02"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.10.2 Cống thoát nước mưa, cống chung",
+      "Tiêu chí phân cấp": "",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 2.000 hoặc ≥ 3,14",
+      "Cấp công trình — II": "1.500 ÷ < 2.000 hoặc 1,77 ÷ < 3,14",
+      "Cấp công trình — III": "600 ÷ < 1.500 hoặc 0,28 ÷ < 1,77",
+      "Cấp công trình — IV": "< 600 hoặc < 0,28"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.10.3 Cống thoát nước thải",
+      "Tiêu chí phân cấp": "",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 1.000 hoặc ≥ 0,79",
+      "Cấp công trình — II": "600 ÷ < 1.000 hoặc 0,28 ÷ < 0,79",
+      "Cấp công trình — III": "200 ÷ < 600 hoặc 0,03 ÷ < 0,28",
+      "Cấp công trình — IV": "< 200 hoặc < 0,03"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Tiêu chí phân cấp": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — Đặc biệt": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — I": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — II": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — III": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV.",
+      "Cấp công trình — IV": "2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy) Đối với cống cáp, hào, tuy nen có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV."
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "a) Hào kỹ thuật, cống cáp",
+      "Tiêu chí phân cấp": "Bề rộng thông thủy (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "> 0,7",
+      "Cấp công trình — IV": "≤ 0,7"
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "b) Tuy nen kỹ thuật (Hầm dạng tuy nen kỹ thuật trong các nhà máy không lớn hơn cấp I)",
+      "Tiêu chí phân cấp": "Bề rộng thông thủy (m)",
+      "Cấp công trình — Đặc biệt": "> 7",
+      "Cấp công trình — I": "> 3 ÷ 7",
+      "Cấp công trình — II": "≤ 3",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.10.5 Đường ống dẫn dầu, dẫn khí đốt",
+      "Tiêu chí phân cấp": "a) Đường kính trong của ống (mm)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 300",
+      "Cấp công trình — II": "< 300",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại kết cấu": "2.10.5 Đường ống dẫn dầu, dẫn khí đốt",
+      "Tiêu chí phân cấp": "b) Vị trí xây dựng",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "Dưới biển",
+      "Cấp công trình — II": "Dưới sông",
+      "Cấp công trình — III": "Trên đất liền",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.11",
+      "Loại kết cấu": "Cảng biển",
+      "Tiêu chí phân cấp": "Cảng biển",
+      "Cấp công trình — Đặc biệt": "Cảng biển",
+      "Cấp công trình — I": "Cảng biển",
+      "Cấp công trình — II": "Cảng biển",
+      "Cấp công trình — III": "Cảng biển",
+      "Cấp công trình — IV": "Cảng biển"
+    },
+    {
+      "STT": "2.11",
+      "Loại kết cấu": "2.11.1 Công trình ven biển: Bến cảng biển; khu vực neo đậu chuyển tải, tránh trú bão; cầu cảng biển.",
+      "Tiêu chí phân cấp": "a) Chiều cao bến (m) hoặc Độ sâu mực nước (m)",
+      "Cấp công trình — Đặc biệt": "> 20",
+      "Cấp công trình — I": "> 15 ÷ 20",
+      "Cấp công trình — II": "> 10 ÷ 15",
+      "Cấp công trình — III": "> 5 ÷ 10",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "2.11",
+      "Loại kết cấu": "2.11.1 Công trình ven biển: Bến cảng biển; khu vực neo đậu chuyển tải, tránh trú bão; cầu cảng biển.",
+      "Tiêu chí phân cấp": "b) Diện tích mặt bến cảng (nghìn m2)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 20",
+      "Cấp công trình — II": "> 10 ÷ < 20",
+      "Cấp công trình — III": "1 ÷ 10",
+      "Cấp công trình — IV": "< 1"
+    },
+    {
+      "STT": "2.11",
+      "Loại kết cấu": "2.11.2 Các kết cấu chỉnh trị cửa biển, ven biển (đê chắn sóng, đê chắn cát, kè hướng dòng, kè bảo vệ bờ...) 2.11.3 Bến phà, cảng và cầu cảng ngoài đảo, bến cảng chuyên dụng, công trình trên biển (bến phao, đê thủy khí, bến cảng nổi đa năng...)",
+      "Tiêu chí phân cấp": "Chiều cao lớn nhất của công trình (m) hoặc Độ sâu mực nước (m)",
+      "Cấp công trình — Đặc biệt": "> 16",
+      "Cấp công trình — I": "> 12 ÷ 16",
+      "Cấp công trình — II": "> 8 ÷ 12",
+      "Cấp công trình — III": "> 5 ÷ 8",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "2.12",
+      "Loại kết cấu": "Cảng đường thủy nội địa",
+      "Tiêu chí phân cấp": "",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.12",
+      "Loại kết cấu": "2.12.1 Cảng, bến hàng hóa, bến hành khách, cầu cảng đường thủy nội địa; 2.12.2 Các kết cấu chỉnh trị trong sông",
+      "Tiêu chí phân cấp": "a) Chiều cao bến (m) hoặc Độ sâu mực nước (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 8",
+      "Cấp công trình — II": "> 5 ÷ 8",
+      "Cấp công trình — III": "> 3 ÷ 5",
+      "Cấp công trình — IV": "≤ 3"
+    },
+    {
+      "STT": "2.12",
+      "Loại kết cấu": "2.12.1 Cảng, bến hàng hóa, bến hành khách, cầu cảng đường thủy nội địa; 2.12.2 Các kết cấu chỉnh trị trong sông",
+      "Tiêu chí phân cấp": "b) Diện tích mặt bến (nghìn m2)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 10",
+      "Cấp công trình — II": "5 ÷ < 10",
+      "Cấp công trình — III": "1 ÷ < 5",
+      "Cấp công trình — IV": "< 1"
+    },
+    {
+      "STT": "2.13",
+      "Loại kết cấu": "Âu tàu",
+      "Tiêu chí phân cấp": "Độ sâu mực nước (m)",
+      "Cấp công trình — Đặc biệt": "> 20",
+      "Cấp công trình — I": "> 15 ÷ 20",
+      "Cấp công trình — II": "> 10 ÷ 15",
+      "Cấp công trình — III": "> 5 ÷ 10",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "2.14",
+      "Loại kết cấu": "Kết cấu quy mô nhỏ, lẻ khác",
+      "Tiêu chí phân cấp": "",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.14",
+      "Loại kết cấu": "2.14.1 Phục vụ cho lắp đặt các trò chơi mạo hiểm có ảnh hưởng đến an toàn cộng đồng (tàu lượn, tháp, trụ thép, máng trượt nước, kết cấu thép đỡ thiết bị trò chơi,...)",
+      "Tiêu chí phân cấp": "Tổng chiều cao bao gồm công trình và phần thiết bị công nghệ gắn vào công trình (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "> 15",
+      "Cấp công trình — III": "≤ 15",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "2.14",
+      "Loại kết cấu": "2.14.2 Hàng rào, tường rào; Lan can can bảo vệ và kết cấu tương tự khác",
+      "Tiêu chí phân cấp": "Chiều cao (m)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "> 6",
+      "Cấp công trình — IV": "≤ 6"
+    },
+    {
+      "STT": "2.14",
+      "Loại kết cấu": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Tiêu chí phân cấp": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Cấp công trình — Đặc biệt": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Cấp công trình — I": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Cấp công trình — II": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Cấp công trình — III": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.",
+      "Cấp công trình — IV": "2.14.3 Khối xây gạch/đá/bê tông hay tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV."
+    }
+  ],
+  "footnotes": []
+}

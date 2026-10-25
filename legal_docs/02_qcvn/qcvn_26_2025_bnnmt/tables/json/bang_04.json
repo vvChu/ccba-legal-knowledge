@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Giá trị điều chỉnh ngưỡng quy định theo thời gian phát ra độ rung vào ban ngày từ các công trình xây dựng đang thi công",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Thời gian phát ra độ rung",
+    "Chênh lệch ngưỡng giá trị tại Bảng 3 được phép điều chỉnh"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Thời gian phát ra độ rung": "≤ 2 giờ mỗi ngày",
+      "Chênh lệch ngưỡng giá trị tại Bảng 3 được phép điều chỉnh": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 10 dB"
+    },
+    {
+      "_row_id": 2,
+      "Thời gian phát ra độ rung": "> 2 giờ và ≤ 4 giờ vào ban ngày",
+      "Chênh lệch ngưỡng giá trị tại Bảng 3 được phép điều chỉnh": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 5 dB"
+    },
+    {
+      "_row_id": 3,
+      "Thời gian phát ra độ rung": "> 4 giờ vào ban ngày",
+      "Chênh lệch ngưỡng giá trị tại Bảng 3 được phép điều chỉnh": "Áp dụng quy định tại Bảng 3"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_phu_luc_g",
+  "table_number": "PLG",
+  "table_title": "Bảng Phụ lục G",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày tháng/ ca kíp",
+    "Giờ đo",
+    "$N^{o}$ lỗ khoan",
+    "Số đọc của áp kế, Pa — Lỗ khoan",
+    "Số đọc của áp kế, Pa — Bộ phận thu khí hoặc thiết bị bơm",
+    "Số đọc của áp kế, Pa — Bình chứa khí",
+    "Nhiệt độ, $^{o}$C — Lỗ khoan",
+    "Nhiệt độ, $^{o}$C — Điểm kiểm tra khối đất",
+    "Lượng tiêu hao nhiên liệu theo số liệu đô kg hay $m^{3}$ — Sau 1 h",
+    "Lượng tiêu hao nhiên liệu theo số liệu đô kg hay $m^{3}$ — Toàn bộ từ lúc bắt đầu cải tạo bằng nhiệt",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày tháng/ ca kíp": "1",
+      "Giờ đo": "2",
+      "$N^{o}$ lỗ khoan": "3",
+      "Số đọc của áp kế, Pa — Lỗ khoan": "4",
+      "Số đọc của áp kế, Pa — Bộ phận thu khí hoặc thiết bị bơm": "5",
+      "Số đọc của áp kế, Pa — Bình chứa khí": "6",
+      "Nhiệt độ, $^{o}$C — Lỗ khoan": "7",
+      "Nhiệt độ, $^{o}$C — Điểm kiểm tra khối đất": "8",
+      "Lượng tiêu hao nhiên liệu theo số liệu đô kg hay $m^{3}$ — Sau 1 h": "9",
+      "Lượng tiêu hao nhiên liệu theo số liệu đô kg hay $m^{3}$ — Toàn bộ từ lúc bắt đầu cải tạo bằng nhiệt": "10",
+      "Người thực hiện (ký tên)": "11",
+      "Ghi chú": "12"
+    }
+  ],
+  "footnotes": []
+}

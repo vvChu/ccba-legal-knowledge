@@ -1,0 +1,398 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 73,
+    "line_end": 78
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 118
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 124
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Công việc thị giác (visual task)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 127,
+    "line_end": 130
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Vùng làm việc (task area)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 136
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Vùng tiếp giáp (immidiate surrounding)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 142
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Độ rọi duy trì ($E_{m}$) (maintained illuminace)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 145,
+    "line_end": 148
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Hệ số chói lóa đồng nhất (UGR) (unified glare rating (UGL))",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 151,
+    "line_end": 154
+  },
+  {
+    "clause_id": "muc-3-6",
+    "anchor": "muc-3-6",
+    "title": "3.6  Giới hạn hệ số chói lóa đồng nhất ($UGR_{L}$) (limiting unified glare rating ($UGR_{L}$))",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 157,
+    "line_end": 160
+  },
+  {
+    "clause_id": "muc-3-7",
+    "anchor": "muc-3-7",
+    "title": "3.7  Góc che chắn (shielding angle)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 163,
+    "line_end": 166
+  },
+  {
+    "clause_id": "muc-3-8",
+    "anchor": "muc-3-8",
+    "title": "3.8  Mặt bằng làm việc (working plane)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 172
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  TIÊU CHÍ THIẾT KẾ CHIẾU SÁNG",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 176
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Môi trường ánh sáng",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 218
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Phân bố độ chói",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 221,
+    "line_end": 252
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Độ rọi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 255,
+    "line_end": 260
+  },
+  {
+    "clause_id": "muc-4-3-1",
+    "anchor": "muc-4-3-1",
+    "title": "4.3.1  Độ rọi khuyên dùng tại khu vực làm việc",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 263,
+    "line_end": 296
+  },
+  {
+    "clause_id": "muc-4-3-2",
+    "anchor": "muc-4-3-2",
+    "title": "4.3.2  Thang độ rọi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 299,
+    "line_end": 304
+  },
+  {
+    "clause_id": "muc-4-3-3",
+    "anchor": "muc-4-3-3",
+    "title": "4.3.3  Độ rọi xung quanh vùng làm việc",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 307,
+    "line_end": 320
+  },
+  {
+    "clause_id": "muc-4-3-4",
+    "anchor": "muc-4-3-4",
+    "title": "4.3.4  Độ đồng đều",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 323,
+    "line_end": 326
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Sự chói lóa",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 329,
+    "line_end": 338
+  },
+  {
+    "clause_id": "muc-4-4-1",
+    "anchor": "muc-4-4-1",
+    "title": "4.4.1  Bảo vệ chống sự chói lóa",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 341,
+    "line_end": 352
+  },
+  {
+    "clause_id": "muc-4-4-2",
+    "anchor": "muc-4-4-2",
+    "title": "4.4.2  Sự chói lóa mất tiện nghi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 355,
+    "line_end": 382
+  },
+  {
+    "clause_id": "muc-4-4-3",
+    "anchor": "muc-4-4-3",
+    "title": "4.4.3  Phản xạ màn mờ và chói lóa phản xạ",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 385,
+    "line_end": 398
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Hướng chiếu sáng",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 401,
+    "line_end": 404
+  },
+  {
+    "clause_id": "muc-4-5-1",
+    "anchor": "muc-4-5-1",
+    "title": "4.5.1  Hiệu ứng nổi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 407,
+    "line_end": 412
+  },
+  {
+    "clause_id": "muc-4-5-2",
+    "anchor": "muc-4-5-2",
+    "title": "4.5.2  Chiếu sáng có hướng tại vị trí làm việc",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 415,
+    "line_end": 418
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Màu sắc",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 430
+  },
+  {
+    "clause_id": "muc-4-6-1",
+    "anchor": "muc-4-6-1",
+    "title": "4.6.1  Màu ánh sáng",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 446
+  },
+  {
+    "clause_id": "muc-4-6-2",
+    "anchor": "muc-4-6-2",
+    "title": "4.6.2  Sự thể hiện màu",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 449,
+    "line_end": 460
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  ánh sáng ban ngày",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 463,
+    "line_end": 474
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Sự duy trì độ rọi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 482
+  },
+  {
+    "clause_id": "muc-4-9",
+    "anchor": "muc-4-9",
+    "title": "4.9  Hiệu quả năng lượng",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 485,
+    "line_end": 490
+  },
+  {
+    "clause_id": "muc-4-10",
+    "anchor": "muc-4-10",
+    "title": "4.10  Chiếu sáng vị trí làm việc có thiết bị hiển thị đầu cuối (VDT)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 493,
+    "line_end": 513
+  },
+  {
+    "clause_id": "muc-4-11",
+    "anchor": "muc-4-11",
+    "title": "4.11  Hiện tượng ánh sáng nhấp nháy và hiệu ứng hoạt nghiệm",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 516,
+    "line_end": 521
+  },
+  {
+    "clause_id": "muc-4-12",
+    "anchor": "muc-4-12",
+    "title": "4.12  Chiếu sáng sự cố",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CQXD",
+    "line_start": 524,
+    "line_end": 527
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  CÁC YÊU CẦU CHIẾU SÁNG",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 530,
+    "line_end": 857
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  PHƯƠNG PHÁP KIỂM TRA",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 860,
+    "line_end": 861
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Độ rọi",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 864,
+    "line_end": 871
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Hệ số chói lóa đồng nhất",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 874,
+    "line_end": 879
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Chỉ số thể hiện màu ($R_{a}$)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 882,
+    "line_end": 885
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Nhiệt độ màu ($T_{cp}$)",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 888,
+    "line_end": 891
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Độ duy trì",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 894,
+    "line_end": 901
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Độ chói của đèn",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 904,
+    "line_end": 907
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Sai số phép đo",
+    "source_file": "tcvn_7114_1_2008.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 910,
+    "line_end": 913
+  }
+]

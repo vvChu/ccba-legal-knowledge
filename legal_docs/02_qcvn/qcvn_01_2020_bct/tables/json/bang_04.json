@@ -1,0 +1,65 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Khoảng cách an toàn từ bể chứa và cột bơm đến công trình bên ngoài cửa hàng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Hạng mục xây dựng",
+    "Hạng mục xây dựng",
+    "Hạng mục xây dựng",
+    "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1",
+    "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2",
+    "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hạng mục xây dựng": "Nơi sản xuất có phát lửa hoặc tia lửa",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "18",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "18",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "18"
+    },
+    {
+      "_row_id": 2,
+      "Hạng mục xây dựng": "Nơi tập trung đông người (4)",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "50",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "50",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "50"
+    },
+    {
+      "_row_id": 3,
+      "Hạng mục xây dựng": "I, II",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "5",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "5",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "5"
+    },
+    {
+      "_row_id": 4,
+      "Hạng mục xây dựng": "III",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "15",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "12",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "10"
+    },
+    {
+      "_row_id": 5,
+      "Hạng mục xây dựng": "IV, V",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "20",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "14",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "14"
+    },
+    {
+      "_row_id": 6,
+      "Hạng mục xây dựng": "Đường cáp- điện\nĐường cáp viễn thông",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 1": "&nbsp;&nbsp;\\- Theo quy định hiện hành về hành lang an toàn lưới điện.\n&nbsp;&nbsp;\\- Theo quy định hiện hành của ngành viễn thông.",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 2": "&nbsp;&nbsp;\\- Theo quy định hiện hành về hành lang an toàn lưới điện.\n&nbsp;&nbsp;\\- Theo quy định hiện hành của ngành viễn thông.",
+      "Khoảng cách an toàn (m) {không nhỏ hơn (2), (3)} — Cửa hàng cấp 3": "&nbsp;&nbsp;\\- Theo quy định hiện hành về hành lang an toàn lưới điện.\n&nbsp;&nbsp;\\- Theo quy định hiện hành của ngành viễn thông."
+    }
+  ],
+  "footnotes": {
+    "1)": "**CHÚ THÍCH 1:** Bậc chịu lửa của công trình theo QCVN 06:2020/BXD Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình .",
+    "2)": "**CHÚ THÍCH 2:** Khoảng cách đối với bể tính từ mép hố thao tác (cổ bể).",
+    "3)": "**CHÚ THÍCH 3:** Khoảng cách đối với cột bơm tính từ tâm cột bơm.",
+    "4)": "**CHÚ THÍCH 4:** Nơi tập trung đông người bao gồm: trường học, bệnh viện, sân vận động, chợ, trung tâm thương mại, siêu thị, triển lãm quốc gia, nhà ga, bến xe, bến tàu.",
+    "5)": "**CHÚ THÍCH 5:** Khoảng cách đối với công trình dân dụng tính đến ranh giới công trình."
+  }
+}

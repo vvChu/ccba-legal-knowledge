@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Giá trị tối đa cho phép đối với mức rung phát sinh từ các nguồn khác",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Khu vực bị ảnh hưởng",
+    "Ban ngày (06:00 ~ trước 22:00)",
+    "Ban đêm (22:00 ~ trước 06:00)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực bị ảnh hưởng": "Khu vực A",
+      "Ban ngày (06:00 ~ trước 22:00)": "65",
+      "Ban đêm (22:00 ~ trước 06:00)": "60"
+    },
+    {
+      "_row_id": 2,
+      "Khu vực bị ảnh hưởng": "Khu vực B,C,D",
+      "Ban ngày (06:00 ~ trước 22:00)": "70",
+      "Ban đêm (22:00 ~ trước 06:00)": "65"
+    }
+  ],
+  "footnotes": []
+}

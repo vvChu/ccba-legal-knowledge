@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_p01_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Dung sai cho phép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại vật liệu láng",
+    "Khe hở với thước 3 m",
+    "Dung sai cao độ",
+    "Dung sai độ dốc"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại vật liệu láng": "Tất cả các vật liệu láng",
+      "Khe hở với thước 3 m": "3 mm",
+      "Dung sai cao độ": "1 cm",
+      "Dung sai độ dốc": "0,3 %"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p01"
+}

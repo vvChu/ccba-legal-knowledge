@@ -1,0 +1,731 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 56
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 80
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 83,
+    "line_end": 132
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  CÔNG TÁC LÁT",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 135,
+    "line_end": 136
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Yêu cầu kỹ thuật",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 140
+  },
+  {
+    "clause_id": "muc-4-1-1",
+    "anchor": "muc-4-1-1",
+    "title": "4.1.1  Vật liệu",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 143,
+    "line_end": 144
+  },
+  {
+    "clause_id": "muc-4-1-1-1",
+    "anchor": "muc-4-1-1-1",
+    "title": "4.1.1.1  Gạch lát, tấm lát phải đạt yêu cầu kỹ thuật về chất lượng, chủng loại, kích thước, màu sắc.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 147,
+    "line_end": 148
+  },
+  {
+    "clause_id": "muc-4-1-1-2",
+    "anchor": "muc-4-1-1-2",
+    "title": "4.1.1.2  Vật liệu gắn kết phải đảm bảo chất lượng, nếu thiết kế không quy định thì thực hiện theo yêu cầu của nhà sản xuất vật liệu lát.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 151,
+    "line_end": 152
+  },
+  {
+    "clause_id": "muc-4-1-2",
+    "anchor": "muc-4-1-2",
+    "title": "4.1.2  Lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 155,
+    "line_end": 156
+  },
+  {
+    "clause_id": "muc-4-1-2-1",
+    "anchor": "muc-4-1-2-1",
+    "title": "4.1.2.1  Mặt lớp nền phải đảm bảo phẳng, chắc chắn, ổn định, có độ bám dính với vật liệu gắn kết và được làm sạch tạp chất.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 159,
+    "line_end": 160
+  },
+  {
+    "clause_id": "muc-4-1-2-2",
+    "anchor": "muc-4-1-2-2",
+    "title": "4.1.2.2  Cao độ lớp nền phù hợp với vật liệu lát phủ bên trên. Độ dốc của lớp nền theo yêu cầu kỹ thuật.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 163,
+    "line_end": 164
+  },
+  {
+    "clause_id": "muc-4-1-2-3",
+    "anchor": "muc-4-1-2-3",
+    "title": "4.1.2.3  Với vật liệu gắn kết là keo, nhựa hoặc tấm lát đặt trực tiếp lên lớp nền thì mặt lớp nền phải đảm bảo thỏa mãn yêu cầu nêu trong Bảng 1 của tiêu chuẩn này.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 167,
+    "line_end": 168
+  },
+  {
+    "clause_id": "muc-4-1-2-4",
+    "anchor": "muc-4-1-2-4",
+    "title": "4.1.2.4  Trước khi lát phải kiểm tra và nghiệm thu lớp nền và các bộ phận bị che khuất (chi tiết chôn sẵn, chống thấm, hệ thống kỹ thuật v.v…).",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 171,
+    "line_end": 172
+  },
+  {
+    "clause_id": "muc-4-1-3",
+    "anchor": "muc-4-1-3",
+    "title": "4.1.3  Chất lượng lớp lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 176
+  },
+  {
+    "clause_id": "muc-4-1-3-1",
+    "anchor": "muc-4-1-3-1",
+    "title": "4.1.3.1  Mặt lát phải đảm bảo các yêu cầu về độ cao, độ phẳng, độ dốc, độ dính kết với lớp nền, chiều dày vật liệu gắn kết, bề rộng mạch lát, màu sắc, hoa văn, hình dáng trang trí …",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 180
+  },
+  {
+    "clause_id": "muc-4-1-3-2",
+    "anchor": "muc-4-1-3-2",
+    "title": "4.1.3.2  Nếu mặt lát là các viên đá thiên nhiên, nên chọn đá để các viên kề nhau có màu sắc và đường vân hài hòa.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 183,
+    "line_end": 184
+  },
+  {
+    "clause_id": "muc-4-1-3-3",
+    "anchor": "muc-4-1-3-3",
+    "title": "4.1.3.3  Với gạch lát dùng vữa làm vật liệu gắn kết thì vữa phải được trải đều trên lớp nền để đảm bảo giữa viên gạch lát và lớp nền được lót đầy vữa.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 187,
+    "line_end": 188
+  },
+  {
+    "clause_id": "muc-4-1-3-4",
+    "anchor": "muc-4-1-3-4",
+    "title": "4.1.3.4  Mặt lát của tấm sàn gỗ không được có vết nứt, cong vênh. Mặt lát của tấm lát mềm không được phồng rộp, nhăn nheo.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 191,
+    "line_end": 192
+  },
+  {
+    "clause_id": "muc-4-1-3-5",
+    "anchor": "muc-4-1-3-5",
+    "title": "4.1.3.5  Với các viên lát phải cắt, việc cắt và mài các cạnh phải bảo đảm đường cắt gọn và mạch ghép phẳng, đều.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 195,
+    "line_end": 196
+  },
+  {
+    "clause_id": "muc-4-1-3-6",
+    "anchor": "muc-4-1-3-6",
+    "title": "4.1.3.6  Mạch giữa các viên gạch lát và giữa gạch lát với tường phải được lấp đầy chất làm đầy mạch.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 199,
+    "line_end": 200
+  },
+  {
+    "clause_id": "muc-4-1-3-7",
+    "anchor": "muc-4-1-3-7",
+    "title": "4.1.3.7  Dung sai trên mặt lát không vượt quá các giá trị yêu cầu trong Bảng 1 và Bảng 2.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 203,
+    "line_end": 204
+  },
+  {
+    "clause_id": "bang-bang-p01-01",
+    "anchor": "bang-bang-p01-01",
+    "title": "Bảng 1 - Dung sai cho phép",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 207,
+    "line_end": 216
+  },
+  {
+    "clause_id": "bang-bang-p01-02",
+    "anchor": "bang-bang-p01-02",
+    "title": "Bảng 2 - Chênh lệch độ cao giữa hai mép vật liệu lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 219,
+    "line_end": 228
+  },
+  {
+    "clause_id": "muc-4-1-4",
+    "anchor": "muc-4-1-4",
+    "title": "4.1.4  An toàn lao động khi lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 231,
+    "line_end": 232
+  },
+  {
+    "clause_id": "muc-4-1-4-1",
+    "anchor": "muc-4-1-4-1",
+    "title": "4.1.4.1  Khi lát phải tuân theo các quy định hiện hành về an toàn lao động, an toàn phòng chống cháy nổ.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 235,
+    "line_end": 236
+  },
+  {
+    "clause_id": "muc-4-1-4-2",
+    "anchor": "muc-4-1-4-2",
+    "title": "4.1.4.2  Với vật liệu lát dễ bắt lửa như: gỗ, thảm, keo dán … phải có biện pháp phòng cháy trong quá trình thi công.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 240
+  },
+  {
+    "clause_id": "muc-4-1-4-3",
+    "anchor": "muc-4-1-4-3",
+    "title": "4.1.4.3  Môi trường làm việc phải thông thoáng, có biện pháp chống nhiễm độc do hơi của vật liệu lát, vật liệu gắn kết gây ra.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 243,
+    "line_end": 244
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Quy trình thi công",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 247,
+    "line_end": 248
+  },
+  {
+    "clause_id": "muc-4-2-1",
+    "anchor": "muc-4-2-1",
+    "title": "4.2.1  Thi công lát gạch",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 251,
+    "line_end": 252
+  },
+  {
+    "clause_id": "muc-4-2-1-1",
+    "anchor": "muc-4-2-1-1",
+    "title": "4.2.1.1  Chuẩn bị lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 255,
+    "line_end": 262
+  },
+  {
+    "clause_id": "muc-4-2-1-2",
+    "anchor": "muc-4-2-1-2",
+    "title": "4.2.1.2  Chuẩn bị gạch lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 265,
+    "line_end": 284
+  },
+  {
+    "clause_id": "muc-4-2-1-3",
+    "anchor": "muc-4-2-1-3",
+    "title": "4.2.1.3  Chuẩn bị vật liệu gắn kết",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 292
+  },
+  {
+    "clause_id": "muc-4-2-1-4",
+    "anchor": "muc-4-2-1-4",
+    "title": "4.2.1.4  Dụng cụ lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 295,
+    "line_end": 300
+  },
+  {
+    "clause_id": "muc-4-2-1-5",
+    "anchor": "muc-4-2-1-5",
+    "title": "4.2.1.5  Tiến hành lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 303,
+    "line_end": 316
+  },
+  {
+    "clause_id": "muc-4-2-1-6",
+    "anchor": "muc-4-2-1-6",
+    "title": "4.2.1.6  Làm đầy mạch lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 319,
+    "line_end": 322
+  },
+  {
+    "clause_id": "muc-4-2-1-7",
+    "anchor": "muc-4-2-1-7",
+    "title": "4.2.1.7  Bảo dưỡng mặt lát:",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 325,
+    "line_end": 330
+  },
+  {
+    "clause_id": "muc-4-2-2",
+    "anchor": "muc-4-2-2",
+    "title": "4.2.2  Thi công sàn gỗ",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 333,
+    "line_end": 334
+  },
+  {
+    "clause_id": "muc-4-2-2-1",
+    "anchor": "muc-4-2-2-1",
+    "title": "4.2.2.1  Chuẩn bị lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 337,
+    "line_end": 342
+  },
+  {
+    "clause_id": "muc-4-2-2-2",
+    "anchor": "muc-4-2-2-2",
+    "title": "4.2.2.2  Chuẩn bị tấm sàn gỗ",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 345,
+    "line_end": 350
+  },
+  {
+    "clause_id": "muc-4-2-2-3",
+    "anchor": "muc-4-2-2-3",
+    "title": "4.2.2.3  Chuẩn bị vật liệu gắn kết",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 353,
+    "line_end": 356
+  },
+  {
+    "clause_id": "muc-4-2-2-4",
+    "anchor": "muc-4-2-2-4",
+    "title": "4.2.2.4  Dụng cụ lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 359,
+    "line_end": 364
+  },
+  {
+    "clause_id": "muc-4-2-2-5",
+    "anchor": "muc-4-2-2-5",
+    "title": "4.2.2.5  Tiến hành lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 367,
+    "line_end": 372
+  },
+  {
+    "clause_id": "muc-4-2-2-6",
+    "anchor": "muc-4-2-2-6",
+    "title": "4.2.2.6  Hoàn thiện mặt lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 375,
+    "line_end": 380
+  },
+  {
+    "clause_id": "muc-4-2-2-7",
+    "anchor": "muc-4-2-2-7",
+    "title": "4.2.2.7  Bảo dưỡng mặt lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 383,
+    "line_end": 386
+  },
+  {
+    "clause_id": "muc-4-2-3",
+    "anchor": "muc-4-2-3",
+    "title": "4.2.3  Thi công tấm lát mềm",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 392
+  },
+  {
+    "clause_id": "muc-4-2-3-1",
+    "anchor": "muc-4-2-3-1",
+    "title": "4.2.3.1  Chuẩn bị lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 395,
+    "line_end": 400
+  },
+  {
+    "clause_id": "muc-4-2-3-2",
+    "anchor": "muc-4-2-3-2",
+    "title": "4.2.3.2  Chuẩn bị tấm lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 403,
+    "line_end": 406
+  },
+  {
+    "clause_id": "muc-4-2-3-3",
+    "anchor": "muc-4-2-3-3",
+    "title": "4.2.3.3  Chuẩn bị vật liệu gắn kết",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 409,
+    "line_end": 414
+  },
+  {
+    "clause_id": "muc-4-2-3-4",
+    "anchor": "muc-4-2-3-4",
+    "title": "4.2.3.4  Tiến hành lát",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 417,
+    "line_end": 424
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  CÔNG TÁC LÁNG",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 427,
+    "line_end": 428
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Yêu cầu kỹ thuật",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 431,
+    "line_end": 432
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Vật liệu",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 435,
+    "line_end": 438
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 441,
+    "line_end": 442
+  },
+  {
+    "clause_id": "muc-5-1-2-1",
+    "anchor": "muc-5-1-2-1",
+    "title": "5.1.2.1  Lớp nền phải đảm bảo phẳng, ổn định, có độ bám dính với vật liệu láng và được làm sạch tạp chất. Trong trường hợp lớp nền có những vị trí lõm lớn hơn chiều dày lớp láng 20 mm thì phải tiến hành bù bằng vật liệu tương ứng trước khi láng. Với những vị trí lồi lên cao hơn mặt lớp nền yêu cầu thì phải tiến hành san phẳng trước khi láng.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 445,
+    "line_end": 446
+  },
+  {
+    "clause_id": "muc-5-1-2-2",
+    "anchor": "muc-5-1-2-2",
+    "title": "5.1.2.2  Khi cần chia ô, khe co dãn thì công việc này phải được chuẩn bị trước khi tiến hành công tác láng. Nếu thiết kế không quy định thì 3 m đến 4 m lại làm một khe co dãn bằng cách cắt đứt ngang lớp láng, lấy chiều rộng khe co dãn là 5 mm đến 8 mm, khi hoàn thiện khe co dãn sẽ được chèn bằng vật liệu có khả năng đàn hồi hoặc tự hàn gắn.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 449,
+    "line_end": 450
+  },
+  {
+    "clause_id": "muc-5-1-2-3",
+    "anchor": "muc-5-1-2-3",
+    "title": "5.1.2.3  Trước khi láng phải kiểm tra và nghiệm thu lớp nền và các bộ phận bị che khuất (chi tiết chôn sẵn, chống thấm, hệ thống kỹ thuật v.v…).",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 453,
+    "line_end": 454
+  },
+  {
+    "clause_id": "muc-5-1-3",
+    "anchor": "muc-5-1-3",
+    "title": "5.1.3  Chất lượng lớp láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 457,
+    "line_end": 458
+  },
+  {
+    "clause_id": "muc-5-1-3-1",
+    "anchor": "muc-5-1-3-1",
+    "title": "5.1.3.1  Mặt láng phải đảm bảo yêu cầu về màu sắc như thiết kế.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 461,
+    "line_end": 462
+  },
+  {
+    "clause_id": "muc-5-1-3-2",
+    "anchor": "muc-5-1-3-2",
+    "title": "5.1.3.2  Dung sai trên mặt láng không vượt quá các giá trị yêu cầu trong Bảng 3.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 465,
+    "line_end": 466
+  },
+  {
+    "clause_id": "bang-bang-p01-03",
+    "anchor": "bang-bang-p01-03",
+    "title": "Bảng 3 - Dung sai cho phép",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 474
+  },
+  {
+    "clause_id": "muc-5-1-3-3",
+    "anchor": "muc-5-1-3-3",
+    "title": "5.1.3.3  Với mặt láng có yêu cầu đánh màu thì tùy thuộc vào thời tiết, độ ẩm và nhiệt độ không khí mà sau khi láng xong lớp vữa cuối cùng có thể tiến hành đánh màu. Đánh màu tiến hành bằng cách rải đều một lớp bột xi măng hay lớp mỏng hồ xi măng và dùng bay hoặc máy xoa nhẵn bề mặt. Việc đánh màu phải kết thúc trước khi vật liệu láng kết thúc quá trình đông kết.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 477,
+    "line_end": 478
+  },
+  {
+    "clause_id": "muc-5-1-3-4",
+    "anchor": "muc-5-1-3-4",
+    "title": "5.1.3.4  Trường hợp mặt láng có yêu cầu mài bóng, quá trình mài bóng bằng máy được tiến hành đồng thời với việc vá các vết lõm cục bộ và các vết xước gợn trên bề mặt. Khi bắt đầu mài phải đảm bảo vật liệu láng đủ cường độ chịu mài.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 481,
+    "line_end": 482
+  },
+  {
+    "clause_id": "muc-5-1-3-5",
+    "anchor": "muc-5-1-3-5",
+    "title": "5.1.3.5  Công việc kẻ chỉ thực hiện sau khi hoàn thành công tác láng. Đường kẻ cần đều về chiều rộng, chiều sâu và sắc nét. Nếu dùng quả lăn có hạt chống trơn cũng lăn ngay khi lớp xi măng màu chưa rắn.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 485,
+    "line_end": 486
+  },
+  {
+    "clause_id": "muc-5-1-4",
+    "anchor": "muc-5-1-4",
+    "title": "5.1.4  An toàn lao động khi láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 489,
+    "line_end": 490
+  },
+  {
+    "clause_id": "muc-5-1-4-1",
+    "anchor": "muc-5-1-4-1",
+    "title": "5.1.4.1  Khi láng phải tuân theo các quy định hiện hành về an toàn lao động, an toàn phòng chống cháy nổ.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 493,
+    "line_end": 494
+  },
+  {
+    "clause_id": "muc-5-1-4-2",
+    "anchor": "muc-5-1-4-2",
+    "title": "5.1.4.2  Nếu sử dụng máy xoa bề mặt để thực hiện công tác láng thì công nhân phải được đào tạo về vận hành máy trước khi thi công. Lưu ý an toàn điện và chống các vật thải mài văng bắn vào cơ thể.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 497,
+    "line_end": 498
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Quy trình thi công",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 501,
+    "line_end": 502
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Chuẩn bị lớp nền",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 505,
+    "line_end": 512
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Chuẩn bị vật liệu láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 515,
+    "line_end": 520
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Dụng cụ láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 523,
+    "line_end": 526
+  },
+  {
+    "clause_id": "muc-5-2-4",
+    "anchor": "muc-5-2-4",
+    "title": "5.2.4  Tiến hành láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 529,
+    "line_end": 538
+  },
+  {
+    "clause_id": "muc-5-2-5",
+    "anchor": "muc-5-2-5",
+    "title": "5.2.5  Bảo dưỡng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 541,
+    "line_end": 548
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  KIỂM TRA VÀ NGHIỆM THU",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 551,
+    "line_end": 552
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Kiểm tra",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 555,
+    "line_end": 556
+  },
+  {
+    "clause_id": "muc-6-1-1",
+    "anchor": "muc-6-1-1",
+    "title": "6.1.1  Công tác kiểm tra chất lượng lát và láng các công trình xây dựng theo trình tự và bao gồm các chỉ tiêu trong Bảng 4.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 559,
+    "line_end": 560
+  },
+  {
+    "clause_id": "bang-bang-p01-04",
+    "anchor": "bang-bang-p01-04",
+    "title": "Bảng 4 - Đối tượng, phương pháp và dụng cụ kiểm tra công tác lát, láng",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 563,
+    "line_end": 576
+  },
+  {
+    "clause_id": "muc-6-1-2",
+    "anchor": "muc-6-1-2",
+    "title": "6.1.2  Mặt lát (láng) phải phẳng, không ghồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 1 và Bảng 3.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 579,
+    "line_end": 580
+  },
+  {
+    "clause_id": "muc-6-1-3",
+    "anchor": "muc-6-1-3",
+    "title": "6.1.3  Chênh lệch độ cao giữa hai mép của vật liệu lát liền kề không vượt quá giá trị trong Bảng 2.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 583,
+    "line_end": 584
+  },
+  {
+    "clause_id": "muc-6-1-4",
+    "anchor": "muc-6-1-4",
+    "title": "6.1.4  Độ dốc và phương dốc của mặt lát (láng) phải theo đúng thiết kế, nếu có chỗ lồi hoặc lõm quá mức cho phép thì đều phải được lát (láng) lại.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 587,
+    "line_end": 588
+  },
+  {
+    "clause_id": "muc-6-1-5",
+    "anchor": "muc-6-1-5",
+    "title": "6.1.5  Độ bám dính và đặc chắc của vật liệu gắn kết hoặc vật liệu láng với lớp nền kiểm tra bằng cách gõ nhẹ lên bề mặt lát (láng) nếu có tiếng bộp thì phải bóc ra sửa lại.",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 591,
+    "line_end": 596
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Nghiệm thu",
+    "source_file": "tcvn_9377_1_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 599,
+    "line_end": 616
+  }
+]

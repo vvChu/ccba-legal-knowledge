@@ -1,0 +1,62 @@
+{
+  "table_id": "bang_e_2",
+  "table_number": "E.2",
+  "table_title": "Bảng E.2 - Giá trị thông số độ dày ($I_{t}$) và thông số vị trí ($I_{p}$)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Chất chữa cháy",
+    "$I_{t}$",
+    "$I_{p}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chất chữa cháy": "Các khí trơ",
+      "$I_{t}$": "0,63",
+      "$I_{p}$": "1,30"
+    },
+    {
+      "_row_id": 2,
+      "Chất chữa cháy": "Cácbon đioxit",
+      "$I_{t}$": "0,63",
+      "$I_{p}$": "1,30"
+    },
+    {
+      "_row_id": 3,
+      "Chất chữa cháy": "FK-5-1-2-12",
+      "$I_{t}$": "0,52",
+      "$I_{p}$": "0,45"
+    },
+    {
+      "_row_id": 4,
+      "Chất chữa cháy": "HFC-227ea",
+      "$I_{t}$": "0,68",
+      "$I_{p}$": "0,80"
+    },
+    {
+      "_row_id": 5,
+      "Chất chữa cháy": "HFC-125",
+      "$I_{t}$": "0,61",
+      "$I_{p}$": "1,10"
+    },
+    {
+      "_row_id": 6,
+      "Chất chữa cháy": "HFC-23",
+      "$I_{t}$": "0,58",
+      "$I_{p}$": "0,85"
+    },
+    {
+      "_row_id": 7,
+      "Chất chữa cháy": "Khí FC khác",
+      "$I_{t}$": "0,52",
+      "$I_{p}$": "1,10"
+    },
+    {
+      "_row_id": 8,
+      "Chất chữa cháy": "IG-100",
+      "$I_{t}$": "Không có giá trị",
+      "$I_{p}$": "Không có giá trị"
+    }
+  ],
+  "footnotes": []
+}

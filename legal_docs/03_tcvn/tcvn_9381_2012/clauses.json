@@ -1,0 +1,1343 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 54
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Tiêu chuẩn này áp dụng để đánh giá mức độ nguy hiểm của kết cấu nhà, kết quả đánh giá phục vụ cho việc sửa chữa, cải tạo hoặc tháo gỡ nhằm đảm bảo an toàn sử dụng.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 58
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Khi đánh giá mức độ nguy hiểm đối với công trình công nghiệp, công cộng, nhà cao tầng có yêu cầu đặc biệt, ngoài việc tuân theo quy định của tiêu chuẩn này, còn phải phù hợp với các tiêu chuẩn liên quan hiện hành.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 62
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 65,
+    "line_end": 74
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  KÝ HIỆU",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 77,
+    "line_end": 172
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  TRÌNH TỰ ĐÁNH GIÁ MỨC ĐỘ NGUY HIỂM CỦA NHÀ",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 176
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Nội dung và phạm vi đánh giá",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 182
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Khảo sát sơ bộ",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 185,
+    "line_end": 188
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Khảo sát chi tiết",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 191,
+    "line_end": 194
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Phân tích, đánh giá",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 197,
+    "line_end": 200
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Lập báo cáo",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 203,
+    "line_end": 206
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  PHƯƠNG PHÁP ĐÁNH GIÁ",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 209,
+    "line_end": 210
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Nguyên tắc đánh giá tổng hợp",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 213,
+    "line_end": 222
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Đánh giá mức độ nguy hiểm của cấu kiện",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 225,
+    "line_end": 226
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Nguyên tắc chung",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 229,
+    "line_end": 230
+  },
+  {
+    "clause_id": "muc-5-2-1-1",
+    "anchor": "muc-5-2-1-1",
+    "title": "5.2.1.1  Cấu kiện nguy hiểm là những cấu kiện mà khả năng chịu lực, vết nứt và biến dạng không đáp ứng được yêu cầu sử dụng bình thường.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 233,
+    "line_end": 234
+  },
+  {
+    "clause_id": "muc-5-2-1-2",
+    "anchor": "muc-5-2-1-2",
+    "title": "5.2.1.2  Phân chia cấu kiện theo các quy định sau đây (được xem là 1 cấu kiện):",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 237,
+    "line_end": 256
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Đáng giá nền móng",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 259,
+    "line_end": 260
+  },
+  {
+    "clause_id": "muc-5-2-2-1",
+    "anchor": "muc-5-2-2-1",
+    "title": "5.2.2.1  Đánh giá mức độ nguy hiểm của nền móng gồm hai phần: nền và móng.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 263,
+    "line_end": 264
+  },
+  {
+    "clause_id": "muc-5-2-2-2",
+    "anchor": "muc-5-2-2-2",
+    "title": "5.2.2.2  Khi kiểm tra nền móng cần chú trọng xem xét tình trạng vết nứt xiên dạng hình bậc thang, vết nứt ngang và vết nứt thẳng đứng ở vị trí tiếp giáp giữa móng với tường gạch chịu lực, tình trạng vết nứt ngang chỗ nối tiếp móng với chân cột khung, tình trạng chuyển vị nghiêng của nhà, tình trạng trượt, ổn định của nền, biến dạng, rạn nứt của đất nền.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 267,
+    "line_end": 268
+  },
+  {
+    "clause_id": "muc-5-2-2-3",
+    "anchor": "muc-5-2-2-3",
+    "title": "5.2.2.3  Đất nền được đánh giá là nguy hiểm khi có một trong những hiện tượng sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 271,
+    "line_end": 278
+  },
+  {
+    "clause_id": "muc-5-2-2-4",
+    "anchor": "muc-5-2-2-4",
+    "title": "5.2.2.4  Móng được đánh giá là nguy hiểm khi có một trong những hiện tượng sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 281,
+    "line_end": 288
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Đánh giá cấu kiện kết cấu xây gạch",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 291,
+    "line_end": 292
+  },
+  {
+    "clause_id": "muc-5-2-3-1",
+    "anchor": "muc-5-2-3-1",
+    "title": "5.2.3.1  Đánh giá mức độ nguy hiểm của kết cấu xây gạch bao gồm các nội dung: khả năng chịu lực, cấu tạo và liên kết, vết nứt và biến dạng v.v...",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 295,
+    "line_end": 296
+  },
+  {
+    "clause_id": "muc-5-2-3-2",
+    "anchor": "muc-5-2-3-2",
+    "title": "5.2.3.2  Khi tính toán kiểm tra khả năng chịu lực kết cấu xây gạch, cần xác định cường độ của viên xây và vữa để suy ra cường độ thể xây, hoặc trực tiếp xác định cường độ thể xây trên công trình. Giá trị thực đo của mặt cắt xây gạch cần trừ đi phần diện tích hao mòn do các nguyên nhân khác nhau gây nên.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 299,
+    "line_end": 300
+  },
+  {
+    "clause_id": "muc-5-2-3-3",
+    "anchor": "muc-5-2-3-3",
+    "title": "5.2.3.3  Khi kiểm tra kết cấu xây gạch nên chú trọng xem xét tình trạng vết nứt xiên và thẳng đứng tại vị trí tiếp nối cấu tạo và chỗ giao tiếp giữa tường dọc và tường ngang, tình trạng biến dạng và vết nứt của tường chịu lực, tình trạng vết nứt và chuyển dịch tại chân vòm.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 303,
+    "line_end": 304
+  },
+  {
+    "clause_id": "muc-5-2-3-4",
+    "anchor": "muc-5-2-3-4",
+    "title": "5.2.3.4  Kết cấu xây gạch được đánh giá là nguy hiểm khi có một trong những biểu hiện sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 307,
+    "line_end": 324
+  },
+  {
+    "clause_id": "muc-5-2-4",
+    "anchor": "muc-5-2-4",
+    "title": "5.2.4  Đánh giá cấu kiện kết cấu gỗ",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 327,
+    "line_end": 328
+  },
+  {
+    "clause_id": "muc-5-2-4-1",
+    "anchor": "muc-5-2-4-1",
+    "title": "5.2.4.1  Đánh giá mức độ nguy hiểm của cấu kiện kết cấu gỗ bao gồm các nội dung: khả năng chịu lực, cấu tạo và liên kết, vết nứt và biến dạng v.v...",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 331,
+    "line_end": 332
+  },
+  {
+    "clause_id": "muc-5-2-4-2",
+    "anchor": "muc-5-2-4-2",
+    "title": "5.2.4.2  Khi tính toán khả năng chịu lực của kết cấu gỗ phải kiểm tra tính chất cơ học, khuyết tật, mục mủn, mối mọt của gỗ, tính chất cơ học và mức độ rỉ của các chi tiết bằng thép. Diện tích tiết diện đo được của cấu kiện kết cấu gỗ không bao gồm phần diện tích bị hư hỏng do các nguyên nhân khác nhau gây ra.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 335,
+    "line_end": 336
+  },
+  {
+    "clause_id": "muc-5-2-4-3",
+    "anchor": "muc-5-2-4-3",
+    "title": "5.2.4.3  Khi kiểm tra kết cấu gỗ nên chú trọng xem xét tình trạng mục mủn, mối mọt, khuyết tật của gỗ, sai sót về cấu tạo, mất ổn định của cấu kiện kết cấu, tình trạng vết nứt ở tiết diện chịu cắt tại mối nối đầu vì kèo, tình trạng biến dạng ngoài mặt phẳng của vì kèo và ổn định của hệ thống đỡ mái.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 339,
+    "line_end": 340
+  },
+  {
+    "clause_id": "muc-5-2-4-4",
+    "anchor": "muc-5-2-4-4",
+    "title": "5.2.4.4  Cấu kiện kết cấu gỗ được đánh giá là nguy hiểm khi có một trong những hiện tượng sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 343,
+    "line_end": 360
+  },
+  {
+    "clause_id": "muc-5-2-5",
+    "anchor": "muc-5-2-5",
+    "title": "5.2.5  Đánh giá cấu kiện kết cấu bê tông cốt thép",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 363,
+    "line_end": 364
+  },
+  {
+    "clause_id": "muc-5-2-5-1",
+    "anchor": "muc-5-2-5-1",
+    "title": "5.2.5.1  Đánh giá mức độ nguy hiểm của cấu kiện kết cấu bê tông cốt thép bao gồm các nội dung: khả năng chịu lực, cấu tạo và liên kết, vết nứt và biến dạng...",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 367,
+    "line_end": 368
+  },
+  {
+    "clause_id": "muc-5-2-5-2",
+    "anchor": "muc-5-2-5-2",
+    "title": "5.2.5.2  Khi tính toán khả năng chịu lực của cấu kiện, kết cấu bê tông cốt thép, phải kiểm tra cường độ bê tông, mức độ carbonát hóa của bê tông, tính chất cơ học, thành phần hóa học, mức độ ăn mòn cốt thép. Diện tích tiết diện đo được của cấu kiện kết cấu bê tông cốt thép không bao gồm phần diện tích bị hư hỏng do các nguyên nhân khác nhau gây ra.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 371,
+    "line_end": 372
+  },
+  {
+    "clause_id": "muc-5-2-5-3",
+    "anchor": "muc-5-2-5-3",
+    "title": "5.2.5.3  Khi kiểm tra kết cấu bê tông cốt thép cần chú trọng xem xét các vết nứt và tình trạng ăn mòn cốt thép chịu lực của cột, dầm, sàn; vết nứt ngang ở phần chân và phần đỉnh cột; độ nghiêng của vì kèo và ổn định của hệ thống giằng chống v.v...",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 375,
+    "line_end": 376
+  },
+  {
+    "clause_id": "muc-5-2-5-4",
+    "anchor": "muc-5-2-5-4",
+    "title": "5.2.5.4  Cấu kiện kết cấu bê tông cốt thép được đánh giá là nguy hiểm khi có một trong những hiện tượng sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 379,
+    "line_end": 412
+  },
+  {
+    "clause_id": "muc-5-2-6",
+    "anchor": "muc-5-2-6",
+    "title": "5.2.6  Đánh giá cấu kiện kết cấu thép",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 415,
+    "line_end": 416
+  },
+  {
+    "clause_id": "muc-5-2-6-1",
+    "anchor": "muc-5-2-6-1",
+    "title": "5.2.6.1  Giám định mức độ nguy hiểm của cấu kiện kết cấu thép bao gồm các nội dung: khả năng chịu lực, cấu tạo và liên kết, vết nứt và biến dạng v.v...",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 419,
+    "line_end": 420
+  },
+  {
+    "clause_id": "muc-5-2-6-2",
+    "anchor": "muc-5-2-6-2",
+    "title": "5.2.6.2  Khi tính toán khả năng chịu lực của cấu kiện kết cấu thép phải kiểm tra tính chất cơ lý, thành phần hóa học, mức độ ăn mòn của vật liệu. Diện tích tiết diện đo được của cấu kiện kết cấu thép không bao gồm phần diện tích bị hư hỏng do các nguyên nhân khác nhau gây ra.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 423,
+    "line_end": 424
+  },
+  {
+    "clause_id": "muc-5-2-6-3",
+    "anchor": "muc-5-2-6-3",
+    "title": "5.2.6.3  Khi kiểm tra cấu kiện kết cấu thép cần chú trọng xem xét tình trạng các mối hàn, bu lông, đinh tán ... ở các mắt liên kết; cần chú ý đến dạng liên kết của cột thép với dầm, các thanh giằng, tình trạng hư hỏng của liên kết chân cột với móng, tình trạng võng, xoắn, bản mã của vì kèo bị gãy và tình trạng độ võng, độ nghiêng lệch của vì kèo.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 427,
+    "line_end": 428
+  },
+  {
+    "clause_id": "muc-5-2-6-4",
+    "anchor": "muc-5-2-6-4",
+    "title": "5.2.6.4  Cấu kiện kết cấu thép được đánh giá là nguy hiểm khi có một trong những hiện tượng sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 431,
+    "line_end": 448
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Đánh giá mức độ nguy hiểm của nhà",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 451,
+    "line_end": 452
+  },
+  {
+    "clause_id": "muc-5-3-1",
+    "anchor": "muc-5-3-1",
+    "title": "5.3.1  Nguyên tắc đánh giá chung",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 455,
+    "line_end": 456
+  },
+  {
+    "clause_id": "muc-5-3-1-1",
+    "anchor": "muc-5-3-1-1",
+    "title": "5.3.1.1  Nhà nguy hiểm là nhà mà kết cấu bị hư hỏng nghiêm trọng, hoặc cấu kiện chịu lực thuộc loại cấu kiện nguy hiểm, bất kỳ lúc nào cũng có thể mất ổn định và khả năng chịu lực, không bảo đảm an toàn sử dụng.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 459,
+    "line_end": 460
+  },
+  {
+    "clause_id": "muc-5-3-1-2",
+    "anchor": "muc-5-3-1-2",
+    "title": "5.3.1.2  Đánh giá mức độ nguy hiểm của nhà căn cứ vào đặc điểm cấu tạo và loại kết cấu chịu lực của nó.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 463,
+    "line_end": 464
+  },
+  {
+    "clause_id": "muc-5-3-2",
+    "anchor": "muc-5-3-2",
+    "title": "5.3.2  Phân cấp nguy hiểm của nhà",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 467,
+    "line_end": 468
+  },
+  {
+    "clause_id": "muc-5-3-2-1",
+    "anchor": "muc-5-3-2-1",
+    "title": "5.3.2.1  Nhà được chia làm 3 bộ phận là: nền móng, kết cấu chịu lực ở bên trên và kết cấu bao che.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 471,
+    "line_end": 472
+  },
+  {
+    "clause_id": "muc-5-3-2-2",
+    "anchor": "muc-5-3-2-2",
+    "title": "5.3.2.2  Đánh giá mức độ nguy hiểm của các bộ phận của nhà được phân theo các cấp:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 475,
+    "line_end": 484
+  },
+  {
+    "clause_id": "muc-5-3-2-3",
+    "anchor": "muc-5-3-2-3",
+    "title": "5.3.2.3  Đánh giá mức độ nguy hiểm của cả nhà được quy định như sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 487,
+    "line_end": 496
+  },
+  {
+    "clause_id": "muc-5-3-3",
+    "anchor": "muc-5-3-3",
+    "title": "5.3.3  Nguyên tắc đánh giá tổng hợp",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 499,
+    "line_end": 500
+  },
+  {
+    "clause_id": "muc-5-3-3-1",
+    "anchor": "muc-5-3-3-1",
+    "title": "5.3.3.1  Đánh giá mức độ nguy hiểm của nhà phải dựa trên cơ sở đánh giá mức độ nguy hiểm của nền móng, cấu kiện, kết cấu toàn bộ nhà, kết hợp với lịch sử của nó, ảnh hưởng môi trường và xu hướng phát triển để phân tích toàn diện và phán đoán tổng hợp.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 503,
+    "line_end": 504
+  },
+  {
+    "clause_id": "muc-5-3-3-2",
+    "anchor": "muc-5-3-3-2",
+    "title": "5.3.3.2  Khi phân tích nguy hiểm của nền móng hoặc cấu kiện, cần xem xét sự nguy hiểm của chúng là độc lập hay tương quan. Khi tính nguy hiểm của cấu kiện chỉ mang tính chất độc lập, thì không tạo thành nguy hiểm cho cả hệ thống; khi nguy hiểm là tương quan (tức là có liêu quan với nhau), thì phải xem xét mức độ nguy hiểm của hệ kết cấu để dự đoán phạm vi của chúng.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 507,
+    "line_end": 508
+  },
+  {
+    "clause_id": "muc-5-3-3-3",
+    "anchor": "muc-5-3-3-3",
+    "title": "5.3.3.3  Khi phân tích toàn diện, dự đoán tổng hợp, phải xem xét các yếu tố sau đây:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 511,
+    "line_end": 526
+  },
+  {
+    "clause_id": "muc-5-3-4",
+    "anchor": "muc-5-3-4",
+    "title": "5.3.4  Phương pháp đánh giá tổng hợp",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 529,
+    "line_end": 530
+  },
+  {
+    "clause_id": "muc-5-3-4-1",
+    "anchor": "muc-5-3-4-1",
+    "title": "5.3.4.1  Căn cứ vào sự phân cấp đánh giá nói trên để xác định tổng số cấu kiện nguy hiểm.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 533,
+    "line_end": 534
+  },
+  {
+    "clause_id": "muc-5-3-4-2",
+    "anchor": "muc-5-3-4-2",
+    "title": "5.3.4.2  Tỉ số phần trăm cấu kiện nguy hiểm trong nền móng được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 537,
+    "line_end": 538
+  },
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$\\rho _{fdm} = \\frac{n_{d}}{n}x100\\% \\qquad (1)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 541,
+    "line_end": 551
+  },
+  {
+    "clause_id": "muc-5-3-4-3",
+    "anchor": "muc-5-3-4-3",
+    "title": "5.3.4.3  Tỉ số phần trăm cấu kiện nguy hiểm trong kết cấu chịu lực được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 554,
+    "line_end": 555
+  },
+  {
+    "clause_id": "formula-2",
+    "anchor": "formula-2",
+    "title": "$$\\rho _{sdm} = \\frac{[2,4n_{dc} + 2,4n_{dw} + 1,9(n_{dmb} + n}{} \\qquad (2)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 558,
+    "line_end": 588
+  },
+  {
+    "clause_id": "muc-5-3-4-4",
+    "anchor": "muc-5-3-4-4",
+    "title": "5.3.4.4  Tỉ số phần trăm cấu kiện nguy hiểm trong kết cấu bao che được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 591,
+    "line_end": 604
+  },
+  {
+    "clause_id": "muc-5-3-4-5",
+    "anchor": "muc-5-3-4-5",
+    "title": "5.3.4.5  Hàm phụ thuộc của các bộ phận nhà cấp a được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 607,
+    "line_end": 608
+  },
+  {
+    "clause_id": "formula-4",
+    "anchor": "formula-4",
+    "title": "$$\\mu _{a} = 1( \\rho  = 0\\%) \\qquad (4)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 611,
+    "line_end": 619
+  },
+  {
+    "clause_id": "muc-5-3-4-6",
+    "anchor": "muc-5-3-4-6",
+    "title": "5.3.4.6  Hàm phụ thuộc của các bộ phận nhà cấp b được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 622,
+    "line_end": 623
+  },
+  {
+    "clause_id": "formula-5",
+    "anchor": "formula-5",
+    "title": "$$\\mu _{b} = \\left[1 \\rho  \\le 5\\%(30\\%− \\rho )/25\\%5\\% <  \\rho  < 30\\%0 \\rho  \\ge 30\\%\\{\\right] \\qquad (5)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 626,
+    "line_end": 634
+  },
+  {
+    "clause_id": "muc-5-3-4-7",
+    "anchor": "muc-5-3-4-7",
+    "title": "5.3.4.7  Hàm phụ thuộc của các bộ phận nhà cấp c được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 637,
+    "line_end": 638
+  },
+  {
+    "clause_id": "formula-6",
+    "anchor": "formula-6",
+    "title": "$$\\mu _{c} = \\left[0 \\rho  \\le 5\\%( \\rho −5\\%)/25\\%5\\% <  \\rho  < 30\\%(100\\%− \\rho )/70\\%30\\% \\le  \\rho  \\le 100\\%\\{\\right] \\qquad (6)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 641,
+    "line_end": 649
+  },
+  {
+    "clause_id": "muc-5-3-4-8",
+    "anchor": "muc-5-3-4-8",
+    "title": "5.3.4.8  Hàm phụ thuộc của các bộ phận nhà cấp d được tính như sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 652,
+    "line_end": 653
+  },
+  {
+    "clause_id": "formula-7",
+    "anchor": "formula-7",
+    "title": "$$\\mu _{d} = \\left[0 \\rho  \\le 30\\%( \\rho −30\\%)/70\\%30\\% <  \\rho  < 100\\%1 \\rho  = 100\\%\\{\\right] \\qquad (7)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 656,
+    "line_end": 664
+  },
+  {
+    "clause_id": "muc-5-3-4-9",
+    "anchor": "muc-5-3-4-9",
+    "title": "5.3.4.9  Hàm phụ thuộc của nhà cấp A được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 667,
+    "line_end": 668
+  },
+  {
+    "clause_id": "formula-8",
+    "anchor": "formula-8",
+    "title": "$$\\mu _{A} = max[min(0,3; \\mu _{af}),min(0,6; \\mu _{as}),min(0,1; \\mu _{aes})] \\qquad (8)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 671,
+    "line_end": 683
+  },
+  {
+    "clause_id": "muc-5-3-4-10",
+    "anchor": "muc-5-3-4-10",
+    "title": "5.3.4.10  Hàm phụ thuộc của nhà cấp B được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 686,
+    "line_end": 687
+  },
+  {
+    "clause_id": "formula-9",
+    "anchor": "formula-9",
+    "title": "$$\\mu _{B} = max[min(0,3; \\mu _{bf}),min(0,6; \\mu _{bs}),min(0,1; \\mu _{bes})] \\qquad (9)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 690,
+    "line_end": 702
+  },
+  {
+    "clause_id": "muc-5-3-4-11",
+    "anchor": "muc-5-3-4-11",
+    "title": "5.3.4.11  Hàm phụ thuộc của nhà cấp C được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 705,
+    "line_end": 706
+  },
+  {
+    "clause_id": "muc-5-3-4-12",
+    "anchor": "muc-5-3-4-12",
+    "title": "5.3.4.12  Hàm phụ thuộc của nhà cấp D được tính theo công thức sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 724,
+    "line_end": 725
+  },
+  {
+    "clause_id": "formula-10",
+    "anchor": "formula-10",
+    "title": "$$\\mu _{D} = max[min(0,3; \\mu _{df}),min(0,6; \\mu _{ds}),min(0,1; \\mu _{des})] \\qquad (10)$$",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 728,
+    "line_end": 740
+  },
+  {
+    "clause_id": "muc-5-3-4-13",
+    "anchor": "muc-5-3-4-13",
+    "title": "5.3.4.13  Tùy thuộc vào các trị số của hàm phụ thuộc,có thể đánh giá như sau:",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 743,
+    "line_end": 756
+  },
+  {
+    "clause_id": "muc-5-3-4-14",
+    "anchor": "muc-5-3-4-14",
+    "title": "5.3.4.14  Những nhà khác có kết cấu đơn giản có thể đánh giá trực tiếp theo các nguyên tắc trong 5.3.3.",
+    "source_file": "tcvn_9381_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 759,
+    "line_end": 763
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Trình tự và nội dung khảo sát kỹ thuật nhà",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Trình tự khảo sát kỹ thuật",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 7
+  },
+  {
+    "clause_id": "muc-a-1-1",
+    "anchor": "muc-a-1-1",
+    "title": "A.1.1  Mục đích khảo sát là xác định tình trạng kỹ thuật của các điều kiện, kết cấu và của nhà, đánh giá định lượng các đặc trưng hiện trạng của cấu kiện, kết cấu có kể đến sự thay đổi của chúng theo thời gian.",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 11
+  },
+  {
+    "clause_id": "muc-a-1-2",
+    "anchor": "muc-a-1-2",
+    "title": "A.1.2  Khảo sát kỹ thuật bao gồm các giai đoạn: khảo sát sơ bộ, khảo sát chi tiết, lập báo cáo, trên cơ sở đó xác định tính nguy hiểm của nhà hoặc bộ phận của nó.",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 15
+  },
+  {
+    "clause_id": "muc-a-1-3",
+    "anchor": "muc-a-1-3",
+    "title": "A.1.3  Trong giai đoạn khảo sát sơ bộ cần tiến hành nghiên cứu các tài liệu lưu trữ, tiêu chuẩn đã dùng để thiết kế, thu thập các tài liệu liên quan, bao gồm:",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 39
+  },
+  {
+    "clause_id": "muc-a-1-4",
+    "anchor": "muc-a-1-4",
+    "title": "A.1.4  Khảo sát chi tiết nhằm mục đích xác định lại sơ đồ kết cấu, kích thước cấu kiện, tình trạng của vật liệu và kết cấu tổng thể. Khi khảo sát chi tiết, bằng những dụng cụ và thiết bị chuyên dụng, cần tiến hành các công việc sau:",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 51
+  },
+  {
+    "clause_id": "muc-a-1-5",
+    "anchor": "muc-a-1-5",
+    "title": "A.1.5  Báo cáo khảo sát chi tiết bao gồm:",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 83
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Nội dung khảo sát chi tiết các kết cấu nhà",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 87
+  },
+  {
+    "clause_id": "muc-a-2-1",
+    "anchor": "muc-a-2-1",
+    "title": "A.2.1  Khảo sát nền móng",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 101
+  },
+  {
+    "clause_id": "muc-a-2-1-1",
+    "anchor": "muc-a-2-1-1",
+    "title": "A.2.1.1  Khảo sát hiện trạng các công trình lân cận",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 104,
+    "line_end": 117
+  },
+  {
+    "clause_id": "muc-a-2-1-2",
+    "anchor": "muc-a-2-1-2",
+    "title": "A.2.1.2  Khảo sát hiện trạng móng công trình",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 129
+  },
+  {
+    "clause_id": "muc-a-2-1-3",
+    "anchor": "muc-a-2-1-3",
+    "title": "A.2.1.3  Khảo sát địa chất công trình",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 132,
+    "line_end": 139
+  },
+  {
+    "clause_id": "muc-a-2-1-4",
+    "anchor": "muc-a-2-1-4",
+    "title": "A.2.1.4  Quan trắc lún, nghiêng của công trình (nếu cần)",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 145
+  },
+  {
+    "clause_id": "muc-a-2-2",
+    "anchor": "muc-a-2-2",
+    "title": "A.2.2  Khảo sát kết cấu phần thân",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 148,
+    "line_end": 149
+  },
+  {
+    "clause_id": "muc-a-2-2-1",
+    "anchor": "muc-a-2-2-1",
+    "title": "A.2.2.1  Khảo sát kết cấu chung",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 163
+  },
+  {
+    "clause_id": "muc-a-2-2-2",
+    "anchor": "muc-a-2-2-2",
+    "title": "A.2.2.2  Khảo sát kết cấu sàn",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 166,
+    "line_end": 171
+  },
+  {
+    "clause_id": "muc-a-2-2-3",
+    "anchor": "muc-a-2-2-3",
+    "title": "A.2.2.3  Khảo sát ban công, lôgia",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 174,
+    "line_end": 185
+  },
+  {
+    "clause_id": "muc-a-2-2-4",
+    "anchor": "muc-a-2-2-4",
+    "title": "A.2.2.4  Khảo sát mái",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 188,
+    "line_end": 201
+  },
+  {
+    "clause_id": "muc-a-2-2-5",
+    "anchor": "muc-a-2-2-5",
+    "title": "A.2.2.5  Khảo sát cầu thang",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 204,
+    "line_end": 237
+  },
+  {
+    "clause_id": "muc-a-2-2-6",
+    "anchor": "muc-a-2-2-6",
+    "title": "A.2.2.6  Khảo sát tường",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 240,
+    "line_end": 253
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "![Hình A.1](../figures/images/hinh_a_1.png)",
+    "source_file": "annexes/phu_luc_a_trinh_tu_va_noi_dung_khao_sat_ky_thuat_nha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 256,
+    "line_end": 264
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Vết nứt trong kết cấu bê tông cốt thép",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-b-1",
+    "anchor": "muc-b-1",
+    "title": "B.1  Phân loại vết nứt",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 7
+  },
+  {
+    "clause_id": "muc-b-1-1",
+    "anchor": "muc-b-1-1",
+    "title": "B.1.1  Vết nứt trong kết cấu bê tông cốt thép do nhiều nguyên nhân gây nên như do tác động của lực hoặc do ứng suất nhiệt và ứng suất co ngót. Thông thường phân loại vết nứt như sau:",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 31
+  },
+  {
+    "clause_id": "muc-b-1-2",
+    "anchor": "muc-b-1-2",
+    "title": "B.1.2  Nghiên cứu đặc điểm của vết nứt và sự mở rộng của chúng trong phần lớn trường hợp có thể xác định được nguyên nhân hình thành vết nứt cũng như đánh giá được mức độ nguy hiểm của kết cấu.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 34,
+    "line_end": 39
+  },
+  {
+    "clause_id": "muc-b-2",
+    "anchor": "muc-b-2",
+    "title": "B.2  Vết nứt trong bản sàn toàn khối",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 43
+  },
+  {
+    "clause_id": "muc-b-2-1",
+    "anchor": "muc-b-2-1",
+    "title": "B.2.1  Vết nứt trong bản sàn do tác động của lực gây nên phụ thuộc vào sơ đồ tính của bản: loại và đặc trưng của tác động, cách đặt cốt thép và tỉ lệ giữa các nhịp. Khi đó, vết nứt xuất hiện theo phương vuông góc với ứng suất kéo chính (xem Hình B.1)",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 46,
+    "line_end": 47
+  },
+  {
+    "clause_id": "bang-bang-b-1",
+    "anchor": "bang-bang-b-1",
+    "title": "Bảng B.1 - Vết nứt do tác động của lực trong kết cấu bê tông cốt thép",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 50,
+    "line_end": 58
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b",
+    "anchor": "bang-bang-phu-luc-b",
+    "title": "Bảng Phụ lục B",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 66
+  },
+  {
+    "clause_id": "hinh-b_1",
+    "anchor": "hinh-b_1",
+    "title": "![Hình B.1](../figures/images/hinh_b_1.png)",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 79
+  },
+  {
+    "clause_id": "muc-b-2-2",
+    "anchor": "muc-b-2-2",
+    "title": "B.2.2  Những nguyên nhân gây nên sự mở rộng vết nứt do tác động của lực thường là do bản sàn bị quá tải, không đủ cốt thép chịu lực hoặc bố trí thép không đúng (lưới thép bị dịch xuống gần trục trung hòa).",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "muc-b-3",
+    "anchor": "muc-b-3",
+    "title": "B.3  Vết nứt trong sàn panel lắp ghép",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 87
+  },
+  {
+    "clause_id": "muc-b-3-1",
+    "anchor": "muc-b-3-1",
+    "title": "B.3.1  Các panel sườn lắp ghép loại chữ vẽ và 2T là kết cấu tổ chức hợp từ dầm (sườn) và bản. Vì vậy, đặc trưng hình thành vết nứt trong loại kết cấu này do tải trọng sử dụng không khác trong dầm và bản sàn (Hình B.2). Mặt khác, do hình dáng phức tạp, đặt cốt thép dầy nên khi sản xuất panel thường có những khuyết tật công nghệ dưới dạng vết vỡ và vết nứt do co ngót như: các vết nứt dọc theo cốt thép , do bê tông được đầm không liên tục; vết nứt do biến dạng khuôn, tỉ lệ xi măng : nước (X : N) lớn.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 91
+  },
+  {
+    "clause_id": "hinh-b_2",
+    "anchor": "hinh-b_2",
+    "title": "![Hình B.2](../figures/images/hinh_b_2.png)",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 102
+  },
+  {
+    "clause_id": "muc-b-4",
+    "anchor": "muc-b-4",
+    "title": "B.4  Vết nứt trong dầm có đặt cốt thép thường.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 106
+  },
+  {
+    "clause_id": "muc-b-4-1",
+    "anchor": "muc-b-4-1",
+    "title": "B.4.1  Trong dầm thường xuất hiện những vết nứt thẳng góc hoặc vết nứt xiên với trục dọc cấu kiện. Những vết nứt thẳng góc thường xuất hiện ở vùng chịu mô men uốn lớn nhất, còn những vết nứt xiên  - ở vùng chịu ứng suất tiếp lớn nhất, gần gối tựa.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 109,
+    "line_end": 110
+  },
+  {
+    "clause_id": "muc-b-4-2",
+    "anchor": "muc-b-4-2",
+    "title": "B.4.2  Sự hình thành vết nứt trong dầm chủ yếu phụ thuộc vào sơ đồ tính của dầm, tiết diện ngang và trạng thái ứng suất trong dầm. Trên Hình B.3 thể hiện các vết nứt do tác động của lực trong dầm đơn giản và liên tục có tiết diện chữ nhật. Đặc điểm điển hình  là những vết nứt thẳng góc có bề rộng lớn nhất ở biên chịu kéo, trong khi những vết nứt xiên - ở gần trọng tâm tiết diện.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 114
+  },
+  {
+    "clause_id": "muc-b-4-3",
+    "anchor": "muc-b-4-3",
+    "title": "B.4.3  Những vết nứt thẳng góc có bề rộng lớn hơn 0,5 mm thường chứng tỏ dầm bị quá tải hoặc không bố trí đủ cốt thép chịu lực.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 118
+  },
+  {
+    "clause_id": "muc-b-4-4",
+    "anchor": "muc-b-4-4",
+    "title": "B.4.4  Những vết nứt xiên, đặc biệt ở vùng neo cốt thép dọc chịu lực, được cho là nguy hiểm vì chúng có thể làm cho dầm gãy bất ngờ. Nguyên nhân gây nên sự hình thành và mở rộng vết nứt xiên thường là chất lượng bê tông kém, bước cốt đai thưa, chất lượng hàn cốt thép dọc và cốt đai kém.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 122
+  },
+  {
+    "clause_id": "muc-b-5",
+    "anchor": "muc-b-5",
+    "title": "B.5  Vết nứt trong dầm ứng lực trước.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 126
+  },
+  {
+    "clause_id": "muc-b-5-1",
+    "anchor": "muc-b-5-1",
+    "title": "B.5.1  Các dầm ứng lực trước thường phải tuân theo yêu cầu cao về khả năng chống nứt. Vì vậy, sự xuất hiện các vết nứt có bề rộng lớn thường chứng tỏ dầm bị quá tải, hoặc sai sót nghiêm trọng trong công nghệ chế tạo dầm.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 130
+  },
+  {
+    "clause_id": "muc-b-5-2",
+    "anchor": "muc-b-5-2",
+    "title": "B.5.2  Trên hình B.2 thể hiện những vết nứt đặc trưng trong dầm ứng lực trước. Trong Bảng B.2 thể hiện những nguyên nhân có thể gây nên những vết nứt có bề rộng đáng kể.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 149
+  },
+  {
+    "clause_id": "hinh-b_3",
+    "anchor": "hinh-b_3",
+    "title": "![Hình B.3](../figures/images/hinh_b_3.png)",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 162
+  },
+  {
+    "clause_id": "muc-b-6",
+    "anchor": "muc-b-6",
+    "title": "B.6  Vết nứt trong cột bê tông cốt thép",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 165,
+    "line_end": 166
+  },
+  {
+    "clause_id": "muc-b-6-1",
+    "anchor": "muc-b-6-1",
+    "title": "B.6.1  Những vết nứt trong cột phụ thuộc chủ yếu vào trạng thái nén lệch tâm và đặc trưng của tải trọng tác dụng. Ngoài ra, còn do ảnh hưởng của cường độ bê tông, bố trí cốt thép, điều kiện đông cứng của bê tông... Khi tải trọng lệch tâm lớn, trong vùng kéo có thể hình thành các vết nứt ngang có bề rộng lớn (số 1, Hình B.4) chứng tỏ cột bị quá tải hoặc đặt cốt thép không đủ. Khi độ lệch tâm nhỏ xuất hiện những vết nứt thẳng đứng (số 2) chứng tỏ thân cột bị quá tải hoặc cường độ bê tông thấp.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 170
+  },
+  {
+    "clause_id": "muc-b-6-2",
+    "anchor": "muc-b-6-2",
+    "title": "B.6.2  Chất lượng hàn cốt thép dọc và cốt đai kém hoặc bước cốt đai lớn dẫn đến sự mất ổn định của cốt thép dọc chịu nén và xuất hiện các vết nứt số 3. Khi không có cốt gián tiếp ở vùng tập trung ứng suất ở đỉnh cột thường gây nên vết nứt thẳng đứng số 4.",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 173,
+    "line_end": 178
+  },
+  {
+    "clause_id": "bang-bang-b-2",
+    "anchor": "bang-bang-b-2",
+    "title": "Bảng B.2 - Vết nứt trong dầm bê tông cốt thép",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 192
+  },
+  {
+    "clause_id": "hinh-b_4",
+    "anchor": "hinh-b_4",
+    "title": "![Hình B.4](../figures/images/hinh_b_4.png)",
+    "source_file": "annexes/phu_luc_b_vet_nut_trong_ket_cau_be_tong_cot_thep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 195,
+    "line_end": 203
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Vết nứt trong két cấu xây gạch",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-c-1",
+    "anchor": "muc-c-1",
+    "title": "C.1  Những yếu tố gây nên vết nứt",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 7
+  },
+  {
+    "clause_id": "muc-c-1-1",
+    "anchor": "muc-c-1-1",
+    "title": "C.1.1  Kết cấu xây gạch (sau đây gọi tắt là thể xây) có khả năng chịu nén lớn hơn nhiều so với khả năng chịu kéo. Vì vậy, ở bên mặt chịu kéo của thể xây, thường xuất hiện nhiều vết nứt khi thể xây bị phá hoại. Những yếu tố có khả năng gây nên vết nứt thường là:",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 25
+  },
+  {
+    "clause_id": "muc-c-1-2",
+    "anchor": "muc-c-1-2",
+    "title": "C.1.2  Khi phân tích hiện tượng nứt trong thể xây, cần chú ý khi có vết nứt trong gạch chứng tỏ thể xây bị quá tải. Nếu vết nứt vẫn phát triển chứng tỏ thể xây bị quá tải nhiều và cần được giảm tải ngay hoặc gia cường.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 29
+  },
+  {
+    "clause_id": "muc-c-2",
+    "anchor": "muc-c-2",
+    "title": "C.2  Vết nứt trong cột gạch chịu nén lệch tâm",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 32,
+    "line_end": 33
+  },
+  {
+    "clause_id": "muc-c-2-1",
+    "anchor": "muc-c-2-1",
+    "title": "C.2.1  Đặc trưng hình thành vết nứt trong cột gạch tùy thuộc vào độ lệch tâm của lực tác dụng.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 41
+  },
+  {
+    "clause_id": "muc-c-2-2",
+    "anchor": "muc-c-2-2",
+    "title": "C.2.2  Cột gạch chịu nén lệch tâm có những vết nứt dọc và ngang với bề rộng trên 0,5 mm cần phải gia cường.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 45
+  },
+  {
+    "clause_id": "muc-c-3",
+    "anchor": "muc-c-3",
+    "title": "C.3  Vết nứt trong tường gạch",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 49
+  },
+  {
+    "clause_id": "muc-c-3-1",
+    "anchor": "muc-c-3-1",
+    "title": "C.3.1  Nguyên nhân làm cho tường bị nứt có thể là ngoại lực hoặc nội lực do ảnh hưởng của môi trường xung quanh và do các quá trình lý-hóa xảy ra trong vật liệu thể xây. Trong những nhà có sàn bê tông làm việc cùng với tường, nguyên nhân gây xuất hiện vết nứt có thể là do chênh lệch hệ số giãn nở nhiệt của bê tông và tường gạch.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 53
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c",
+    "anchor": "bang-bang-phu-luc-c",
+    "title": "Bảng Phụ lục C",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 60
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "![Hình C.1](../figures/images/hinh_c_1.png)",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 71
+  },
+  {
+    "clause_id": "muc-c-3-2",
+    "anchor": "muc-c-3-2",
+    "title": "C.3.2  Các vết nứt trong tường có hướng và độ sâu khác nhau. Khi tường chịu nén đúng tâm, trong vùng bị quá tải xuất hiện những vết nứt thẳng đứng song song với hướng tác dụng của lực và xuyên suốt chiều rộng tường. Khi tường chịu nén lệch tâm, có thể hình thành những vết nứt ngang không sâu, đồng thời tường bị cong phình. Nếu không có đệm dưới đầu dầm bê tông cốt thép hoặc dầm thép thì tại gối tựa thường xuất hiện những vết nứt thẳng đứng không sâu chứng tỏ ứng suất nén trong thể xây là rất lớn.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 74,
+    "line_end": 75
+  },
+  {
+    "clause_id": "muc-c-3-3",
+    "anchor": "muc-c-3-3",
+    "title": "C.3.3  Trong số những tác động gây ra vết nứt, tác động do móng dưới tường bị lún lệch là rất nguy hiểm. Ví dụ, trong nhà không có tầng hầm, nguyên nhân gây lún lệch có thể là do đào hố dưới mức đế móng hoặc đào hố móng của nhà bên cạnh. Đóng cọc bên cạnh nhà cũng gây nên sự hình thành vết nứt.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 79
+  },
+  {
+    "clause_id": "muc-c-3-4",
+    "anchor": "muc-c-3-4",
+    "title": "C.3.4  Hình C.2 minh họa hư hỏng nguy hiểm của tường. Nguyên nhân có thể gây nên vết nứt cho trong Bảng C.1.",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c-2",
+    "anchor": "bang-bang-phu-luc-c-2",
+    "title": "Bảng Phụ lục C (Phần 2)",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 92
+  },
+  {
+    "clause_id": "hinh-c_2",
+    "anchor": "hinh-c_2",
+    "title": "![Hình C.2](../figures/images/hinh_c_2.png)",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 95,
+    "line_end": 105
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Nguyên nhân gây nứt trong tường",
+    "source_file": "annexes/phu_luc_c_vet_nut_trong_ket_cau_xay_gach.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 118
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Tham khảo) — Ví dụ tính toán",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 67
+  },
+  {
+    "clause_id": "phu-luc-d-muc-1",
+    "anchor": "phu-luc-d-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 70,
+    "line_end": 71
+  },
+  {
+    "clause_id": "phu-luc-d-muc-2",
+    "anchor": "phu-luc-d-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 74,
+    "line_end": 75
+  },
+  {
+    "clause_id": "phu-luc-d-muc-3",
+    "anchor": "phu-luc-d-muc-3",
+    "title": "3  KÝ HIỆU",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 79
+  },
+  {
+    "clause_id": "phu-luc-d-muc-4",
+    "anchor": "phu-luc-d-muc-4",
+    "title": "4  TRÌNH TỰ ĐÁNH GIÁ MỨC ĐỘ NGUY HIỂM CỦA NHÀ",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "phu-luc-d-muc-5",
+    "anchor": "phu-luc-d-muc-5",
+    "title": "5  PHƯƠNG PHÁP ĐÁNH GIÁ",
+    "source_file": "annexes/phu_luc_d_vi_du_tinh_toan.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 106,
+    "line_end": 107
+  }
+]

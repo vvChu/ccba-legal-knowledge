@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_10",
+  "table_number": "10",
+  "table_title": "Bảng 10 - Độ lệch cho phép của trục cọc trên mặt bằng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại cọc và vị trí của chúng",
+    "Độ lệch cho phép của trục cọc trên mặt bằng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại cọc và vị trí của chúng": "1. Các cọc đứng có tiết diện vuông và chữ nhật, các cọc đóng hình tròn rỗng có đường kính nhỏ hơn 0,5 m\na) Khi bố trí cọc 1 hàng:\n&nbsp;&nbsp;\\- Trục ngang của hàng cọc\n&nbsp;&nbsp;\\- Trục dọc của hàng cọc\nb) Khi bố trí các nhóm và dải cọc theo 2 và 3 hàng:\n&nbsp;&nbsp;\\- Đối với các cọc biên trục ngang của hàng cọc\n&nbsp;&nbsp;\\- Đối với các cọc còn lại và cọc biên trục dọc của hàng cọc\nc) Khi bãi cọc kín khắp dưới toàn bộ nhà và công trình:\n&nbsp;&nbsp;\\- Đối với các cọc biên\n&nbsp;&nbsp;\\- Đối với các cọc giữa\nd) Đối với cọc đơn\ne) Đối với cọc chống\n2. Các cọc tròn rỗng có đường kính từ 0,5 m đến 0,8 m và các cọc khoan nhồi đường kính lớn hơn 0,5 m\na) Khi bố trí các cọc theo dải trục ngang của hàng cọc\nb) Khi bố trí các cọc theo dải trục dọc của hàng và khi bố trí cụm cọc\nc) Đối với các cọc đơn tròn rỗng dưới các cột\n3. Các cọc và cọc ống hạ qua ống khoan dẫn hướng (khi xây dựng cầu)",
+      "Độ lệch cho phép của trục cọc trên mặt bằng": "0,2 d\n0,3 d\n0,3 d\n0,2 d\n0,2 d\n0,4 d\n5 cm\n3 cm\n10 cm 1\n5 cm\n8 cm\nĐộ chuyển dịch trục tại mức trên cùng của ống khoan dẫn hướng đã được lắp và gia cố chắc chắn so với vị trí thiết kế không được lớn hơn 0,025 H ở bến nước, (ở đây H là độ sâu tại nơi lắp ống dẫn hướng) và ± 25 mm ở thung lũng không có nước."
+    }
+  ],
+  "footnotes": []
+}

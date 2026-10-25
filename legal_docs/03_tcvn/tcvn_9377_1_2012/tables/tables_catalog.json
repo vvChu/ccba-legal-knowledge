@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 4,
+  "tables": [
+    {
+      "table_id": "bang_p01_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Dung sai cho phép",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_p01_01.csv",
+      "json_file": "tables/json/bang_p01_01.json",
+      "part_id": "p01"
+    },
+    {
+      "table_id": "bang_p01_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Chênh lệch độ cao giữa hai mép vật liệu lát",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_p01_02.csv",
+      "json_file": "tables/json/bang_p01_02.json",
+      "part_id": "p01"
+    },
+    {
+      "table_id": "bang_p01_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Dung sai cho phép",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_p01_03.csv",
+      "json_file": "tables/json/bang_p01_03.json",
+      "part_id": "p01"
+    },
+    {
+      "table_id": "bang_p01_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Đối tượng, phương pháp và dụng cụ kiểm tra công tác lát, láng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_p01_04.csv",
+      "json_file": "tables/json/bang_p01_04.json",
+      "part_id": "p01"
+    }
+  ]
+}

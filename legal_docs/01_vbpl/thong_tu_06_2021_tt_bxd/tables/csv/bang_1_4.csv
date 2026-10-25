@@ -1,0 +1,40 @@
+﻿STT,Loại công trình,Tiêu chí phân cấp,Cấp công trình — Đặc biệt,Cấp công trình — I,Cấp công trình — II,Cấp công trình — III,Cấp công trình — IV
+1.4.1,Công trình đường bộ,Công trình đường bộ,Công trình đường bộ,Công trình đường bộ,Công trình đường bộ,Công trình đường bộ,Công trình đường bộ
+1.4.1,1.4.1.1 Đường ô tô cao tốc,Tốc độ thiết kế (km/h),> 100,100,80; 60,,
+,1.4.1.2 Đường ô tô,Lưu lượng (nghìn xe quy đổi/ ngày đêm) hoặc Tốc độ thiết kế (km/h),> 30 hoặc > 100,10 ÷ 30 hoặc 100,3 ÷ < 10 hoặc 80,"0,5 ÷ < 3 hoặc 60","< 0,5 hoặc < 40"
+,"1.4.1.3 Đường trong đô thị: - Xác định cấp công trình theo tất cả các tiêu chí phân cấp, lấy cấp cao nhất xác định được làm cấp công trình. - Đối với đường trong đô thị có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV - Đường trên cao trong đô thị xét theo các tiêu chí tại Bảng này và quy mô kết cấu tại mục 2.5.1 Bảng 2 Phụ lục II",a) Số làn xe,,≥ 8,6,2; 4,1
+,"1.4.1.3 Đường trong đô thị: - Xác định cấp công trình theo tất cả các tiêu chí phân cấp, lấy cấp cao nhất xác định được làm cấp công trình. - Đối với đường trong đô thị có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV - Đường trên cao trong đô thị xét theo các tiêu chí tại Bảng này và quy mô kết cấu tại mục 2.5.1 Bảng 2 Phụ lục II",b) Tốc độ thiết kế (km/h),≥ 80,60,50,40,20 ÷ 30
+,"1.4.1.4 Nút giao thông (đồng mức, khác mức)",Lưu lượng xe thiết kế quy đổi (nghìn xe/ngày đêm),≥ 30,10 ÷ < 30,3 ÷ < 10,< 3,
+,"1.4.1.5 Các loại đường khác: a) Đường nông thôn b) Đường chuyên dùng để phục vụ vận chuyển, đi lại của một hoặc một số tổ chức, cá nhân nhưng không bao gồm mục 1.4.1.1 đến 1.4.1.3 (ví dụ: đường lâm nghiệp, đường khai thác mỏ, đường tạm phục vụ thi công, đường trong khu vui chơi, nghỉ dưỡng,…) Ghi chú: Đường thử nghiệm xe ô tô xác định cấp theo mục 1.4.1.2 c) Đường xe đạp; đường đi bộ",Mức độ quan trọng,,,,,Mọi quy mô
+1.4.2,Công trình đường sắt,Công trình đường sắt,Công trình đường sắt,Công trình đường sắt,Công trình đường sắt,Công trình đường sắt,Công trình đường sắt
+1.4.2,"1.4.2.1 Đường sắt đô thị (bao gồm đường tàu điện ngầm, đường tàu điện đi trên mặt đất, đường tàu điện trên cao, đường sắt một ray tự động dẫn hướng và đường xe điện bánh sắt)",Mức độ quan trọng,Cấp đặc biệt với mọi quy mô,Cấp đặc biệt với mọi quy mô,Cấp đặc biệt với mọi quy mô,Cấp đặc biệt với mọi quy mô,Cấp đặc biệt với mọi quy mô
+1.4.2,"1.4.2.2 Đường sắt quốc gia, khổ đường 1.435 mm Ghi chú: Đường sắt tốc độ cao là một loại hình của đường sắt quốc gia có tốc độ thiết kế từ 200 km/h trở lên, có khổ đường 1.435 mm, đường đôi, điện khí hóa",Tốc độ thiết kế (km/h),≥ 200,120 ÷ < 200,80 ÷ < 120,< 80,
+1.4.2,"1.4.2.3 Đường sắt quốc gia, khổ đường 1.000 mm; đường lồng, khổ đường (1.435 - 1.000) mm",Tốc độ thiết kế (km/h),,100 ÷ 120,60 ÷ < 100,< 60,
+,"1.4.2.4 Đường sắt chuyên dụng, khu vực",Tốc độ thiết kế (km/h),,,≥ 70,< 70,
+1.4.3,Công trình cầu,Công trình cầu,Công trình cầu,Công trình cầu,Công trình cầu,Công trình cầu,Công trình cầu
+1.4.3,1.4.3.1 Cầu phao,Lưu lượng quy đổi (xe/ngày đêm),,> 3.000,1.000 ÷ 3.000,700 ÷ < 1.000,500 ÷ < 700
+1.4.4,Công trình đường thủy nội địa,Công trình đường thủy nội địa,Công trình đường thủy nội địa,Công trình đường thủy nội địa,Công trình đường thủy nội địa,Công trình đường thủy nội địa,Công trình đường thủy nội địa
+1.4.4,"1.4.4.1 Công trình sửa chữa phương tiện thủy nội địa (bến, ụ, triền, đà…)",Tải trọng của tàu (nghìn DWT),,> 30,10 ÷ 30,5 ÷ < 10,< 5
+1.4.4,"1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa","1.4.4.2 Cảng, bến thủy nội địa"
+1.4.4,"a) Cảng, bến hàng hóa",Tải trọng của tàu (nghìn DWT),> 5,3 ÷ 5,"1,5 ÷ < 3","0,75 ÷ < 1,5","< 0,75"
+1.4.4,"b) Cảng, bến hành khách",Cỡ phương tiện lớn nhất (ghế),> 500,300 ÷ 500,100 ÷ < 300,50 ÷ < 100,< 50
+1.4.4,1.4.4.3 Bến phà,Lưu lượng (xe quy đổi/ngày đêm),> 1.500,700 ÷ 1.500,400 ÷ < 700,200 ÷ < 400,< 200
+1.4.4,1.4.4.4 Âu tàu,Tải trọng của tàu (nghìn DWT),> 3,"1,5 ÷ 3","0,75 ÷ < 1,5","0,2 ÷ < 0,75","< 0,2"
+,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:,1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:
+,"a) Trên sông, hồ, vịnh và đường ra đảo",Bề rộng B (m) và độ sâu H (m) nước chạy tàu,B > 120 H > 5,B = 90 ÷ < 120 H = 4 ÷ 5,B = 70 ÷ < 90 H = 3 ÷ < 4,B = 50 ÷ < 70 H = 2 ÷ < 3,B < 50 H < 2
+,b) Trên kênh đào,Bề rộng B (m) và độ sâu H (m) nước chạy tàu,B > 70 H > 5,B = 50 ÷ < 70 H = 4 ÷ 5,B = 40 ÷ < 50 H = 3 ÷ < 4,B = 30 ÷ < 40 H = 2 ÷ < 3,B < 30 H < 2
+1.4.5,Công trình hàng hải,Công trình hàng hải,Công trình hàng hải,Công trình hàng hải,Công trình hàng hải,Công trình hàng hải,Công trình hàng hải
+1.4.5,"1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão","1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão"
+1.4.5,"a) Bến cảng hàng hóa, công vụ",Tải trọng của tàu (nghìn DWT),> 70,> 40 ÷ 70,> 20 ÷ 40,> 5 ÷ 20,≤ 5
+1.4.5,b) Bến cảng hành khách,Tổng dung tích của tàu (nghìn GT),> 150,> 100 ÷ 150,> 50 ÷ 100,> 30 ÷ 50,≤ 30
+1.4.5,"c) Khu chuyển tải; khu neo đậu; khu tránh, trú bão",Tải trọng của tàu (nghìn DWT),> 70,> 40 ÷ 70,> 20 ÷ 40,> 5 ÷ 20,≤ 5
+1.4.5,"1.4.5.2 Cơ sở sửa chữa tàu biển, phương tiện thủy; âu tàu biển, ụ tàu biển và các công trình nâng hạ tàu biển khác (triền, đà, sàn nâng…)",Tải trọng của tàu (nghìn DWT),> 70,> 40 ÷ 70,> 20 ÷ 40,> 5 ÷ 20,≤ 5
+,1.4.5.3 Luồng hàng hải,Bề rộng luồng một làn B (m) hoặc Chiều sâu chạy tàu Hct (m),B > 190 hoặc Hct ≥ 16,140 < B ≤ 190 hoặc 14 ≤ Hct < 16,80 < B ≤ 140 hoặc 8 ≤ Hct < 14,50 < B ≤ 80 hoặc 5 ≤ Hct < 8,B ≤ 50 hoặc Hct < 5
+,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:,1.4.5.4 Các công trình hàng hải khác:
+,a) Phao báo hiệu hàng hải,Đường kính phao D (m),D ≥ 10,5 ≤ D < 10,3 ≤ D < 5,2 ≤ D < 3,D < 2
+,"b) Công trình chỉnh trị, đê chắn sóng, đê chắn cát, kè hướng dòng, kè bảo vệ bờ",Chiều cao lớn nhất của công trình hoặc độ sâu mực nước H (m),H > 16,12 < H ≤ 16,8 < H ≤ 12,5 ≤ H ≤ 8,< 5
+1.4.6,Công trình hàng không,Công trình hàng không,Công trình hàng không,Công trình hàng không,Công trình hàng không,Công trình hàng không,Công trình hàng không
+1.4.6,1.4.6.1 Nhà ga hàng không (Nhà ga chính),Lượt hành khách (triệu khách/năm),≥ 10,< 10,,,
+1.4.6,1.4.6.2 Khu bay,Cấp sân bay theo quy định của Tổ chức hàng không dân dụng quốc tế (ICAO),Sân bay cấp từ 4E trở lên,Sân bay cấp thấp hơn 4E,,,
+,"1.4.6.3 Các công trình bảo đảm hoạt động bay (Đài kiểm soát không lưu, Trung tâm kiểm soát đường dài, Trung tâm kiểm soát tiếp cận, Trạm radar sơ cấp/thứ cấp; không bao gồm mục 1.4.6.2 và mục 1.4.6.4)",Mức độ quan trọng,Cảng hàng không quốc tế,"Cảng hàng không, sân bay nội địa",,,
+,1.4.6.4 Hăng ga máy bay,Mức độ quan trọng,Cấp I với mọi quy mô.,Cấp I với mọi quy mô.,Cấp I với mọi quy mô.,Cấp I với mọi quy mô.,Cấp I với mọi quy mô.

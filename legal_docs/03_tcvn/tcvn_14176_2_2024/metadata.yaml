@@ -1,0 +1,37 @@
+id: tcvn_14176_2_2024
+document_number: "TCVN 14176-2:2024"
+type: Tiêu chuẩn quốc gia
+title: "TCVN 14176-2:2024 (ISO 12006-2:2015) — Công trình xây dựng - Tổ chức thông tin về công trình xây dựng - Phần 2: Khung phân loại"
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+issued_date: '2024-05-15'
+effective_date: '2024-05-15'
+bundle_path: legal_docs/03_tcvn/tcvn_14176_2_2024/
+source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14176-2-2024-Cong-trinh-xay-dung-To-chuc-thong-tin-Phan-2-Khung-phan-loai-921457.aspx
+sha256: 6d55092f6c1aaeb7c805eb0fbd50c0b7f6b781dc4c000b91219c4b33e6ac894a
+pdf_path: legal_docs/03_tcvn/tcvn_14176_2_2024/sources/tcvn_14176_2_2024.pdf
+pdf_sha256: a161bb397542f3a29ea1c9233e0dc0dccbd7030ad9eb1fe8bc7e638e6c45ebf7
+cong_bao_number: TCVN
+pdf_status: verified
+source_file: legal_docs/03_tcvn/tcvn_14176_2_2024/sources/tcvn_14176_2_2024.docx
+source_file_size_kb: 621.6
+source_assets:
+  docx:
+    sha256: 6d55092f6c1aaeb7c805eb0fbd50c0b7f6b781dc4c000b91219c4b33e6ac894a
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14176_2_2024/tcvn_14176_2_2024.docx
+    status: verified
+  pdf:
+    sha256: a161bb397542f3a29ea1c9233e0dc0dccbd7030ad9eb1fe8bc7e638e6c45ebf7
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14176_2_2024/tcvn_14176_2_2024.pdf
+    status: verified
+    origin: docx_vector_rendered
+relations:
+  references:
+  - ISO 12006-2:2015
+  - TCVN 14177-1:2024
+  - TCVN 14177-2:2024
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-11T08:19:44.000000+00:00'

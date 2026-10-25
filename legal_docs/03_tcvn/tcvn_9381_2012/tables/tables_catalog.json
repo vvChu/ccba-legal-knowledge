@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 6,
+  "tables": [
+    {
+      "table_id": "bang_b_1",
+      "table_number": "B.1",
+      "title": "Bảng B.1 - Vết nứt do tác động của lực trong kết cấu bê tông cốt thép",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_b_1.csv",
+      "json_file": "tables/json/bang_b_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b",
+      "table_number": "PLB",
+      "title": "Bảng Phụ lục B",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b.csv",
+      "json_file": "tables/json/bang_phu_luc_b.json"
+    },
+    {
+      "table_id": "bang_b_2",
+      "table_number": "B.2",
+      "title": "Bảng B.2 - Vết nứt trong dầm bê tông cốt thép",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_b_2.csv",
+      "json_file": "tables/json/bang_b_2.json"
+    },
+    {
+      "table_id": "bang_phu_luc_c",
+      "table_number": "PLC",
+      "title": "Bảng Phụ lục C",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_c.csv",
+      "json_file": "tables/json/bang_phu_luc_c.json"
+    },
+    {
+      "table_id": "bang_phu_luc_c_2",
+      "table_number": "PLC_2",
+      "title": "Bảng Phụ lục C (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_c_2.csv",
+      "json_file": "tables/json/bang_phu_luc_c_2.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Nguyên nhân gây nứt trong tường",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    }
+  ]
+}

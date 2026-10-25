@@ -1,0 +1,272 @@
+{
+  "table_id": "bang_e_1",
+  "table_number": "E.1",
+  "table_title": "Bảng E.1 - Các ký hiệu, đại lượng và đơn vị",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ký hiệu",
+    "Đại lượng",
+    "Đơn vị"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu": "A",
+      "Đại lượng": "Diện tích tiết diện ngang nằm ngang ở chiều cao h",
+      "Đơn vị": "$m^{2}$"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu": "$A_{e}$",
+      "Đại lượng": "Diện tích rò rỉ có hiệu quả",
+      "Đơn vị": "$m^{2}$"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu": "C",
+      "Đại lượng": "Nồng độ khí chữa cháy ở chiều cao h",
+      "Đơn vị": "% thể tích"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu": "$C_{i}$",
+      "Đại lượng": "Nồng độ ban đầu của khí chữa cháy trong không khí đối với cấu kiện bao che tại lúc ban đầu thời gian duy trì",
+      "Đơn vị": "% thể tích"
+    },
+    {
+      "_row_id": 5,
+      "Ký hiệu": "$C_{min}$",
+      "Đại lượng": "Nồng độ nhỏ nhất của khí chữa cháy trong không khí ở chiều cao H trong cấu kiện bao che lúc kết thúc thời gian duy trì - không nhỏ hơn nồng độ dập tắt",
+      "Đơn vị": "% thể tích"
+    },
+    {
+      "_row_id": 6,
+      "Ký hiệu": "ELA",
+      "Đại lượng": "Diện tích rò rỉ tương đương",
+      "Đơn vị": "$m^{2}$"
+    },
+    {
+      "_row_id": 7,
+      "Ký hiệu": "F",
+      "Đại lượng": "Tỷ phần rò rỉ dưới thấp, diện tích rò rỉ có hiệu quả (thực) của các chỗ rò rỉ dưới chia cho diện tích rò rỉ có hiệu quả (thực) của tất cả các chỗ rò rỉ",
+      "Đơn vị": "Không thứ nguyên"
+    },
+    {
+      "_row_id": 8,
+      "Ký hiệu": "$g_{n}$",
+      "Đại lượng": "Gia tốc trọng trường",
+      "Đơn vị": "m/$s^{2}$"
+    },
+    {
+      "_row_id": 9,
+      "Ký hiệu": "H",
+      "Đại lượng": "Chiều cao từ điểm thấp nhất trong cấu kiện bao che",
+      "Đơn vị": "m"
+    },
+    {
+      "_row_id": 10,
+      "Ký hiệu": "$H_{e}$",
+      "Đại lượng": "Chiều cao mặt phân cách tương đương",
+      "Đơn vị": "m"
+    },
+    {
+      "_row_id": 11,
+      "Ký hiệu": "$H_{o}$",
+      "Đại lượng": "Chiều cao toàn bộ của cấu kiện bao che",
+      "Đơn vị": "m"
+    },
+    {
+      "_row_id": 12,
+      "Ký hiệu": "$H_{p}$",
+      "Đại lượng": "Chiều cao yêu cầu được bảo vệ - chiều cao yêu cầu $C_{min}$ tại lúc kết thúc thời gian duy trì",
+      "Đơn vị": "m"
+    },
+    {
+      "_row_id": 13,
+      "Ký hiệu": "$k_{0}$",
+      "Đại lượng": "Đặc tính rò rỉ [xem công thức (E.1)]",
+      "Đơn vị": "$m^{3}$/(s.Pan)"
+    },
+    {
+      "_row_id": 14,
+      "Ký hiệu": "$k_{1}$",
+      "Đại lượng": "Đặc tính rò rỉ [xem công thức (E.13)]",
+      "Đơn vị": "$m^{3}$/(s.Pan)"
+    },
+    {
+      "_row_id": 15,
+      "Ký hiệu": "$k_{2}$",
+      "Đại lượng": "Hằng số tương quan [xem công thức (E.14)]",
+      "Đơn vị": "[$kg^{n}m^{3(1-n)}$]/(s.Pan)"
+    },
+    {
+      "_row_id": 16,
+      "Ký hiệu": "$k_{3}$",
+      "Đại lượng": "Hằng số đơn giản hóa [xem các công thức (E.15) và (E.16)]",
+      "Đơn vị": "m/$s^{2}$"
+    },
+    {
+      "_row_id": 17,
+      "Ký hiệu": "$k_{4}$",
+      "Đại lượng": "Hằng số đơn giản hóa [xem các công thức (E.17) và (E.18)]",
+      "Đơn vị": "Pa.$m^{3}$/kg"
+    },
+    {
+      "_row_id": 18,
+      "Ký hiệu": "n",
+      "Đại lượng": "Đặc tính rò rỉ [xem công thức (E.11)]",
+      "Đơn vị": "1"
+    },
+    {
+      "_row_id": 19,
+      "Ký hiệu": "$P_{bh}$",
+      "Đại lượng": "Độ chênh áp trong thời gian duy trì",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 20,
+      "Ký hiệu": "$P_{bt}$",
+      "Đại lượng": "Độ chênh áp trong thời gian thử quạt",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 21,
+      "Ký hiệu": "$P_{c}$",
+      "Đại lượng": "Áp suất khí quyển trong quá trình hiệu chuẩn quạt",
+      "Đơn vị": "bar"
+    },
+    {
+      "_row_id": 22,
+      "Ký hiệu": "$P_{f}$",
+      "Đại lượng": "Áp suất chênh do quạt tạo ra",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 23,
+      "Ký hiệu": "$P_{mi}$",
+      "Đại lượng": "Áp suất cột khí chữa cháy/không khí ban đầu",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 24,
+      "Ký hiệu": "$P_{mf}$",
+      "Đại lượng": "Áp suất cột khí chữa cháy/không khí lần cuối",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 25,
+      "Ký hiệu": "$P_{ref}$",
+      "Đại lượng": "Chênh lệch áp suất chuẩn đối với diện tích rò rỉ tương đương",
+      "Đơn vị": "Pa"
+    },
+    {
+      "_row_id": 26,
+      "Ký hiệu": "$P_{t}$",
+      "Đại lượng": "Áp suất khí quyển lúc thử quạt",
+      "Đơn vị": "bar"
+    },
+    {
+      "_row_id": 27,
+      "Ký hiệu": "Q",
+      "Đại lượng": "Lưu lượng thể tích vào các chỗ rò rỉ trên và ra qua các chỗ rò rỉ dưới",
+      "Đơn vị": "$m^{3}$/s"
+    },
+    {
+      "_row_id": 28,
+      "Ký hiệu": "$Q_{f}$",
+      "Đại lượng": "Lưu lượng không khí đo được qua quạt",
+      "Đơn vị": "$m^{3}$/s"
+    },
+    {
+      "_row_id": 29,
+      "Ký hiệu": "$Q_{l}$",
+      "Đại lượng": "Lưu lượng không khí, nhiệt độ và áp suất được hiệu chỉnh về điều kiện chuẩn (20°C, 1,013 bar áp suất khí quyển)",
+      "Đơn vị": "$m^{3}$/s"
+    },
+    {
+      "_row_id": 30,
+      "Ký hiệu": "$Q_{ref}$",
+      "Đại lượng": "Tốc độ rò rỉ không khí của cấu kiện bao che ở chênh lệch áp suất chuẩn $P_{ref}$",
+      "Đơn vị": "$m^{3}$/s"
+    },
+    {
+      "_row_id": 31,
+      "Ký hiệu": "t",
+      "Đại lượng": "Thời gian duy trì dự báo trước [xem các công thức (E.19) đến (E.23)]",
+      "Đơn vị": "s"
+    },
+    {
+      "_row_id": 32,
+      "Ký hiệu": "$T_{c}$",
+      "Đại lượng": "Nhiệt độ khí quyển trong quá trình hiệu chuẩn thiết bị quạt",
+      "Đơn vị": "°C"
+    },
+    {
+      "_row_id": 33,
+      "Ký hiệu": "$T_{e}$",
+      "Đại lượng": "Nhiệt độ không khí bên trong cấu kiện bao che",
+      "Đơn vị": "°C"
+    },
+    {
+      "_row_id": 34,
+      "Ký hiệu": "$T_{o}$",
+      "Đại lượng": "Nhiệt độ không khí bên ngoài cấu kiện bao che",
+      "Đơn vị": "°C"
+    },
+    {
+      "_row_id": 35,
+      "Ký hiệu": "V",
+      "Đại lượng": "Thể tích của cấu kiện bao che",
+      "Đơn vị": "$m^{3}$"
+    },
+    {
+      "_row_id": 36,
+      "Ký hiệu": "$V_{e}$",
+      "Đại lượng": "Thể tích khí chữa cháy trong cấu kiện bao che [xem công thức (E.24)]",
+      "Đơn vị": "$m^{3}$"
+    },
+    {
+      "_row_id": 37,
+      "Ký hiệu": "$V_{ef}$",
+      "Đại lượng": "Giá trị cuối cùng của $V_{e}$",
+      "Đơn vị": "$m^{3}$"
+    },
+    {
+      "_row_id": 38,
+      "Ký hiệu": "$V_{ei}$",
+      "Đại lượng": "Giá trị ban đầu của $V_{e}$",
+      "Đơn vị": "$m^{3}$"
+    },
+    {
+      "_row_id": 39,
+      "Ký hiệu": "$\\rho_{a}$",
+      "Đại lượng": "Mật độ không khí (1,205 ở 20°C và 1,013 bar)",
+      "Đơn vị": "kg/$m^{3}$"
+    },
+    {
+      "_row_id": 40,
+      "Ký hiệu": "$\\rho_{e}$",
+      "Đại lượng": "Mật độ khí chữa cháy ở 20°C và 1,013 bar áp suất khí quyển",
+      "Đơn vị": "kg/$m^{3}$"
+    },
+    {
+      "_row_id": 41,
+      "Ký hiệu": "$\\rho_{m}$",
+      "Đại lượng": "Mật độ hỗn hợp khí chữa cháy/không khí ở 20°C và 1,013 bar áp suất khí quyển",
+      "Đơn vị": "kg/$m^{3}$"
+    },
+    {
+      "_row_id": 42,
+      "Ký hiệu": "$\\rho_{mf}$",
+      "Đại lượng": "Mật độ hỗn hợp khí chữa cháy/không khí ở nồng độ $C_{min}$; 20°C và 1,013 bar",
+      "Đơn vị": "kg/$m^{3}$"
+    },
+    {
+      "_row_id": 43,
+      "Ký hiệu": "$\\rho_{mi}$",
+      "Đại lượng": "Mật độ hỗn hợp khí chữa cháy/không khí ở nồng độ ban đầu $C_{i}$; 20°C và 1,013 bar áp suất khí quyển.",
+      "Đơn vị": "kg/$m^{3}$"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Hệ số k",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại búa",
+    "Hệ số k khi vật liệu cọc là — Bê tông cốt thép",
+    "Hệ số k khi vật liệu cọc là — Gô"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại búa": "Búa đi-ê-den kiểu ống và các búa song động",
+      "Hệ số k khi vật liệu cọc là — Bê tông cốt thép": "6",
+      "Hệ số k khi vật liệu cọc là — Gô": "5"
+    },
+    {
+      "_row_id": 2,
+      "Loại búa": "Búa đơn động và đi-ê-den kiểu cần",
+      "Hệ số k khi vật liệu cọc là — Bê tông cốt thép": "5",
+      "Hệ số k khi vật liệu cọc là — Gô": "3,5"
+    },
+    {
+      "_row_id": 3,
+      "Loại búa": "Búa treo",
+      "Hệ số k khi vật liệu cọc là — Bê tông cốt thép": "3",
+      "Hệ số k khi vật liệu cọc là — Gô": "2"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** GHI CHÚ: Khi đóng các cọc ván thép, cũng như khi hạ các loại cọc bằng phương pháp xói nước khi các hệ số nói trên được tăng lên thêm 1,5 lần."
+  }
+}

@@ -1,0 +1,32 @@
+id: tcvn_7161_1_2022
+document_number: "TCVN 7161-1:2022"
+type: Tiêu chuẩn quốc gia
+title: "TCVN 7161-1:2022 (ISO 14520-1:2015) Hệ thống chữa cháy bằng khí - Tính chất vật lý và thiết kế hệ thống - Phần 1: Yêu cầu chung"
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+issued_date: '2022-12-28'
+effective_date: '2022-12-28'
+bundle_path: legal_docs/03_tcvn/tcvn_7161_1_2022/
+pdf_path: legal_docs/03_tcvn/tcvn_7161_1_2022/sources/tcvn_7161_1_2022.pdf
+pdf_sha256: 5dd92375b2c203bd59bbbd202426380d40cabdb550cf39d46dc14315d93f9712
+pdf_status: verified
+cong_bao_number: TCVN
+source_file: legal_docs/03_tcvn/tcvn_7161_1_2022/sources/tcvn_7161_1_2022.docx
+source_file_sha256: 66b2abd251bbd5735b664df642a2ee1be50b8991eb38ce37295849195b30dd1f
+source_assets:
+  pdf:
+    sha256: 5dd92375b2c203bd59bbbd202426380d40cabdb550cf39d46dc14315d93f9712
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7161_1_2022/tcvn_7161_1_2022.pdf
+    status: verified
+  docx:
+    sha256: 66b2abd251bbd5735b664df642a2ee1be50b8991eb38ce37295849195b30dd1f
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7161_1_2022/tcvn_7161_1_2022.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/TCVN/Tai-nguyen-Moi-truong/TCVN-7161-1-2022-ISO-14520-1-2015-He-thong-chua-chay-bang-khi-Phan-1-919849.aspx
+replaces:
+- TCVN 7161-1:2009
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-11T05:24:51.615347+00:00'

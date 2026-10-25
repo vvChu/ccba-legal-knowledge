@@ -1,0 +1,32 @@
+id: tcvn_7114_1_2008
+document_number: TCVN 7114-1:2008
+type: Tiêu chuẩn quốc gia
+title: "TCVN 7114-1:2008 Ecgônômi - Chiếu sáng nơi làm việc - Phần 1: Trong nhà"
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+issued_date: '2008-12-31'
+effective_date: '2008-12-31'
+bundle_path: legal_docs/03_tcvn/tcvn_7114_1_2008/
+pdf_path: legal_docs/03_tcvn/tcvn_7114_1_2008/sources/tcvn_7114_1_2008.pdf
+pdf_sha256: 5af190e7c55c0d94c074dc97948cd7ecb8acee35eb21fe5b7f119270c7f94b7a
+pdf_status: verified
+cong_bao_number: TCVN
+source_file: legal_docs/03_tcvn/tcvn_7114_1_2008/sources/tcvn_7114_1_2008.docx
+source_file_sha256: 2ef4cafe50740ad7b3a2d8c626f8601e9672770ab52063a063829e2f1f362015
+source_assets:
+  pdf:
+    sha256: 5af190e7c55c0d94c074dc97948cd7ecb8acee35eb21fe5b7f119270c7f94b7a
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7114_1_2008/tcvn_7114_1_2008.pdf
+    status: verified
+  docx:
+    sha256: 2ef4cafe50740ad7b3a2d8c626f8601e9672770ab52063a063829e2f1f362015
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7114_1_2008/tcvn_7114_1_2008.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/TCVN/Dien-dien-tu/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-trong-nha-907950.aspx
+replaces:
+- TCVN 7114:2002
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-11T05:20:35.237264+00:00'

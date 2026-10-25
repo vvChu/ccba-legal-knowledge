@@ -1,0 +1,54 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Khoảng cách an toàn đối với cửa hàng xăng dầu trên mặt nước đến các hạng mục xây dựng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Hạng mục xây dựng",
+    "Hạng mục xây dựng",
+    "Hạng mục xây dựng",
+    "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1",
+    "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2",
+    "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hạng mục xây dựng": "1. Bến đò, bến phà, cảng, cầu, khu nuôi trồng thủy sản, chợ",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1": "100",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2": "100",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3": "70"
+    },
+    {
+      "_row_id": 2,
+      "Hạng mục xây dựng": "2. Nơi sản xuất có phát hỏa hoặc tia lửa",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1": "50",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2": "50",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3": "30"
+    },
+    {
+      "_row_id": 3,
+      "Hạng mục xây dựng": "I, II",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1": "15",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2": "12",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3": "5"
+    },
+    {
+      "_row_id": 4,
+      "Hạng mục xây dựng": "III",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1": "20",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2": "15",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3": "10"
+    },
+    {
+      "_row_id": 5,
+      "Hạng mục xây dựng": "IV, V",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 1": "25",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 2": "20",
+      "Khoảng cách an toàn tối thiểu (m) — Cửa hàng cấp 3": "12"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trường hợp công trình dân dụng và các công trình xây dựng khác trong bảng có bậc chịu lửa tối thiểu cấp I, II, III và mặt tường về phía cửa hàng xăng dầu là tường ngăn cháy thì không quy định khoảng cách"
+  }
+}

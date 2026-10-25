@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_phu_luc_i",
+  "table_number": "PLI",
+  "table_title": "Bảng Phụ lục I",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày/ Ca kíp",
+    "Nơi lấy mẫu vữa thử",
+    "Các chỉ tiêu chất lượng của dung dịch — Tỷ trọng, g/cm³",
+    "Các chỉ tiêu chất lượng của dung dịch — Độ nhớt, Pa.s",
+    "Các chỉ tiêu chất lượng của dung dịch — Kết tủa %",
+    "Các chỉ tiêu chất lượng của dung dịch — Độ ổn định, g/cm³",
+    "Các chỉ tiêu chất lượng của dung dịch — Hàm lượng cát, %",
+    "Các chỉ tiêu chất lượng của dung dịch — Độ mất nước, cm³",
+    "Các chỉ tiêu chất lượng của dung dịch — Chiều dày lớp vỏ sét, mm",
+    "Các chỉ tiêu chất lượng của dung dịch — Ứng suất cắt tĩnh, kg/cm²",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày/ Ca kíp": "1",
+      "Nơi lấy mẫu vữa thử": "2",
+      "Các chỉ tiêu chất lượng của dung dịch — Tỷ trọng, g/cm³": "3",
+      "Các chỉ tiêu chất lượng của dung dịch — Độ nhớt, Pa.s": "4",
+      "Các chỉ tiêu chất lượng của dung dịch — Kết tủa %": "5",
+      "Các chỉ tiêu chất lượng của dung dịch — Độ ổn định, g/cm³": "6",
+      "Các chỉ tiêu chất lượng của dung dịch — Hàm lượng cát, %": "7",
+      "Các chỉ tiêu chất lượng của dung dịch — Độ mất nước, cm³": "8",
+      "Các chỉ tiêu chất lượng của dung dịch — Chiều dày lớp vỏ sét, mm": "9",
+      "Các chỉ tiêu chất lượng của dung dịch — Ứng suất cắt tĩnh, kg/cm²": "10",
+      "Người thực hiện (ký tên)": "11",
+      "Ghi chú": "12"
+    }
+  ],
+  "footnotes": []
+}

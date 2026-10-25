@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Trị số sai lệch",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sai lệch về kích thước và vị trí của các giếng chìm và giếng chìm hơi ép",
+    "Trị số sai lệch"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sai lệch về kích thước và vị trí của các giếng chìm và giếng chìm hơi ép": "&nbsp;&nbsp;\\- Về kích thước của tiết diện ngang:\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ Theo chiều dài và rộng\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ Theo bán kính cung tròn\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ Theo đường chéo\n&nbsp;&nbsp;\\- Theo chiều dày của thành:\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ Bê tông và bê tông đá hộc\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ Bê tông cốt thép\n&nbsp;&nbsp;\\- Chuyển dịch ngang\n&nbsp;&nbsp;\\- Tang của góc nghiêng so với phương thẳng đứng",
+      "Trị số sai lệch": "0,5 %, nhưng không lớn hơn 12 cm\n0,5 %, nhưng không lớn hơn 6 cm\n1 %\n± 30 mm\n± 10 m 0,001\nđộ sâu hạ chìm\n0,01"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,52 @@
+{
+  "table_id": "bang_phu_luc_f",
+  "table_number": "PLF",
+  "table_title": "Bảng Phụ lục F",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày/ ca kíp",
+    "Thời gian xi măng hóa — Giờ",
+    "Thời gian xi măng hóa — Phút",
+    "$N^{0}$ lỗ khoan",
+    "Vùng phụt xi măng",
+    "Độ sâu của vùng — Từ",
+    "Độ sâu của vùng — Đến",
+    "Đường kính của giếng khoan trong vùng phụt xi măng",
+    "Độ sệt của vữa theo trọng lượng, N/X",
+    "Phụt dung dịch — Số đo của áp kế, Pa",
+    "Phụt dung dịch — Áp lực toàn phần cột nước",
+    "Phụt dung dịch — Lượng dung dịch tiêu hao, L",
+    "Phụt dung dịch — Lượng xi măng tiêu hao, kg",
+    "Giữa lỗ khoan dưới áp lực — Thời gian, giờ phút",
+    "Giữa lỗ khoan dưới áp lực — Áp lực toàn phần (chiều cao cột nước), m",
+    "Giữa lỗ khoan dưới áp lực — Lượng nước tiêu hao, L",
+    "Giữa lỗ khoan dưới áp lực — Độ phút nước đơn vị, L/s.$m^{2}$",
+    "Người thực hiện (Ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày/ ca kíp": "1",
+      "Thời gian xi măng hóa — Giờ": "2",
+      "Thời gian xi măng hóa — Phút": "3",
+      "$N^{0}$ lỗ khoan": "4",
+      "Vùng phụt xi măng": "5",
+      "Độ sâu của vùng — Từ": "6",
+      "Độ sâu của vùng — Đến": "7",
+      "Đường kính của giếng khoan trong vùng phụt xi măng": "8",
+      "Độ sệt của vữa theo trọng lượng, N/X": "9",
+      "Phụt dung dịch — Số đo của áp kế, Pa": "10",
+      "Phụt dung dịch — Áp lực toàn phần cột nước": "11",
+      "Phụt dung dịch — Lượng dung dịch tiêu hao, L": "12",
+      "Phụt dung dịch — Lượng xi măng tiêu hao, kg": "13",
+      "Giữa lỗ khoan dưới áp lực — Thời gian, giờ phút": "14",
+      "Giữa lỗ khoan dưới áp lực — Áp lực toàn phần (chiều cao cột nước), m": "15",
+      "Giữa lỗ khoan dưới áp lực — Lượng nước tiêu hao, L": "16",
+      "Giữa lỗ khoan dưới áp lực — Độ phút nước đơn vị, L/s.$m^{2}$": "17",
+      "Người thực hiện (Ký tên)": "18",
+      "Ghi chú": "19"
+    }
+  ],
+  "footnotes": []
+}

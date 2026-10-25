@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 1,
+  "tables": [
+    {
+      "table_id": "bang_p02_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Nguyên tắc chuyên môn hoá áp dụng cho các loại đối tượng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_p02_01.csv",
+      "json_file": "tables/json/bang_p02_01.json",
+      "part_id": "p02"
+    }
+  ]
+}

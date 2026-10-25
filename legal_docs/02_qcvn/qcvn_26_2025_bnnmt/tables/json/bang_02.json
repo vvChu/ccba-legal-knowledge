@@ -1,0 +1,230 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Phương pháp lấy mẫu và xác định giá trị các thông số chất lượng trầm tích",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "STT",
+    "Thông số",
+    "Phương pháp quan trắc, số hiệu tiêu chuẩn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "1",
+      "Thông số": "Lấy mẫu",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 6663-19:2015;\nTCVN 6663-15:2004;\nISO 5667-Part 12"
+    },
+    {
+      "_row_id": 2,
+      "STT": "2",
+      "Thông số": "Arsenic (As)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 8467:2010;\nUS EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7010;\nUS EPA Method 7062;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 3,
+      "STT": "3",
+      "Thông số": "Cadmi (Cd)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 6496:2009;\nUS EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 4,
+      "STT": "4",
+      "Thông số": "Chì (Plumbum) (Pb)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 6496:2009;\nUS EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 5,
+      "STT": "5",
+      "Thông số": "Kẽm (Zincum) (Zn)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 6496:2009;\nUS EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 6,
+      "STT": "6",
+      "Thông số": "Đồng (Cuprum) (Cu)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 6496:2009;\nUS EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 7,
+      "STT": "7",
+      "Thông số": "Chromi (Cr)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 200.7;\nUS EPA Method 200.8;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 8,
+      "STT": "8",
+      "Thông số": "Sắt (Ferrum) (Fe)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 200.7;\nUS EPA Method 7000B;\nUS EPA Method 7010;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 9,
+      "STT": "9",
+      "Thông số": "Thủy ngân (Hydrargyrum) (Hg)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "TCVN 8882:2011;\nUS EPA Method 200.8;\nUS EPA Method 7471B;\nUS EPA Method 200.7;\nUS EPA Method 6020B"
+    },
+    {
+      "_row_id": 10,
+      "STT": "10",
+      "Thông số": "Cyanide",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "ISO 17380:2013"
+    },
+    {
+      "_row_id": 11,
+      "STT": "11",
+      "Thông số": "Phenol",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "ISO 17182:2014;\nUS EPA Method 8041A"
+    },
+    {
+      "_row_id": 12,
+      "STT": "12",
+      "Thông số": "Tổng Hydrocarbon dầu (TPH)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA 8015B"
+    },
+    {
+      "_row_id": 13,
+      "STT": "13",
+      "Thông số": "Chlordane",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 14,
+      "STT": "14",
+      "Thông số": "DDD",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 15,
+      "STT": "15",
+      "Thông số": "DDE",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 16,
+      "STT": "16",
+      "Thông số": "DDT",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 17,
+      "STT": "17",
+      "Thông số": "Dieldrin",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 18,
+      "STT": "18",
+      "Thông số": "Endrin",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 19,
+      "STT": "19",
+      "Thông số": "Lindane",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 20,
+      "STT": "20",
+      "Thông số": "Heptachlor epoxide",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8081B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 21,
+      "STT": "21",
+      "Thông số": "Polychlorinated biphenyls (PCBs)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 1668B;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 22,
+      "STT": "22",
+      "Thông số": "Dioxin/Furan (PCDD/PCDF)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 1613B;\nTCVN 10883:2016"
+    },
+    {
+      "_row_id": 23,
+      "STT": "23",
+      "Thông số": "Các hợp chất Hydrocarbon thơm đa vòng (PAHs)",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 24,
+      "STT": "",
+      "Thông số": "Acenaphthene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 25,
+      "STT": "",
+      "Thông số": "Acenaphthylene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 26,
+      "STT": "",
+      "Thông số": "Anthracene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 27,
+      "STT": "",
+      "Thông số": "Benzo [a] anthracene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 28,
+      "STT": "",
+      "Thông số": "Benzo [a] pyrene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 29,
+      "STT": "",
+      "Thông số": "Chrysene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 30,
+      "STT": "",
+      "Thông số": "Dibenz [a,h] anthracene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 31,
+      "STT": "",
+      "Thông số": "Fluoranthene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 32,
+      "STT": "",
+      "Thông số": "Fluorene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 33,
+      "STT": "",
+      "Thông số": "2-Methylnaphthalene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 34,
+      "STT": "",
+      "Thông số": "Naphthalene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 35,
+      "STT": "",
+      "Thông số": "Phenanthrene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    },
+    {
+      "_row_id": 36,
+      "STT": "",
+      "Thông số": "Pyrene",
+      "Phương pháp quan trắc, số hiệu tiêu chuẩn": "US EPA Method 8100;\nUS EPA Method 8270D;\nUS EPA Method 8270E"
+    }
+  ],
+  "footnotes": []
+}

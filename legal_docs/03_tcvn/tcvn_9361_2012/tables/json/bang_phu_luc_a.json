@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_phu_luc_a",
+  "table_number": "PLA",
+  "table_title": "Bảng Phụ lục A",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày tháng",
+    "$N^{o}$ hố móng",
+    "Số lần đập theo một vết",
+    "Độ sâu thực tế của đầm nệnm",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày tháng": "Ca kíp",
+      "$N^{o}$ hố móng": "$N^{o}$ hố móng",
+      "Số lần đập theo một vết": "Số lần đập theo một vết",
+      "Độ sâu thực tế của đầm nệnm": "Độ sâu thực tế của đầm nện\nm",
+      "Người thực hiện (ký tên)": "Người thực hiện (ký tên)",
+      "Ghi chú": "Ghi chú"
+    },
+    {
+      "_row_id": 2,
+      "Ngày tháng": "1",
+      "$N^{o}$ hố móng": "2",
+      "Số lần đập theo một vết": "3",
+      "Độ sâu thực tế của đầm nệnm": "4",
+      "Người thực hiện (ký tên)": "5",
+      "Ghi chú": "6"
+    }
+  ],
+  "footnotes": []
+}

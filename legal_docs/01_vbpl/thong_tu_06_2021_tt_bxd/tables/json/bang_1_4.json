@@ -1,0 +1,409 @@
+{
+  "table_id": "bang_1_4",
+  "title": "Bảng 1.4 Phân cấp công trình phục vụ giao thông vận tải (công trình giao thông)",
+  "rows_count": 40,
+  "columns_count": 8,
+  "headers": [
+    "STT",
+    "Loại công trình",
+    "Tiêu chí phân cấp",
+    "Cấp công trình — Đặc biệt",
+    "Cấp công trình — I",
+    "Cấp công trình — II",
+    "Cấp công trình — III",
+    "Cấp công trình — IV"
+  ],
+  "records": [
+    {
+      "STT": "1.4.1",
+      "Loại công trình": "Công trình đường bộ",
+      "Tiêu chí phân cấp": "Công trình đường bộ",
+      "Cấp công trình — Đặc biệt": "Công trình đường bộ",
+      "Cấp công trình — I": "Công trình đường bộ",
+      "Cấp công trình — II": "Công trình đường bộ",
+      "Cấp công trình — III": "Công trình đường bộ",
+      "Cấp công trình — IV": "Công trình đường bộ"
+    },
+    {
+      "STT": "1.4.1",
+      "Loại công trình": "1.4.1.1 Đường ô tô cao tốc",
+      "Tiêu chí phân cấp": "Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "> 100",
+      "Cấp công trình — I": "100",
+      "Cấp công trình — II": "80; 60",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.1.2 Đường ô tô",
+      "Tiêu chí phân cấp": "Lưu lượng (nghìn xe quy đổi/ ngày đêm) hoặc Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "> 30 hoặc > 100",
+      "Cấp công trình — I": "10 ÷ 30 hoặc 100",
+      "Cấp công trình — II": "3 ÷ < 10 hoặc 80",
+      "Cấp công trình — III": "0,5 ÷ < 3 hoặc 60",
+      "Cấp công trình — IV": "< 0,5 hoặc < 40"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.1.3 Đường trong đô thị: - Xác định cấp công trình theo tất cả các tiêu chí phân cấp, lấy cấp cao nhất xác định được làm cấp công trình. - Đối với đường trong đô thị có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV - Đường trên cao trong đô thị xét theo các tiêu chí tại Bảng này và quy mô kết cấu tại mục 2.5.1 Bảng 2 Phụ lục II",
+      "Tiêu chí phân cấp": "a) Số làn xe",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "≥ 8",
+      "Cấp công trình — II": "6",
+      "Cấp công trình — III": "2; 4",
+      "Cấp công trình — IV": "1"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.1.3 Đường trong đô thị: - Xác định cấp công trình theo tất cả các tiêu chí phân cấp, lấy cấp cao nhất xác định được làm cấp công trình. - Đối với đường trong đô thị có tổng chiều dài ≤ 1.000 m: Sau khi xác định cấp công trình theo Bảng này thì hạ xuống một cấp nhưng không thấp hơn cấp IV - Đường trên cao trong đô thị xét theo các tiêu chí tại Bảng này và quy mô kết cấu tại mục 2.5.1 Bảng 2 Phụ lục II",
+      "Tiêu chí phân cấp": "b) Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "≥ 80",
+      "Cấp công trình — I": "60",
+      "Cấp công trình — II": "50",
+      "Cấp công trình — III": "40",
+      "Cấp công trình — IV": "20 ÷ 30"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.1.4 Nút giao thông (đồng mức, khác mức)",
+      "Tiêu chí phân cấp": "Lưu lượng xe thiết kế quy đổi (nghìn xe/ngày đêm)",
+      "Cấp công trình — Đặc biệt": "≥ 30",
+      "Cấp công trình — I": "10 ÷ < 30",
+      "Cấp công trình — II": "3 ÷ < 10",
+      "Cấp công trình — III": "< 3",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.1.5 Các loại đường khác: a) Đường nông thôn b) Đường chuyên dùng để phục vụ vận chuyển, đi lại của một hoặc một số tổ chức, cá nhân nhưng không bao gồm mục 1.4.1.1 đến 1.4.1.3 (ví dụ: đường lâm nghiệp, đường khai thác mỏ, đường tạm phục vụ thi công, đường trong khu vui chơi, nghỉ dưỡng,…) Ghi chú: Đường thử nghiệm xe ô tô xác định cấp theo mục 1.4.1.2 c) Đường xe đạp; đường đi bộ",
+      "Tiêu chí phân cấp": "Mức độ quan trọng",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": "Mọi quy mô"
+    },
+    {
+      "STT": "1.4.2",
+      "Loại công trình": "Công trình đường sắt",
+      "Tiêu chí phân cấp": "Công trình đường sắt",
+      "Cấp công trình — Đặc biệt": "Công trình đường sắt",
+      "Cấp công trình — I": "Công trình đường sắt",
+      "Cấp công trình — II": "Công trình đường sắt",
+      "Cấp công trình — III": "Công trình đường sắt",
+      "Cấp công trình — IV": "Công trình đường sắt"
+    },
+    {
+      "STT": "1.4.2",
+      "Loại công trình": "1.4.2.1 Đường sắt đô thị (bao gồm đường tàu điện ngầm, đường tàu điện đi trên mặt đất, đường tàu điện trên cao, đường sắt một ray tự động dẫn hướng và đường xe điện bánh sắt)",
+      "Tiêu chí phân cấp": "Mức độ quan trọng",
+      "Cấp công trình — Đặc biệt": "Cấp đặc biệt với mọi quy mô",
+      "Cấp công trình — I": "Cấp đặc biệt với mọi quy mô",
+      "Cấp công trình — II": "Cấp đặc biệt với mọi quy mô",
+      "Cấp công trình — III": "Cấp đặc biệt với mọi quy mô",
+      "Cấp công trình — IV": "Cấp đặc biệt với mọi quy mô"
+    },
+    {
+      "STT": "1.4.2",
+      "Loại công trình": "1.4.2.2 Đường sắt quốc gia, khổ đường 1.435 mm Ghi chú: Đường sắt tốc độ cao là một loại hình của đường sắt quốc gia có tốc độ thiết kế từ 200 km/h trở lên, có khổ đường 1.435 mm, đường đôi, điện khí hóa",
+      "Tiêu chí phân cấp": "Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "≥ 200",
+      "Cấp công trình — I": "120 ÷ < 200",
+      "Cấp công trình — II": "80 ÷ < 120",
+      "Cấp công trình — III": "< 80",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "1.4.2",
+      "Loại công trình": "1.4.2.3 Đường sắt quốc gia, khổ đường 1.000 mm; đường lồng, khổ đường (1.435 - 1.000) mm",
+      "Tiêu chí phân cấp": "Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "100 ÷ 120",
+      "Cấp công trình — II": "60 ÷ < 100",
+      "Cấp công trình — III": "< 60",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.2.4 Đường sắt chuyên dụng, khu vực",
+      "Tiêu chí phân cấp": "Tốc độ thiết kế (km/h)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "",
+      "Cấp công trình — II": "≥ 70",
+      "Cấp công trình — III": "< 70",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "1.4.3",
+      "Loại công trình": "Công trình cầu",
+      "Tiêu chí phân cấp": "Công trình cầu",
+      "Cấp công trình — Đặc biệt": "Công trình cầu",
+      "Cấp công trình — I": "Công trình cầu",
+      "Cấp công trình — II": "Công trình cầu",
+      "Cấp công trình — III": "Công trình cầu",
+      "Cấp công trình — IV": "Công trình cầu"
+    },
+    {
+      "STT": "1.4.3",
+      "Loại công trình": "1.4.3.1 Cầu phao",
+      "Tiêu chí phân cấp": "Lưu lượng quy đổi (xe/ngày đêm)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 3.000",
+      "Cấp công trình — II": "1.000 ÷ 3.000",
+      "Cấp công trình — III": "700 ÷ < 1.000",
+      "Cấp công trình — IV": "500 ÷ < 700"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "Công trình đường thủy nội địa",
+      "Tiêu chí phân cấp": "Công trình đường thủy nội địa",
+      "Cấp công trình — Đặc biệt": "Công trình đường thủy nội địa",
+      "Cấp công trình — I": "Công trình đường thủy nội địa",
+      "Cấp công trình — II": "Công trình đường thủy nội địa",
+      "Cấp công trình — III": "Công trình đường thủy nội địa",
+      "Cấp công trình — IV": "Công trình đường thủy nội địa"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "1.4.4.1 Công trình sửa chữa phương tiện thủy nội địa (bến, ụ, triền, đà…)",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "",
+      "Cấp công trình — I": "> 30",
+      "Cấp công trình — II": "10 ÷ 30",
+      "Cấp công trình — III": "5 ÷ < 10",
+      "Cấp công trình — IV": "< 5"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Tiêu chí phân cấp": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Cấp công trình — Đặc biệt": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Cấp công trình — I": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Cấp công trình — II": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Cấp công trình — III": "1.4.4.2 Cảng, bến thủy nội địa",
+      "Cấp công trình — IV": "1.4.4.2 Cảng, bến thủy nội địa"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "a) Cảng, bến hàng hóa",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "> 5",
+      "Cấp công trình — I": "3 ÷ 5",
+      "Cấp công trình — II": "1,5 ÷ < 3",
+      "Cấp công trình — III": "0,75 ÷ < 1,5",
+      "Cấp công trình — IV": "< 0,75"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "b) Cảng, bến hành khách",
+      "Tiêu chí phân cấp": "Cỡ phương tiện lớn nhất (ghế)",
+      "Cấp công trình — Đặc biệt": "> 500",
+      "Cấp công trình — I": "300 ÷ 500",
+      "Cấp công trình — II": "100 ÷ < 300",
+      "Cấp công trình — III": "50 ÷ < 100",
+      "Cấp công trình — IV": "< 50"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "1.4.4.3 Bến phà",
+      "Tiêu chí phân cấp": "Lưu lượng (xe quy đổi/ngày đêm)",
+      "Cấp công trình — Đặc biệt": "> 1.500",
+      "Cấp công trình — I": "700 ÷ 1.500",
+      "Cấp công trình — II": "400 ÷ < 700",
+      "Cấp công trình — III": "200 ÷ < 400",
+      "Cấp công trình — IV": "< 200"
+    },
+    {
+      "STT": "1.4.4",
+      "Loại công trình": "1.4.4.4 Âu tàu",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "> 3",
+      "Cấp công trình — I": "1,5 ÷ 3",
+      "Cấp công trình — II": "0,75 ÷ < 1,5",
+      "Cấp công trình — III": "0,2 ÷ < 0,75",
+      "Cấp công trình — IV": "< 0,2"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Tiêu chí phân cấp": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Cấp công trình — Đặc biệt": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Cấp công trình — I": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Cấp công trình — II": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Cấp công trình — III": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:",
+      "Cấp công trình — IV": "1.4.4.5 Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu:"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "a) Trên sông, hồ, vịnh và đường ra đảo",
+      "Tiêu chí phân cấp": "Bề rộng B (m) và độ sâu H (m) nước chạy tàu",
+      "Cấp công trình — Đặc biệt": "B > 120 H > 5",
+      "Cấp công trình — I": "B = 90 ÷ < 120 H = 4 ÷ 5",
+      "Cấp công trình — II": "B = 70 ÷ < 90 H = 3 ÷ < 4",
+      "Cấp công trình — III": "B = 50 ÷ < 70 H = 2 ÷ < 3",
+      "Cấp công trình — IV": "B < 50 H < 2"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "b) Trên kênh đào",
+      "Tiêu chí phân cấp": "Bề rộng B (m) và độ sâu H (m) nước chạy tàu",
+      "Cấp công trình — Đặc biệt": "B > 70 H > 5",
+      "Cấp công trình — I": "B = 50 ÷ < 70 H = 4 ÷ 5",
+      "Cấp công trình — II": "B = 40 ÷ < 50 H = 3 ÷ < 4",
+      "Cấp công trình — III": "B = 30 ÷ < 40 H = 2 ÷ < 3",
+      "Cấp công trình — IV": "B < 30 H < 2"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "Công trình hàng hải",
+      "Tiêu chí phân cấp": "Công trình hàng hải",
+      "Cấp công trình — Đặc biệt": "Công trình hàng hải",
+      "Cấp công trình — I": "Công trình hàng hải",
+      "Cấp công trình — II": "Công trình hàng hải",
+      "Cấp công trình — III": "Công trình hàng hải",
+      "Cấp công trình — IV": "Công trình hàng hải"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Tiêu chí phân cấp": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Cấp công trình — Đặc biệt": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Cấp công trình — I": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Cấp công trình — II": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Cấp công trình — III": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Cấp công trình — IV": "1.4.5.1 Công trình bến cảng biển; khu chuyển tải; khu neo đậu; khu tránh, trú bão"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "a) Bến cảng hàng hóa, công vụ",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "> 70",
+      "Cấp công trình — I": "> 40 ÷ 70",
+      "Cấp công trình — II": "> 20 ÷ 40",
+      "Cấp công trình — III": "> 5 ÷ 20",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "b) Bến cảng hành khách",
+      "Tiêu chí phân cấp": "Tổng dung tích của tàu (nghìn GT)",
+      "Cấp công trình — Đặc biệt": "> 150",
+      "Cấp công trình — I": "> 100 ÷ 150",
+      "Cấp công trình — II": "> 50 ÷ 100",
+      "Cấp công trình — III": "> 30 ÷ 50",
+      "Cấp công trình — IV": "≤ 30"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "c) Khu chuyển tải; khu neo đậu; khu tránh, trú bão",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "> 70",
+      "Cấp công trình — I": "> 40 ÷ 70",
+      "Cấp công trình — II": "> 20 ÷ 40",
+      "Cấp công trình — III": "> 5 ÷ 20",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "1.4.5",
+      "Loại công trình": "1.4.5.2 Cơ sở sửa chữa tàu biển, phương tiện thủy; âu tàu biển, ụ tàu biển và các công trình nâng hạ tàu biển khác (triền, đà, sàn nâng…)",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (nghìn DWT)",
+      "Cấp công trình — Đặc biệt": "> 70",
+      "Cấp công trình — I": "> 40 ÷ 70",
+      "Cấp công trình — II": "> 20 ÷ 40",
+      "Cấp công trình — III": "> 5 ÷ 20",
+      "Cấp công trình — IV": "≤ 5"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.5.3 Luồng hàng hải",
+      "Tiêu chí phân cấp": "Bề rộng luồng một làn B (m) hoặc Chiều sâu chạy tàu Hct (m)",
+      "Cấp công trình — Đặc biệt": "B > 190 hoặc Hct ≥ 16",
+      "Cấp công trình — I": "140 < B ≤ 190 hoặc 14 ≤ Hct < 16",
+      "Cấp công trình — II": "80 < B ≤ 140 hoặc 8 ≤ Hct < 14",
+      "Cấp công trình — III": "50 < B ≤ 80 hoặc 5 ≤ Hct < 8",
+      "Cấp công trình — IV": "B ≤ 50 hoặc Hct < 5"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.5.4 Các công trình hàng hải khác:",
+      "Tiêu chí phân cấp": "1.4.5.4 Các công trình hàng hải khác:",
+      "Cấp công trình — Đặc biệt": "1.4.5.4 Các công trình hàng hải khác:",
+      "Cấp công trình — I": "1.4.5.4 Các công trình hàng hải khác:",
+      "Cấp công trình — II": "1.4.5.4 Các công trình hàng hải khác:",
+      "Cấp công trình — III": "1.4.5.4 Các công trình hàng hải khác:",
+      "Cấp công trình — IV": "1.4.5.4 Các công trình hàng hải khác:"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "a) Phao báo hiệu hàng hải",
+      "Tiêu chí phân cấp": "Đường kính phao D (m)",
+      "Cấp công trình — Đặc biệt": "D ≥ 10",
+      "Cấp công trình — I": "5 ≤ D < 10",
+      "Cấp công trình — II": "3 ≤ D < 5",
+      "Cấp công trình — III": "2 ≤ D < 3",
+      "Cấp công trình — IV": "D < 2"
+    },
+    {
+      "STT": "",
+      "Loại công trình": "b) Công trình chỉnh trị, đê chắn sóng, đê chắn cát, kè hướng dòng, kè bảo vệ bờ",
+      "Tiêu chí phân cấp": "Chiều cao lớn nhất của công trình hoặc độ sâu mực nước H (m)",
+      "Cấp công trình — Đặc biệt": "H > 16",
+      "Cấp công trình — I": "12 < H ≤ 16",
+      "Cấp công trình — II": "8 < H ≤ 12",
+      "Cấp công trình — III": "5 ≤ H ≤ 8",
+      "Cấp công trình — IV": "< 5"
+    },
+    {
+      "STT": "1.4.6",
+      "Loại công trình": "Công trình hàng không",
+      "Tiêu chí phân cấp": "Công trình hàng không",
+      "Cấp công trình — Đặc biệt": "Công trình hàng không",
+      "Cấp công trình — I": "Công trình hàng không",
+      "Cấp công trình — II": "Công trình hàng không",
+      "Cấp công trình — III": "Công trình hàng không",
+      "Cấp công trình — IV": "Công trình hàng không"
+    },
+    {
+      "STT": "1.4.6",
+      "Loại công trình": "1.4.6.1 Nhà ga hàng không (Nhà ga chính)",
+      "Tiêu chí phân cấp": "Lượt hành khách (triệu khách/năm)",
+      "Cấp công trình — Đặc biệt": "≥ 10",
+      "Cấp công trình — I": "< 10",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "1.4.6",
+      "Loại công trình": "1.4.6.2 Khu bay",
+      "Tiêu chí phân cấp": "Cấp sân bay theo quy định của Tổ chức hàng không dân dụng quốc tế (ICAO)",
+      "Cấp công trình — Đặc biệt": "Sân bay cấp từ 4E trở lên",
+      "Cấp công trình — I": "Sân bay cấp thấp hơn 4E",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.6.3 Các công trình bảo đảm hoạt động bay (Đài kiểm soát không lưu, Trung tâm kiểm soát đường dài, Trung tâm kiểm soát tiếp cận, Trạm radar sơ cấp/thứ cấp; không bao gồm mục 1.4.6.2 và mục 1.4.6.4)",
+      "Tiêu chí phân cấp": "Mức độ quan trọng",
+      "Cấp công trình — Đặc biệt": "Cảng hàng không quốc tế",
+      "Cấp công trình — I": "Cảng hàng không, sân bay nội địa",
+      "Cấp công trình — II": "",
+      "Cấp công trình — III": "",
+      "Cấp công trình — IV": ""
+    },
+    {
+      "STT": "",
+      "Loại công trình": "1.4.6.4 Hăng ga máy bay",
+      "Tiêu chí phân cấp": "Mức độ quan trọng",
+      "Cấp công trình — Đặc biệt": "Cấp I với mọi quy mô.",
+      "Cấp công trình — I": "Cấp I với mọi quy mô.",
+      "Cấp công trình — II": "Cấp I với mọi quy mô.",
+      "Cấp công trình — III": "Cấp I với mọi quy mô.",
+      "Cấp công trình — IV": "Cấp I với mọi quy mô."
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,68 @@
+{
+  "table_id": "bang_g_1",
+  "table_number": "G.1",
+  "table_title": "Bảng G.1 - Thông tin về tính độc hại của các khí chữa cháy halocacbon",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Khí chữa cháy",
+    "LC50 hoặc ALC%",
+    "NOAEL%",
+    "LOAEL%"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khí chữa cháy": "$CF_{3}$ I",
+      "LC50 hoặc ALC%": "> 12,8",
+      "NOAEL%": "0,2",
+      "LOAEL%": "0,4"
+    },
+    {
+      "_row_id": 2,
+      "Khí chữa cháy": "FK - 5 - 1 - 12",
+      "LC50 hoặc ALC%": "> 10",
+      "NOAEL%": "10",
+      "LOAEL%": "> 10"
+    },
+    {
+      "_row_id": 3,
+      "Khí chữa cháy": "HCFC hỗn hợp A",
+      "LC50 hoặc ALC%": "64",
+      "NOAEL%": "10,0",
+      "LOAEL%": "> 10,0"
+    },
+    {
+      "_row_id": 4,
+      "Khí chữa cháy": "HFC - 125",
+      "LC50 hoặc ALC%": "> 70",
+      "NOAEL%": "7,5",
+      "LOAEL%": "10"
+    },
+    {
+      "_row_id": 5,
+      "Khí chữa cháy": "HFC - 227ea",
+      "LC50 hoặc ALC%": "> 80",
+      "NOAEL%": "9",
+      "LOAEL%": "10,5"
+    },
+    {
+      "_row_id": 6,
+      "Khí chữa cháy": "HFC - 23",
+      "LC50 hoặc ALC%": "> 65",
+      "NOAEL%": "50",
+      "LOAEL%": "> 50"
+    },
+    {
+      "_row_id": 7,
+      "Khí chữa cháy": "HFC - 236fa",
+      "LC50 hoặc ALC%": "> 18,9",
+      "NOAEL%": "10",
+      "LOAEL%": "15"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Các mức nhạy cảm của tim dựa trên sự tuân thủ hoặc không tuân thủ nhịp tim nghiêm trọng của một con chó. Biên bản thông thường là 5 min tiếp xúc theo sau là một thử thách với epinephrin.",
+    "fn_2": "CHÚ THÍCH 3: Các giá trị nồng độ cao được xác định với sự bổ sung thêm oxy để ngăn ngừa sự ngạt thở.",
+    "fn_3": "**CHÚ THÍCH:** LC50 là nồng độ gây chết đến 50 % đám chuột trong thời gian tiếp xúc 4h. ALC là nồng độ xấp xỉ gây chết."
+  }
+}

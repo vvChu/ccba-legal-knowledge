@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_phu_luc_h",
+  "table_number": "PLH",
+  "table_title": "Bảng Phụ lục H",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày tháng/ ca kíp",
+    "$N^{o}$ đoạn thi công",
+    "Thời gian đào đoạn thi công — Bắt đầu giờ, phút",
+    "Thời gian đào đoạn thi công — Kết thúc giờ, phút",
+    "Thể tích đất đào trong ca m³",
+    "Độ sâu đoạn thi công — Đầu ca m",
+    "Độ sâu đoạn thi công — Cuối ca m",
+    "Chiều cao của lớp m",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày tháng/ ca kíp": "1",
+      "$N^{o}$ đoạn thi công": "2",
+      "Thời gian đào đoạn thi công — Bắt đầu giờ, phút": "3",
+      "Thời gian đào đoạn thi công — Kết thúc giờ, phút": "4",
+      "Thể tích đất đào trong ca m³": "5",
+      "Độ sâu đoạn thi công — Đầu ca m": "6",
+      "Độ sâu đoạn thi công — Cuối ca m": "7",
+      "Chiều cao của lớp m": "8",
+      "Người thực hiện (ký tên)": "9",
+      "Ghi chú": "10"
+    }
+  ],
+  "footnotes": []
+}

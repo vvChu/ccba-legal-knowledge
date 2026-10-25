@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Khoảng cách lớn nhất giữa các giá đỡ đường ống",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đường kính danh nghĩa của ống, mmDN",
+    "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính danh nghĩa của ống, mmDN": "6\n10",
+      "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m": "0,5\n1,0"
+    },
+    {
+      "_row_id": 2,
+      "Đường kính danh nghĩa của ống, mmDN": "15\n20\n25",
+      "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m": "1,5\n1,8\n2,1"
+    },
+    {
+      "_row_id": 3,
+      "Đường kính danh nghĩa của ống, mmDN": "32\n40\n50",
+      "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m": "2,4\n2,7\n3,4"
+    },
+    {
+      "_row_id": 4,
+      "Đường kính danh nghĩa của ống, mmDN": "65\n80\n100",
+      "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m": "3,5\n3,7\n4,3"
+    },
+    {
+      "_row_id": 5,
+      "Đường kính danh nghĩa của ống, mmDN": "125\n150\n200",
+      "Khoảng cách lớn nhất giữa các giá đỡ đường ống, m": "4,8\n5,2\n5,8"
+    }
+  ],
+  "footnotes": []
+}

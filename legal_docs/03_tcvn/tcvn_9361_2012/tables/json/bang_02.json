@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Hệ số $k_{1}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Độ nghiêng của cọc",
+    "Hệ số $k_{1}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ nghiêng của cọc": "5:1",
+      "Hệ số $k_{1}$": "1,1"
+    },
+    {
+      "_row_id": 2,
+      "Độ nghiêng của cọc": "4:1",
+      "Hệ số $k_{1}$": "1,15"
+    },
+    {
+      "_row_id": 3,
+      "Độ nghiêng của cọc": "3:1",
+      "Hệ số $k_{1}$": "1,25"
+    },
+    {
+      "_row_id": 4,
+      "Độ nghiêng của cọc": "2:1",
+      "Hệ số $k_{1}$": "1,40"
+    },
+    {
+      "_row_id": 5,
+      "Độ nghiêng của cọc": "1:1",
+      "Hệ số $k_{1}$": "1,70"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Số lượng phương tiện, dụng cụ chữa cháy ban đầu",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên hạng mục cửa hàng",
+    "Bình bột (cái) — ≥25 kg",
+    "Bình bột (cái) — ≥4 kg",
+    "Chăn sợi (cái)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên hạng mục cửa hàng": "1. Cụm bể chứa cửa hàng cấp 1, 2",
+      "Bình bột (cái) — ≥25 kg": "2",
+      "Bình bột (cái) — ≥4 kg": "2",
+      "Chăn sợi (cái)": "4"
+    },
+    {
+      "_row_id": 2,
+      "Tên hạng mục cửa hàng": "2. Cụm bể chứa cửa hàng cấp 3",
+      "Bình bột (cái) — ≥25 kg": "1",
+      "Bình bột (cái) — ≥4 kg": "2",
+      "Chăn sợi (cái)": "2"
+    },
+    {
+      "_row_id": 3,
+      "Tên hạng mục cửa hàng": "3. Cột bơm xăng dầu và vị trí nhập xăng dầu vào bể chứa",
+      "Bình bột (cái) — ≥25 kg": "-",
+      "Bình bột (cái) — ≥4 kg": "2",
+      "Chăn sợi (cái)": "1"
+    },
+    {
+      "_row_id": 4,
+      "Tên hạng mục cửa hàng": "4. Nơi rửa xe, bảo dưỡng xe",
+      "Bình bột (cái) — ≥25 kg": "-",
+      "Bình bột (cái) — ≥4 kg": "1 (1)",
+      "Chăn sợi (cái)": "-"
+    },
+    {
+      "_row_id": 5,
+      "Tên hạng mục cửa hàng": "5. Nơi bán dầu nhờn và sản phẩm khác",
+      "Bình bột (cái) — ≥25 kg": "-",
+      "Bình bột (cái) — ≥4 kg": "1 (1)",
+      "Chăn sợi (cái)": "1"
+    },
+    {
+      "_row_id": 6,
+      "Tên hạng mục cửa hàng": "6. Phòng giao dịch bán hàng",
+      "Bình bột (cái) — ≥25 kg": "-",
+      "Bình bột (cái) — ≥4 kg": "1 (1)",
+      "Chăn sợi (cái)": "-"
+    },
+    {
+      "_row_id": 7,
+      "Tên hạng mục cửa hàng": "7. Phòng bảo vệ",
+      "Bình bột (cái) — ≥25 kg": "-",
+      "Bình bột (cái) — ≥4 kg": "1 (1)",
+      "Chăn sợi (cái)": "-"
+    },
+    {
+      "_row_id": 8,
+      "Tên hạng mục cửa hàng": "8. Máy phát điện, trạm biến áp",
+      "Bình bột (cái) — ≥25 kg": "1",
+      "Bình bột (cái) — ≥4 kg": "2",
+      "Chăn sợi (cái)": "-"
+    }
+  ],
+  "footnotes": []
+}

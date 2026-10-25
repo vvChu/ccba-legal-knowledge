@@ -1,12 +1,12 @@
 version: 0.3.0
-updated_at: '2026-10-03T07:34:00.000000+00:00'
+updated_at: '2026-10-25T09:22:26.953857+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 96
+  total_documents: 105
   categories:
-    01_vbpl: 51
-    02_qcvn: 15
-    03_tcvn: 27
+    01_vbpl: 52
+    02_qcvn: 17
+    03_tcvn: 33
     04_appendices: 3
 documents: {}
 laws:
@@ -1636,6 +1636,67 @@ laws:
   doc_id: nghi_dinh_339_2026_nd_cp
   category: 01_vbpl
   doc_type: vbpl
+- id: thong_tu_06_2021_tt_bxd
+  document_number: 06/2021/TT-BXD
+  type: Thông tư
+  title: Thông tư số 06/2021/TT-BXD quy định về phân cấp công trình xây dựng và hướng
+    dẫn áp dụng trong quản lý hoạt động đầu tư xây dựng
+  status: superseded
+  issued_date: '2021-06-30'
+  effective_date: '2021-08-15'
+  signer: Thứ trưởng Lê Quang Hùng
+  issued_by: Bộ Xây dựng
+  doc_type: vbpl
+  bundle_path: legal_docs/01_vbpl/thong_tu_06_2021_tt_bxd/
+  pdf_path: legal_docs/01_vbpl/thong_tu_06_2021_tt_bxd/sources/thong_tu_06_2021_tt_bxd.pdf
+  pdf_sha256: 5e64b48bcfa9660ac17df2019c6b9c95e01d49e181bbe650c9fbd9eed33ce817
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/thong_tu_06_2021_tt_bxd/sources/thong_tu_06_2021_tt_bxd.docx
+  source_file_sha256: 636322ad85d7731be6bbb2eb191801683723d7a579f69afbefdcdf8fdf89f40e
+  source_assets:
+    pdf:
+      sha256: 5e64b48bcfa9660ac17df2019c6b9c95e01d49e181bbe650c9fbd9eed33ce817
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_06_2021_tt_bxd/thong_tu_06_2021_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: 636322ad85d7731be6bbb2eb191801683723d7a579f69afbefdcdf8fdf89f40e
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_06_2021_tt_bxd/thong_tu_06_2021_tt_bxd.docx
+      status: verified
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-06-2021-TT-BXD-phan-cap-cong-trinh-xay-dung-480818.aspx
+  relations:
+    replaces:
+    - 03/2016/TT-BXD
+    - 07/2019/TT-BXD
+    amended_by:
+    - 02/2025/TT-BXD
+    replaced_by:
+    - 34/2026/TT-BXD
+  legal_basis:
+  - doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+    title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+  - doc_id: luật_kiến_trúc_ngày_13_tháng_6_năm_2019
+    title: Luật Kiến trúc ngày 13 tháng 6 năm 2019
+  - doc_id: nghi_dinh_06_2021_nd_cp
+    title: Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 của Chính phủ quy
+      định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo
+      trì công trình xây dựng
+  - doc_id: nghi_dinh_15_2021_nd_cp
+    title: Nghị định số 15/2021/NĐ-CP ngày 03 tháng 3 năm 2021 của Chính phủ quy định
+      chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
+  - doc_id: nghị_định_số_81_2017_nđ_cp_ngày_17_tháng_7_năm_201
+    title: Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định
+      chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng
+  replaces:
+  - 03/2016/TT-BXD
+  - 07/2019/TT-BXD
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T05:07:16.014706+00:00'
+  sha256: 636322ad85d7731be6bbb2eb191801683723d7a579f69afbefdcdf8fdf89f40e
+  source_file_size_kb: 68.1
+  published_date: '2021-06-30'
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
@@ -2490,6 +2551,294 @@ standards:
       sha256: cb8a2eb536d4c076d91c86536e21c01f35983aa1fe6646135882fb36c4a9901e
       vault_path: CCBA_Legal_Vault/03_tcvn/tccs_39_2022_tcdbvn/tccs_39_2022_tcdbvn.docx
       status: verified
+- id: qcvn_01_2020_bct
+  document_number: QCVN 01:2020/BCT
+  title: QCVN 01:2020/BCT — Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng
+    xăng dầu
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Công Thương
+  signer: Đỗ Thắng Hải
+  issued_date: '2020-06-30'
+  effective_date: '2021-01-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_01_2020_bct/
+  source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-ve-yeu-cau-thiet-ke-cua-hang-xang-dau-446555.aspx
+  sha256: 1f753b6014ea24b53c162940fb2000f5981b9a0df9983c31f1727860badf71d4
+  pdf_path: legal_docs/02_qcvn/qcvn_01_2020_bct/sources/qcvn_01_2020_bct.pdf
+  pdf_sha256: ad62a4417b9a598dd82c2e55cff72080babeeb24ac05d3f778bafc847f22ec20
+  cong_bao_number: 15/2020/TT-BCT
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_01_2020_bct/sources/qcvn_01_2020_bct.docx
+  source_file_size_kb: 1627.4
+  source_assets:
+    docx:
+      sha256: 1f753b6014ea24b53c162940fb2000f5981b9a0df9983c31f1727860badf71d4
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2020_bct/qcvn_01_2020_bct.docx
+      status: verified
+    pdf:
+      sha256: ad62a4417b9a598dd82c2e55cff72080babeeb24ac05d3f778bafc847f22ec20
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2020_bct/qcvn_01_2020_bct.pdf
+      status: verified
+  relations:
+    replaces:
+    - QCVN 01:2013/BCT
+    - QCVN 10:2015/BCT
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T07:39:28.085340+00:00'
+  published_date: '2020-06-30'
+- id: qcvn_26_2025_bnnmt
+  document_number: QCVN 26:2025/BNNMT
+  title: QCVN 26:2025/BNNMT — Quy chuẩn kỹ thuật quốc gia về Tiếng ồn
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Nông nghiệp và Môi trường
+  signer: Lê Công Thành
+  issued_date: '2025-05-15'
+  effective_date: '2025-11-14'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/
+  source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-01-2025-TT-BNNMT-03-quy-chuan-ky-thuat-quoc-gia-chat-luong-moi-truong-xung-quanh-657766.aspx
+  sha256: ab6e4b3b62b427ca3cc431cdcfac607dedb479d7a7ae4ffba55f8cdf4dc4c582
+  pdf_path: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/sources/qcvn_26_2025_bnnmt.pdf
+  pdf_sha256: 834b612ff96c3e6752052f508671881e25f101cf36b581db19d3452dcefc253f
+  cong_bao_number: 01/2025/TT-BNNMT
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/sources/qcvn_26_2025_bnnmt.docx
+  source_file_size_kb: 63.0
+  source_assets:
+    docx:
+      sha256: ab6e4b3b62b427ca3cc431cdcfac607dedb479d7a7ae4ffba55f8cdf4dc4c582
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_26_2025_bnnmt/qcvn_26_2025_bnnmt.docx
+      status: verified
+    pdf:
+      sha256: 834b612ff96c3e6752052f508671881e25f101cf36b581db19d3452dcefc253f
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_26_2025_bnnmt/qcvn_26_2025_bnnmt.pdf
+      status: verified
+  relations:
+    replaces:
+    - QCVN 26:2010/BTNMT
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T07:48:48.809701+00:00'
+  published_date: '2025-05-15'
+- id: tcvn_14176_2_2024
+  document_number: TCVN 14176-2:2024
+  type: Tiêu chuẩn quốc gia
+  title: 'TCVN 14176-2:2024 (ISO 12006-2:2015) — Công trình xây dựng - Tổ chức thông
+    tin về công trình xây dựng - Phần 2: Khung phân loại'
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+  issued_date: '2024-05-15'
+  effective_date: '2024-05-15'
+  bundle_path: legal_docs/03_tcvn/tcvn_14176_2_2024/
+  source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14176-2-2024-Cong-trinh-xay-dung-To-chuc-thong-tin-Phan-2-Khung-phan-loai-921457.aspx
+  sha256: 6d55092f6c1aaeb7c805eb0fbd50c0b7f6b781dc4c000b91219c4b33e6ac894a
+  pdf_path: legal_docs/03_tcvn/tcvn_14176_2_2024/sources/tcvn_14176_2_2024.pdf
+  pdf_sha256: a161bb397542f3a29ea1c9233e0dc0dccbd7030ad9eb1fe8bc7e638e6c45ebf7
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_file: legal_docs/03_tcvn/tcvn_14176_2_2024/sources/tcvn_14176_2_2024.docx
+  source_file_size_kb: 621.6
+  source_assets:
+    docx:
+      sha256: 6d55092f6c1aaeb7c805eb0fbd50c0b7f6b781dc4c000b91219c4b33e6ac894a
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14176_2_2024/tcvn_14176_2_2024.docx
+      status: verified
+    pdf:
+      sha256: a161bb397542f3a29ea1c9233e0dc0dccbd7030ad9eb1fe8bc7e638e6c45ebf7
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14176_2_2024/tcvn_14176_2_2024.pdf
+      status: verified
+      origin: docx_vector_rendered
+  relations:
+    references:
+    - ISO 12006-2:2015
+    - TCVN 14177-1:2024
+    - TCVN 14177-2:2024
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T08:19:44.000000+00:00'
+  published_date: '2024-05-15'
+- id: tcvn_7114_1_2008
+  document_number: TCVN 7114-1:2008
+  type: Tiêu chuẩn quốc gia
+  title: 'TCVN 7114-1:2008 Ecgônômi - Chiếu sáng nơi làm việc - Phần 1: Trong nhà'
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+  issued_date: '2008-12-31'
+  effective_date: '2008-12-31'
+  bundle_path: legal_docs/03_tcvn/tcvn_7114_1_2008/
+  pdf_path: legal_docs/03_tcvn/tcvn_7114_1_2008/sources/tcvn_7114_1_2008.pdf
+  pdf_sha256: 5af190e7c55c0d94c074dc97948cd7ecb8acee35eb21fe5b7f119270c7f94b7a
+  pdf_status: verified
+  cong_bao_number: TCVN
+  source_file: legal_docs/03_tcvn/tcvn_7114_1_2008/sources/tcvn_7114_1_2008.docx
+  source_file_sha256: 2ef4cafe50740ad7b3a2d8c626f8601e9672770ab52063a063829e2f1f362015
+  source_assets:
+    pdf:
+      sha256: 5af190e7c55c0d94c074dc97948cd7ecb8acee35eb21fe5b7f119270c7f94b7a
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7114_1_2008/tcvn_7114_1_2008.pdf
+      status: verified
+    docx:
+      sha256: 2ef4cafe50740ad7b3a2d8c626f8601e9672770ab52063a063829e2f1f362015
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7114_1_2008/tcvn_7114_1_2008.docx
+      status: verified
+  source_url: https://thuvienphapluat.vn/TCVN/Dien-dien-tu/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-trong-nha-907950.aspx
+  replaces:
+  - TCVN 7114:2002
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T05:20:35.237264+00:00'
+  sha256: 2ef4cafe50740ad7b3a2d8c626f8601e9672770ab52063a063829e2f1f362015
+  source_file_size_kb: 56.3
+  published_date: '2008-12-31'
+- id: tcvn_7161_1_2022
+  document_number: TCVN 7161-1:2022
+  type: Tiêu chuẩn quốc gia
+  title: 'TCVN 7161-1:2022 (ISO 14520-1:2015) Hệ thống chữa cháy bằng khí - Tính chất
+    vật lý và thiết kế hệ thống - Phần 1: Yêu cầu chung'
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+  issued_date: '2022-12-28'
+  effective_date: '2022-12-28'
+  bundle_path: legal_docs/03_tcvn/tcvn_7161_1_2022/
+  pdf_path: legal_docs/03_tcvn/tcvn_7161_1_2022/sources/tcvn_7161_1_2022.pdf
+  pdf_sha256: 5dd92375b2c203bd59bbbd202426380d40cabdb550cf39d46dc14315d93f9712
+  pdf_status: verified
+  cong_bao_number: TCVN
+  source_file: legal_docs/03_tcvn/tcvn_7161_1_2022/sources/tcvn_7161_1_2022.docx
+  source_file_sha256: 66b2abd251bbd5735b664df642a2ee1be50b8991eb38ce37295849195b30dd1f
+  source_assets:
+    pdf:
+      sha256: 5dd92375b2c203bd59bbbd202426380d40cabdb550cf39d46dc14315d93f9712
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7161_1_2022/tcvn_7161_1_2022.pdf
+      status: verified
+    docx:
+      sha256: 66b2abd251bbd5735b664df642a2ee1be50b8991eb38ce37295849195b30dd1f
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7161_1_2022/tcvn_7161_1_2022.docx
+      status: verified
+  source_url: https://thuvienphapluat.vn/TCVN/Tai-nguyen-Moi-truong/TCVN-7161-1-2022-ISO-14520-1-2015-He-thong-chua-chay-bang-khi-Phan-1-919849.aspx
+  replaces:
+  - TCVN 7161-1:2009
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T05:24:51.615347+00:00'
+  sha256: 66b2abd251bbd5735b664df642a2ee1be50b8991eb38ce37295849195b30dd1f
+  source_file_size_kb: 2060.1
+  published_date: '2022-12-28'
+- id: tcvn_9361_2012
+  document_number: TCVN 9361:2012
+  type: Tiêu chuẩn quốc gia
+  title: TCVN 9361:2012 — Công tác nền móng - Thi công và nghiệm thu
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+  issued_date: '2012-12-27'
+  effective_date: '2012-12-27'
+  bundle_path: legal_docs/03_tcvn/tcvn_9361_2012/
+  source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9361-2012-cong-tac-nen-mong-Thi-cong-va-nghiem-thu-906969.aspx
+  sha256: 13148903156a8bbc56ff9e54151eaa39468e9b367c8cbf08b541b4de2ed57f5a
+  pdf_path: legal_docs/03_tcvn/tcvn_9361_2012/sources/tcvn_9361_2012.pdf
+  pdf_sha256: b86edb953d0e26e732bdee0129340a4efc6fe7df3e9024cf48f2cc98e23cc95d
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_file: legal_docs/03_tcvn/tcvn_9361_2012/sources/tcvn_9361_2012.docx
+  source_file_size_kb: 157.4
+  source_assets:
+    docx:
+      sha256: 13148903156a8bbc56ff9e54151eaa39468e9b367c8cbf08b541b4de2ed57f5a
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9361_2012/tcvn_9361_2012.docx
+      status: verified
+    pdf:
+      sha256: b86edb953d0e26e732bdee0129340a4efc6fe7df3e9024cf48f2cc98e23cc95d
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9361_2012/tcvn_9361_2012.pdf
+      status: verified
+  relations:
+    replaces:
+    - TCXD 79:1980
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T08:09:37.495675+00:00'
+  published_date: '2012-12-27'
+- id: tcvn_9377_1_2012
+  document_number: TCVN 9377-1:2012
+  type: Tiêu chuẩn quốc gia
+  title: 'TCVN 9377-1:2012 — Công tác hoàn thiện trong xây dựng - Thi công và nghiệm
+    thu - Phần 1: Công tác lát và láng trong xây dựng'
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+  issued_date: '2012-12-28'
+  effective_date: '2012-12-28'
+  bundle_path: legal_docs/03_tcvn/tcvn_9377_1_2012/
+  source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9377-1-2012-Cong-tac-hoan-thien-trong-xay-dung-Thi-cong-va-nghiem-thu-907337.aspx
+  sha256: 0dbbba922e60f72075d3c0353afa485d59ca4d4873bea4da09bcc5f9c196c6e9
+  pdf_path: legal_docs/03_tcvn/tcvn_9377_1_2012/sources/tcvn_9377_1_2012.pdf
+  pdf_sha256: fbb35f4d5cabfec6089a5735682933dcc852a2b6eaed5b445de098fb317a287e
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_file: legal_docs/03_tcvn/tcvn_9377_1_2012/sources/tcvn_9377_1_2012.docx
+  source_file_size_kb: 19.2
+  source_assets:
+    docx:
+      sha256: 0dbbba922e60f72075d3c0353afa485d59ca4d4873bea4da09bcc5f9c196c6e9
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9377_1_2012/tcvn_9377_1_2012.docx
+      status: verified
+    pdf:
+      sha256: fbb35f4d5cabfec6089a5735682933dcc852a2b6eaed5b445de098fb317a287e
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9377_1_2012/tcvn_9377_1_2012.pdf
+      status: verified
+  relations:
+    replaces:
+    - TCXDVN 303:2004
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T08:15:22.000000+00:00'
+  published_date: '2012-12-28'
+- id: tcvn_9381_2012
+  document_number: TCVN 9381:2012
+  type: Tiêu chuẩn quốc gia
+  title: TCVN 9381:2012 — Hướng dẫn đánh giá mức độ nguy hiểm của kết cấu nhà
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+  issued_date: '2012-12-28'
+  effective_date: '2012-12-28'
+  bundle_path: legal_docs/03_tcvn/tcvn_9381_2012/
+  source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9381-2012-Huong-dan-danh-gia-muc-do-nguy-hiem-cua-ket-cau-nha-907343.aspx
+  sha256: 36a7d7aef4bef449a0209499eb35c3a6d178153743639f62e12f11c66396ef69
+  pdf_path: legal_docs/03_tcvn/tcvn_9381_2012/sources/tcvn_9381_2012.pdf
+  pdf_sha256: e4e679ffa146bcf6cb92bed9400632fe8d09900eec7a2674c8c97d2802a4b853
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_file: legal_docs/03_tcvn/tcvn_9381_2012/sources/tcvn_9381_2012.docx
+  source_file_size_kb: 901.3
+  source_assets:
+    docx:
+      sha256: 36a7d7aef4bef449a0209499eb35c3a6d178153743639f62e12f11c66396ef69
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9381_2012/tcvn_9381_2012.docx
+      status: verified
+    pdf:
+      sha256: e4e679ffa146bcf6cb92bed9400632fe8d09900eec7a2674c8c97d2802a4b853
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9381_2012/tcvn_9381_2012.pdf
+      status: verified
+  relations:
+    replaces:
+    - TCXDVN 373:2006
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-11T08:13:37.769592+00:00'
+  published_date: '2012-12-28'
 decrees:
 - id: nghi_dinh_214_2025_nd_cp
   document_number: 214/2025/NĐ-CP

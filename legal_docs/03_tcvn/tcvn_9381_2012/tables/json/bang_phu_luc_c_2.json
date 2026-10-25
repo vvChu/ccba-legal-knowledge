@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_phu_luc_c_2",
+  "table_number": "PLC_2",
+  "table_title": "Bảng Phụ lục C (Phần 2)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "a) Mặt bằng nhà",
+    "b) Tường trục 2"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "a) Mặt bằng nhà": "c) Tường trục A",
+      "b) Tường trục 2": "d) Tường trục C"
+    },
+    {
+      "_row_id": 2,
+      "a) Mặt bằng nhà": "e) Tường trục B",
+      "b) Tường trục 2": "f) Tường trục 1;"
+    }
+  ],
+  "footnotes": []
+}

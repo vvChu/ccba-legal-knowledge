@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Đường kính tính toán của bầu mở rộng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trọng lượng khối nổ",
+    "Đường kính tính toán trung bình"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trọng lượng khối nổ": "kg",
+      "Đường kính tính toán trung bình": "của bầu mở rộng, m"
+    },
+    {
+      "_row_id": 2,
+      "Trọng lượng khối nổ": "1",
+      "Đường kính tính toán trung bình": "0,3"
+    },
+    {
+      "_row_id": 3,
+      "Trọng lượng khối nổ": "4",
+      "Đường kính tính toán trung bình": "1,1"
+    },
+    {
+      "_row_id": 4,
+      "Trọng lượng khối nổ": "8",
+      "Đường kính tính toán trung bình": "1,5"
+    },
+    {
+      "_row_id": 5,
+      "Trọng lượng khối nổ": "12",
+      "Đường kính tính toán trung bình": "1,9"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,119 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 7161 1 2022
+total_figures: 14
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Hệ thống cân bằng điển hình
+  annex: H
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Hệ thống không cân bằng điển hình
+  annex: H
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Thiết bị chén nung
+  annex: N
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Ví dụ sơ đồ để thử chiều cao nhỏ nhất/diện tích quét lớn nhất của đầu phun
+    loại 360°
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Ví dụ sơ đồ để thử chiều cao nhỏ nhất/diện tích quét lớn nhất của đầu phun
+    loại 180°
+  annex: C
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_C_3
+  slug: c_3
+  tag: C.3
+  title: Sơ đồ bố trí đầu phun ở vị trí có độ cao tối thiểu/độ bao phủ lớn nhất
+  annex: C
+  anchor: hinh-c_3
+  image_relpath: figures/images/hinh_c_3.png
+  has_image: true
+- figure_id: FIG_C_4
+  slug: c_4
+  tag: C.4
+  title: Sơ đồ mặt đứng bố trí đầu phun có độ cao tối thiểu/độ bao phủ lớn nhất
+  annex: C
+  anchor: hinh-c_4
+  image_relpath: figures/images/hinh_c_4.png
+  has_image: true
+- figure_id: FIG_C_5
+  slug: c_5
+  tag: C.5
+  title: Sơ đồ bố trí dụng cụ đo để thử nồng độ dập tắt
+  annex: C
+  anchor: hinh-c_5
+  image_relpath: figures/images/hinh_c_5.png
+  has_image: true
+- figure_id: FIG_C_6
+  slug: c_6
+  tag: C.6
+  title: Mặt cắt bố trí dụng cụ đo để thử nồng độ dập tắt
+  annex: C
+  anchor: hinh-c_6
+  image_relpath: figures/images/hinh_c_6.png
+  has_image: true
+- figure_id: FIG_C_7
+  slug: c_7
+  tag: C.7
+  title: Kích thước của khay để thử đám cháy cũi gỗ và khay heptan
+  annex: C
+  anchor: hinh-c_7
+  image_relpath: figures/images/hinh_c_7.png
+  has_image: true
+- figure_id: FIG_C_8
+  slug: c_8
+  tag: C.8
+  title: Đốt tấm polime
+  annex: C
+  anchor: hinh-c_8
+  image_relpath: figures/images/hinh_c_8.png
+  has_image: true
+- figure_id: FIG_C_9
+  slug: c_9
+  tag: C.9
+  title: Giá đỡ các tấm polime
+  annex: C
+  anchor: hinh-c_9
+  image_relpath: figures/images/hinh_c_9.png
+  has_image: true
+- figure_id: FIG_C_10
+  slug: c_10
+  tag: C.10
+  title: Bố trí tấm chắn đám cháy tấm polime
+  annex: C
+  anchor: hinh-c_10
+  image_relpath: figures/images/hinh_c_10.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Bình thử độ trơ hình cầu.
+  annex: N
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
