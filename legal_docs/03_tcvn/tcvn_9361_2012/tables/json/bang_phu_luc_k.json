@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_phu_luc_k",
+  "table_number": "PLK",
+  "table_title": "Bảng Phụ lục K",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày tháng/ Ca kíp",
+    "No đoạn thi công",
+    "Số lượng bê tông đổ trong đoạn, m³",
+    "Số lượng bê tông đổ trong đoạn do kết quả tăng, m³",
+    "Cường độ đổ bê tông trung bìnhm³/h",
+    "Độ lưu động thực tế của bê tông,cm",
+    "Độ ngập sâu của ống trong bê tông, m",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày tháng/ Ca kíp": "1",
+      "No đoạn thi công": "2",
+      "Số lượng bê tông đổ trong đoạn, m³": "3",
+      "Số lượng bê tông đổ trong đoạn do kết quả tăng, m³": "4",
+      "Cường độ đổ bê tông trung bìnhm³/h": "5",
+      "Độ lưu động thực tế của bê tông,cm": "6",
+      "Độ ngập sâu của ống trong bê tông, m": "7",
+      "Người thực hiện (ký tên)": "8",
+      "Ghi chú": "9"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Giá trị tối đa cho phép đối với mức rung phát sinh từ phương tiện giao thông",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Khu vực bị ảnh hưởng",
+    "Giới hạn cho phép — Ban ngày (06:00 ~ trước 22:00)",
+    "Giới hạn cho phép — Ban đêm (22:00 ~ trước 06:00)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực bị ảnh hưởng": "Khu vực A",
+      "Giới hạn cho phép — Ban ngày (06:00 ~ trước 22:00)": "65",
+      "Giới hạn cho phép — Ban đêm (22:00 ~ trước 06:00)": "60"
+    },
+    {
+      "_row_id": 2,
+      "Khu vực bị ảnh hưởng": "Khu vực B, C, D",
+      "Giới hạn cho phép — Ban ngày (06:00 ~ trước 22:00)": "70",
+      "Giới hạn cho phép — Ban đêm (22:00 ~ trước 06:00)": "65"
+    }
+  ],
+  "footnotes": []
+}

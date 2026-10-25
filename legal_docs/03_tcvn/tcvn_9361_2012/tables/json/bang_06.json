@@ -1,0 +1,60 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Hệ số M",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất dưới mũi cọc",
+    "Hệ số M"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;\\- Sỏi sạn có lẫn cát",
+      "Hệ số M": "1,3"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;\\- Cát:",
+      "Hệ số M": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Cát thô, cát trung chặt vừa và á cát cứng",
+      "Hệ số M": "1,2"
+    },
+    {
+      "_row_id": 4,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Cát hạt nhỏ chặt vừa",
+      "Hệ số M": "1,1"
+    },
+    {
+      "_row_id": 5,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Cát bụi chặt vừa",
+      "Hệ số M": "1,0"
+    },
+    {
+      "_row_id": 6,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;\\- Á cát dẻo, á sét và sét cứng",
+      "Hệ số M": "0,9"
+    },
+    {
+      "_row_id": 7,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;\\- Á sét và sét:",
+      "Hệ số M": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Nửa cứng",
+      "Hệ số M": "0,8"
+    },
+    {
+      "_row_id": 9,
+      "Loại đất dưới mũi cọc": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Dẻo cứng",
+      "Hệ số M": "0,7"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** khi cát chặt, giá trị hệ số M được lấy tăng lên 60 %; khi có các tài liệu xuyên tĩnh M được lấy tăng lên 100 %."
+  }
+}

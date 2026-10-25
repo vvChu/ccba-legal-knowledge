@@ -1,0 +1,44 @@
+﻿Ký hiệu,Đại lượng,Đơn vị
+A,Diện tích tiết diện ngang nằm ngang ở chiều cao h,$m^{2}$
+$A_{e}$,Diện tích rò rỉ có hiệu quả,$m^{2}$
+C,Nồng độ khí chữa cháy ở chiều cao h,% thể tích
+$C_{i}$,Nồng độ ban đầu của khí chữa cháy trong không khí đối với cấu kiện bao che tại lúc ban đầu thời gian duy trì,% thể tích
+$C_{min}$,Nồng độ nhỏ nhất của khí chữa cháy trong không khí ở chiều cao H trong cấu kiện bao che lúc kết thúc thời gian duy trì - không nhỏ hơn nồng độ dập tắt,% thể tích
+ELA,Diện tích rò rỉ tương đương,$m^{2}$
+F,"Tỷ phần rò rỉ dưới thấp, diện tích rò rỉ có hiệu quả (thực) của các chỗ rò rỉ dưới chia cho diện tích rò rỉ có hiệu quả (thực) của tất cả các chỗ rò rỉ",Không thứ nguyên
+$g_{n}$,Gia tốc trọng trường,m/$s^{2}$
+H,Chiều cao từ điểm thấp nhất trong cấu kiện bao che,m
+$H_{e}$,Chiều cao mặt phân cách tương đương,m
+$H_{o}$,Chiều cao toàn bộ của cấu kiện bao che,m
+$H_{p}$,Chiều cao yêu cầu được bảo vệ - chiều cao yêu cầu $C_{min}$ tại lúc kết thúc thời gian duy trì,m
+$k_{0}$,Đặc tính rò rỉ [xem công thức (E.1)],$m^{3}$/(s.Pan)
+$k_{1}$,Đặc tính rò rỉ [xem công thức (E.13)],$m^{3}$/(s.Pan)
+$k_{2}$,Hằng số tương quan [xem công thức (E.14)],[$kg^{n}m^{3(1-n)}$]/(s.Pan)
+$k_{3}$,Hằng số đơn giản hóa [xem các công thức (E.15) và (E.16)],m/$s^{2}$
+$k_{4}$,Hằng số đơn giản hóa [xem các công thức (E.17) và (E.18)],Pa.$m^{3}$/kg
+n,Đặc tính rò rỉ [xem công thức (E.11)],1
+$P_{bh}$,Độ chênh áp trong thời gian duy trì,Pa
+$P_{bt}$,Độ chênh áp trong thời gian thử quạt,Pa
+$P_{c}$,Áp suất khí quyển trong quá trình hiệu chuẩn quạt,bar
+$P_{f}$,Áp suất chênh do quạt tạo ra,Pa
+$P_{mi}$,Áp suất cột khí chữa cháy/không khí ban đầu,Pa
+$P_{mf}$,Áp suất cột khí chữa cháy/không khí lần cuối,Pa
+$P_{ref}$,Chênh lệch áp suất chuẩn đối với diện tích rò rỉ tương đương,Pa
+$P_{t}$,Áp suất khí quyển lúc thử quạt,bar
+Q,Lưu lượng thể tích vào các chỗ rò rỉ trên và ra qua các chỗ rò rỉ dưới,$m^{3}$/s
+$Q_{f}$,Lưu lượng không khí đo được qua quạt,$m^{3}$/s
+$Q_{l}$,"Lưu lượng không khí, nhiệt độ và áp suất được hiệu chỉnh về điều kiện chuẩn (20°C, 1,013 bar áp suất khí quyển)",$m^{3}$/s
+$Q_{ref}$,Tốc độ rò rỉ không khí của cấu kiện bao che ở chênh lệch áp suất chuẩn $P_{ref}$,$m^{3}$/s
+t,Thời gian duy trì dự báo trước [xem các công thức (E.19) đến (E.23)],s
+$T_{c}$,Nhiệt độ khí quyển trong quá trình hiệu chuẩn thiết bị quạt,°C
+$T_{e}$,Nhiệt độ không khí bên trong cấu kiện bao che,°C
+$T_{o}$,Nhiệt độ không khí bên ngoài cấu kiện bao che,°C
+V,Thể tích của cấu kiện bao che,$m^{3}$
+$V_{e}$,Thể tích khí chữa cháy trong cấu kiện bao che [xem công thức (E.24)],$m^{3}$
+$V_{ef}$,Giá trị cuối cùng của $V_{e}$,$m^{3}$
+$V_{ei}$,Giá trị ban đầu của $V_{e}$,$m^{3}$
+$\rho_{a}$,"Mật độ không khí (1,205 ở 20°C và 1,013 bar)",kg/$m^{3}$
+$\rho_{e}$,"Mật độ khí chữa cháy ở 20°C và 1,013 bar áp suất khí quyển",kg/$m^{3}$
+$\rho_{m}$,"Mật độ hỗn hợp khí chữa cháy/không khí ở 20°C và 1,013 bar áp suất khí quyển",kg/$m^{3}$
+$\rho_{mf}$,"Mật độ hỗn hợp khí chữa cháy/không khí ở nồng độ $C_{min}$; 20°C và 1,013 bar",kg/$m^{3}$
+$\rho_{mi}$,"Mật độ hỗn hợp khí chữa cháy/không khí ở nồng độ ban đầu $C_{i}$; 20°C và 1,013 bar áp suất khí quyển.",kg/$m^{3}$

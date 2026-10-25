@@ -1,0 +1,296 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Giá trị tối đa cho phép của các thông số trong trầm tích",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Thông số",
+    "Đơn vị (theo khối lượng khô)",
+    "Giá trị giới hạn — Trầm tích nước mặt",
+    "Giá trị giới hạn — Trầm tích biển"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Thông số": "Arsenic (As)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "17,0",
+      "Giá trị giới hạn — Trầm tích biển": "41,6"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Thông số": "Cadmi (Cd)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "3,5",
+      "Giá trị giới hạn — Trầm tích biển": "4,2"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Thông số": "Chì (Plumbum) (Pb)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "91,3",
+      "Giá trị giới hạn — Trầm tích biển": "112"
+    },
+    {
+      "_row_id": 4,
+      "TT": "4",
+      "Thông số": "Chromi (Cr)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "90",
+      "Giá trị giới hạn — Trầm tích biển": "160"
+    },
+    {
+      "_row_id": 5,
+      "TT": "5",
+      "Thông số": "Đồng (Cuprum) (Cu)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "197",
+      "Giá trị giới hạn — Trầm tích biển": "108"
+    },
+    {
+      "_row_id": 6,
+      "TT": "6",
+      "Thông số": "Kẽm (Zincum) (Zn)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "315",
+      "Giá trị giới hạn — Trầm tích biển": "271"
+    },
+    {
+      "_row_id": 7,
+      "TT": "7",
+      "Thông số": "Sắt (Ferrum) (Fe)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "20000",
+      "Giá trị giới hạn — Trầm tích biển": "20000"
+    },
+    {
+      "_row_id": 8,
+      "TT": "8",
+      "Thông số": "Thủy ngân (Hydrargyrum) (Hg)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "0,5",
+      "Giá trị giới hạn — Trầm tích biển": "0,7"
+    },
+    {
+      "_row_id": 9,
+      "TT": "9",
+      "Thông số": "Cyanide ($CN^{-}$)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "0,1",
+      "Giá trị giới hạn — Trầm tích biển": "0,1"
+    },
+    {
+      "_row_id": 10,
+      "TT": "10",
+      "Thông số": "Phenol (C6H5OH)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "0,42",
+      "Giá trị giới hạn — Trầm tích biển": "0,42"
+    },
+    {
+      "_row_id": 11,
+      "TT": "11",
+      "Thông số": "Tổng Hydrocarbon dầu (TPH)",
+      "Đơn vị (theo khối lượng khô)": "mg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "100",
+      "Giá trị giới hạn — Trầm tích biển": "100"
+    },
+    {
+      "_row_id": 12,
+      "TT": "12",
+      "Thông số": "Chlordane ($C_{10}H_{6}Cl_{8}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "8,9",
+      "Giá trị giới hạn — Trầm tích biển": "4,8"
+    },
+    {
+      "_row_id": 13,
+      "TT": "13",
+      "Thông số": "DDD (2,2-bis (parachlorophenyl)- 1,1- dichloroethane) ($C_{14}H_{10}Cl_{4}$) (1)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "8,5",
+      "Giá trị giới hạn — Trầm tích biển": "7,8"
+    },
+    {
+      "_row_id": 14,
+      "TT": "14",
+      "Thông số": "DDE (1,1-Dichloro-2,2- bis(p- chlorophenyl) ethylene) ($C_{14}H_{8}Cl_{4}$) (2)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "6,8",
+      "Giá trị giới hạn — Trầm tích biển": "374,0"
+    },
+    {
+      "_row_id": 15,
+      "TT": "15",
+      "Thông số": "DDT (1,1'-(2,2,2-Trichloroethane-1,1- diyl) bis(4-chlorobenzene) ($C_{14}H_{9}Cl_{5}$) (3)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "4,8",
+      "Giá trị giới hạn — Trầm tích biển": "4,8"
+    },
+    {
+      "_row_id": 16,
+      "TT": "16",
+      "Thông số": "Dieldrin ($C_{12}H_{8}Cl_{6}$ O)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "6,7",
+      "Giá trị giới hạn — Trầm tích biển": "4,3"
+    },
+    {
+      "_row_id": 17,
+      "TT": "17",
+      "Thông số": "Endrin ($C_{12}H_{8}Cl_{6}$ O)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "62,4",
+      "Giá trị giới hạn — Trầm tích biển": "62,4"
+    },
+    {
+      "_row_id": 18,
+      "TT": "18",
+      "Thông số": "Heptachlor epoxide ($C_{10}H_{5}Cl_{7}$ O)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "2,7",
+      "Giá trị giới hạn — Trầm tích biển": "2,7"
+    },
+    {
+      "_row_id": 19,
+      "TT": "19",
+      "Thông số": "Lindane ($C_{6}H_{6}Cl_{6}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "1,4",
+      "Giá trị giới hạn — Trầm tích biển": "1,0"
+    },
+    {
+      "_row_id": 20,
+      "TT": "20",
+      "Thông số": "Polychlorinated biphenyls (PCBs) (4)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "277",
+      "Giá trị giới hạn — Trầm tích biển": "189"
+    },
+    {
+      "_row_id": 21,
+      "TT": "21",
+      "Thông số": "Dioxin/Furan (PCDD/PCDF)",
+      "Đơn vị (theo khối lượng khô)": "ng/kg TEQ",
+      "Giá trị giới hạn — Trầm tích nước mặt": "21,5",
+      "Giá trị giới hạn — Trầm tích biển": "21,5"
+    },
+    {
+      "_row_id": 22,
+      "TT": "22",
+      "Thông số": "Các hợp chất Hydrocarbon thơm đa vòng (PAHs)",
+      "Đơn vị (theo khối lượng khô)": "",
+      "Giá trị giới hạn — Trầm tích nước mặt": "",
+      "Giá trị giới hạn — Trầm tích biển": ""
+    },
+    {
+      "_row_id": 23,
+      "TT": "22.1.",
+      "Thông số": "Acenaphthene ($C_{12}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "88,9",
+      "Giá trị giới hạn — Trầm tích biển": "88,9"
+    },
+    {
+      "_row_id": 24,
+      "TT": "22.2.",
+      "Thông số": "Acenaphthylene ($C_{12}H_{8}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "128",
+      "Giá trị giới hạn — Trầm tích biển": "128"
+    },
+    {
+      "_row_id": 25,
+      "TT": "22.3.",
+      "Thông số": "Anthracene ($C_{14}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "245",
+      "Giá trị giới hạn — Trầm tích biển": "245"
+    },
+    {
+      "_row_id": 26,
+      "TT": "22.4.",
+      "Thông số": "Benzo [a] anthracene ($C_{18}H_{12}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "385",
+      "Giá trị giới hạn — Trầm tích biển": "693"
+    },
+    {
+      "_row_id": 27,
+      "TT": "22.5.",
+      "Thông số": "Benzo [a] pyrene ($C_{20}H_{12}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "782",
+      "Giá trị giới hạn — Trầm tích biển": "763"
+    },
+    {
+      "_row_id": 28,
+      "TT": "22.6.",
+      "Thông số": "Chrysene ($C_{18}H_{12}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "862",
+      "Giá trị giới hạn — Trầm tích biển": "846"
+    },
+    {
+      "_row_id": 29,
+      "TT": "22.7.",
+      "Thông số": "Dibenz [a,h] anthracene ($C_{22}H_{14}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "135",
+      "Giá trị giới hạn — Trầm tích biển": "135"
+    },
+    {
+      "_row_id": 30,
+      "TT": "22.8.",
+      "Thông số": "Fluoranthene ($C_{16}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "2355",
+      "Giá trị giới hạn — Trầm tích biển": "1494"
+    },
+    {
+      "_row_id": 31,
+      "TT": "22.9.",
+      "Thông số": "Fluorene ($C_{13}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "144",
+      "Giá trị giới hạn — Trầm tích biển": "144"
+    },
+    {
+      "_row_id": 32,
+      "TT": "22.10.",
+      "Thông số": "2-Methylnaphthalene ($C_{11}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "201",
+      "Giá trị giới hạn — Trầm tích biển": "201"
+    },
+    {
+      "_row_id": 33,
+      "TT": "22.11.",
+      "Thông số": "Naphthalene ($C_{10}H_{8}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "391",
+      "Giá trị giới hạn — Trầm tích biển": "391"
+    },
+    {
+      "_row_id": 34,
+      "TT": "22.12.",
+      "Thông số": "Phenanthrene ($C_{14}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "515",
+      "Giá trị giới hạn — Trầm tích biển": "544"
+    },
+    {
+      "_row_id": 35,
+      "TT": "22.13.",
+      "Thông số": "Pyrene ($C_{16}H_{10}$)",
+      "Đơn vị (theo khối lượng khô)": "μg/kg",
+      "Giá trị giới hạn — Trầm tích nước mặt": "875",
+      "Giá trị giới hạn — Trầm tích biển": "1398"
+    }
+  ],
+  "footnotes": []
+}

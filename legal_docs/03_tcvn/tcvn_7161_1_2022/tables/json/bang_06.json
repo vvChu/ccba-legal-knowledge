@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Hệ số hiệu chỉnh",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Độ cao tương đươngm",
+    "Hệ số hiệu chỉnh"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ cao tương đươngm": "&nbsp;&nbsp;\\- 1 000\n0\n1 000",
+      "Hệ số hiệu chỉnh": "1,130\n1,000\n0,885"
+    },
+    {
+      "_row_id": 2,
+      "Độ cao tương đươngm": "1 500\n2 000\n2 500",
+      "Hệ số hiệu chỉnh": "0,830\n0,785\n0,735"
+    },
+    {
+      "_row_id": 3,
+      "Độ cao tương đươngm": "3 000\n3 500\n4 000\n4 500",
+      "Hệ số hiệu chỉnh": "0,690\n0,650\n0,610\n0,565"
+    }
+  ],
+  "footnotes": []
+}

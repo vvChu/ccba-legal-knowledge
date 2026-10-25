@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_phu_luc_s",
+  "table_number": "PLS",
+  "table_title": "Bảng Phụ lục S",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày/ ca",
+    "Phương pháp đào đất",
+    "Tên đất đào",
+    "Áp lực không khí trong giếng chìm hơi ép trước khi đánh chìm, Pa",
+    "Áp lực không khí trong giếng chìm hơi ép sau khi đánh chìm, Pa",
+    "Trị số lún chìm m",
+    "Thể tích đất đào m",
+    "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 1",
+    "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 2",
+    "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 3",
+    "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 4",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày/ ca": "1",
+      "Phương pháp đào đất": "2",
+      "Tên đất đào": "3",
+      "Áp lực không khí trong giếng chìm hơi ép trước khi đánh chìm, Pa": "4",
+      "Áp lực không khí trong giếng chìm hơi ép sau khi đánh chìm, Pa": "5",
+      "Trị số lún chìm m": "6",
+      "Thể tích đất đào m": "7",
+      "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 1": "8",
+      "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 2": "9",
+      "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 3": "10",
+      "Độ sâu hạ giếng chìm hơi ép theo các điểm, m — 4": "11",
+      "Người thực hiện (ký tên)": "12",
+      "Ghi chú": "13"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,38 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 14176 2 2024
+total_figures: 4
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Các loại và mối quan hệ chung giữa chúng
+  annex: A
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Minh họa của một thứ bậc phân loại và thứ bậc thành phần
+  annex: A
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Minh họa sự kết hợp của thành phần và phân loại
+  annex: A
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Các khái niệm phản loại - các thành phần của một lớp con cũng nằm trong lớp
+    bao gồm lớp con đó
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true

@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_phu_luc_p",
+  "table_number": "PLP",
+  "table_title": "Bảng Phụ lục P",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số thứ tự",
+    "Ngày, tháng hạ cọc",
+    "$N^{o}$ theo mặt bằng cọc",
+    "Bề dày thành cọc, mm",
+    "Đường kính ngoài, mm",
+    "Chiều dài, m",
+    "Độ sâu hạ chìm, m — Theo thiết kế",
+    "Độ sâu hạ chìm, m — Thực tế",
+    "Loại máy rung hạ cọc",
+    "Các số liệu về lần đo sau cùng — Lực kích động của máy rung, T",
+    "Các số liệu về lần đo sau cùng — Công suất yêu cầu, m/min",
+    "Các số liệu về lần đo sau cùng — Tốc độ lún chìm, m/min",
+    "Các số liệu về lần đo sau cùng — Độ cao của lõi đất trong cọc ống,",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số thứ tự": "1",
+      "Ngày, tháng hạ cọc": "2",
+      "$N^{o}$ theo mặt bằng cọc": "3",
+      "Bề dày thành cọc, mm": "4",
+      "Đường kính ngoài, mm": "5",
+      "Chiều dài, m": "6",
+      "Độ sâu hạ chìm, m — Theo thiết kế": "7",
+      "Độ sâu hạ chìm, m — Thực tế": "8",
+      "Loại máy rung hạ cọc": "9",
+      "Các số liệu về lần đo sau cùng — Lực kích động của máy rung, T": "10",
+      "Các số liệu về lần đo sau cùng — Công suất yêu cầu, m/min": "11",
+      "Các số liệu về lần đo sau cùng — Tốc độ lún chìm, m/min": "12",
+      "Các số liệu về lần đo sau cùng — Độ cao của lõi đất trong cọc ống,": "13",
+      "Ghi chú": "14"
+    }
+  ],
+  "footnotes": []
+}

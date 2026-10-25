@@ -1,0 +1,24 @@
+﻿STT,Loại công trình,Tiêu chí phân cấp,Cấp công trình — Đặc biệt,Cấp công trình — I,Cấp công trình — II,Cấp công trình — III,Cấp công trình — III,Cấp công trình — IV,Cấp công trình — IV
+1.3.1,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,Công trình cấp nước,
+1.3.1,"1.3.1.1 Nhà máy nước, công trình xử lý nước sạch (bao gồm cả công trình xử lý bùn cặn)",TCS (nghìn m3/ngày đêm),,≥ 30,10 ÷ < 30,< 10,< 10,,
+,"1.3.1.2 Trạm bơm nước thô, nước sạch hoặc tăng áp (bao gồm cả bể chứa nước nếu có)",TCS (nghìn m3/ngày đêm),,≥ 40,12 ÷ < 40,< 12,< 12,,
+1.3.2,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,Công trình thoát nước,
+1.3.2,1.3.2.1 Hồ điều hòa,Diện tích (ha),,≥ 20,15 ÷ < 20,1 ÷ < 15,1 ÷ < 15,< 1,< 1
+1.3.2,1.3.2.2 Trạm bơm nước mưa (bao gồm cả bể chứa nước nếu có),TCS (m3/s),,≥ 25,10 ÷ < 25,< 10,< 10,,
+1.3.2,1.3.2.3 Công trình xử lý nước thải,TCS (nghìn m3/ngày đêm),,≥ 20,10 ÷ < 20,< 10,< 10,,
+1.3.2,1.3.2.4 Trạm bơm nước thải (bao gồm cả bể chứa nước nếu có),TCS (m3/h),,≥ 1.200,700 ÷ < 1.200,< 700,< 700,,
+1.3.2,1.3.2.5 Công trình xử lý bùn,TCS (m3/ngày đêm),,≥ 1.000,200 ÷ < 1.000,< 200,< 200,,
+1.3.3,Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),Công trình xử lý chất thải rắn (CTR),
+1.3.3,1.3.3.1 Cơ sở xử lý CTR thông thường,,,,,,,,
+1.3.3,a) Trạm trung chuyển,TCS (tấn/ngày đêm),,≥ 500,200 ÷ < 500,100 ÷ < 200,100 ÷ < 200,< 100,< 100
+,b) Cơ sở xử lý CTR,TCS (tấn/ngày đêm),≥ 500,200 ÷ < 500,50 ÷ < 200,< 50,< 50,,
+,1.3.3.2 Cơ sở xử lý CTR nguy hại,TCS (tấn/ngày đêm),,> 100,20 ÷ 100,< 20,< 20,,
+1.3.4,Công viên cây xanh,Diện tích (ha),,> 20,10 ÷ 20,5 ÷ < 10,5 ÷ < 10,< 5,< 5
+1.3.5,Nghĩa trang Nghĩa trang Quốc gia: Cấp I với mọi quy mô.,Diện tích (ha),,> 60,30 ÷ 60,10 ÷ < 30,10 ÷ < 30,< 10,< 10
+1.3.6,Nhà tang lễ,Mức độ quan trọng,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.,Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II.
+1.3.7,Cơ sở hỏa táng,Mức độ quan trọng,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.,Cấp II với mọi quy mô.
+1.3.8,"Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị","Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị","Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị","Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị","Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị","Nhà để xe ô tô; sân bãi để xe, máy móc, thiết bị",,,
+1.3.8,1.3.8.1 Nhà để xe ô tô ngầm*,Số chỗ để xe ô tô,,≥ 500,300 ÷ < 500,< 300,< 300,,
+1.3.8,1.3.8.2 Nhà để xe ô tô nổi*,Số chỗ để xe ô tô,,≥ 1.000,500 ÷ < 1.000,100 ÷ < 500,100 ÷ < 500,< 100,< 100
+,"1.3.8.3 Sân bãi để xe, máy móc, thiết bị (không có mái che)",Tổng diện tích (ha),,,,"> 2,5","> 2,5","≤ 2,5","≤ 2,5"
+1.3.9,Đường cáp truyền tín hiệu viễn thông,Mức độ quan trọng,Liên quốc gia,Liên tỉnh,Nội tỉnh,,,,

@@ -1,0 +1,36 @@
+﻿TT,Thông số,Đơn vị (theo khối lượng khô),Giá trị giới hạn — Trầm tích nước mặt,Giá trị giới hạn — Trầm tích biển
+1,Arsenic (As),mg/kg,"17,0","41,6"
+2,Cadmi (Cd),mg/kg,"3,5","4,2"
+3,Chì (Plumbum) (Pb),mg/kg,"91,3",112
+4,Chromi (Cr),mg/kg,90,160
+5,Đồng (Cuprum) (Cu),mg/kg,197,108
+6,Kẽm (Zincum) (Zn),mg/kg,315,271
+7,Sắt (Ferrum) (Fe),mg/kg,20000,20000
+8,Thủy ngân (Hydrargyrum) (Hg),mg/kg,"0,5","0,7"
+9,Cyanide ($CN^{-}$),mg/kg,"0,1","0,1"
+10,Phenol (C6H5OH),mg/kg,"0,42","0,42"
+11,Tổng Hydrocarbon dầu (TPH),mg/kg,100,100
+12,Chlordane ($C_{10}H_{6}Cl_{8}$),μg/kg,"8,9","4,8"
+13,"DDD (2,2-bis (parachlorophenyl)- 1,1- dichloroethane) ($C_{14}H_{10}Cl_{4}$) <sup>(1)</sup>",μg/kg,"8,5","7,8"
+14,"DDE (1,1-Dichloro-2,2- bis(p- chlorophenyl) ethylene) ($C_{14}H_{8}Cl_{4}$) <sup>(2)</sup>",μg/kg,"6,8","374,0"
+15,"DDT (1,1'-(2,2,2-Trichloroethane-1,1- diyl) bis(4-chlorobenzene) ($C_{14}H_{9}Cl_{5}$) <sup>(3)</sup>",μg/kg,"4,8","4,8"
+16,Dieldrin ($C_{12}H_{8}Cl_{6}$ O),μg/kg,"6,7","4,3"
+17,Endrin ($C_{12}H_{8}Cl_{6}$ O),μg/kg,"62,4","62,4"
+18,Heptachlor epoxide ($C_{10}H_{5}Cl_{7}$ O),μg/kg,"2,7","2,7"
+19,Lindane ($C_{6}H_{6}Cl_{6}$),μg/kg,"1,4","1,0"
+20,Polychlorinated biphenyls (PCBs) <sup>(4)</sup>,μg/kg,277,189
+21,Dioxin/Furan (PCDD/PCDF),ng/kg TEQ,"21,5","21,5"
+22,Các hợp chất Hydrocarbon thơm đa vòng (PAHs),,,
+22.1.,Acenaphthene ($C_{12}H_{10}$),μg/kg,"88,9","88,9"
+22.2.,Acenaphthylene ($C_{12}H_{8}$),μg/kg,128,128
+22.3.,Anthracene ($C_{14}H_{10}$),μg/kg,245,245
+22.4.,Benzo [a] anthracene ($C_{18}H_{12}$),μg/kg,385,693
+22.5.,Benzo [a] pyrene ($C_{20}H_{12}$),μg/kg,782,763
+22.6.,Chrysene ($C_{18}H_{12}$),μg/kg,862,846
+22.7.,"Dibenz [a,h] anthracene ($C_{22}H_{14}$)",μg/kg,135,135
+22.8.,Fluoranthene ($C_{16}H_{10}$),μg/kg,2355,1494
+22.9.,Fluorene ($C_{13}H_{10}$),μg/kg,144,144
+22.10.,2-Methylnaphthalene ($C_{11}H_{10}$),μg/kg,201,201
+22.11.,Naphthalene ($C_{10}H_{8}$),μg/kg,391,391
+22.12.,Phenanthrene ($C_{14}H_{10}$),μg/kg,515,544
+22.13.,Pyrene ($C_{16}H_{10}$),μg/kg,875,1398

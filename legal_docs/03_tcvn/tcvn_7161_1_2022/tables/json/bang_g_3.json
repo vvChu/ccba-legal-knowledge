@@ -1,0 +1,59 @@
+{
+  "table_id": "bang_g_3",
+  "table_number": "G.3",
+  "table_title": "Bảng G.3 - Thời gian tiếp xúc an toàn của con người ở các nồng độ đã cho của HFC-127ea",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Nồng độ của HFC - 127 ea — % thể tích",
+    "Nồng độ của HFC - 127 ea — ppm",
+    "Thời gian tiếp xúc của con người, min"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nồng độ của HFC - 127 ea — % thể tích": "9,0",
+      "Nồng độ của HFC - 127 ea — ppm": "90 000",
+      "Thời gian tiếp xúc của con người, min": "5,00"
+    },
+    {
+      "_row_id": 2,
+      "Nồng độ của HFC - 127 ea — % thể tích": "9,5",
+      "Nồng độ của HFC - 127 ea — ppm": "95 000",
+      "Thời gian tiếp xúc của con người, min": "5,00"
+    },
+    {
+      "_row_id": 3,
+      "Nồng độ của HFC - 127 ea — % thể tích": "10,0",
+      "Nồng độ của HFC - 127 ea — ppm": "100 000",
+      "Thời gian tiếp xúc của con người, min": "5,00"
+    },
+    {
+      "_row_id": 4,
+      "Nồng độ của HFC - 127 ea — % thể tích": "10,5",
+      "Nồng độ của HFC - 127 ea — ppm": "105 000",
+      "Thời gian tiếp xúc của con người, min": "5,00"
+    },
+    {
+      "_row_id": 5,
+      "Nồng độ của HFC - 127 ea — % thể tích": "11,0",
+      "Nồng độ của HFC - 127 ea — ppm": "110 000",
+      "Thời gian tiếp xúc của con người, min": "1,13"
+    },
+    {
+      "_row_id": 6,
+      "Nồng độ của HFC - 127 ea — % thể tích": "11,5",
+      "Nồng độ của HFC - 127 ea — ppm": "115 000",
+      "Thời gian tiếp xúc của con người, min": "0,60"
+    },
+    {
+      "_row_id": 7,
+      "Nồng độ của HFC - 127 ea — % thể tích": "12,0",
+      "Nồng độ của HFC - 127 ea — ppm": "120 000",
+      "Thời gian tiếp xúc của con người, min": "0,49"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Dựa trên LOAEL 10,5% cho các con chó.",
+    "fn_2": "**CHÚ THÍCH:** Số liệu được rút ra từ mô hình PBPK đã được kiểm tra kỹ về mặt sinh lý và được EPA phê duyệt hoặc giá trị tương đương của nó."
+  }
+}

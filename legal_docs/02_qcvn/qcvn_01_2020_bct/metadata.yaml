@@ -1,0 +1,35 @@
+id: qcvn_01_2020_bct
+document_number: QCVN 01:2020/BCT
+title: "QCVN 01:2020/BCT — Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu"
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Công Thương
+signer: Đỗ Thắng Hải
+issued_date: '2020-06-30'
+effective_date: '2021-01-01'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_01_2020_bct/
+source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-ve-yeu-cau-thiet-ke-cua-hang-xang-dau-446555.aspx
+sha256: 1f753b6014ea24b53c162940fb2000f5981b9a0df9983c31f1727860badf71d4
+pdf_path: legal_docs/02_qcvn/qcvn_01_2020_bct/sources/qcvn_01_2020_bct.pdf
+pdf_sha256: ad62a4417b9a598dd82c2e55cff72080babeeb24ac05d3f778bafc847f22ec20
+cong_bao_number: 15/2020/TT-BCT
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_01_2020_bct/sources/qcvn_01_2020_bct.docx
+source_file_size_kb: 1627.4
+source_assets:
+  docx:
+    sha256: 1f753b6014ea24b53c162940fb2000f5981b9a0df9983c31f1727860badf71d4
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2020_bct/qcvn_01_2020_bct.docx
+    status: verified
+  pdf:
+    sha256: ad62a4417b9a598dd82c2e55cff72080babeeb24ac05d3f778bafc847f22ec20
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2020_bct/qcvn_01_2020_bct.pdf
+    status: verified
+relations:
+  replaces:
+  - QCVN 01:2013/BCT
+  - QCVN 10:2015/BCT
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-11T07:39:28.085340+00:00'

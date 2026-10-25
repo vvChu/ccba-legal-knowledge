@@ -1,0 +1,2963 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 56
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 65
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  NGUYÊN TẮC CHUNG",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 69
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Trình tự và biện pháp thi công xây dựng nền và móng phải phối hợp với các công tác xây dựng những công trình ngầm, xây dựng đường sá của công trường và các công tác khác của “chu trình không”.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 72,
+    "line_end": 75
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Việc lựa chọn biện pháp thi công, xây dựng nền và móng phải xét đến các số liệu khảo sát địa chất công trình đã thực hiện khi thiết kế công trình. Trong trường hợp điều kiện địa chất công trình thực tế của khu vực xây dựng không phù hợp với những tính toán trong thiết kế thì cần tiến hành những nghiên cứu bổ sung về địa chất.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 79
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Các vật liệu, cấu kiện, bộ phận kết cấu dùng khi xây dựng nền và móng phải thỏa mãn những yêu cầu của thiết kế theo những tiêu chuẩn Nhà nước và điều kiện kỹ thuật tương ứng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Khi xây dựng nền và móng phải có sự kiểm tra kỹ thuật của cơ quan đặt hàng đối với các bộ phận kết cấu quan trọng đã hoàn thành riêng và có lập các biên bản nghiệm thu trung gian cho các bộ phận kết cấu ấy.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 87
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Khi móng xây dựng trên các loại đất có tính chất đặc biệt (như đất lún ướt, đất đắp...) cũng như móng của các công trình đặc biệt quan trọng thì phải tổ chức việc theo dõi chuyển vị của móng và biến dạng của công trình trong thời kỳ xây dựng. Các đối tượng theo dõi và phương pháp đo được quy định trong thiết kế có tính toán chi phí cần thiết để đặt các mốc đo và thực hiện quá trình theo dõi.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 93
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  NỀN MÓNG THIÊN NHIÊN",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Khi dùng đất làm nền thiên nhiên cần phải áp dụng những biện pháp xây dựng để chất lượng của nền đã được chuẩn bị và các tính chất tự nhiên của đất không bị xấu đi do nước ngầm và nước mặt xói lở, thấm ướt do tác động của các phương tiện cơ giới, vận tải và do phong hóa.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 103
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Trong những trường hợp thiết kế đã có nghiên cứu trước, cho phép xây móng trên những nền đất đắp sau khi đã chuẩn bị nền phù hợp với phương pháp đổ đất và đầm nén đất, có xét đến thành phần và trạng thái của đất.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 109
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Kết cấu chống vách hố móng, về nguyên tắc phải dùng phức hợp thép hình tháo lắp (trừ những trường hợp chống vách các hố móng nhỏ, đường hoà, hố đào có chuyên tuyến phức tạp, đào bằng tay). Việc chống dỡ phải làm sao cho không cản trở thi công các công việc xây dựng móng tiếp theo. Trình tự tháo dỡ kết cấu chống vách hố móng phải đảm bảo thành hố móng ổn định cho đến khi kết thúc công việc xây dựng móng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 112,
+    "line_end": 115
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Khi độ sâu đặt móng thay đổi, việc đào đất, trong các hố móng, các đường hào phải làm từng cấp. Tỷ số chiều cao chia cho chiều dài của mỗi bậc do thiết kế quy định nhưng không được nhỏ hơn 1:2 ở các đất dính và 1:3 ở các đất không dính.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 118,
+    "line_end": 119
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Nếu trạng thái tự nhiên của đất nền có độ chặt và tính chống thấm không đạt yêu cầu của thiết kế thì phải đầm chặt thêm bằng cách phương tiện đầm nén (xe lu, búa đầm ...).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 122,
+    "line_end": 127
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Việc lấp đầy khoảng trống giữa các móng bằng đất và đầm nén đất phải tiến hành sao cho giữ nguyên được lớp chống thấm của các móng, của các tường tầng hầm cũng như của các đường ống ngầm đặt bên cạnh (như đường cáp, đường ống ...).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 130,
+    "line_end": 131
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Khoảng trống giữa các móng được lấp đầy đến cao trình đảm bảo sự thoát chảy chắn chắn của nước mặt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 134,
+    "line_end": 135
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Nước ngầm vào hố móng trong thời gian xây móng nhất thiết phải bơm ra, không cho phép lớp bê tông hay vữa mới thi công ngập nước chừng nào chưa đạt 30 % cường độ thiết kế. Để phòng ngừa vữa bị rữa trôi khỏi khối xây cần làm các rãnh thoát nước và các giếng thu nước. Việc hút nước ra khỏi hố móng phải tiến hành có chú ý đến những yêu cầu ở Điều 6 của tiêu chuẩn này.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 138,
+    "line_end": 141
+  },
+  {
+    "clause_id": "muc-4-9",
+    "anchor": "muc-4-9",
+    "title": "4.9  Khi độ sâu đặt móng thay đổi thì việc xây móng phải bắt đầu từ cao trình thấp nhất của nền. Các phần hoặc khối móng nằm cao hơn phải xây trên nền đã được đầm chặt của đất đắp, khoảng trống, giữa các phần hoặc khối móng nằm bên dưới.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 144,
+    "line_end": 145
+  },
+  {
+    "clause_id": "muc-4-10",
+    "anchor": "muc-4-10",
+    "title": "4.10  Trước khi xây móng, nền đất đã chuẩn bị phải được xác nhận bằng biên bản của hội đồng bao gồm bên giao thầu và bên nhận thầu, và khi cần thiết có đại diện của cơ quan thiết kế.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 148,
+    "line_end": 153
+  },
+  {
+    "clause_id": "muc-4-11",
+    "anchor": "muc-4-11",
+    "title": "4.11  Khi xây móng cần kiểm tra độ sâu đặt móng, kích thước và sự bố trí trên mặt bằng cấu tạo các lỗ, các hốc, việc thực hiện lớp chống thấm, chất lượng các vật liệu và các bộ phận kết cấu đã dùng. Khi chuẩn bị nền và lớp chống thấm của móng nhất thiết phải lập biên bản kiểm tra các công trình khuất.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 156,
+    "line_end": 157
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  NÉN CHẶT ĐẤT LÚN ƯỚT",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 160,
+    "line_end": 161
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Để nén chặt các đất lún ướt, phải áp dụng các biện pháp:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 164,
+    "line_end": 171
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Khi xây dựng nền trên các đất lún ướt phải có các biện pháp thoát nước mưa cho khu vực xây dựng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 174,
+    "line_end": 175
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Việc nén chặt đất lún ướt phải tiến hành trên cơ sở tài liệu điều tra địa chất công trình, bao gồm những số liệu về nước ngầm ở khu xây dựng, về chiều dày lún ướt, về loại đất theo mức độ lún ướt, về độ lún khả dĩ do tải trọng móng và trọng lượng bản thân, cũng như về các đặc trưng của đất ở trạng thái thiên nhiên (dung trọng, tỷ trọng, giới hạn nhão, giới hạn lăn, độ lún ướt tương đối, áp lực lún ướt ban đầu ...).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 178,
+    "line_end": 179
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Các phương án thiết kế về nén chặt đất lún ướt phải bao gồm:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 182,
+    "line_end": 193
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Trước khi bắt đầu công tác đầm chặt phải xác định rõ thêm về độ ẩm và độ chặt tự nhiên của đất ở độ sâu do thiết kế quyết định.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 196,
+    "line_end": 212
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Việc đầm chặt thí nghiệm để xác định rõ thêm các thông số thiết kế là một công tác cơ bản khi nén chặt đất lún ướt, cần phải làm trước trong quá trình xây dựng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 215,
+    "line_end": 224
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Phương pháp nén chặt đất thí nghiệm phải dự kiến tuân theo những yêu cầu nêu dưới đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 227,
+    "line_end": 242
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Khi hoàn thành việc nén chặt thí nghiệm phải ghi thành những biên bản, trong đó thuyết minh rõ những trị số đề nghị về độ chối khi nén chặt đất và làm đệm đất, bằng các máy đầm khác nhau, những đồ thị quan hệ giữa mức giảm thấp bề mặt đất đầm và đáy của hố móng được đầm nện với chế độ làm việc máy đầm, những số liệu về số lần đập cần thiết cho một phần đất đổ vào trong hố khoan khi làm cọc đất, những đồ thị lún của các mốc bề mặt và mốc sâu, lượng nước đã tốn khi làm ướt đất và những kết quả khác về đầm chặt thí nghiệm để quy định công nghệ của các công việc chính nhằm bảo đảm những chỉ tiêu thích ứng về chất lượng và thời hạn.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 245,
+    "line_end": 246
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Việc nén chặt bề mặt của đất bằng búa đầm nện phải được thực hiện theo các yêu cầu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 249,
+    "line_end": 258
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Xây dựng các đệm đất phải thực hiện trong hố móng đào thấp hơn cốt thiết kế chôn móng một độ sâu bằng chiều dày đệm đất và tuân theo các yêu cầu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 261,
+    "line_end": 268
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Đầm nền hố móng cần phải thực hiện theo các yêu cầu sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 271,
+    "line_end": 276
+  },
+  {
+    "clause_id": "muc-4-12",
+    "anchor": "muc-4-12",
+    "title": "4.12  Nén chặt sâu nền đất bằng cọc đất phải tiến hành theo các yêu cầu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 288
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Việc nén chặt đất bằng phương pháp thấm ướt trước cần thực hiện theo các yêu cầu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 291,
+    "line_end": 300
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Chất lượng nén chặt đất cần kiểm tra bằng cách xác định độ chặt của đất khi chặt bằng búa đầm theo từng độ sâu từ 0,25 m đến 0,50 m còn khi nén chặt từng lớp bằng lu lèn tại giữa mỗi lớp; số lượng các điểm xác định độ chặt được xác định từ tính toán là mỗi điểm cho 300 m² diện tích được nén chặt và cần phải lấy ít nhất hai mẫu thử khi nén chặt bằng búa đầm và ba mẫu thử trong mỗi lớp khi nén chặt từng lớp lu lèn. Khi nén chặt đất có độ ẩm tối ưu bằng đầm trọng lực, chất lượng nén chặt được phép kiểm tra bằng cách xác định độ chối theo sự tính toán mỗi lần thử cho 100 m² đất nén chặt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 303,
+    "line_end": 308
+  },
+  {
+    "clause_id": "muc-5-15",
+    "anchor": "muc-5-15",
+    "title": "5.15  Những kết quả của công tác nén chặt đất lún ướt phải ghi vào trong các nhật ký thích hợp (Phụ lục A và Phụ lục B).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 311,
+    "line_end": 314
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  HẠ THẤP MỰC NƯỚC TRONG XÂY DỰNG",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 317,
+    "line_end": 318
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Các quy tắc trong phần này được áp dụng cho công tác hạ thấp nhân tạo mực nước ngầm bằng các biện pháp tháo nước lộ thiên. Rãnh tiêu nước giếng lọc kiểu ống châm kim, phương pháp chân không, phương pháp điện thấm và phương pháp lỗ khoan hạ mực nước lộ thiên. Những phương pháp đó được dùng riêng biệt hoặc phối hợp với nhau trong thời kỳ xây dựng nhà và công trình.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 321,
+    "line_end": 322
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Chọn các biện pháp hạ thấp mực nước cần phải chú ý đến tình hình thiên nhiên, kích thước vùng làm khô cạn, các phương pháp thi công ở hố móng và vùng lân cận nó, thời gian kéo dài của chúng và các điều kiện địa phương khác của công trường xây dựng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 325,
+    "line_end": 330
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Biện pháp tháo nước lộ thiên có thể dùng trong các điều kiện, đất khác nhau và ở độ sâu khác nhau, nếu việc tuân thủ tất cả các yêu cầu ở 6.2 không gặp khó khăn.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 333,
+    "line_end": 334
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Các rãnh tiêu nước trong dạng kênh và hào lộ thiên hoặc lấp đầy vật liệu thấm, cũng như các ống tiêu nước có lấp lớp chống thấm xung quanh được phép bố tí chẳng những ở ngoài hố móng mà ngay cả trực tiếp ở trong hố móng. Cho phép lắp đặt các rãnh tiêu nước kiểu hành lang ngầm trong trường hợp dùng chung sau này trong thời kỳ sử dụng thường xuyên công trình.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 337,
+    "line_end": 338
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Phương pháp giếng lọc kiểu ống châm kim nên sử dụng trong đất không phân lớp và có hệ số thấm từ một ngày đến năm mươi ngày đêm; đồng thời khi sử dụng nó nên trang bị các loại máy bơm có thể hạ mực nước ngầm một cấp đến độ sâu nhỏ hơn 4 m đến 5 m cách trục bơm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 341,
+    "line_end": 342
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Phương pháp chân không (khi đó chân không được phát triển trong vùng thấm của khu lấp nước nên dùng trong các đất có hệ số thấm từ 0,05 m một ngày đêm đến 2,00 m một ngày đêm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 345,
+    "line_end": 352
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Phương pháp điện thấm, trong đó việc rút khô nước cho đất xảy ra dưới tác dụng của lực điện thấm xuất hiện khi cho đi qua đất dòng điện 1 chiều, nên dùng trong đất khó thấm và có hệ số thấm nhỏ hơn 0,05 m một ngày đêm và xem như là biện pháp tăng cường hiệu quả làm khô đất ít thấm đến độ sâu tùy thuộc vào thiết bị chính để hạ thấp mực nước.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 355,
+    "line_end": 356
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Lỗ khoan hạ mực lộ thiên (thông với khí quyển) nên dùng các loại sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 359,
+    "line_end": 368
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Tài liệu khảo sát địa chất thủy văn và địa chất công trình cần cho công tác hạ mực nước gồm có:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 371,
+    "line_end": 382
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Các giải pháp thiết kế về hạ mực nước cần phải có:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 385,
+    "line_end": 394
+  },
+  {
+    "clause_id": "muc-6-11",
+    "anchor": "muc-6-11",
+    "title": "6.11  Trong thiết kế hạ mực nước đòi hỏi thời gian lâu dài cần phải nghiên cứu việc thực hiện từng giai đoạn công tác và đưa dần các thiết bị hạ mực nước vào hoạt động.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 397,
+    "line_end": 400
+  },
+  {
+    "clause_id": "muc-6-12",
+    "anchor": "muc-6-12",
+    "title": "6.12  Trong thiết kế hạ mực nước ngầm cần phải xác định bằng tính toán:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 403,
+    "line_end": 412
+  },
+  {
+    "clause_id": "muc-6-13",
+    "anchor": "muc-6-13",
+    "title": "6.13  Các tính toán về hạ mức nước nên thực hiện trên cơ sở định luật thấm tuyến tính v = k.i. Các phương trình dòng chảy của nước ngầm khi chế độ thấm ổn định và hệ thống hệ mực nước hoàn chỉnh (các hố khoan sâu đến lớp không thấm nước) có dạng:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 415,
+    "line_end": 452
+  },
+  {
+    "clause_id": "muc-6-14",
+    "anchor": "muc-6-14",
+    "title": "6.14  Khi thiếu các số liệu nguồn và điều kiện cung cấp nước của tầng chứa nước thì cho phép xác định bán kính của vùng giảm áp bằng tính toán theo các công thức sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 455,
+    "line_end": 458
+  },
+  {
+    "clause_id": "formula-5",
+    "anchor": "formula-5",
+    "title": "$$k \\qquad (5)$$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 461,
+    "line_end": 473
+  },
+  {
+    "clause_id": "muc-6-15",
+    "anchor": "muc-6-15",
+    "title": "6.15  Trong các trường hợp lớp không thấm nước sâu, lượng giảm thấp yêu cầu của mực nước ngầm dưới đáy hố móng cần được xác định tùy theo tốc độ phục hồi mực nước khi các máy bơm tắt vì sự cố. Trong trường hợp vị trí của lớp không thấm nước ở cao thì nên căn cứ vào tình hình thực tế về độ sâu đạt được của việc hạ thấp mực nước và việc dùng các biện pháp phụ thêm để bảo vệ hố móng chống sự phá hoại dòng chảy của nước ngầm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 476,
+    "line_end": 479
+  },
+  {
+    "clause_id": "muc-6-16",
+    "anchor": "muc-6-16",
+    "title": "6.16  Cho phép dùng phương pháp thay thế dần trạng thái ổn định để tính toán hạ mực nước khi chế độ thấm của nước ngầm không ổn định. Phương pháp này giả thiết rằng tại mỗi thời điểm dòng thấm của nước được xem như là ổn định; đồng thời, bán kính đường giảm áp xác định phụ thuộc vào thời gian cho đến khi nó đạt trị số tương ứng với giá trị ở chế độ thấm ổn định.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 482,
+    "line_end": 485
+  },
+  {
+    "clause_id": "muc-6-17",
+    "anchor": "muc-6-17",
+    "title": "6.17  Vị trí của các giếng thoát nước, số lượng và độ sâu của chúng cần phải xác định dựa trên lưu lượng của nước ngầm và mực nước hạ thấp cần thiết.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 488,
+    "line_end": 493
+  },
+  {
+    "clause_id": "formula-6",
+    "anchor": "formula-6",
+    "title": "$$k \\qquad (6)$$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 496,
+    "line_end": 504
+  },
+  {
+    "clause_id": "muc-6-18",
+    "anchor": "muc-6-18",
+    "title": "6.18  Các ống hút, các bơm của thiết bị lọc châm kim, các bể chứa tuần hoàn, các máng tập trung nếu nước bố trí ở cao trình thấp trong điều kiện cho phép. Đối với các thiết bị hạ mực nước đặc trong phạm vi các mái dốc, cần phải nghiên cứu trước nơi đặt máy và các bờ bảo hộ.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 507,
+    "line_end": 510
+  },
+  {
+    "clause_id": "muc-6-19",
+    "anchor": "muc-6-19",
+    "title": "6.19  Các bể thu nước và các kênh thoát nước của hệ thống thoát nước lộ thiên, nói chung nên bố trí ngoài phạm vi nền công trình. Trong điều kiện chật hẹp phải đặt các bể chứa nước trong phạm vi của nền thì cần phải gia cố chúng cho vững chắc. Các tường thấm và đáy của bể chứa phải được bảo vệ chống xói lở. Chiều rộng của đáy các kênh thoát nước không được nhỏ hơn 0,3 m; còn độ dốc của nó phải bảo đảm 0,002 đến 0,005. Mái dốc và đáy của các kênh thoát nước trong đất bị đùn nên gia cố chắc chắn.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 513,
+    "line_end": 516
+  },
+  {
+    "clause_id": "muc-6-20",
+    "anchor": "muc-6-20",
+    "title": "6.20  Số giếng thoát nước có trang bị máy bơm để dự trữ tiến hành khi hạ mực nước ngầm không được lớn hơn 20 % số lượng giếng tính toán của toàn hệ thống. Số lượng giếng dự trữ của các hệ thống lớn có thể tính toán chính xác theo thiết kế.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 519,
+    "line_end": 522
+  },
+  {
+    "clause_id": "muc-6-21",
+    "anchor": "muc-6-21",
+    "title": "6.21  Tại các trạm bơm hút nước lộ thiên cần đặt các máy bơm dự trữ. Số lượng máy bơm dự trữ vào khoảng 50 % số bơm đang làm việc khi số bơm này lớn hơn 1 và khoảng 100 % nếu chỉ có 1 bơm hoạt động.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 525,
+    "line_end": 526
+  },
+  {
+    "clause_id": "muc-6-22",
+    "anchor": "muc-6-22",
+    "title": "6.22  Đối với các đối tượng xây dựng mà nếu ngừng hút nước có thể phá hoại khả năng thi công an toàn thì nên thiết kế 2 nguồn cung cấp điện độc lập cho hệ thống hạ mực nước.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 529,
+    "line_end": 530
+  },
+  {
+    "clause_id": "muc-6-23",
+    "anchor": "muc-6-23",
+    "title": "6.23  Trước khi bắt đầu công tác hạ mực nước cần phải kiểm tra tình trạng kỹ thuật của các nhà và công trình ở trong vùng thi công, nắm rõ tình hình các đường giao thông ngầm hiện có và tiến hành san bằng và dọn sạch khu vực bố trí các thiết bị thoát nước và hạ mực nước.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 533,
+    "line_end": 534
+  },
+  {
+    "clause_id": "muc-6-24",
+    "anchor": "muc-6-24",
+    "title": "6.24  Trong quá trình hạ mực nước cần phải bảo đảm sự điều chỉnh cơ động các chế độ làm việc của hệ thống bằng cách tắt toàn bộ, một phần hoặc định kỳ các tổ máy bơm theo mức độ giảm lưu lượng nước hút ra. Hệ thống hạ mực nước phải trang bị thêm các thiết bị bảo đảm phát tín hiệu đến nơi điều phối và cắt tự động bất kỳ tổ máy nào.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 537,
+    "line_end": 538
+  },
+  {
+    "clause_id": "muc-6-25",
+    "anchor": "muc-6-25",
+    "title": "6.25  Khi khoan các giếng và đặt thiết bị lọc vào giếng nên chú ý đến các yêu cầu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 541,
+    "line_end": 552
+  },
+  {
+    "clause_id": "muc-6-26",
+    "anchor": "muc-6-26",
+    "title": "6.26  Khi hạ vào đất các thiết bị lọc hoặc các ống chèn bằng phương pháp xỏi rửa cần phải đảm bảo truyền nước liên tục, và sau khi gặp đất thấm nước mạnh thì nên truyền thêm khí nén vào đáy.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 555,
+    "line_end": 558
+  },
+  {
+    "clause_id": "muc-6-27",
+    "anchor": "muc-6-27",
+    "title": "6.27  Các thiết bị lọc của các giếng hạ mực nước cần phải đáp ứng các yêu cầu sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 561,
+    "line_end": 570
+  },
+  {
+    "clause_id": "muc-6-28",
+    "anchor": "muc-6-28",
+    "title": "6.28  Khi đặt các thiết bị lọc vào giếng khoan trước trong đất mềm, xung quanh phần lọc của giếng, cần phải lấp bằng vật liệu cát, sỏi đã chọn lựa và rửa sạch, vật liệu này không chứa các hạt có đường kính nhỏ hơn 0,5 mm và lớn hơn 7,0 mm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 573,
+    "line_end": 594
+  },
+  {
+    "clause_id": "muc-6-29",
+    "anchor": "muc-6-29",
+    "title": "6.29  Khi lấp xung quanh các thiết bị lọc cần chú ý các yêu cầu sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 597,
+    "line_end": 604
+  },
+  {
+    "clause_id": "muc-6-30",
+    "anchor": "muc-6-30",
+    "title": "6.30  Phải kiểm tra sự hút nước của các giếng khoan bằng cách đổ nước sau khi đặt các thiết bị lọc. Nếu trong giếng kiểm tra thấy sự hút nước rất chậm so với các nơi khác thì nên xác định nguyên nhân của tình trạng đó và dùng các biện pháp để phục hồi khả năng hoạt động của giếng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 607,
+    "line_end": 610
+  },
+  {
+    "clause_id": "muc-6-31",
+    "anchor": "muc-6-31",
+    "title": "6.31  Khi lắp các máy bơm, các đường ống dẫn có áp và ống hút nước chảy ra cần bảo đảm thật kín tất cả các chỗ nối. Cần tiến hành lắp các máy bơm trong các giếng sau khi đã kiểm tra tính chất thông suốt của các giếng bằng một khuôn mẫu dài 5 m và có đường kính lớn hơn đường kính của máy bơm 50 mm. Mỗi máy bơm phải trang bị thêm khóa ở chỗ chảy ra, còn các máy phun nước hai van nút (ở chỗ phân nhánh cách ống dẫn và ở chỗ chảy ra).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 613,
+    "line_end": 616
+  },
+  {
+    "clause_id": "muc-6-32",
+    "anchor": "muc-6-32",
+    "title": "6.32  Các ống dẫn của thiết bị hạ mực nước cần được đặt trên những gối tháo lắp dọc theo bề mặt đã được san phẳng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 619,
+    "line_end": 624
+  },
+  {
+    "clause_id": "muc-6-33",
+    "anchor": "muc-6-33",
+    "title": "6.33  Khi đặt các thiết bị tiêu nước dạng ống nến làm các giếng kiểm tra cách nhau 50 m dọc theo chiều dài của các rãnh tiêu nước thẳng dòng và ở các nơi thay đổi hướng của chung.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 627,
+    "line_end": 636
+  },
+  {
+    "clause_id": "muc-6-34",
+    "anchor": "muc-6-34",
+    "title": "6.34  Trước khi nghiệm thu và đưa hệ thống hạ mực nước vào sử dụng phải tiến hành bơm hút thử. Trong quá trình đó cần phải kiểm tra:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 639,
+    "line_end": 652
+  },
+  {
+    "clause_id": "muc-6-35",
+    "anchor": "muc-6-35",
+    "title": "6.35  Nghiệm thu hệ thống hạ thấp mực nước bằng các biên bản trong đó có kèm các mặt cắt địa chất đã làm chính xác và các tài liệu bổ sung bao gồm các số liệu sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 655,
+    "line_end": 666
+  },
+  {
+    "clause_id": "muc-6-36",
+    "anchor": "muc-6-36",
+    "title": "6.36  Sau khi đưa hệ thống hạ mực nước vào sử dụng phải bơm nước liên tục.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 669,
+    "line_end": 672
+  },
+  {
+    "clause_id": "muc-6-37",
+    "anchor": "muc-6-37",
+    "title": "6.37  Khi bơm nước ra khỏi hố móng được đào bằng phương pháp đào dưới nước, tốc độ giảm thấp mực nước trong hố móng cần phải phù hợp với tốc độ giảm thấp mực nước ngầm ngoài phạm vi của nó để tránh sự phá hoại ổn định của đáy và thành hố; chế độ làm việc của thiết bị hạ mực nước cần điều chỉnh như thế nào để mực nước trong và ngoài hố móng không chênh lệch nhau nhiều.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 675,
+    "line_end": 678
+  },
+  {
+    "clause_id": "muc-6-39",
+    "anchor": "muc-6-39",
+    "title": "6.39  Trong suốt thời gian thi công hạ mực nước cần tiến hành ghi nhật ký (Phụ lục C và Phụ lục D) bao gồm nội dung sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 681,
+    "line_end": 690
+  },
+  {
+    "clause_id": "muc-6-40",
+    "anchor": "muc-6-40",
+    "title": "6.40  Khi kết thúc công việc lắp đặt hệ thống hạ mực nước cần phải lập các văn bản kiểm tra công tác lấp kín, trong có các chỉ dẫn về việc chôn đặt các thiết bị ngàm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 693,
+    "line_end": 694
+  },
+  {
+    "clause_id": "muc-6-41",
+    "anchor": "muc-6-41",
+    "title": "6.41  Cần phải tiến hành tháo rời các thiết bị bằng các phương pháp và phương tiện thích hợp để bảo đảm dùng lại chúng sau này.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 697,
+    "line_end": 700
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  CẢI TẠO ĐẤT",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 703,
+    "line_end": 704
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Chỉ dẫn chung",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 707,
+    "line_end": 708
+  },
+  {
+    "clause_id": "muc-7-1-1",
+    "anchor": "muc-7-1-1",
+    "title": "7.1.1  Việc cải tạo đất có thể tiến hành để nâng cao cường độ và độ ổn định của đất hay giảm tính thấm nước của nó bằng phương pháp xi măng hóa, sét hóa, bitum hóa, silicat hóa, nhựa hóa và bằng nhiệt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 711,
+    "line_end": 714
+  },
+  {
+    "clause_id": "muc-7-1-2",
+    "anchor": "muc-7-1-2",
+    "title": "7.1.2  Các tài liệu khảo sát địa chất công trình khu vực dự định cải tạo cần phải bao gồm các số liệu sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 717,
+    "line_end": 728
+  },
+  {
+    "clause_id": "muc-7-1-3",
+    "anchor": "muc-7-1-3",
+    "title": "7.1.3  Các giải pháp thiết kế công tác cải tạo đất cần phải có các nội dung sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 731,
+    "line_end": 746
+  },
+  {
+    "clause_id": "muc-7-1-4",
+    "anchor": "muc-7-1-4",
+    "title": "7.1.4  Loại và kích thước các móng và nền đất đã cải tạo, cũng như áp lực trung bình tác dụng lên nền đất đã cải tạo tính toán theo tổ hợp đặc biệt và tổ hợp cơ bản các loại tải trọng phải được quy định trong thiết kế công trình.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 749,
+    "line_end": 750
+  },
+  {
+    "clause_id": "muc-7-1-5",
+    "anchor": "muc-7-1-5",
+    "title": "7.1.5  Công tác nghiệm thu kết quả cải tạo đất cần phải quy định tương ứng với các yêu cầu của thiết kế về kích thước khối đất và các đặc trưng của đất đã gia cố.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 753,
+    "line_end": 764
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Phương pháp silicát hóa và nhựa hóa",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 767,
+    "line_end": 768
+  },
+  {
+    "clause_id": "muc-7-2-1",
+    "anchor": "muc-7-2-1",
+    "title": "7.2.1  Nên xem phương pháp silicát hóa và nhựa hóa như là các biện pháp cải tạo vĩnh viễn đất nền nhà và công trình xây dựng móng bằng đất đã cải tạo và xây dựng các màn chống thấm trong đất cát và lún ướt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 771,
+    "line_end": 774
+  },
+  {
+    "clause_id": "muc-7-2-2",
+    "anchor": "muc-7-2-2",
+    "title": "7.2.2  Các dung dịch sử dụng khi silicát hóa và nhựa hóa cần phải thỏa mãn các yêu cầu sau:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 777,
+    "line_end": 784
+  },
+  {
+    "clause_id": "muc-7-2-3",
+    "anchor": "muc-7-2-3",
+    "title": "7.2.3  Nên định vị các lỗ khoan và các ống bơm theo trục chính của công trình với độ lệch cho phép ± 5 cm. Để khoan các lỗ khoan và đóng các ống bơm vào đất nền áp dụng những biện pháp ngăn ngừa các lỗ khoan, có ống bơm lệch hướng so với thiết kế bằng cách đặt các ống dẫn hướng. Độ lệch lớn nhất không được vượt quá 1,0 % ở độ sâu dưới 4 0 m và 0,5 % ở các độ sâu lớn hơn.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 788
+  },
+  {
+    "clause_id": "muc-7-2-4",
+    "anchor": "muc-7-2-4",
+    "title": "7.2.4  Khi thiết kế cải tạo đất bằng silicát hóa và nhựa hóa, có thể dự tính các lỗ khoan và ống bơm phụ thêm (dự trữ) với số lượng không vượt quá 10 % tổng số tính toán.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 791,
+    "line_end": 792
+  },
+  {
+    "clause_id": "muc-7-2-5",
+    "anchor": "muc-7-2-5",
+    "title": "7.2.5  Khi silicát hóa và nhựa hóa nền các công trình đang sử dụng trong điều kiện chật hẹp, cho phép đóng các ống bơm từ các giếng, hầm và hố đào đặc biệt, có gia cố cẩn thận để tránh biến dạng các công trình này.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 795,
+    "line_end": 796
+  },
+  {
+    "clause_id": "muc-7-2-6",
+    "anchor": "muc-7-2-6",
+    "title": "7.2.6  Việc lựa chọn các thiết bị, dụng cụ bơm cần phải xuất phát từ lượng tiêu hao đơn vị, áp lực và độ ăn mòn của dung dịch hóa học. Đối với các ống bơm hạ vào đất bằng phương pháp đóng, cần phải dùng các ống thép nguyên, đường kính trong từ 25 mm đến 50 mm. Để bơm các dung dịch axít nên xem xét sử dụng các máy bơm chịu axít.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 799,
+    "line_end": 800
+  },
+  {
+    "clause_id": "muc-7-2-7",
+    "anchor": "muc-7-2-7",
+    "title": "7.2.7  Cần phải bơm các dung dịch hóa học theo từng đoạn, đảm bảo tính nguyên khối của đất cải tạo. Trị số áp suất bơm cao nhất được xác định theo thiết kế, trong đất cát có thể tới 3,0 MPa; trong đất lún ướt không được vượt quá 0,5 MPa.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 803,
+    "line_end": 806
+  },
+  {
+    "clause_id": "muc-7-2-8",
+    "anchor": "muc-7-2-8",
+    "title": "7.2.8  Trong quá trình tiến hành silicát hóa và nhựa hóa, phải kiểm tra thường xuyên chất lượng dung dịch hóa học, hỗn hợp tạo gen, cũng như các nguyên liệu về các chỉ tiêu mật độ, độ nhớt, thời gian tạo gen.... Ngoài ra phải kiểm tra chất lượng dung dịch hóa học và hỗn hợp tạo gen bằng cách thử các mẫu đất đá gia cố. Thời gian tạo gen cần phải kiểm tra bằng cách lấy mẫu có hệ thống.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 809,
+    "line_end": 810
+  },
+  {
+    "clause_id": "muc-7-2-9",
+    "anchor": "muc-7-2-9",
+    "title": "7.2.9  Nên kiểm tra chất lượng cải tạo khối đất bằng cách khoan các lỗ khoan và đào các hố đào, đồng thời lấy mẫu nguyên dạng để thí nghiệm trong phòng, cũng như bằng phương pháp karota điện và xuyên.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 813,
+    "line_end": 816
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Xi măng hóa sét hóa, và bi tum hóa",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 819,
+    "line_end": 820
+  },
+  {
+    "clause_id": "muc-7-3-1",
+    "anchor": "muc-7-3-1",
+    "title": "7.3.1  Nên dùng phương pháp xi măng hóa và sét hóa như là một biện pháp cải tạo vĩnh viễn các đá cứng, đất cát, đất cuội sỏi trong nền nhà và công trình, cũng như để xây dựng màn chống. Các phương pháp này được sử dụng trong đá cứng có hệ số thấm không nhỏ hơn 0,01 m trên ngày đêm, và trong đất cát có hệ số thấm không nhỏ hơn 20 m trên ngày đêm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 823,
+    "line_end": 826
+  },
+  {
+    "clause_id": "muc-7-3-2",
+    "anchor": "muc-7-3-2",
+    "title": "7.3.2  Cần phải sử dụng xi măng poóc lăng có mác không dưới 300 để tạo các dung dịch xi măng. Cho phép dùng xi măng bền sunphát và xi măng poóc lăng xỉ, cũng như xi măng poóc lăng bịt trám lỗ khoan.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 829,
+    "line_end": 838
+  },
+  {
+    "clause_id": "muc-7-3-3",
+    "anchor": "muc-7-3-3",
+    "title": "7.3.3  Dung dịch xi măng và sét được bơm ở áp suất bơm: dưới 10 MPa bằng máy bơm đặc biệt, dưới 1,5 MPa và khi sử dụng dung dịch rất đậm đặc bằng máy bơm màng dưới 0,6 MPa và khi cho phép gián đoạn trong quá trình bơm thì dùng máy bơm khí nén. Khi dùng máy bơm khí nén, nên dùng một nhóm gồm hai máy để tránh gián đoạn trong quá trình bơm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 841,
+    "line_end": 844
+  },
+  {
+    "clause_id": "muc-7-3-4",
+    "anchor": "muc-7-3-4",
+    "title": "7.3.4  Khi xi măng hóa và sét hóa, cần phải khoan các hố khoan theo trật tự đã chỉ dẫn trong thiết kế bằng phương pháp khoan tiến lại gần nhau, bắt đầu từ khoảng cách mà mối liên hệ thủy lực giữa chúng trong quá trình bơm các dung dịch bơm thực sự không có.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 847,
+    "line_end": 850
+  },
+  {
+    "clause_id": "muc-7-3-5",
+    "anchor": "muc-7-3-5",
+    "title": "7.3.5  Khi nước dưới không có áp lực, có thể khoan đoạn dự định cải tạo tiếp theo của lỗ khoan và bơm dung dịch vào đất ngay sau khi kết thúc xi măng hóa hay sét hóa đoạn trước mà không cần đợi để dung dịch xi măng đã bơm vào vùng trước hóa cứng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 853,
+    "line_end": 856
+  },
+  {
+    "clause_id": "muc-7-3-6",
+    "anchor": "muc-7-3-6",
+    "title": "7.3.6  Trong đất mảnh lớn và đất cát nên tiến hành xi măng hóa và sét hóa qua các ống có đục lỗ, đồng thời sử dụng các nút kép để có thể bơm dung dịch theo từng đoạn dài 0,3 m đến 0,5 m.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 859,
+    "line_end": 864
+  },
+  {
+    "clause_id": "muc-7-3-7",
+    "anchor": "muc-7-3-7",
+    "title": "7.3.7  Trong đá cứng, xi măng hóa và sét hóa có thể tiến hành:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 867,
+    "line_end": 874
+  },
+  {
+    "clause_id": "muc-7-3-8",
+    "anchor": "muc-7-3-8",
+    "title": "7.3.8  Trong đá cứng nứt nẻ, xi măng hóa hay sét hóa cần phải tiến hành đến khi dung dịch hoàn toàn không được hấp thụ nữa hay đến khi lượng tiêu hao dung dịch không vượt quá 0,5 L/min trong suốt thời gian 15 min đến 20 min.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 877,
+    "line_end": 880
+  },
+  {
+    "clause_id": "muc-7-3-9",
+    "anchor": "muc-7-3-9",
+    "title": "7.3.9  Bi tum nóng cần phải được bơm bằng máy bơm qua các lỗ khoan đã khoan có các ống bơm đặc biệt lắp trong lỗ khoan đó để bi tum được nung nóng ngay ở thân lỗ khoan. Máy bơm cần có thiết bị hồi lưu, điều chỉnh lượng tiêu hao bi tum.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 883,
+    "line_end": 884
+  },
+  {
+    "clause_id": "muc-7-3-10",
+    "anchor": "muc-7-3-10",
+    "title": "7.3.10  Áp suất bơm bi tum cần phải tăng dần dần. Nên bơm bi tum theo một vài chu kỳ có thời gian gián đoạn để bi tum nguội đến nhiệt độ đảm bảo hạ thấp đáng kể độ linh động của nó. Chu kỳ bơm đầu tiên nên tiến hành ở áp suất không quá 0,2 MPa đến 0,3 MPa.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 887,
+    "line_end": 892
+  },
+  {
+    "clause_id": "muc-7-3-11",
+    "anchor": "muc-7-3-11",
+    "title": "7.3.11  Quá trình bơm bi tum trong mỗi lỗ khoan được xem là kết thúc khi bi tum không bị hấp thụ nữa trong chu kỳ bơm lặp lại.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 895,
+    "line_end": 896
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Cải tạo bằng nhiệt",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 899,
+    "line_end": 900
+  },
+  {
+    "clause_id": "muc-7-4-1",
+    "anchor": "muc-7-4-1",
+    "title": "7.4.1  Phương pháp cải tạo đất bằng nhiệt theo cách bơm hơi nhiệt độ cao vào các lỗ khoan đã khoan sẵn được dùng chủ yếu trong đất lún ướt, ít ẩm có tính thấm hơi đủ lớn; đang sử dụng hay xây dựng móng bằng đất đã cải tạo.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 903,
+    "line_end": 910
+  },
+  {
+    "clause_id": "muc-7-4-2",
+    "anchor": "muc-7-4-2",
+    "title": "7.4.2  Các thiết bị dụng cụ sau được dùng để tiến hành công tác cải tạo nhiệt:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 913,
+    "line_end": 924
+  },
+  {
+    "clause_id": "muc-7-4-3",
+    "anchor": "muc-7-4-3",
+    "title": "7.4.3  Tiến hành khoan lỗ bằng phương pháp khoán không gây nén cơ học các đất ở thành lỗ khoan do tác dụng của dụng cụ khoan.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 927,
+    "line_end": 930
+  },
+  {
+    "clause_id": "muc-7-4-4",
+    "anchor": "muc-7-4-4",
+    "title": "7.4.4  Trước khi bắt đầu đốt nhiên liệu, cần làm sạch hơi nhiên liệu hay hỗn hợp không khí nhiên liệu trong lỗ khoan bằng cách thổi không khí nén.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 933,
+    "line_end": 938
+  },
+  {
+    "clause_id": "muc-7-4-5",
+    "anchor": "muc-7-4-5",
+    "title": "7.4.5  Trong khi thực hiện công tác cải tạo nhiệt cần áp dụng các biện pháp bảo vệ khu vực phân bố các lỗ khoan chông nước mưa và nước thải công nghiệp.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 941,
+    "line_end": 942
+  },
+  {
+    "clause_id": "muc-7-4-6",
+    "anchor": "muc-7-4-6",
+    "title": "7.4.6  Chất lượng của công tác cải tạo đất bằng nhiệt được kiểm tra theo kết quả thí nghiệm các mẫu lấy được trong các lỗ khoan kiểm tra và đặc biệt về cường độ và tính tan rã của đất. Lúc ấy, phải tính toán đến cả các số liệu đo đạc lượng tiêu hao nhiên liệu, không khí nén, nhiệt độ và áp suất hơi trong lỗ khoan trong quá trình xử lý nhiệt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 945,
+    "line_end": 946
+  },
+  {
+    "clause_id": "muc-7-4-7",
+    "anchor": "muc-7-4-7",
+    "title": "7.4.7  Phải tiến hành kiểm tra kích thước của khối đất được tạo thành khi cải tạo nhiệt bằng các cặp nhiệt điện kèm theo các điện thế kế. Các cặp nhiệt điện cần phải đặt thẳng đứng trên các ranh giới đã được tính toán của mỗi khối đất. Số lượng các cặp nhiệt điện không được ít hơn số lượng lỗ khoan xử lý nhiệt. Sự thành tạo khối đất gia cố được xem là kết thúc nếu như các cặp nhiệt điện đặt trong chủ vị tính toán chỉ rõ nhiệt độ tính toán đã đạt được trên 300 °C.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 949,
+    "line_end": 950
+  },
+  {
+    "clause_id": "muc-7-4-8",
+    "anchor": "muc-7-4-8",
+    "title": "7.4.8  Việc nghiệm thu công tác đã thực hiện tiến hành trên cơ sở đối chiếu với số liệu thiết kế về số lượng, vị trí các lỗ khoan, chu vi thực tế của khối đất cải tạo trên cao độ đặt móng và đồ thị nhiệt độ trên toàn bộ khối đất; các số liệu ghi chép, các kết quả khoan những lỗ khoan kiểm tra, thí nghiệm trong phòng các mẫu đất đã gia cố. Sau khi công việc kết thúc phải trám kín các lỗ khoan bằng bê tông hay đắp đất.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 953,
+    "line_end": 954
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  XÂY DỰNG CÔNG TRÌNH NGẦM BẰNG PHƯƠNG PHÁP “TƯỜNG TRONG ĐẤT”",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 957,
+    "line_end": 958
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Phương pháp “tường trong đất” tức là đào các đường hào và xây tường trong những hào ấy nhờ sự bảo vệ của dung dịch sét (huyền phù) để giữ đường hào khỏi bị sập đổ áp dụng áp dụng khi xây dựng các công trình chắn, các công trình ngầm chịu tải và các màn chống thấm đặt ở độ sâu lớn hơn 5 m. Phương pháp “tường trong đất” cho phép dùng trong tất cả các loại đất cát và đất sét, trừ khi điều kiện địa chất - thủy văn của đường hào không có thể giữ vững được ổn định chống sập đổ bằng dung dịch đất sét (ví dụ như đất lẫn đá tảng).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 961,
+    "line_end": 964
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Trước khi bắt đầu các công việc chính về xây dựng các công trình ngầm bằng phương pháp “tường trong đất”, trên công trình cần phải hoàn thành các công tác chuẩn bị sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 967,
+    "line_end": 974
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Khi xây công trình ngầm bằng phương pháp “tường trong đất” cấu tạo địa chất công trình của khu xây dựng cần được nghiên cứu đến độ sâu thấp hơn chân tường trên 10 m.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 977,
+    "line_end": 986
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Khi sử dụng phương pháp “tường trong đất” nhất thiết phải xây dựng bản thiết kế thi công trong đó có xét đến các điều kiện địa phương của khu xây dựng và có những lời chỉ dẫn đồng thời trong bản thiết kế thi công cần trình bày các số liệu về hao phí lao động về nhu cầu vật liệu và máy móc, về kiểm tra chất lượng công việc theo nguyên công.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 989,
+    "line_end": 990
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Nên dùng đất sét bentonit để chế dung dịch sét. Khi không có bentonit thì dùng đất sét địa phương có chỉ số dẻo không nhỏ hơn 0,2 và chứa các hạt có kích thước lớn hơn 0,5 mm không quá 10 % và các hạt nhỏ hơn 0,005 mm, không ít hơn 30 %. Ngoài ra, cũng có thể dùng hỗn hợp đất sét không bentonit và bentonit.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 993,
+    "line_end": 996
+  },
+  {
+    "clause_id": "muc-8-6",
+    "anchor": "muc-8-6",
+    "title": "8.6  Thành phần và tính chất của dung dịch sét cần phải bảo đảm sự ổn định của hố đào (đường hào, giếng khoan) trong thời gian xây dựng và lấp đầy chúng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 999,
+    "line_end": 1020
+  },
+  {
+    "clause_id": "muc-8-7",
+    "anchor": "muc-8-7",
+    "title": "8.7  Dung dịch sét sau khi đã sử dụng vào khu vực xây dựng cần được phục hồi chất lượng làm sạch, thêm đất sét... để dùng ở các nơi khác.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1023,
+    "line_end": 1024
+  },
+  {
+    "clause_id": "muc-8-8",
+    "anchor": "muc-8-8",
+    "title": "8.8  Có thể dùng các máy đào đất thông thường (máy ngoạm, máy xúc kéo dây, gầu ngược), các máy khoan đất kiểu xoay và đập, các máy liên hợp và gầu mức đã được chuyên môn hóa để đào đường hào được bảo bệ bằng dung dịch sét.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1027,
+    "line_end": 1032
+  },
+  {
+    "clause_id": "muc-8-9",
+    "anchor": "muc-8-9",
+    "title": "8.9  Trước khi bắt đầu công việc lấp đầy đường hào bằng những kết cấu bê tông và bê tông cốt thép hoặc bằng vật liệu chống thấm phải làm sạch các cặn bã những khối đất lơ lắng xuống đáy hào.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1035,
+    "line_end": 1036
+  },
+  {
+    "clause_id": "muc-8-10",
+    "anchor": "muc-8-10",
+    "title": "8.10  Các tường “trong đất” bằng bê tông và bê tông cốt thép phải được đổ bê tông bằng phương pháp ống di chuyển thẳng đứng theo từng đoạn thi công riêng biệt, chiều dài của chúng được xác định trong khoảng từ 3 m đến 6 m do điều kiện ổn định của hào và cường độ đổ bê tông đã định.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1039,
+    "line_end": 1050
+  },
+  {
+    "clause_id": "muc-8-11",
+    "anchor": "muc-8-11",
+    "title": "8.11  Tấm tường bê tông cốt thép lắp ghép cần được lắp vào hào sau khi kiểm tra có đầy đủ các chi tiết chôn ngầm và kết cấu cần thiết để treo nó (tầm tường) trên vỏ bọc miệng hào, kiểm tra sự liên kết giữa các tấm với nhau, kiểm tra sự lấp đầy các cung cuốn (khoảng trống sau tường) bằng vữa trám, và kiểm tra sự liên kết các kết cấu tường với các kết cấu sàn tiếp giáp.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1053,
+    "line_end": 1056
+  },
+  {
+    "clause_id": "muc-8-12",
+    "anchor": "muc-8-12",
+    "title": "8.12  Khi làm màn chống thấm bằng phương pháp “tường trong đất” vật liệu để lấp đầy hào có thể dùng:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1059,
+    "line_end": 1066
+  },
+  {
+    "clause_id": "muc-8-13",
+    "anchor": "muc-8-13",
+    "title": "8.13  Bơm phụt vữa xi măng sét hoặc bê tông khi làm màn chống thấm phải tiến hành một cách liên tục, đồng thời lúc bắt đầu thi công phần dưới các ống chuyển vữa phải nằm ở mức đáy của hào và sau đặt thấp hơn mức vữa xi măng sét hoặc bê tông không ít hơn 1 m.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1069,
+    "line_end": 1072
+  },
+  {
+    "clause_id": "muc-8-14",
+    "anchor": "muc-8-14",
+    "title": "8.14  Trong quá trình xây công trình ngầm bằng phương pháp “tường trong đất” cần phải kiểm tra:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1075,
+    "line_end": 1086
+  },
+  {
+    "clause_id": "muc-8-15",
+    "anchor": "muc-8-15",
+    "title": "8.15  Khi nghiệm thu các công trình và kết cấu đã làm xong bằng phương pháp “tường trong đất” cần phải tiến hành kiểm tra sự phù hợp của các chỉ tiêu độ bền, độ ổn định, tính liên tục và tính không thấm nước của chúng với các quy định trong thiết kế.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1089,
+    "line_end": 1090
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  MÓNG CỌC VÀ TƯỜNG XÂY CỌC VÁN",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1093,
+    "line_end": 1094
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Các quy tắc và yêu cầu trong phần này áp dụng trong thi công và nghiệm thu các loại công tác sau đây về thi công xây dựng móng cọc và tường vây: hạ cọc thường và cọc ống, thi công cọc nhồi và đóng ván cừ.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1097,
+    "line_end": 1098
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Xây dựng các móng cọc và tường vây cọc ván cần phải làm theo thiết kế thi công, trong đó bao gồm: các số liệu về sự bố trí các công trình ngầm và trên mặt đất hiện có trong vùng thi công, các dây cáp điện với những chỉ dẫn độ sâu đạt chung, các đường dây tải điện và các biện pháp bảo vệ chúng; bảng liệt kê các thiết bị; trình tự và biểu đồ hoàn thành công việc; các biện pháp bảo đảm kỹ thuật an toàn.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1101,
+    "line_end": 1104
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Trước khi thực hiện các công tác chủ yếu về thi công móng cọc, phải làm các công tác chuẩn bị sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1107,
+    "line_end": 1118
+  },
+  {
+    "clause_id": "muc-9-4",
+    "anchor": "muc-9-4",
+    "title": "9.4  Vận chuyển, bảo quản, nâng và lắp đặt các cọc thường, cọc ống và cọc ván tại nơi đóng phải tiến hành thận trọng và có biện pháp chống hư hỏng, các mộng và gờ của cọc ván phải được bảo vệ bằng các miếng đệm gỗ khi dùng dây cáp nâng lên.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1121,
+    "line_end": 1122
+  },
+  {
+    "clause_id": "muc-9-5",
+    "anchor": "muc-9-5",
+    "title": "9.5  Nên tiến hành chọn búa đóng cọc và cọc ống theo khả năng chịu tải và trọng lượng của chúng do thiết kế quy định. Năng lượng cần thiết tối thiểu của nhát búa đập E được xác định theo công thức:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1125,
+    "line_end": 1126
+  },
+  {
+    "clause_id": "formula-7",
+    "anchor": "formula-7",
+    "title": "$$E = 1,75aP \\qquad (7)$$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1129,
+    "line_end": 1146
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Hệ số k",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1149,
+    "line_end": 1174
+  },
+  {
+    "clause_id": "muc-9-6",
+    "anchor": "muc-9-6",
+    "title": "9.6  Khi cần phải đóng xuyên qua các lớp đất chặt nên dùng các búa có năng lượng đập lớn hơn các trị số tính toán theo các công thức (7) và (8) hoặc phải đóng các cọc vào các lỗ khoan trước.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1177,
+    "line_end": 1180
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Hệ số $k_{1}$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1183,
+    "line_end": 1192
+  },
+  {
+    "clause_id": "muc-9-7",
+    "anchor": "muc-9-7",
+    "title": "9.7  Loại búa rung hạ cọc nên chọn theo tỷ số $K_{o}$/$Q_{B}$ và tùy thuộc vào điều kiện đất đai và độ sâu hạ cọc.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1195,
+    "line_end": 1202
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Hệ số $K_{o}$/$Q_{B}$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1205,
+    "line_end": 1214
+  },
+  {
+    "clause_id": "muc-9-8",
+    "anchor": "muc-9-8",
+    "title": "9.8  Khi đóng cọc bằng búa, cần dùng mũ cọc, đệm gỗ phù hợp với tiết diện ngang của cọc. Các khe hở giữa mặt bên của cọc và thành mốc cọc mỗi bên không nên vượt quá 1 cm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1217,
+    "line_end": 1226
+  },
+  {
+    "clause_id": "muc-9-9",
+    "anchor": "muc-9-9",
+    "title": "9.9  Trong quá trình hạ cọc, cọc ống và cọc ván cần ghi chép nhật ký theo mẫu ở Phụ lục L đến P.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1229,
+    "line_end": 1232
+  },
+  {
+    "clause_id": "muc-9-10",
+    "anchor": "muc-9-10",
+    "title": "9.10  Vào cuối lúc đóng cọc khi độ chối của cọc có trị số gần bằng trị số tính toán thì việc đóng cọc bằng các búa đơn động phải tiến hành từng nhát, đồng thời phải đo trị số độ chối của cọc sau mỗi nhát đập. Để xác định độ chối của cọc và năng lượng đập của búa sau mỗi phút khi đóng cọc bằng búa song động, cần phải đo trị số lún sâu của cọc, tần số đập của búa và áp suất hơi ở ống dẫn vào búa. Khi đóng cọc giằng búa đi-ê-zen thì độ chối được xác định từ trị trung bình khi đập 10 nhát búa sau cùng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1235,
+    "line_end": 1238
+  },
+  {
+    "clause_id": "muc-9-11",
+    "anchor": "muc-9-11",
+    "title": "9.11  Trong trường hợp khi thi công thay đổi các thông số của búa hoặc cọc đã được chỉ dẫn trong thiết kế thì độ chối dư của cọc e lúc đóng cọc hoặc đóng kiểm tra phải thỏa mãn điều kiện:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1241,
+    "line_end": 1258
+  },
+  {
+    "clause_id": "bang-bang-04",
+    "anchor": "bang-bang-04",
+    "title": "Bảng 4 - Hệ số n",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1261,
+    "line_end": 1299
+  },
+  {
+    "clause_id": "bang-bang-05",
+    "anchor": "bang-bang-05",
+    "title": "Bảng 5 - Giá trị $E_{tt}$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1302,
+    "line_end": 1307
+  },
+  {
+    "clause_id": "bang-bang-06",
+    "anchor": "bang-bang-06",
+    "title": "Bảng 6 - Hệ số M",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1310,
+    "line_end": 1325
+  },
+  {
+    "clause_id": "muc-9-12",
+    "anchor": "muc-9-12",
+    "title": "9.12  Nếu trong thiết kế móng cọc ống có yêu cầu tìm biên độ tính toán lúc hạ cọc thiết kế, thì khi trong quá trình thi công thay đổi các thông số của máy rung đã được quy định có thể kiểm tra biên độ tính toán của cọc ống có đường kính ngoài đến 2 m với tốc độ hạ cọc từ 2 cm đến 20 cm trong 1 min, theo công thức:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1328,
+    "line_end": 1359
+  },
+  {
+    "clause_id": "bang-bang-07",
+    "anchor": "bang-bang-07",
+    "title": "Bảng 7 - Hệ số  đối với cát",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1362,
+    "line_end": 1369
+  },
+  {
+    "clause_id": "bang-bang-08",
+    "anchor": "bang-bang-08",
+    "title": "Bảng 8 - Hệ số  đối với đất sét",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1372,
+    "line_end": 1378
+  },
+  {
+    "clause_id": "muc-9-13",
+    "anchor": "muc-9-13",
+    "title": "9.13  Chỉ cho phép dùng xói nước để hạ cọc ở những nơi cách xa các công trình và nhà hiện có trên 20 m.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1381,
+    "line_end": 1390
+  },
+  {
+    "clause_id": "muc-9-14",
+    "anchor": "muc-9-14",
+    "title": "9.14  Chế tạo cọc nhồi cần phải tiến hành sau khi san đất toàn bộ hay cục bộ hoặc đắp đầy đến cao trình thiết kết của đài cọc, còn ở nơi bị ngập nước - từ bề mặt của các đảo nhân tạo hoặc từ các giàn giáo.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1393,
+    "line_end": 1394
+  },
+  {
+    "clause_id": "muc-9-15",
+    "anchor": "muc-9-15",
+    "title": "9.15  Khoan các lỗ trong đất no nước khi khoảng cách giữa các mép của chúng nhỏ hơn 1,5 m nên tiến hành từng lỗ một; khoan các lỗ gần nơi đã đổ bê tông phải tiến hành sau khi đã đông kết hỗn hợp bê tông, nhưng không sớm hơn 8 h.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1397,
+    "line_end": 1406
+  },
+  {
+    "clause_id": "muc-9-16",
+    "anchor": "muc-9-16",
+    "title": "9.16  Nên dùng vữa sét để giữ các giếng khi không có khả năng dùng áp lực dư của nước.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1409,
+    "line_end": 1414
+  },
+  {
+    "clause_id": "muc-9-17",
+    "anchor": "muc-9-17",
+    "title": "9.17  Khi khoan xong nên kiểm tra kích thước thực tế và cao trình của miệng, đáy cà vị trí lỗ khoan trên bình đồ, cũng như sự phù hợp của đất nền với số liệu thăm dò địa chất công trình.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1417,
+    "line_end": 1418
+  },
+  {
+    "clause_id": "muc-9-18",
+    "anchor": "muc-9-18",
+    "title": "9.18  Đặt cốt thép cho cọc bằng khung sản xuất sẵn và cho vào lỗ trước lúc đổ bê tông. Trước khi đặt khung cốt thép và đổ bê tông cần thiết phải gạt sạch đáy lỗ khoan.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1421,
+    "line_end": 1424
+  },
+  {
+    "clause_id": "muc-9-19",
+    "anchor": "muc-9-19",
+    "title": "9.19  Đổ bê tông các cọc ở trong giếng khoan không ổn định hoặc đầy nước (dung dịch sét) phải tiến hành không muộn hơn 8 h sau khi khoan xong.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1427,
+    "line_end": 1442
+  },
+  {
+    "clause_id": "muc-9-20",
+    "anchor": "muc-9-20",
+    "title": "9.20  Trong quá trình đổ bê tông cọc khoan nhồi cần phải ghi nhật ký theo mẫu trình bày ở Phụ lục Q.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1445,
+    "line_end": 1452
+  },
+  {
+    "clause_id": "muc-9-21",
+    "anchor": "muc-9-21",
+    "title": "9.21  Khi mở rộng chân cọc bằng phương pháp nổ om dùng thuốc nổ có tác dụng đập vụn hoặc phá vỡ.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1455,
+    "line_end": 1458
+  },
+  {
+    "clause_id": "formula-13",
+    "anchor": "formula-13",
+    "title": "$$C = k_{n}D^{3} \\qquad (13)$$",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1461,
+    "line_end": 1471
+  },
+  {
+    "clause_id": "muc-9-22",
+    "anchor": "muc-9-22",
+    "title": "9.22  Trọng lượng khối thuốc nổ tập trung tạo thành chân mở rộng trong các cọc rỗng thi công bằng phương pháp đóng nên phỏng lấy theo chỉ dẫn ở Bảng 9. Trong quá trình thi công, trọng lượng khối thuốc nổ cần được xác định chính xác hơn từ kết quả mở rộng bằng nổ om các kích thước thiết kế của cọc.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1474,
+    "line_end": 1481
+  },
+  {
+    "clause_id": "bang-bang-09",
+    "anchor": "bang-bang-09",
+    "title": "Bảng 9 - Đường kính tính toán của bầu mở rộng",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1484,
+    "line_end": 1493
+  },
+  {
+    "clause_id": "muc-9-23",
+    "anchor": "muc-9-23",
+    "title": "9.23  Để lấp các bầu mở rộng bằng nổ om cần phải dùng bê tông nhão, có độ sụt hình nón 20 cm đến 25 cm. Thể tích của bê tông được đổ vào trước khi nổ mìn phải đủ để nhét đầy bầu mở rộng và thân cọc đến độ cao không ít hơn 2 m sau khi nổ.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1496,
+    "line_end": 1499
+  },
+  {
+    "clause_id": "muc-9-24",
+    "anchor": "muc-9-24",
+    "title": "9.24  Nghiệm thu công tác thi công móng cọc và tường vây cọc ván phải tiến hành trên cơ sở:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1502,
+    "line_end": 1519
+  },
+  {
+    "clause_id": "muc-9-25",
+    "anchor": "muc-9-25",
+    "title": "9.25  Độ lệch so với vị trí thiết kế của các cọc nhồi, cọc đóng và cọc ống không được vượt quá những trị số ghi ở Bảng 10 hoặc các thuyết minh trong thiết kế với lý do tương ứng;",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1522,
+    "line_end": 1523
+  },
+  {
+    "clause_id": "bang-bang-10",
+    "anchor": "bang-bang-10",
+    "title": "Bảng 10 - Độ lệch cho phép của trục cọc trên mặt bằng",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1526,
+    "line_end": 1533
+  },
+  {
+    "clause_id": "muc-9-26",
+    "anchor": "muc-9-26",
+    "title": "9.26  Độ lệch kích thước lỗ khoan và bầu mở rộng khi thi công cọc nhồi không nên vượt quá các giá trị sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1536,
+    "line_end": 1543
+  },
+  {
+    "clause_id": "muc-9-27",
+    "anchor": "muc-9-27",
+    "title": "9.27  Độ lệch cho phép của hàng cọc ván so với vị trí thiết kế, trên mặt bằng không nên vượt quá các chỉ dẫn ở trong Bảng 11 hoặc các trị số thuyết minh trong thiết kế với những lý do tương ứng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1546,
+    "line_end": 1547
+  },
+  {
+    "clause_id": "bang-bang-11",
+    "anchor": "bang-bang-11",
+    "title": "Bảng 11 - Độ lệch cho phép của hàng cọc ván so với vị trí thiết kế trên mặt bằng",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1550,
+    "line_end": 1555
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  GIẾNG CHÌM VÀ GIẾNG CHÌM HƠI ÉP",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1558,
+    "line_end": 1559
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Chỉ dẫn chung",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1562,
+    "line_end": 1563
+  },
+  {
+    "clause_id": "muc-10-1-1",
+    "anchor": "muc-10-1-1",
+    "title": "10.1.1  Khi xây dựng và hạ giếng chìm và giếng chìm hở ép, trong thiết kế nên nghiên cứu đề xuất:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1566,
+    "line_end": 1575
+  },
+  {
+    "clause_id": "muc-10-1-2",
+    "anchor": "muc-10-1-2",
+    "title": "10.1.2  Phương pháp cố định tại chỗ các trục của giếng chìm hoặc giếng chìm hơi ép cần phải bảo đảm khả năng kiểm tra vị trí của chúng trên mặt bằng bất cứ lúc nào khi hạ chìm. Các mốc chuẩn để kiểm tra cao trình thẳng đứng của giếng chìm hoặc giếng chìm hơi ép cần phải lắp đặt ngoài phạm vi lún và chuyển dịch của đất.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1578,
+    "line_end": 1579
+  },
+  {
+    "clause_id": "muc-10-1-3",
+    "anchor": "muc-10-1-3",
+    "title": "10.1.3  Chỉ được phép xây dựng mới những công trình cỡ lớn trong phạm vi các vùng nằm trên lăng thể trượt sau khi đã kết thúc công tác hạ giếng chìm hoặc giếng chìm hơi ép và đã đổ bê tông bịt đáy giếng.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1582,
+    "line_end": 1587
+  },
+  {
+    "clause_id": "muc-10-1-4",
+    "anchor": "muc-10-1-4",
+    "title": "10.1.4  Các giếng chìm và giếng chìm ép nên xây dựng trên những khu đất hoặc những đảo nhỏ đã san phẳng nằm ngang cao hơn mức tính toán của nước ngầm hay nước trong hồ (có kể đến độ cao của sóng) ít nhất là 0,5 m. Lấy mức nước trong thời gian từ khi bắt đầu xây dựng công trình đến khi hạ nó xuống độ sâu bảo đảm sự ổn định trong trường hợp đảo bị xói lở làm mức tính toán. Các bờ bảo hộ đảo cần phải có chiều rộng không nhỏ hơn 2 m.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1590,
+    "line_end": 1593
+  },
+  {
+    "clause_id": "muc-10-1-5",
+    "anchor": "muc-10-1-5",
+    "title": "10.1.5  Việc tháo dỡ giếng chìm và giếng chìm hơi ép khỏi nền tạm thời phải được tiến hành sau khi bê tông đạt được cường độ thiết kế. Thứ tự tháo dỡ phải đảm bảo tránh nghiêng lệch.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1596,
+    "line_end": 1603
+  },
+  {
+    "clause_id": "muc-10-1-6",
+    "anchor": "muc-10-1-6",
+    "title": "10.1.6  Được phép vần chuyển giếng chìm và giếng chìm hơi ép trên phao. Sau khi đã kiểm tra sự ổn định của chúng với chiều cao thành phao nổi cao hơn mặt nước tối thiểu 1 m (có tính đến độ cao của sóng và độ nghiêng của khả dĩ).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1606,
+    "line_end": 1611
+  },
+  {
+    "clause_id": "muc-10-1-7",
+    "anchor": "muc-10-1-7",
+    "title": "10.1.7  Trong quá trình hạ giếng chìm hoặc giếng chìm hơi ép phải lấy đất ra một cách đều đặn trên toàn bộ diện tích của nó.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1614,
+    "line_end": 1617
+  },
+  {
+    "clause_id": "muc-10-1-8",
+    "anchor": "muc-10-1-8",
+    "title": "10.1.8  Các công tác nổ phá trong giếng chìm hoặc giếng chìm hơi ép phải được thực hiện theo các quy phạm hiện hành về các công tác đó. Đồng thời cần bảo đảm:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1620,
+    "line_end": 1629
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Giếng chìm",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1632,
+    "line_end": 1633
+  },
+  {
+    "clause_id": "muc-10-2-1",
+    "anchor": "muc-10-2-1",
+    "title": "10.2.1  Khi lắp ráp các giếng chìm bằng những tấm thẳng đứng nên dùng giá định hướng để cố định các bộ phận kết cấu. Cho phép bắt đầu lắp ráp các cấu kiện lắp ghép của giếng sau khi khối bê tông của phần chân đạt tới 70 % cường độ thiết kế. Sau khi bê tông tại các chỗ nối đã đạt đến cường độ thiết kế thì cho phép tháo dỡ giếng lắp ghép ra khỏi nền tạm thời.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1636,
+    "line_end": 1639
+  },
+  {
+    "clause_id": "muc-10-2-2",
+    "anchor": "muc-10-2-2",
+    "title": "10.2.2  Để làm giảm lực ma sát của giếng và cho phép dùng phương pháp xói thủy lực hoặc thủy khí động để xói rửa đất khi hạ chìm các giếng trong các trường hợp không có các công trình vĩnh cửu và công trình giao thông trong phạm vi lăng thể trượt.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1642,
+    "line_end": 1643
+  },
+  {
+    "clause_id": "muc-10-2-3",
+    "anchor": "muc-10-2-3",
+    "title": "10.2.3  Để giảm lực ma sát của giếng và đất khi hạ chìm nó, nên ưu tiên dùng phương pháp hạ chìm công trình trong áo sét (huyền phù) và cần phải tuân theo các quy tắc sau đây:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1646,
+    "line_end": 1655
+  },
+  {
+    "clause_id": "muc-10-2-4",
+    "anchor": "muc-10-2-4",
+    "title": "10.2.4  Đất sét dùng để chế tạo dung dịch sét phải thỏa mãn các yêu cầu nêu ở 8.5.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1658,
+    "line_end": 1659
+  },
+  {
+    "clause_id": "muc-10-2-5",
+    "anchor": "muc-10-2-5",
+    "title": "10.2.5  Chất lượng dung dịch sét phải bảo đảm sự ổn định của vách đất hố đào xung quanh giếng trong thời gian hạ chìm nó đến cao trình thiết kế và nhồi đầy khe hở của áo giếng. Các thông số của dung dịch sét phải thỏa mãn các yêu cầu nêu ở 8.6.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1662,
+    "line_end": 1663
+  },
+  {
+    "clause_id": "muc-10-2-6",
+    "anchor": "muc-10-2-6",
+    "title": "10.2.6  Tại khu vực xây dựng, cứ mỗi ca làm việc nên tiến hành kiểm tra dung dịch sét vừa chế tạo bơm vào ít nhất 1 lần. Các mẫu dung dịch kiểm tra phải được lấy ở máy trộn đất sét và ở áo sét: tại bề mặt, tại khoảng giữa va tại vùng bậc nhô ra của chân giếng chìm.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1666,
+    "line_end": 1667
+  },
+  {
+    "clause_id": "muc-10-2-7",
+    "anchor": "muc-10-2-7",
+    "title": "10.2.7  Khi hạ giếng chìm không hút nước vào trong đất no nước, mực nước trong giếng phải được duy trì ở độ cao không thấp hơn mực nước ngầm hoặc cao hơn nó để tránh đất có thể bị đùn từ các chân giếng ra.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1670,
+    "line_end": 1683
+  },
+  {
+    "clause_id": "muc-10-2-8",
+    "anchor": "muc-10-2-8",
+    "title": "10.2.8  Đáy bê tông cốt thép của giếng được hạ chìm có thoát nước lộ thiên cần phải được đổ bê tông liên tục cho mỗi khối, đồng thời phải có những biện pháp ngăn ngừa không để cho xi măng trong hồn hợp bê tông mới đổ trôi đi. Các khối ở chân giếng phải đổ bê tông trước tiên.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1686,
+    "line_end": 1691
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Giếng chìm hơi ép",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1694,
+    "line_end": 1695
+  },
+  {
+    "clause_id": "muc-10-3-1",
+    "anchor": "muc-10-3-1",
+    "title": "10.3.1  Trước khi bị bắt đầu công tác hạ giếng chìm hơi ép, trang thiết bị của nó (thiết bị) đóng mơ các ngăn, các ống ngầm trong giếng, các bình chứa khí, các ống thông hơi cần phải được kiểm tra và thử bằng áp lực nước cao hơn 1,5 lần áp lực làm việc tối đa.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1698,
+    "line_end": 1699
+  },
+  {
+    "clause_id": "muc-10-3-2",
+    "anchor": "muc-10-3-2",
+    "title": "10.3.2  Sơ đồ các ống dẫn khi phải bảo đảm khả năng nối vào hoặc tách khỏi mạng lưới của mỗi tổ máy nén khí.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1702,
+    "line_end": 1707
+  },
+  {
+    "clause_id": "muc-10-3-3",
+    "anchor": "muc-10-3-3",
+    "title": "10.3.3  Khối lượng khí nén chuyển vào giếng chìm hơi ép phải bảo đảm đủ áp lực khi để tạo điều kiện thi công tốt nhất. Phải chuyển cho mỗi người làm việc trong giếng chìm hơi ép một khối lượng khí nén không ít hơn 25 m³/h.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1710,
+    "line_end": 1715
+  },
+  {
+    "clause_id": "muc-10-3-4",
+    "anchor": "muc-10-3-4",
+    "title": "10.3.4  Các phương pháp và trình tự đào đất trong giếng chìm hơi ép phải bảo đảm làm cho nó hạ sâu đều đặn và ngăn ngừa sự rò không khí.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1718,
+    "line_end": 1723
+  },
+  {
+    "clause_id": "muc-10-3-5",
+    "anchor": "muc-10-3-5",
+    "title": "10.3.5  Cho phép khử tình trạng bị treo của giếng hơi ép bằng cách chọn thời hạ thấp đột ngột áp lực trong buồng két - xông nhưng không quá 50 % (hạ chìm cưỡng bức).",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1726,
+    "line_end": 1729
+  },
+  {
+    "clause_id": "muc-10-3-6",
+    "anchor": "muc-10-3-6",
+    "title": "10.3.6  Việc để ngập buồng két - xông trong trường hợp bắt buộc phải ngừng thi công phải tiến hành bằng cách hạ thấp từ từ áp lực khí. Việc ép thoát nước ra khỏi buồng két - xông phải thực hiện dưới áp lực không vượt quá áp lực thiết kế.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1732,
+    "line_end": 1733
+  },
+  {
+    "clause_id": "muc-10-3-7",
+    "anchor": "muc-10-3-7",
+    "title": "10.3.7  Các buồng két - xông phải được lấp đầy bằng vật liệu do thiết kế quy định cùng với việc lèn chặt vật liệu dưới trần két - xông. Các lỗ hổng còn lại cần phải được nhét đầy vữa xi măng - cát bằng cách bơm nó qua các ống dưới áp lực không nhỏ hơn 0,1 MPa.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1736,
+    "line_end": 1739
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Nghiệm thu công việc",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1742,
+    "line_end": 1743
+  },
+  {
+    "clause_id": "muc-10-4-1",
+    "anchor": "muc-10-4-1",
+    "title": "10.4.1  Trong quá trình xây dựng và hạ giếng chìm và hạ giếng chìm giếng hơi ép cần nghiệm thu:",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1746,
+    "line_end": 1761
+  },
+  {
+    "clause_id": "muc-10-4-2",
+    "anchor": "muc-10-4-2",
+    "title": "10.4.2  Trong quá trình thi công xây dựng giếng chìm và giếng chìm hơi ép cần phải làm các sổ nhật ký thi công theo mẫu trình bày ở Phụ lục R và Phụ lục S.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1764,
+    "line_end": 1765
+  },
+  {
+    "clause_id": "muc-10-4-3",
+    "anchor": "muc-10-4-3",
+    "title": "10.4.3  Sự sai lệch về kích thước và vị trí của các giếng chìm và giếng chìm hơi ép so với thiết kế không được vượt quá các trị số ghi trong Bảng 12.",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1768,
+    "line_end": 1769
+  },
+  {
+    "clause_id": "bang-bang-12",
+    "anchor": "bang-bang-12",
+    "title": "Bảng 12 - Trị số sai lệch",
+    "source_file": "tcvn_9361_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1772,
+    "line_end": 1780
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Nhật ký về công tác đầm nện hố móng",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-a-muc-1",
+    "anchor": "phu-luc-a-muc-1",
+    "title": "1  CAO TRÌNH ĐÁY HỐ MÓNG (TUYỆT ĐỐI HOẶC TƯƠNG ĐỐI)     M",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-a-muc-2",
+    "anchor": "phu-luc-a-muc-2",
+    "title": "2  TÊN ĐẤT:",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-a-muc-3",
+    "anchor": "phu-luc-a-muc-3",
+    "title": "3  ĐỘ ẨM CỦA ĐẤT:     %",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-a-muc-4",
+    "anchor": "phu-luc-a-muc-4",
+    "title": "4  ĐỘ SÂU THIẾT KẾ ĐẦM NỆN:     M",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-a-muc-5",
+    "anchor": "phu-luc-a-muc-5",
+    "title": "5  LƯỢNG NƯỚC TƯỚI TRÊN 1 M² ĐÁY HỐ MÓNG     M³",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 28,
+    "line_end": 29
+  },
+  {
+    "clause_id": "phu-luc-a-muc-6",
+    "anchor": "phu-luc-a-muc-6",
+    "title": "6  KÍCH THƯỚC BÚA ĐẦM ........................................... M; TRỌNG LƯỢNG     T",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 32,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-a-muc-7",
+    "anchor": "phu-luc-a-muc-7",
+    "title": "7  ĐỘ CAO NÂNG BÚA ĐẦM     M",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 39
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a",
+    "anchor": "bang-bang-phu-luc-a",
+    "title": "Bảng Phụ lục A",
+    "source_file": "annexes/phu_luc_a_nhat_ky_ve_cong_tac_dam_nen_ho_mong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 48
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Nhật ký về công tác lèn chặt bằng cọc đất",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-b-muc-1",
+    "anchor": "phu-luc-b-muc-1",
+    "title": "1  ĐỘ SÂU THIẾT KẾ LÈN CHẶT      M",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-b-muc-2",
+    "anchor": "phu-luc-b-muc-2",
+    "title": "2  TÊN ĐẤT:",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-b-muc-3",
+    "anchor": "phu-luc-b-muc-3",
+    "title": "3  ĐỘ ẨM CỦA ĐẤT NGUYÊN TRẠNG     %",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-b-muc-4",
+    "anchor": "phu-luc-b-muc-4",
+    "title": "4  THIẾT BỊ ĐỂ XUYÊN LỖ KHOAN:     M",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-b-muc-5",
+    "anchor": "phu-luc-b-muc-5",
+    "title": "5  TRỌNG LƯỢNG CỦA DỤNG CỤ ĐẬP",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 28,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-b-muc-6",
+    "anchor": "phu-luc-b-muc-6",
+    "title": "6  ĐẶC TRƯNG CỦA ĐẤT LẤP:",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 36,
+    "line_end": 41
+  },
+  {
+    "clause_id": "phu-luc-b-muc-7",
+    "anchor": "phu-luc-b-muc-7",
+    "title": "7  TRỌNG LƯỢNG TÍNH TOÁN CỦA ĐẤT CHO MỖI CỌC     T",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 45
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b",
+    "anchor": "bang-bang-phu-luc-b",
+    "title": "Bảng Phụ lục B",
+    "source_file": "annexes/phu_luc_b_nhat_ky_ve_cong_tac_len_chat_bang_coc_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 53
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Nhật ký về công tác của trạm bơm",
+    "source_file": "annexes/phu_luc_c_nhat_ky_ve_cong_tac_cua_tram_bom.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-c-muc-1",
+    "anchor": "phu-luc-c-muc-1",
+    "title": "1  TÊN GỌI, $N^{0}$",
+    "source_file": "annexes/phu_luc_c_nhat_ky_ve_cong_tac_cua_tram_bom.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-c-muc-4",
+    "anchor": "phu-luc-c-muc-4",
+    "title": "4  THIẾT BỊ THÁO NƯỚC (ỐNG DẪN CÓ ÁP, ĐƯỜNG THÁO NƯỚC TỰ CHẢY KÍN VÀ HỞ ...)",
+    "source_file": "annexes/phu_luc_c_nhat_ky_ve_cong_tac_cua_tram_bom.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c",
+    "anchor": "bang-bang-phu-luc-c",
+    "title": "Bảng Phụ lục C",
+    "source_file": "annexes/phu_luc_c_nhat_ky_ve_cong_tac_cua_tram_bom.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 29
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Tham khảo) — Nhật ký về quan trắc địa thủy văn",
+    "source_file": "annexes/phu_luc_d_nhat_ky_ve_quan_trac_dia_thuy_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-d",
+    "anchor": "bang-bang-phu-luc-d",
+    "title": "Bảng Phụ lục D",
+    "source_file": "annexes/phu_luc_d_nhat_ky_ve_quan_trac_dia_thuy_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Tham khảo) — Nhật ký về silicát hóa và nhựa hóa đất",
+    "source_file": "annexes/phu_luc_e_nhat_ky_ve_silicat_hoa_va_nhua_hoa_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-e",
+    "anchor": "bang-bang-phu-luc-e",
+    "title": "Bảng Phụ lục E",
+    "source_file": "annexes/phu_luc_e_nhat_ky_ve_silicat_hoa_va_nhua_hoa_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 19
+  },
+  {
+    "clause_id": "phu-luc-f",
+    "anchor": "phu-luc-f",
+    "title": "PHỤ LỤC F (Tham khảo) — Nhật ký các công tác xi măng hóa đất",
+    "source_file": "annexes/phu_luc_f_nhat_ky_cac_cong_tac_xi_mang_hoa_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-f",
+    "anchor": "bang-bang-phu-luc-f",
+    "title": "Bảng Phụ lục F",
+    "source_file": "annexes/phu_luc_f_nhat_ky_cac_cong_tac_xi_mang_hoa_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G (Tham khảo) — Nhật ký thi công về cải tạo đất bằng nhiệt",
+    "source_file": "annexes/phu_luc_g_nhat_ky_thi_cong_ve_cai_tao_dat_bang_nhiet.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-g",
+    "anchor": "bang-bang-phu-luc-g",
+    "title": "Bảng Phụ lục G",
+    "source_file": "annexes/phu_luc_g_nhat_ky_thi_cong_ve_cai_tao_dat_bang_nhiet.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-h",
+    "anchor": "phu-luc-h",
+    "title": "PHỤ LỤC H (Tham khảo) — Nhật ký công tác đào hào khi xây dựng công trình bằng phương pháp “tường trong đất”",
+    "source_file": "annexes/phu_luc_h_nhat_ky_cong_tac_dao_hao_khi_xay_dung_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-h-muc-1",
+    "anchor": "phu-luc-h-muc-1",
+    "title": "1  THIẾT BỊ ĐÀO ĐẤT:",
+    "source_file": "annexes/phu_luc_h_nhat_ky_cong_tac_dao_hao_khi_xay_dung_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-h-muc-2",
+    "anchor": "phu-luc-h-muc-2",
+    "title": "2  ĐỘ SÂU THIẾT KẾ CỦA TƯỜNG:",
+    "source_file": "annexes/phu_luc_h_nhat_ky_cong_tac_dao_hao_khi_xay_dung_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-h",
+    "anchor": "bang-bang-phu-luc-h",
+    "title": "Bảng Phụ lục H",
+    "source_file": "annexes/phu_luc_h_nhat_ky_cong_tac_dao_hao_khi_xay_dung_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-i",
+    "anchor": "phu-luc-i",
+    "title": "PHỤ LỤC I (Tham khảo) — Nhật ký kiểm tra chất lượng dung dịch sét (huyền phù)",
+    "source_file": "annexes/phu_luc_i_nhat_ky_kiem_tra_chat_luong_dung_dich_set_huy.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-i-muc-1",
+    "anchor": "phu-luc-i-muc-1",
+    "title": "1  LOẠI MÁY NHÀO ĐẤT SÉT:",
+    "source_file": "annexes/phu_luc_i_nhat_ky_kiem_tra_chat_luong_dung_dich_set_huy.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-i-muc-2",
+    "anchor": "phu-luc-i-muc-2",
+    "title": "2  TÊN VÀ ĐẶC TRƯNG CỦA ĐẤT SÉT:",
+    "source_file": "annexes/phu_luc_i_nhat_ky_kiem_tra_chat_luong_dung_dich_set_huy.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-i-muc-3",
+    "anchor": "phu-luc-i-muc-3",
+    "title": "3  THÀNH PHẦN DUNG DỊCH TRONG 1 M³:",
+    "source_file": "annexes/phu_luc_i_nhat_ky_kiem_tra_chat_luong_dung_dich_set_huy.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 20,
+    "line_end": 27
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-i",
+    "anchor": "bang-bang-phu-luc-i",
+    "title": "Bảng Phụ lục I",
+    "source_file": "annexes/phu_luc_i_nhat_ky_kiem_tra_chat_luong_dung_dich_set_huy.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 30,
+    "line_end": 35
+  },
+  {
+    "clause_id": "phu-luc-k",
+    "anchor": "phu-luc-k",
+    "title": "PHỤ LỤC K (Tham khảo) — Nhật ký đổ bê tông bằng phương pháp “tường trong đất”",
+    "source_file": "annexes/phu_luc_k_nhat_ky_do_be_tong_bang_phuong_phap_tuong_tro.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-k-muc-1",
+    "anchor": "phu-luc-k-muc-1",
+    "title": "1  MÁC BÊ TÔNG THIẾT KẾ:",
+    "source_file": "annexes/phu_luc_k_nhat_ky_do_be_tong_bang_phuong_phap_tuong_tro.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-k-muc-2",
+    "anchor": "phu-luc-k-muc-2",
+    "title": "2  ĐỘ LƯU ĐỘNG THIẾT KẾ CỦA BÊ TÔNG:",
+    "source_file": "annexes/phu_luc_k_nhat_ky_do_be_tong_bang_phuong_phap_tuong_tro.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-k-muc-3",
+    "anchor": "phu-luc-k-muc-3",
+    "title": "3  ĐƯỜNG KÍNH CỦA ỐNG ĐỔ BÊ TÔNG (M):",
+    "source_file": "annexes/phu_luc_k_nhat_ky_do_be_tong_bang_phuong_phap_tuong_tro.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-k",
+    "anchor": "bang-bang-phu-luc-k",
+    "title": "Bảng Phụ lục K",
+    "source_file": "annexes/phu_luc_k_nhat_ky_do_be_tong_bang_phuong_phap_tuong_tro.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 29
+  },
+  {
+    "clause_id": "phu-luc-l",
+    "anchor": "phu-luc-l",
+    "title": "PHỤ LỤC L (Tham khảo) — Nhật ký đóng cọc",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-l-muc-1",
+    "anchor": "phu-luc-l-muc-1",
+    "title": "1  HỆ THỐNG MÁY ĐÓNG CỌC:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-l-muc-2",
+    "anchor": "phu-luc-l-muc-2",
+    "title": "2  LOẠI BÚA:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-l-muc-3",
+    "anchor": "phu-luc-l-muc-3",
+    "title": "3  TRỌNG LƯỢNG PHẦN ĐẬP CỦA BÚA:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-l-muc-4",
+    "anchor": "phu-luc-l-muc-4",
+    "title": "4  ÁP SUẤT (KHÍ, HƠI) (PA):",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 29
+  },
+  {
+    "clause_id": "phu-luc-l-muc-5",
+    "anchor": "phu-luc-l-muc-5",
+    "title": "5  LOẠI VÀ TRỌNG LƯỢNG CỦA MŨ CỌC (KG):",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 32,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-l-muc-6",
+    "anchor": "phu-luc-l-muc-6",
+    "title": "6  CỌC $N^{O}$ (THEO MẶT BẰNG CỌC)",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 36,
+    "line_end": 37
+  },
+  {
+    "clause_id": "phu-luc-l-muc-7",
+    "anchor": "phu-luc-l-muc-7",
+    "title": "7  NGÀY THÁNG ĐÓNG CỌC:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 41
+  },
+  {
+    "clause_id": "phu-luc-l-muc-8",
+    "anchor": "phu-luc-l-muc-8",
+    "title": "8  NHÃN HIỆU CỌC:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 45
+  },
+  {
+    "clause_id": "phu-luc-l-muc-9",
+    "anchor": "phu-luc-l-muc-9",
+    "title": "9  ĐỘ CAO TUYỆT ĐỐI CỦA MẶT ĐẤT CẠNH CỌC:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 49
+  },
+  {
+    "clause_id": "phu-luc-l-muc-10",
+    "anchor": "phu-luc-l-muc-10",
+    "title": "10  ĐỘ CAO TUYỆT ĐỐI CỦA MŨI CỌC:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 53
+  },
+  {
+    "clause_id": "phu-luc-l-muc-11",
+    "anchor": "phu-luc-l-muc-11",
+    "title": "11  ĐỘ CHỐI THIẾT KẾ:",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 57
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-l",
+    "anchor": "bang-bang-phu-luc-l",
+    "title": "Bảng Phụ lục L",
+    "source_file": "annexes/phu_luc_l_nhat_ky_dong_coc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 65
+  },
+  {
+    "clause_id": "phu-luc-m",
+    "anchor": "phu-luc-m",
+    "title": "PHỤ LỤC M (Tham khảo)",
+    "source_file": "annexes/phu_luc_m.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 15
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-m",
+    "anchor": "bang-bang-phu-luc-m",
+    "title": "Bảng Phụ lục M",
+    "source_file": "annexes/phu_luc_m.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 23
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-m-2",
+    "anchor": "bang-bang-phu-luc-m-2",
+    "title": "Bảng Phụ lục M (Phần 2)",
+    "source_file": "annexes/phu_luc_m.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 30
+  },
+  {
+    "clause_id": "phu-luc-n",
+    "anchor": "phu-luc-n",
+    "title": "PHỤ LỤC N (Tham khảo) — Nhật ký hạ cọc ván",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-n-muc-1",
+    "anchor": "phu-luc-n-muc-1",
+    "title": "1  HỆ THỐNG MÁY ĐÓNG (CẦN TRỤC):         5. VẬT LIỆU VÀ LOẠI CỌC VÁN:",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-n-muc-2",
+    "anchor": "phu-luc-n-muc-2",
+    "title": "2  LOẠI BÚA (MÁY RUNG):                 6. CHIỀU DÀI CỌC VÁN:",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-n-muc-3",
+    "anchor": "phu-luc-n-muc-3",
+    "title": "3  TRỌNG LƯỢNG PHẦN ĐẬP CỦA BÚA:         7. ĐỘ CAO TUYỆT ĐỐI MẶT ĐẤT:",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-n-muc-4",
+    "anchor": "phu-luc-n-muc-4",
+    "title": "4  LOẠI CỌC VÀ TRỌNG LƯỢNG MŨI CỌC:         8. ĐỘ CAO TUYỆT ĐỐI CỦA MỰC NƯỚC NGẦM:",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 29
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-n",
+    "anchor": "bang-bang-phu-luc-n",
+    "title": "Bảng Phụ lục N",
+    "source_file": "annexes/phu_luc_n_nhat_ky_ha_coc_van.md",
+    "jurisdiction": "CQXD",
+    "line_start": 32,
+    "line_end": 37
+  },
+  {
+    "clause_id": "phu-luc-o",
+    "anchor": "phu-luc-o",
+    "title": "PHỤ LỤC O (Tham khảo) — Nhật ký hạ cọc ống bằng máy rung",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-o-muc-1",
+    "anchor": "phu-luc-o-muc-1",
+    "title": "1  LOẠI MÁY RUNG:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 17
+  },
+  {
+    "clause_id": "phu-luc-o-muc-2",
+    "anchor": "phu-luc-o-muc-2",
+    "title": "2  LOẠI CỌC VÀ TRỌNG LƯỢNG MŨ CỌC:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-o-muc-3",
+    "anchor": "phu-luc-o-muc-3",
+    "title": "3  CỌC ỐNG $N^{O}$:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-o-muc-4",
+    "anchor": "phu-luc-o-muc-4",
+    "title": "4  ĐƯỜNG KÍNH NGOÀI:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 29
+  },
+  {
+    "clause_id": "phu-luc-o-muc-5",
+    "anchor": "phu-luc-o-muc-5",
+    "title": "5  BỀ DÀY CỦA THÀNH:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 32,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-o-muc-6",
+    "anchor": "phu-luc-o-muc-6",
+    "title": "6  CHIỀU DÀI:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 36,
+    "line_end": 37
+  },
+  {
+    "clause_id": "phu-luc-o-muc-7",
+    "anchor": "phu-luc-o-muc-7",
+    "title": "7  SỐ LƯỢNG VÀ CHIỀU DÀI MỖI PHÂN ĐOẠN:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 41
+  },
+  {
+    "clause_id": "phu-luc-o-muc-8",
+    "anchor": "phu-luc-o-muc-8",
+    "title": "8  LOẠI MỐI NỐI CỦA PHÂN ĐOẠN:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 45
+  },
+  {
+    "clause_id": "phu-luc-o-muc-9",
+    "anchor": "phu-luc-o-muc-9",
+    "title": "9  ĐỘ SÂU LÚN VÀO TRONG ĐẤT TỪ CAO ĐỘ THIẾT KẾ CỦA ĐẦU CỌC:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 49
+  },
+  {
+    "clause_id": "phu-luc-o-muc-10",
+    "anchor": "phu-luc-o-muc-10",
+    "title": "10  ĐỘ CAO TUYỆT ĐỐI ĐẦU DƯỚI CỦA ỐNG:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 59
+  },
+  {
+    "clause_id": "phu-luc-o-muc-11",
+    "anchor": "phu-luc-o-muc-11",
+    "title": "11  TỐC ĐỘ LÚN TRONG LẦN ĐO SAU CÙNG:",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 62,
+    "line_end": 63
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-o",
+    "anchor": "bang-bang-phu-luc-o",
+    "title": "Bảng Phụ lục O",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 66,
+    "line_end": 71
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-o-2",
+    "anchor": "bang-bang-phu-luc-o-2",
+    "title": "Bảng Phụ lục O (Phần 2)",
+    "source_file": "annexes/phu_luc_o_nhat_ky_ha_coc_ong_bang_may_rung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 74,
+    "line_end": 78
+  },
+  {
+    "clause_id": "phu-luc-p",
+    "anchor": "phu-luc-p",
+    "title": "PHỤ LỤC P (Tham khảo)",
+    "source_file": "annexes/phu_luc_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 15
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-p",
+    "anchor": "bang-bang-phu-luc-p",
+    "title": "Bảng Phụ lục P",
+    "source_file": "annexes/phu_luc_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 23
+  },
+  {
+    "clause_id": "phu-luc-q",
+    "anchor": "phu-luc-q",
+    "title": "PHỤ LỤC Q (Tham khảo) — Nhật ký sản xuất cọc khoan nhồi",
+    "source_file": "annexes/phu_luc_q_nhat_ky_san_xuat_coc_khoan_nhoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 11
+  },
+  {
+    "clause_id": "phu-luc-q-muc-1",
+    "anchor": "phu-luc-q-muc-1",
+    "title": "1  LOẠI MÁY KHOAN:",
+    "source_file": "annexes/phu_luc_q_nhat_ky_san_xuat_coc_khoan_nhoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 15
+  },
+  {
+    "clause_id": "phu-luc-q-muc-2",
+    "anchor": "phu-luc-q-muc-2",
+    "title": "2  LOẠI DỤNG CỤ MỞ RỘNG:",
+    "source_file": "annexes/phu_luc_q_nhat_ky_san_xuat_coc_khoan_nhoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 19
+  },
+  {
+    "clause_id": "phu-luc-q-muc-3",
+    "anchor": "phu-luc-q-muc-3",
+    "title": "3  LOẠI THUỐC NỔ:",
+    "source_file": "annexes/phu_luc_q_nhat_ky_san_xuat_coc_khoan_nhoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 23
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-q",
+    "anchor": "bang-bang-phu-luc-q",
+    "title": "Bảng Phụ lục Q",
+    "source_file": "annexes/phu_luc_q_nhat_ky_san_xuat_coc_khoan_nhoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 31
+  },
+  {
+    "clause_id": "phu-luc-r",
+    "anchor": "phu-luc-r",
+    "title": "PHỤ LỤC R (Tham khảo) — Nhật ký công tác về hạ giếng",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-r-muc-1",
+    "anchor": "phu-luc-r-muc-1",
+    "title": "1  KÍCH THƯỚC CỦA GIẾNG TRÊN MẶT BẰNG",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-r-muc-2",
+    "anchor": "phu-luc-r-muc-2",
+    "title": "2  NGÀY THÁNG:",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 23
+  },
+  {
+    "clause_id": "phu-luc-r-muc-3",
+    "anchor": "phu-luc-r-muc-3",
+    "title": "3  ĐỘ CAO CHÂN GIẾNG:",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-r-muc-4",
+    "anchor": "phu-luc-r-muc-4",
+    "title": "4  VẬT LIỆU CỦA KẾT CẤU:",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 41
+  },
+  {
+    "clause_id": "phu-luc-r-muc-5",
+    "anchor": "phu-luc-r-muc-5",
+    "title": "5  TRANG THIẾT BỊ:",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 44,
+    "line_end": 51
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-r",
+    "anchor": "bang-bang-phu-luc-r",
+    "title": "Bảng Phụ lục R",
+    "source_file": "annexes/phu_luc_r_nhat_ky_cong_tac_ve_ha_gieng.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 59
+  },
+  {
+    "clause_id": "phu-luc-s",
+    "anchor": "phu-luc-s",
+    "title": "PHỤ LỤC S (Tham khảo) — Nhật ký công tác về hạ giếng chìm hơi ép",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 9
+  },
+  {
+    "clause_id": "phu-luc-s-muc-1",
+    "anchor": "phu-luc-s-muc-1",
+    "title": "1  KÍCH THƯỚC CỦA GIẾNG CHÌM HƠI ÉP TRÊN MẶT BẰNG",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 13
+  },
+  {
+    "clause_id": "phu-luc-s-muc-2",
+    "anchor": "phu-luc-s-muc-2",
+    "title": "2  NGÀY THÁNG:",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 23
+  },
+  {
+    "clause_id": "phu-luc-s-muc-3",
+    "anchor": "phu-luc-s-muc-3",
+    "title": "3  ĐỘ CAO CHÂN GIẾNG:",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 33
+  },
+  {
+    "clause_id": "phu-luc-s-muc-4",
+    "anchor": "phu-luc-s-muc-4",
+    "title": "4  VẬT LIỆU CỦA KẾT CẤU:",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 41
+  },
+  {
+    "clause_id": "phu-luc-s-muc-5",
+    "anchor": "phu-luc-s-muc-5",
+    "title": "5  TRANG THIẾT BỊ:",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 44,
+    "line_end": 51
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-s",
+    "anchor": "bang-bang-phu-luc-s",
+    "title": "Bảng Phụ lục S",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 61
+  },
+  {
+    "clause_id": "phu-luc-s-muc-6",
+    "anchor": "phu-luc-s-muc-6",
+    "title": "6  HẠ THẤP MỰC NƯỚC TRONG XÂY DỰNG",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 84,
+    "line_end": 85
+  },
+  {
+    "clause_id": "phu-luc-s-muc-7",
+    "anchor": "phu-luc-s-muc-7",
+    "title": "7  CẢI TẠO ĐẤT",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 88,
+    "line_end": 89
+  },
+  {
+    "clause_id": "phu-luc-s-muc-8",
+    "anchor": "phu-luc-s-muc-8",
+    "title": "8  XÂY DỰNG CÔNG TRÌNH NGẦM BẰNG PHƯƠNG PHÁP “TƯỜNG TRONG ĐẤT”",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 92,
+    "line_end": 93
+  },
+  {
+    "clause_id": "phu-luc-s-muc-9",
+    "anchor": "phu-luc-s-muc-9",
+    "title": "9  MÓNG CỌC VÀ TƯỜNG XÂY CỌC VÁN",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97
+  },
+  {
+    "clause_id": "phu-luc-s-muc-10",
+    "anchor": "phu-luc-s-muc-10",
+    "title": "10  GIẾNG CHÌM VÀ GIẾNG CHÌM HƠI ÉP",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 101
+  },
+  {
+    "clause_id": "phu-luc-s-muc-11",
+    "anchor": "phu-luc-s-muc-11",
+    "title": "11  PHỤ LỤC A (THAM KHẢO) NHẬT KÝ VỀ CÔNG TÁC ĐẦM NỆN HỐ MÓNG",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 104,
+    "line_end": 105
+  },
+  {
+    "clause_id": "phu-luc-s-muc-12",
+    "anchor": "phu-luc-s-muc-12",
+    "title": "12  PHỤ LỤC B (THAM KHẢO) NHẬT KÝ VỀ CÔNG TÁC LÈN CHẶT BẰNG CỌC ĐẤT",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 109
+  },
+  {
+    "clause_id": "phu-luc-s-muc-13",
+    "anchor": "phu-luc-s-muc-13",
+    "title": "13  PHỤ LỤC C (THAM KHẢO) NHẬT KÝ VỀ CÔNG TÁC CỦA TRẠM BƠM",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 112,
+    "line_end": 113
+  },
+  {
+    "clause_id": "phu-luc-s-muc-14",
+    "anchor": "phu-luc-s-muc-14",
+    "title": "14  PHỤ LỤC D (THAM KHẢO) NHẬT KÝ VỀ QUAN TRẮC ĐỊA THỦY VĂN",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 116,
+    "line_end": 117
+  },
+  {
+    "clause_id": "phu-luc-s-muc-15",
+    "anchor": "phu-luc-s-muc-15",
+    "title": "15  PHỤ LỤC E (THAM KHẢO) NHẬT KÝ VỀ SILICÁT HÓA VÀ NHỰA HÓA ĐẤT",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 121
+  },
+  {
+    "clause_id": "phu-luc-s-muc-16",
+    "anchor": "phu-luc-s-muc-16",
+    "title": "16  PHỤ LỤC F (THAM KHẢO) NHẬT KÝ CÁC CÔNG TÁC XI MĂNG HÓA ĐẤT",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 124,
+    "line_end": 125
+  },
+  {
+    "clause_id": "phu-luc-s-muc-17",
+    "anchor": "phu-luc-s-muc-17",
+    "title": "17  PHỤ LỤC G (THAM KHẢO) NHẬT KÝ THI CÔNG VỀ CẢI TẠO ĐẤT BẰNG NHIỆT",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 128,
+    "line_end": 131
+  },
+  {
+    "clause_id": "phu-luc-s-muc-19",
+    "anchor": "phu-luc-s-muc-19",
+    "title": "19  PHỤ LỤC I (THAM KHẢO) NHẬT KÝ KIỂM TRA CHẤT LƯỢNG DUNG DỊCH SÉT (HUYỀN PHÙ)",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 134,
+    "line_end": 135
+  },
+  {
+    "clause_id": "phu-luc-s-muc-20",
+    "anchor": "phu-luc-s-muc-20",
+    "title": "20  PHỤ LỤC K (THAM KHẢO) NHẬT KÝ ĐỔ BÊ TÔNG BẰNG PHƯƠNG PHÁP “TƯỜNG TRONG ĐẤT”",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 138,
+    "line_end": 139
+  },
+  {
+    "clause_id": "phu-luc-s-muc-21",
+    "anchor": "phu-luc-s-muc-21",
+    "title": "21  PHỤ LỤC L (THAM KHẢO) NHẬT KÝ ĐÓNG CỌC",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 143
+  },
+  {
+    "clause_id": "phu-luc-s-muc-22",
+    "anchor": "phu-luc-s-muc-22",
+    "title": "22  PHỤ LỤC M (THAM KHẢO) BẢNG BÁO CÁO TỔNG HỢP ĐÓNG CỌC",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 146,
+    "line_end": 147
+  },
+  {
+    "clause_id": "phu-luc-s-muc-23",
+    "anchor": "phu-luc-s-muc-23",
+    "title": "23  PHỤ LỤC N (THAM KHẢO) NHẬT KÝ HẠ CỌC VÁN",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 151
+  },
+  {
+    "clause_id": "phu-luc-s-muc-24",
+    "anchor": "phu-luc-s-muc-24",
+    "title": "24  PHỤ LỤC O (THAM KHẢO) NHẬT KÝ HẠ CỌC ỐNG BẰNG MÁY RUNG",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 154,
+    "line_end": 155
+  },
+  {
+    "clause_id": "phu-luc-s-muc-25",
+    "anchor": "phu-luc-s-muc-25",
+    "title": "25  PHỤ LỤC P (THAM KHẢO) BẢNG BÁO CÁO TỔNG HỢP VỀ VIỆC HẠ MÓNG CỌC",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 158,
+    "line_end": 159
+  },
+  {
+    "clause_id": "phu-luc-s-muc-26",
+    "anchor": "phu-luc-s-muc-26",
+    "title": "26  PHỤ LỤC Q (THAM KHẢO) NHẬT KÝ SẢN XUẤT CỌC KHOAN NHỒI",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 163
+  },
+  {
+    "clause_id": "phu-luc-s-muc-27",
+    "anchor": "phu-luc-s-muc-27",
+    "title": "27  PHỤ LỤC R (THAM KHẢO) NHẬT KÝ CÔNG TÁC VỀ HẠ GIẾNG",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 166,
+    "line_end": 167
+  },
+  {
+    "clause_id": "phu-luc-s-muc-28",
+    "anchor": "phu-luc-s-muc-28",
+    "title": "28  PHỤ LỤC S (THAM KHẢO) NHẬT KÝ CÔNG TÁC VỀ HẠ GIẾNG CHÌM HƠI ÉP",
+    "source_file": "annexes/phu_luc_s_nhat_ky_cong_tac_ve_ha_gieng_chim_hoi_ep.md",
+    "jurisdiction": "CQXD",
+    "line_start": 170,
+    "line_end": 171
+  }
+]

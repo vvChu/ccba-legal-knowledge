@@ -1,0 +1,10 @@
+﻿Loại đất dưới mũi cọc,Hệ số M
+&nbsp;&nbsp;\- Sỏi sạn có lẫn cát,"1,3"
+&nbsp;&nbsp;\- Cát:,
+"&nbsp;&nbsp;&nbsp;&nbsp;\+ Cát thô, cát trung chặt vừa và á cát cứng","1,2"
+&nbsp;&nbsp;&nbsp;&nbsp;\+ Cát hạt nhỏ chặt vừa,"1,1"
+&nbsp;&nbsp;&nbsp;&nbsp;\+ Cát bụi chặt vừa,"1,0"
+"&nbsp;&nbsp;\- Á cát dẻo, á sét và sét cứng","0,9"
+&nbsp;&nbsp;\- Á sét và sét:,
+&nbsp;&nbsp;&nbsp;&nbsp;\+ Nửa cứng,"0,8"
+&nbsp;&nbsp;&nbsp;&nbsp;\+ Dẻo cứng,"0,7"

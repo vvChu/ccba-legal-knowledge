@@ -1,0 +1,12 @@
+{
+  "table_id": "bang_phu_luc_c",
+  "table_number": "PLC",
+  "table_title": "Bảng Phụ lục C",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "a) Vết nứt (2 ÷ 4) trong thể xây",
+    "b) Vết nứt (1) trên bề mặt thể xây"
+  ],
+  "rows": [],
+  "footnotes": []
+}

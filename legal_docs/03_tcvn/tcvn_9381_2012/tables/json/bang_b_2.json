@@ -1,0 +1,48 @@
+{
+  "table_id": "bang_b_2",
+  "table_number": "B.2",
+  "table_title": "Bảng B.2 - Vết nứt trong dầm bê tông cốt thép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số TT vết nứt(Hình B.3)",
+    "Nguyên nhân có thể gây nên sự hình thành vết nứt"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số TT vết nứt(Hình B.3)": "1",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Không đủ ứng  suất trong dầm: lực căng cốt thép nhỏ, hao tổn ứng suất trước lớn.\nDầm bị quá tải ở tiết diện thẳng góc."
+    },
+    {
+      "_row_id": 2,
+      "Số TT vết nứt(Hình B.3)": "2",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Bị hỏng khi sản xuất: cường độ bê tông thấp, bước cốt đai lớn, chất lượng hàn cốt thép dọc và cốt thép kém.\nDầm bị quá tải ở tiết diện nghiêng."
+    },
+    {
+      "_row_id": 3,
+      "Số TT vết nứt(Hình B.3)": "3",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Cường độ bê tông thấp.\nDầm bị quá tải ở tiết diện nghiêng."
+    },
+    {
+      "_row_id": 4,
+      "Số TT vết nứt(Hình B.3)": "4",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Phá hoại neo cốt thép ứng lực trước: cường độ bê tông thấp, không đủ cường độ bê tông tại thời điểm trước khi nén trước bê tông."
+    },
+    {
+      "_row_id": 5,
+      "Số TT vết nứt(Hình B.3)": "5;6",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Không có cốt xoắn trong vùng neo cốt thép ứng lực trước."
+    },
+    {
+      "_row_id": 6,
+      "Số TT vết nứt(Hình B.3)": "7",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Không đủ cốt xoắn.\nLiên kết hàn các chi tiết đặt sẵn nối các dầm liền kề làm thay đổi sơ đồ tính toán của chúng."
+    },
+    {
+      "_row_id": 7,
+      "Số TT vết nứt(Hình B.3)": "8",
+      "Nguyên nhân có thể gây nên sự hình thành vết nứt": "Dầm bị quá tải ở tiết diện thẳng góc.\nKhông bố trí đủ cốt thép chịu lực."
+    }
+  ],
+  "footnotes": []
+}

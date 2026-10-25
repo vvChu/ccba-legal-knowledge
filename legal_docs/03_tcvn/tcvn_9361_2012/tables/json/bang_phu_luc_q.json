@@ -1,0 +1,52 @@
+{
+  "table_id": "bang_phu_luc_q",
+  "table_number": "PLQ",
+  "table_title": "Bảng Phụ lục Q",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT cọc theo mặt bằng",
+    "Ngày tháng/ ca kíp",
+    "Đường kính lỗ khoan, m",
+    "Độ cao tuyệt đối của mặt đất",
+    "Khoan thân cọc — Độ sâu, m",
+    "Khoan thân cọc — Độ cao tuyệt đối của đáy hố khoan",
+    "Khoan mở rộng (số vòng và đường kính), m",
+    "Tên đất ở đáy hố khoan",
+    "Chiều dài khung cốt thép, m",
+    "Mác bê tông và độ sụt hình nón",
+    "Đổ bê tông bằng phương pháp ống đứng di chuyển — Thể tích bê tông đổ vào cọc bao gồm cả phần mở rộng, m",
+    "Đổ bê tông bằng phương pháp ống đứng di chuyển — Độ cắm sâu tối thiểu dấu dưới của cống bê tông vào bê ôtng, m",
+    "Trọng lượng thuốc nổ, kg",
+    "Mức bê tông trong ống — Trước khi nổ",
+    "Mức bê tông trong ống — Sau khi nổ",
+    "Tổng số bê tông được sử dụng, $m^{2}$",
+    "Độ cao tuyệt đối của đầu cọc",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT cọc theo mặt bằng": "1",
+      "Ngày tháng/ ca kíp": "2",
+      "Đường kính lỗ khoan, m": "3",
+      "Độ cao tuyệt đối của mặt đất": "4",
+      "Khoan thân cọc — Độ sâu, m": "5",
+      "Khoan thân cọc — Độ cao tuyệt đối của đáy hố khoan": "6",
+      "Khoan mở rộng (số vòng và đường kính), m": "7",
+      "Tên đất ở đáy hố khoan": "8",
+      "Chiều dài khung cốt thép, m": "9",
+      "Mác bê tông và độ sụt hình nón": "10",
+      "Đổ bê tông bằng phương pháp ống đứng di chuyển — Thể tích bê tông đổ vào cọc bao gồm cả phần mở rộng, m": "11",
+      "Đổ bê tông bằng phương pháp ống đứng di chuyển — Độ cắm sâu tối thiểu dấu dưới của cống bê tông vào bê ôtng, m": "12",
+      "Trọng lượng thuốc nổ, kg": "13",
+      "Mức bê tông trong ống — Trước khi nổ": "14",
+      "Mức bê tông trong ống — Sau khi nổ": "15",
+      "Tổng số bê tông được sử dụng, $m^{2}$": "16",
+      "Độ cao tuyệt đối của đầu cọc": "17",
+      "Người thực hiện (ký tên)": "18",
+      "Ghi chú": "19"
+    }
+  ],
+  "footnotes": []
+}

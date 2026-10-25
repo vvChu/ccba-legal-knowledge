@@ -1,0 +1,61 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 9381 2012
+total_figures: 7
+figures:
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Sơ đồ trình tự và nội dung chủ yếu của công tác khảo sát
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Vết nứt do tác động của lực trong bản sàn
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_B_2
+  slug: b_2
+  tag: B.2
+  title: Các vết nứt trong sàn panel lắp ghép (1 ÷ 4) do tác động của lực.
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_B_3
+  slug: b_3
+  tag: B.3
+  title: Vết nứt trong dầm
+  annex: B
+  anchor: hinh-b_3
+  image_relpath: figures/images/hinh_b_3.png
+  has_image: true
+- figure_id: FIG_B_4
+  slug: b_4
+  tag: B.4
+  title: Vết nứt trong cột bê tông cốt thép.
+  annex: B
+  anchor: hinh-b_4
+  image_relpath: figures/images/hinh_b_4.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Vết nứt trong tường, trụ gạch
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Vết nứt trong tường
+  annex: C
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true

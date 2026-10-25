@@ -1,0 +1,34 @@
+id: qcvn_26_2025_bnnmt
+document_number: QCVN 26:2025/BNNMT
+title: "QCVN 26:2025/BNNMT — Quy chuẩn kỹ thuật quốc gia về Tiếng ồn"
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Nông nghiệp và Môi trường
+signer: Lê Công Thành
+issued_date: '2025-05-15'
+effective_date: '2025-11-14'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/
+source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-01-2025-TT-BNNMT-03-quy-chuan-ky-thuat-quoc-gia-chat-luong-moi-truong-xung-quanh-657766.aspx
+sha256: ab6e4b3b62b427ca3cc431cdcfac607dedb479d7a7ae4ffba55f8cdf4dc4c582
+pdf_path: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/sources/qcvn_26_2025_bnnmt.pdf
+pdf_sha256: 834b612ff96c3e6752052f508671881e25f101cf36b581db19d3452dcefc253f
+cong_bao_number: 01/2025/TT-BNNMT
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_26_2025_bnnmt/sources/qcvn_26_2025_bnnmt.docx
+source_file_size_kb: 63.0
+source_assets:
+  docx:
+    sha256: ab6e4b3b62b427ca3cc431cdcfac607dedb479d7a7ae4ffba55f8cdf4dc4c582
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_26_2025_bnnmt/qcvn_26_2025_bnnmt.docx
+    status: verified
+  pdf:
+    sha256: 834b612ff96c3e6752052f508671881e25f101cf36b581db19d3452dcefc253f
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_26_2025_bnnmt/qcvn_26_2025_bnnmt.pdf
+    status: verified
+relations:
+  replaces:
+  - QCVN 26:2010/BTNMT
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-11T07:48:48.809701+00:00'

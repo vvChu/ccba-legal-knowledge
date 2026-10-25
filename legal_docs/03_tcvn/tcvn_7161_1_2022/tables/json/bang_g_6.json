@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_g_6",
+  "table_number": "G.6",
+  "table_title": "Bảng G.6 - Ảnh hưởng sinh lý học của khí trơ chữa cháy",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Khí chữa cháy",
+    "Mức không bị ảnh hưởng $^{a}$,%",
+    "Mức thấp ảnh hưởng thấp $^{a}$,%"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khí chữa cháy": "IG - 01",
+      "Mức không bị ảnh hưởng $^{a}$,%": "43",
+      "Mức thấp ảnh hưởng thấp $^{a}$,%": "52"
+    },
+    {
+      "_row_id": 2,
+      "Khí chữa cháy": "IG - 100",
+      "Mức không bị ảnh hưởng $^{a}$,%": "43",
+      "Mức thấp ảnh hưởng thấp $^{a}$,%": "52"
+    },
+    {
+      "_row_id": 3,
+      "Khí chữa cháy": "IG - 55",
+      "Mức không bị ảnh hưởng $^{a}$,%": "43",
+      "Mức thấp ảnh hưởng thấp $^{a}$,%": "52"
+    },
+    {
+      "_row_id": 4,
+      "Khí chữa cháy": "IG - 541",
+      "Mức không bị ảnh hưởng $^{a}$,%": "43",
+      "Mức thấp ảnh hưởng thấp $^{a}$,%": "52"
+    },
+    {
+      "_row_id": 5,
+      "Khí chữa cháy": "**$^{a}$ Dựa trên các ảnh hưởng sinh lý học đối với con người trong môi trường thiếu oxy. Các giá trị này đương lượng của các giá trị NOAEL và LOAEL và tương đương với nồng độ tối thiểu của oxy là 12 % đối với mức không bị ảnh hưởng và nồng độ tối thiểu oxy là 10 % đối với mức bị ảnh hưởng thấp.**",
+      "Mức không bị ảnh hưởng $^{a}$,%": "",
+      "Mức thấp ảnh hưởng thấp $^{a}$,%": ""
+    }
+  ],
+  "footnotes": []
+}

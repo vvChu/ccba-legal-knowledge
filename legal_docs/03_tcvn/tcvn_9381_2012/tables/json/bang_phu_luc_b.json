@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_phu_luc_b",
+  "table_number": "PLB",
+  "table_title": "Bảng Phụ lục B",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "a) Bản kê hai cạnh",
+    "c) Bản kê 4 cạnh có $l_{1}$/$l_{2}$ > 2"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "a) Bản kê hai cạnh": "b) Bản kê 3 cạnh",
+      "c) Bản kê 4 cạnh có $l_{1}$/$l_{2}$ > 2": "d,e) Bản kê 4 cạnh có $l_{1}$/$l_{2}$ ≤ 2"
+    }
+  ],
+  "footnotes": []
+}

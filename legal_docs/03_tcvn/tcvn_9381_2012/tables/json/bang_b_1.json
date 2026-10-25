@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Vết nứt do tác động của lực trong kết cấu bê tông cốt thép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại vết nứt",
+    "Hình dáng vết nứt",
+    "Cấu kiện bê tông cốt thép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại vết nứt": "Vết nứt xuyên suốt.",
+      "Hình dáng vết nứt": "",
+      "Cấu kiện bê tông cốt thép": "Cấu kiện chịu kéo lệch tâm"
+    },
+    {
+      "_row_id": 2,
+      "Loại vết nứt": "Vết nứt không xuên suốt",
+      "Hình dáng vết nứt": "",
+      "Cấu kiện bê tông cốt thép": "Cấu kiện chịu uốn và cấu kiện chịu nén lệch tâm"
+    },
+    {
+      "_row_id": 3,
+      "Loại vết nứt": "Vết nứt có dạng đường khép kín",
+      "Hình dáng vết nứt": "",
+      "Cấu kiện bê tông cốt thép": "Vùng gối tựa của cấu kiện chịu uốn"
+    },
+    {
+      "_row_id": 4,
+      "Loại vết nứt": "Vết nứt dọc không xuyên suốt",
+      "Hình dáng vết nứt": "",
+      "Cấu kiện bê tông cốt thép": "Cấu kiện chịu nén."
+    }
+  ],
+  "footnotes": []
+}

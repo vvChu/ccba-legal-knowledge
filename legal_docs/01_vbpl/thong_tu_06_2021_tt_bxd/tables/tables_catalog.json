@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 6,
+  "tables": [
+    {
+      "table_id": "bang_1_1",
+      "title": "Bảng 1.1 Phân cấp công trình sử dụng cho mục đích dân dụng (công trình dân dụng)",
+      "rows": 21,
+      "cols": 9,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_1_1.csv",
+      "json": "tables/json/bang_1_1.json"
+    },
+    {
+      "table_id": "bang_1_2",
+      "title": "Bảng 1.2 Phân cấp công trình sử dụng cho mục đích sản xuất công nghiệp (công trình công nghiệp)",
+      "rows": 138,
+      "cols": 9,
+      "footnotes_count": 1,
+      "footnotes": [
+        "Ghi chú: 1. Cấp của công trình thủy điện là cấp cao nhất xác định được theo các tiêu chí phân cấp Nhà máy, Hồ chứa nước và Đập dâng nước (trong đó A, B, C là nhóm địa chất nền điển hình: Nhóm A nền là đá; Nhóm B nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng; Nhóm C nền là đất sét bão hòa nước ở trạng thái dẻo). Riêng đối với công trình thủy điện tích năng: Sau khi xác định được cấp theo quy định của mục này thì hạ xuống một cấp nhưng không nhỏ hơn cấp III trong mọi trường hợp. 2. Cấp công trình của các công trình trên “Tuyến năng lượng” như Cửa nhận nước, Đường dẫn (kênh, cống, đường hầm), Tháp điều áp, Đường ống áp lực, Kênh xả hoặc Hầm xả nước,… được xác định theo cấp của Nhà máy thủy điện quy định tại điểm a mục 1.2.5.3. 3. Cấp công trình của các công trình trên “Tuyến đầu mối” như Đập dâng nước, Tràn xả mặt, Tràn xả sâu, Tràn sự cố, công trình lấy nước khác,… được xác định theo cấp của Đập dâng nước quy định tại điểm c mục 1.2.5.3. 4. Các công trình liên quan khác như Nhà quản lý vận hành, Tường rào, Đường giao thông,… trong dự án xây dựng công trình thủy điện được xác định cấp công trình tương ứng với loại công trình theo hướng dẫn trong Thông tư này."
+      ],
+      "csv": "tables/csv/bang_1_2.csv",
+      "json": "tables/json/bang_1_2.json"
+    },
+    {
+      "table_id": "bang_1_3",
+      "title": "Bảng 1.3 Phân cấp công trình cung cấp cơ sở, tiện ích hạ tầng kỹ thuật (công trình hạ tầng kỹ thuật)",
+      "rows": 24,
+      "cols": 10,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_1_3.csv",
+      "json": "tables/json/bang_1_3.json"
+    },
+    {
+      "table_id": "bang_1_4",
+      "title": "Bảng 1.4 Phân cấp công trình phục vụ giao thông vận tải (công trình giao thông)",
+      "rows": 40,
+      "cols": 8,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_1_4.csv",
+      "json": "tables/json/bang_1_4.json"
+    },
+    {
+      "table_id": "bang_1_5",
+      "title": "Bảng 1.5 Phân cấp công trình phục vụ nông nghiệp và phát triển nông thôn (công trình nông nghiệp và phát triển nông thôn)",
+      "rows": 6,
+      "cols": 9,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_1_5.csv",
+      "json": "tables/json/bang_1_5.json"
+    },
+    {
+      "table_id": "bang_02",
+      "title": "Bảng 2. Phân cấp công trình xây dựng theo quy mô kết cấu",
+      "rows": 62,
+      "cols": 8,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_02.csv",
+      "json": "tables/json/bang_02.json"
+    }
+  ]
+}

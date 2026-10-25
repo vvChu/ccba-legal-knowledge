@@ -1,0 +1,151 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 18,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Danh mục chất khí chữa cháy",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Các phòng ngừa tối thiểu về an toàn",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Nồng độ phần trăm tối đa của khí trơ chữa cháy ở giới hạn NOAEL và LOAEL là một hàm số của độ cao",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Khoảng cách an toàn để có thể vận hành, kiểm tra, làm sạch, sửa chữa, sơn và bảo dưỡng thông thường",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Khoảng cách lớn nhất giữa các giá đỡ đường ống",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Hệ số hiệu chỉnh",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_phu_luc_1",
+      "table_number": "PL1",
+      "title": "Bảng Phụ lục 1",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_1.csv",
+      "json_file": "tables/json/bang_phu_luc_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_1_2",
+      "table_number": "PL1_2",
+      "title": "Bảng Phụ lục 1 (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_1_2.csv",
+      "json_file": "tables/json/bang_phu_luc_1_2.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Các thử nghiệm được tiến hành",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    },
+    {
+      "table_id": "bang_c_2",
+      "table_number": "C.2",
+      "title": "Bảng C.2 - Các tính chất của vật liệu polime",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_c_2.csv",
+      "json_file": "tables/json/bang_c_2.json"
+    },
+    {
+      "table_id": "bang_e_1",
+      "table_number": "E.1",
+      "title": "Bảng E.1 - Các ký hiệu, đại lượng và đơn vị",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_e_1.csv",
+      "json_file": "tables/json/bang_e_1.json"
+    },
+    {
+      "table_id": "bang_e_2",
+      "table_number": "E.2",
+      "title": "Bảng E.2 - Giá trị thông số độ dày ($I_{t}$) và thông số vị trí ($I_{p}$)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_e_2.csv",
+      "json_file": "tables/json/bang_e_2.json"
+    },
+    {
+      "table_id": "bang_g_1",
+      "table_number": "G.1",
+      "title": "Bảng G.1 - Thông tin về tính độc hại của các khí chữa cháy halocacbon",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_1.csv",
+      "json_file": "tables/json/bang_g_1.json"
+    },
+    {
+      "table_id": "bang_g_2",
+      "table_number": "G.2",
+      "title": "Bảng G.2 - Thời gian tiếp xúc an toàn của con người ở các nồng độ đã cho của HFC -125",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_2.csv",
+      "json_file": "tables/json/bang_g_2.json"
+    },
+    {
+      "table_id": "bang_g_3",
+      "table_number": "G.3",
+      "title": "Bảng G.3 - Thời gian tiếp xúc an toàn của con người ở các nồng độ đã cho của HFC-127ea",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_3.csv",
+      "json_file": "tables/json/bang_g_3.json"
+    },
+    {
+      "table_id": "bang_g_4",
+      "table_number": "G.4",
+      "title": "Bảng G.4 - Thời gian tiếp xúc an toàn của con người ở các nồng độ đã cho của HFC-236 fa",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_4.csv",
+      "json_file": "tables/json/bang_g_4.json"
+    },
+    {
+      "table_id": "bang_g_5",
+      "table_number": "G.5",
+      "title": "Bảng G.5 - Thời gian tiếp xúc an toàn của con người ở các nồng độ đã cho của $CF_{3}$ I",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_5.csv",
+      "json_file": "tables/json/bang_g_5.json"
+    },
+    {
+      "table_id": "bang_g_6",
+      "table_number": "G.6",
+      "title": "Bảng G.6 - Ảnh hưởng sinh lý học của khí trơ chữa cháy",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_6.csv",
+      "json_file": "tables/json/bang_g_6.json"
+    }
+  ]
+}

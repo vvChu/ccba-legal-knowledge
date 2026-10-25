@@ -1,0 +1,19 @@
+
+<a id="phu-luc-e"></a>
+## PHỤ LỤC E (Tham khảo) — Nhật ký về silicát hóa và nhựa hóa đất
+
+Tên cơ quan xây dựng:
+
+Công trình:
+
+Nhật ký về silicát hóa và nhựa hóa đất
+
+
+<a id="bang-bang-phu-luc-e"></a>
+### Bảng Phụ lục E
+
+| Đóng các ống bơm | Thành phần dung dịch (silicát hóa hoặc nhựa) | Bơm dung dịch |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
+| Ngày tháng/ ca kíp | $N^{0}$ lỗ khoan | $N^{0}$ ống bơm | Độ sâu của ống bơm ca kíp | Ngày tháng/ ca kíp | Silicát hay nhựa | Axit hoặc $CaCl^{2}$ | Nhiệt độ °C | Thời gian tạo gen, min | Bắt đầu, giờ: phút | Kết thúc, giờ: phút | Thời gian, min | Thể tích dung dịch, L | Lượng tiêu hao dung dịch L/min | Áp lực bơm, Pa | Người chịu trách nhiệm chính | Ghi chú |  |  |
+|  |  |  |  |  | Tỷ trọng, g/$cm^{3}$ | Thể tích, L | Tỷ trọng, g/$cm^{3}$ | Thể tích, L |  |  |  |  |  |  |  |  |  |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |

@@ -1,0 +1,17 @@
+
+<a id="phu-luc-f"></a>
+## PHỤ LỤC F (Tham khảo) — Nhật ký các công tác xi măng hóa đất
+
+Tên cơ quan xây dựng:
+
+Công trình:
+
+Nhật ký các công tác xi măng hóa đất
+
+
+<a id="bang-bang-phu-luc-f"></a>
+### Bảng Phụ lục F
+
+| Ngày/ ca kíp | Thời gian xi măng hóa — Giờ | Thời gian xi măng hóa — Phút | $N^{0}$ lỗ khoan | Vùng phụt xi măng | Độ sâu của vùng — Từ | Độ sâu của vùng — Đến | Đường kính của giếng khoan trong vùng phụt xi măng | Độ sệt của vữa theo trọng lượng, N/X | Phụt dung dịch — Số đo của áp kế, Pa | Phụt dung dịch — Áp lực toàn phần cột nước | Phụt dung dịch — Lượng dung dịch tiêu hao, L | Phụt dung dịch — Lượng xi măng tiêu hao, kg | Giữa lỗ khoan dưới áp lực — Thời gian, giờ phút | Giữa lỗ khoan dưới áp lực — Áp lực toàn phần (chiều cao cột nước), m | Giữa lỗ khoan dưới áp lực — Lượng nước tiêu hao, L | Giữa lỗ khoan dưới áp lực — Độ phút nước đơn vị, L/s.$m^{2}$ | Người thực hiện (Ký tên) | Ghi chú |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |

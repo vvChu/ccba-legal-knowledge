@@ -1,0 +1,39 @@
+{
+  "table_id": "bang_p01_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Chênh lệch độ cao giữa hai mép vật liệu lát",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại vật liệu lát",
+    "Chênh lệch độ cao"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại vật liệu lát": "Gạch xây đất sét nung",
+      "Chênh lệch độ cao": "3,0 mm"
+    },
+    {
+      "_row_id": 2,
+      "Loại vật liệu lát": "Gạch lát đất sét nung",
+      "Chênh lệch độ cao": "3,0 mm"
+    },
+    {
+      "_row_id": 3,
+      "Loại vật liệu lát": "Đá tự nhiên không mài mặt",
+      "Chênh lệch độ cao": "3,0 mm"
+    },
+    {
+      "_row_id": 4,
+      "Loại vật liệu lát": "Gạch lát xi măng, granito, ceramic, granite, đá nhân tạo",
+      "Chênh lệch độ cao": "0,5 mm"
+    },
+    {
+      "_row_id": 5,
+      "Loại vật liệu lát": "Các loại tấm lát định hình",
+      "Chênh lệch độ cao": "0,5 mm"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p01"
+}

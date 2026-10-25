@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Các tính chất của vật liệu polime",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiên liệu",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Màu sắc",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Mật độ, g/$m^{3}$",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — s",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — Dung sai",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — kW/$m^{2}$",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — Dung sai",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — MJ/kg",
+    "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — Dung sai"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiên liệu": "PMMA",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Màu sắc": "Đen",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Mật độ, g/$m^{3}$": "1,19",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — s": "77",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — Dung sai": "± 30 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — kW/$m^{2}$": "286",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — Dung sai": "± 25 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — MJ/kg": "23,3",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — Dung sai": "± 25 %"
+    },
+    {
+      "_row_id": 2,
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiên liệu": "PP",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Màu sắc": "Tự nhiên (trắng)",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Mật độ, g/$m^{3}$": "0,905",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — s": "91",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — Dung sai": "± 30 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — kW/$m^{2}$": "225",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — Dung sai": "± 25 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — MJ/kg": "39,6",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — Dung sai": "± 25 %"
+    },
+    {
+      "_row_id": 3,
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiên liệu": "ABS",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Màu sắc": "Tự nhiên (kem)",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Mật độ, g/$m^{3}$": "1,04",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — s": "115",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Thời gian đốt cháy — Dung sai": "± 30 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — kW/$m^{2}$": "484",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Tốc độ thoát nhiệt trung bình trong 180 s — Dung sai": "± 25 %",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — MJ/kg": "29,1",
+      "Đốt trong nhiệt lượng kế hình Cone 25 kW/$m^{2}$ (ISO 5660-1) — Nhiệt hiệu dụng của sự cháy — Dung sai": "± 25 %"
+    }
+  ],
+  "footnotes": []
+}

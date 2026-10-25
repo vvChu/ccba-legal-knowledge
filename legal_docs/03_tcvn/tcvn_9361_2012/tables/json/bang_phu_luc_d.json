@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_phu_luc_d",
+  "table_number": "PLD",
+  "table_title": "Bảng Phụ lục D",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ngày tháng/ca kíp, giờ",
+    "Thời tiết (mưa, nhiệt độ không khí",
+    "$N^{o}$ của các giếng, các ống đo áp",
+    "Mức nước tĩnh, m — Độ cao tuyệt đối",
+    "Mức nước tĩnh, m — Độ sâu cách đường chuẩn",
+    "Mức nước động, m — Độ cao tuyệt đối",
+    "Mức nước động, m — Độ sâu cách đường chuẩn",
+    "Cao trình của mực nước lấy mẫu phân tích hóa học",
+    "Người thực hiện (ký tên)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ngày tháng/ca kíp, giờ": "1",
+      "Thời tiết (mưa, nhiệt độ không khí": "2",
+      "$N^{o}$ của các giếng, các ống đo áp": "3",
+      "Mức nước tĩnh, m — Độ cao tuyệt đối": "4",
+      "Mức nước tĩnh, m — Độ sâu cách đường chuẩn": "5",
+      "Mức nước động, m — Độ cao tuyệt đối": "6",
+      "Mức nước động, m — Độ sâu cách đường chuẩn": "7",
+      "Cao trình của mực nước lấy mẫu phân tích hóa học": "8",
+      "Người thực hiện (ký tên)": "9"
+    }
+  ],
+  "footnotes": []
+}

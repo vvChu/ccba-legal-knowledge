@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_phu_luc_b",
+  "table_number": "PLB",
+  "table_title": "Bảng Phụ lục B",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "$N^{o}$ cọc đất",
+    "Xuyên lỗ qua — Ngày tháng/ ca kíp",
+    "Xuyên lỗ qua — Thời gian xuyên min",
+    "Xuyên lỗ qua — Độ xuyên sâu, m",
+    "Xuyên lỗ qua — Đường kính m",
+    "Nhét lỗ khoan — Ngày tháng/ ca kíp",
+    "Nhét lỗ khoan — Thể tích 1 suất đất lấp m³",
+    "Nhét lỗ khoan — Số lượng suất đất lấp",
+    "Nhét lỗ khoan — Độ ẩm thực tế của đất lấp",
+    "Nhét lỗ khoan — Số lượng nhát đập trên 1 suất đất",
+    "Nhét lỗ khoan — Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "$N^{o}$ cọc đất": "1",
+      "Xuyên lỗ qua — Ngày tháng/ ca kíp": "2",
+      "Xuyên lỗ qua — Thời gian xuyên min": "3",
+      "Xuyên lỗ qua — Độ xuyên sâu, m": "4",
+      "Xuyên lỗ qua — Đường kính m": "5",
+      "Nhét lỗ khoan — Ngày tháng/ ca kíp": "6",
+      "Nhét lỗ khoan — Thể tích 1 suất đất lấp m³": "7",
+      "Nhét lỗ khoan — Số lượng suất đất lấp": "8",
+      "Nhét lỗ khoan — Độ ẩm thực tế của đất lấp": "9",
+      "Nhét lỗ khoan — Số lượng nhát đập trên 1 suất đất": "10",
+      "Nhét lỗ khoan — Người thực hiện (ký tên)": "11",
+      "Ghi chú": "12"
+    }
+  ],
+  "footnotes": []
+}

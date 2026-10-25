@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_phu_luc_n",
+  "table_number": "PLN",
+  "table_title": "Bảng Phụ lục N",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số thứ tự",
+    "No cọc ván theo mặt bằng",
+    "Ngày/ca kíp",
+    "Độ cao tuyệt đối phần trên cùng của ván — Theo thiết kế",
+    "Độ cao tuyệt đối phần trên cùng của ván — Thực tế",
+    "Độ cao tuyệt đối đầu dưới của cọc ván — Theo thiết kế",
+    "Độ cao tuyệt đối đầu dưới của cọc ván — Thực tế",
+    "Kích thước cắt ngắn hoặc nối dài cọc ván, m",
+    "Độ sâu hạ cọc ván (từ mặt cắt thiết kế)",
+    "Người thực hiện (ký tên)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số thứ tự": "1",
+      "No cọc ván theo mặt bằng": "2",
+      "Ngày/ca kíp": "3",
+      "Độ cao tuyệt đối phần trên cùng của ván — Theo thiết kế": "4",
+      "Độ cao tuyệt đối phần trên cùng của ván — Thực tế": "5",
+      "Độ cao tuyệt đối đầu dưới của cọc ván — Theo thiết kế": "6",
+      "Độ cao tuyệt đối đầu dưới của cọc ván — Thực tế": "7",
+      "Kích thước cắt ngắn hoặc nối dài cọc ván, m": "8",
+      "Độ sâu hạ cọc ván (từ mặt cắt thiết kế)": "9",
+      "Người thực hiện (ký tên)": "10",
+      "Ghi chú": "11"
+    }
+  ],
+  "footnotes": []
+}

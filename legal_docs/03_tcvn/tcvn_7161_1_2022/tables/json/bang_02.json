@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Các phòng ngừa tối thiểu về an toàn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Nồng độ lớn nhất",
+    "Cơ cấu thời gian trễ",
+    "Bộ chuyển mạch tự động/bằng tay",
+    "Cơ cấu khóa ngắt"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nồng độ lớn nhất": "Nhỏ hơn và bằng NOAEL",
+      "Cơ cấu thời gian trễ": "Có yêu cầu",
+      "Bộ chuyển mạch tự động/bằng tay": "Không yêu cầu",
+      "Cơ cấu khóa ngắt": "Không yêu cầu"
+    },
+    {
+      "_row_id": 2,
+      "Nồng độ lớn nhất": "Lớn hơn NOAEL và nhỏ hơn LOAEL",
+      "Cơ cấu thời gian trễ": "Có yêu cầu",
+      "Bộ chuyển mạch tự động/bằng tay": "Có yêu cầu",
+      "Cơ cấu khóa ngắt": "Không yêu cầu"
+    },
+    {
+      "_row_id": 3,
+      "Nồng độ lớn nhất": "Lớn hơn và bằng LOAEL",
+      "Cơ cấu thời gian trễ": "Có yêu cầu",
+      "Bộ chuyển mạch tự động/bằng tay": "Có yêu cầu",
+      "Cơ cấu khóa ngắt": "Có yêu cầu"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Mục đích của Bảng này là tránh sự tiếp xúc của người với các khí chữa cháy được phun ra. Các yếu tố như thời gian thoát nhiệt và rủi ro đối với người đi vào vùng có sự cố cháy do đám cháy nên được xem xét khi xác định thời gian trễ cho việc phun khí chữa cháy của hệ thống."
+  }
+}

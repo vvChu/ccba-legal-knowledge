@@ -1,0 +1,37 @@
+﻿STT,Thông số,"Phương pháp quan trắc, số hiệu tiêu chuẩn"
+1,Lấy mẫu,TCVN 6663-19:2015;<br>TCVN 6663-15:2004;<br>ISO 5667-Part 12
+2,Arsenic (As),TCVN 8467:2010;<br>US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7010;<br>US EPA Method 7062;<br>US EPA Method 6020B
+3,Cadmi (Cd),TCVN 6496:2009;<br>US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+4,Chì (Plumbum) (Pb),TCVN 6496:2009;<br>US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+5,Kẽm (Zincum) (Zn),TCVN 6496:2009;<br>US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+6,Đồng (Cuprum) (Cu),TCVN 6496:2009;<br>US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+7,Chromi (Cr),US EPA Method 200.7;<br>US EPA Method 200.8;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+8,Sắt (Ferrum) (Fe),US EPA Method 200.7;<br>US EPA Method 7000B;<br>US EPA Method 7010;<br>US EPA Method 6020B
+9,Thủy ngân (Hydrargyrum) (Hg),TCVN 8882:2011;<br>US EPA Method 200.8;<br>US EPA Method 7471B;<br>US EPA Method 200.7;<br>US EPA Method 6020B
+10,Cyanide,ISO 17380:2013
+11,Phenol,ISO 17182:2014;<br>US EPA Method 8041A
+12,Tổng Hydrocarbon dầu (TPH),US EPA 8015B
+13,Chlordane,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+14,DDD,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+15,DDE,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+16,DDT,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+17,Dieldrin,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+18,Endrin,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+19,Lindane,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+20,Heptachlor epoxide,US EPA Method 8081B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+21,Polychlorinated biphenyls (PCBs),US EPA Method 1668B;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+22,Dioxin/Furan (PCDD/PCDF),US EPA Method 1613B;<br>TCVN 10883:2016
+23,Các hợp chất Hydrocarbon thơm đa vòng (PAHs),US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Acenaphthene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Acenaphthylene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Anthracene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Benzo [a] anthracene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Benzo [a] pyrene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Chrysene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,"Dibenz [a,h] anthracene",US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Fluoranthene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Fluorene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,2-Methylnaphthalene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Naphthalene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Phenanthrene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E
+,Pyrene,US EPA Method 8100;<br>US EPA Method 8270D;<br>US EPA Method 8270E

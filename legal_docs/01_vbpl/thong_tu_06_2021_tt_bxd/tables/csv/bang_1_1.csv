@@ -1,0 +1,21 @@
+﻿STT,Loại công trình,Tiêu chí phân cấp,Cấp công trình — Đặc biệt,Cấp công trình — I,Cấp công trình — II,Cấp công trình — III,Cấp công trình — IV,Cấp công trình
+1.1.1,"Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo","Công trình giáo dục, đào tạo",
+1.1.1,"1.1.1.1 Nhà trẻ, trường mẫu giáo, trường mầm non",Mức độ quan trọng,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô
+1.1.1,1.1.1.2 Trường tiểu học,Tổng số học sinh toàn trường,,,≥ 700,< 700,,
+1.1.1,"1.1.1.3 Trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học",Tổng số học sinh toàn trường,,,≥ 1.350,< 1.350,,
+1.1.1,"1.1.1.4 Trường đại học, trường cao đẳng; trường trung học chuyên nghiệp, trường dạy nghề, trường công nhân kỹ thuật, trường nghiệp vụ",Tổng số sinh viên toàn trường,,> 8.000,5.000 ÷ 8.000,< 5.000,,
+1.1.2,Công trình y tế,Công trình y tế,Công trình y tế,Công trình y tế,Công trình y tế,Công trình y tế,Công trình y tế,
+1.1.2,"1.1.2.1 Bệnh viện đa khoa, bệnh viện chuyên khoa từ trung ương đến địa phương (Bệnh viện trung ương không thấp hơn cấp I)",Tổng số giường bệnh lưu trú,> 1.000,500 ÷ 1.000,250 ÷ < 500,< 250,,
+1.1.2,1.1.2.2 Trung tâm thí nghiệm an toàn sinh học (Cấp độ an toàn sinh học xác định theo quy định của ngành y tế),Cấp độ an toàn sinh học (ATSH),,ATSH cấp độ 4,ATSH cấp độ 3,ATSH cấp độ 1 và cấp độ 2,,
+1.1.3,Công trình thể thao,Công trình thể thao,Công trình thể thao,Công trình thể thao,Công trình thể thao,Công trình thể thao,Công trình thể thao,
+1.1.3,"1.1.3.1 Sân vận động, sân thi đấu các môn thể thao ngoài trời có khán đài (Sân vận động quốc gia, sân thi đấu quốc gia không nhỏ hơn cấp I)",Sức chứa của khán đài (nghìn chỗ),> 40,> 20 ÷ 40,5 ÷ 20,< 5,,
+1.1.3,"1.1.3.2 Nhà thi đấu, tập luyện các môn thể thao có khán đài (Nhà thi đấu thể thao quốc gia không nhỏ hơn cấp I)",Sức chứa của khán đài (nghìn chỗ),"> 7,5","5 ÷ 7,5",2 ÷ < 5,< 2,,
+1.1.3,1.1.3.3 Sân gôn,Số lỗ,,≥ 36,18 ÷ < 36,< 18,,
+,"1.1.3.4 Bể bơi, sân thể thao ngoài trời",Mức độ quan trọng,,,,Đạt chuẩn thi đấu thể thao cấp quốc gia,Hoạt động thể thao phong trào,
+1.1.4,Công trình văn hóa,Công trình văn hóa,Công trình văn hóa,Công trình văn hóa,Công trình văn hóa,Công trình văn hóa,Công trình văn hóa,
+1.1.4,"1.1.4.1 Trung tâm hội nghị, nhà văn hóa, câu lạc bộ, vũ trường và các công trình văn hóa tập trung đông người khác (Trung tâm hội nghị quốc gia không nhỏ hơn cấp I)",Tổng sức chứa (nghìn người),> 3,"> 1,2 ÷ 3","> 0,3 ÷ 1,2","≤ 0,3",,
+1.1.4,"1.1.4.2 Nhà hát, rạp chiếu phim, rạp xiếc",Tổng sức chứa khán giả (nghìn người),> 3,"> 1,2 ÷ 3","> 0,3 ÷ 1,2","≤ 0,3",,
+1.1.4,"1.1.4.3 Bảo tàng, thư viện, triển lãm, nhà trưng bày",Mức độ quan trọng,,Quốc gia,"Tỉnh, Ngành",Các trường hợp còn lại,,
+1.1.5,Chợ,Số điểm kinh doanh,,,,> 400,≤ 400,
+1.1.6,Công trình tôn giáo,Mức độ quan trọng,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô,Cấp III với mọi quy mô
+1.1.7,"Trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội",Mức độ quan trọng,"Nhà Quốc hội, Phủ Chủ tịch, Trụ sở Chính phủ, Trụ sở Trung ương Đảng; các công trình đặc biệt quan trọng khác","Trụ sở làm việc của Tỉnh ủy; HĐND, UBND cấp tỉnh; Bộ, Tổng cục và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân tối cao, cấp cao","Trụ sở làm việc của Huyện ủy; HĐND, UBND cấp huyện; cấp Cục, cấp Sở và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh","Trụ sở làm việc của Đảng ủy, HĐND, UBND cấp xã; Chi cục và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp huyện",,

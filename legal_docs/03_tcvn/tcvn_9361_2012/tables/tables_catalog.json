@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 32,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Hệ số k",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Hệ số $k_{1}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Hệ số $K_{o}$/$Q_{B}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Hệ số n",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Giá trị $E_{tt}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Hệ số M",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Hệ số  đối với cát",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Hệ số  đối với đất sét",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9 - Đường kính tính toán của bầu mở rộng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10 - Độ lệch cho phép của trục cọc trên mặt bằng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11 - Độ lệch cho phép của hàng cọc ván so với vị trí thiết kế trên mặt bằng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12 - Trị số sai lệch",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a",
+      "table_number": "PLA",
+      "title": "Bảng Phụ lục A",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a.csv",
+      "json_file": "tables/json/bang_phu_luc_a.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b",
+      "table_number": "PLB",
+      "title": "Bảng Phụ lục B",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b.csv",
+      "json_file": "tables/json/bang_phu_luc_b.json"
+    },
+    {
+      "table_id": "bang_phu_luc_c",
+      "table_number": "PLC",
+      "title": "Bảng Phụ lục C",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_c.csv",
+      "json_file": "tables/json/bang_phu_luc_c.json"
+    },
+    {
+      "table_id": "bang_phu_luc_d",
+      "table_number": "PLD",
+      "title": "Bảng Phụ lục D",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_d.csv",
+      "json_file": "tables/json/bang_phu_luc_d.json"
+    },
+    {
+      "table_id": "bang_phu_luc_e",
+      "table_number": "PLE",
+      "title": "Bảng Phụ lục E",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_e.csv",
+      "json_file": "tables/json/bang_phu_luc_e.json"
+    },
+    {
+      "table_id": "bang_phu_luc_f",
+      "table_number": "PLF",
+      "title": "Bảng Phụ lục F",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_f.csv",
+      "json_file": "tables/json/bang_phu_luc_f.json"
+    },
+    {
+      "table_id": "bang_phu_luc_g",
+      "table_number": "PLG",
+      "title": "Bảng Phụ lục G",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_g.csv",
+      "json_file": "tables/json/bang_phu_luc_g.json"
+    },
+    {
+      "table_id": "bang_phu_luc_h",
+      "table_number": "PLH",
+      "title": "Bảng Phụ lục H",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_h.csv",
+      "json_file": "tables/json/bang_phu_luc_h.json"
+    },
+    {
+      "table_id": "bang_phu_luc_i",
+      "table_number": "PLI",
+      "title": "Bảng Phụ lục I",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_i.csv",
+      "json_file": "tables/json/bang_phu_luc_i.json"
+    },
+    {
+      "table_id": "bang_phu_luc_k",
+      "table_number": "PLK",
+      "title": "Bảng Phụ lục K",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_k.csv",
+      "json_file": "tables/json/bang_phu_luc_k.json"
+    },
+    {
+      "table_id": "bang_phu_luc_l",
+      "table_number": "PLL",
+      "title": "Bảng Phụ lục L",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_l.csv",
+      "json_file": "tables/json/bang_phu_luc_l.json"
+    },
+    {
+      "table_id": "bang_phu_luc_m",
+      "table_number": "PLM",
+      "title": "Bảng Phụ lục M",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_m.csv",
+      "json_file": "tables/json/bang_phu_luc_m.json"
+    },
+    {
+      "table_id": "bang_phu_luc_m_2",
+      "table_number": "PLM_2",
+      "title": "Bảng Phụ lục M (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_m_2.csv",
+      "json_file": "tables/json/bang_phu_luc_m_2.json"
+    },
+    {
+      "table_id": "bang_phu_luc_n",
+      "table_number": "PLN",
+      "title": "Bảng Phụ lục N",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_n.csv",
+      "json_file": "tables/json/bang_phu_luc_n.json"
+    },
+    {
+      "table_id": "bang_phu_luc_o",
+      "table_number": "PLO",
+      "title": "Bảng Phụ lục O",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_o.csv",
+      "json_file": "tables/json/bang_phu_luc_o.json"
+    },
+    {
+      "table_id": "bang_phu_luc_o_2",
+      "table_number": "PLO_2",
+      "title": "Bảng Phụ lục O (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_o_2.csv",
+      "json_file": "tables/json/bang_phu_luc_o_2.json"
+    },
+    {
+      "table_id": "bang_phu_luc_p",
+      "table_number": "PLP",
+      "title": "Bảng Phụ lục P",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_p.csv",
+      "json_file": "tables/json/bang_phu_luc_p.json"
+    },
+    {
+      "table_id": "bang_phu_luc_q",
+      "table_number": "PLQ",
+      "title": "Bảng Phụ lục Q",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_q.csv",
+      "json_file": "tables/json/bang_phu_luc_q.json"
+    },
+    {
+      "table_id": "bang_phu_luc_r",
+      "table_number": "PLR",
+      "title": "Bảng Phụ lục R",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_r.csv",
+      "json_file": "tables/json/bang_phu_luc_r.json"
+    },
+    {
+      "table_id": "bang_phu_luc_s",
+      "table_number": "PLS",
+      "title": "Bảng Phụ lục S",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_s.csv",
+      "json_file": "tables/json/bang_phu_luc_s.json"
+    }
+  ]
+}

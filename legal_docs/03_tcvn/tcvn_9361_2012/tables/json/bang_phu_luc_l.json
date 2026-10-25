@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_phu_luc_l",
+  "table_number": "PLL",
+  "table_title": "Bảng Phụ lục L",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "$N^{o}$ lần đo",
+    "Độ cao nâng phần đập của búa, cm",
+    "Số lần đập trong lần đo",
+    "Độ sâu hạ cọc trong lần đo cm",
+    "Độ chối của một nhát đập cm",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "$N^{o}$ lần đo": "1",
+      "Độ cao nâng phần đập của búa, cm": "2",
+      "Số lần đập trong lần đo": "3",
+      "Độ sâu hạ cọc trong lần đo cm": "4",
+      "Độ chối của một nhát đập cm": "5",
+      "Ghi chú": "6"
+    }
+  ],
+  "footnotes": []
+}

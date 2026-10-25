@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Giá trị hiệu chỉnh kết quả đo theo mức rung nền",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sai lệch giữa mức rung và mức rung nền tại khu vực đo (dB)",
+    "3",
+    "4 ÷ 5",
+    "6 ÷ 9"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sai lệch giữa mức rung và mức rung nền tại khu vực đo (dB)": "Giá trị hiệu chỉnh kết quả đo mức rung (dB)",
+      "3": "-3",
+      "4 ÷ 5": "-2",
+      "6 ÷ 9": "-1"
+    }
+  ],
+  "footnotes": []
+}

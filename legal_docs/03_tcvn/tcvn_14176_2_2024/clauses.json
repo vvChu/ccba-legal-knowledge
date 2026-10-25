@@ -1,0 +1,416 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 71,
+    "line_end": 78
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 86
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 350
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  NGUYÊN TẮC CƠ BẢN",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 353,
+    "line_end": 354
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Đối tượng và mô hình quá trình",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 357,
+    "line_end": 372
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "![Hình 1](figures/images/hinh_1.png)",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 375,
+    "line_end": 389
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Phân loại và thành phần",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 392,
+    "line_end": 395
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "![Hình 2](figures/images/hinh_2.png)",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 398,
+    "line_end": 412
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "![Hình 3](figures/images/hinh_3.png)",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 415,
+    "line_end": 425
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Phân loại theo loại",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 428,
+    "line_end": 435
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Hệ thống và cấu trúc thành phần",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 438,
+    "line_end": 461
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Các bảng phân loại khác",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 464,
+    "line_end": 471
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Đặc tính",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 474,
+    "line_end": 479
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  KHUYẾN NGHỊ MỘT SỐ BẢNG PHÂN LOẠI",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 482,
+    "line_end": 493
+  },
+  {
+    "clause_id": "bang-bang-p02-01",
+    "anchor": "bang-bang-p02-01",
+    "title": "Bảng 1 - Nguyên tắc chuyên môn hoá áp dụng cho các loại đối tượng",
+    "source_file": "tcvn_14176_2_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 496,
+    "line_end": 521
+  },
+  {
+    "clause_id": "phu-luc-1",
+    "anchor": "phu-luc-1",
+    "title": "PHỤ LỤC — này đưa ra đề xuất cho tiêu đề của các bảng phân loại, nhưng các ví dụ này và trình tự của chúng không đầy đủ và chỉ dùng để tham khảo.",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Thông tin xây dựng (theo nội dung)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 29
+  },
+  {
+    "clause_id": "muc-a-3",
+    "anchor": "muc-a-3",
+    "title": "A.3  Sản phẩm xây dựng (theo chức năng hoặc hình thức hoặc vật liệu hoặc bất kỳ sự kết hợp nào giữa các tiêu chí này)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 32,
+    "line_end": 65
+  },
+  {
+    "clause_id": "muc-a-4",
+    "anchor": "muc-a-4",
+    "title": "A.4  Tổ chức, cá nhân tham gia hoạt động xây dựng (theo bộ môn hoặc vai trò hoặc bất kỳ sự kết hợp nào của những điều này)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 121
+  },
+  {
+    "clause_id": "muc-a-5",
+    "anchor": "muc-a-5",
+    "title": "A.5  Hỗ trợ xây dựng (theo công năng hoặc hình thức hoặc vật liệu hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 124,
+    "line_end": 155
+  },
+  {
+    "clause_id": "muc-a-6",
+    "anchor": "muc-a-6",
+    "title": "A.6  Quản lý (hoạt động quản lý)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 158,
+    "line_end": 185
+  },
+  {
+    "clause_id": "muc-a-7",
+    "anchor": "muc-a-7",
+    "title": "A.7  Quá trình xây dựng (theo hoạt động xây dựng hoặc các giai đoạn trong vòng đời quá trình xây dựng hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 188,
+    "line_end": 247
+  },
+  {
+    "clause_id": "muc-a-8",
+    "anchor": "muc-a-8",
+    "title": "A.8  Tổ hợp công trình (theo hình thức hoặc công năng hoặc hoạt động của người dùng hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 250,
+    "line_end": 281
+  },
+  {
+    "clause_id": "muc-a-9",
+    "anchor": "muc-a-9",
+    "title": "A.9  Công trình (theo hình thức hoặc công năng hoặc hoạt động của người dùng hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 284,
+    "line_end": 309
+  },
+  {
+    "clause_id": "muc-a-10",
+    "anchor": "muc-a-10",
+    "title": "A.10  Không gian xây dựng (theo hình thức hoặc công năng hoặc hoạt động của người sử dụng hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 312,
+    "line_end": 381
+  },
+  {
+    "clause_id": "muc-a-11",
+    "anchor": "muc-a-11",
+    "title": "A.11  Bộ phận công trình (theo công năng hoặc hình thức hoặc vị trí hoặc bất kỳ sự kết hợp nào của chúng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 384,
+    "line_end": 445
+  },
+  {
+    "clause_id": "muc-a-12",
+    "anchor": "muc-a-12",
+    "title": "A.12  Kết quả công việc/ công tác (theo hoạt động công việc và nguồn lực được sử dụng)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 448,
+    "line_end": 507
+  },
+  {
+    "clause_id": "muc-a-13",
+    "anchor": "muc-a-13",
+    "title": "A.13  Đặc tính xây dựng (theo loại đặc tính)",
+    "source_file": "annexes/phu_luc_1_nay_dua_ra_de_xuat_cho_tieu_de_cua_cac_bang_p.md",
+    "jurisdiction": "CQXD",
+    "line_start": 510,
+    "line_end": 575
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Tiêu đề bảng phân loại và ví dụ",
+    "source_file": "annexes/phu_luc_a_tieu_de_bang_phan_loai_va_vi_du.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Thông tin chung",
+    "source_file": "annexes/phu_luc_a_tieu_de_bang_phan_loai_va_vi_du.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 7
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Các khái niệm về phân loại",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-b-1",
+    "anchor": "muc-b-1",
+    "title": "B.1  Các khái niệm và đối tượng",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 11
+  },
+  {
+    "clause_id": "muc-b-2",
+    "anchor": "muc-b-2",
+    "title": "B.2  Phân loại",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 25
+  },
+  {
+    "clause_id": "hinh-b_1",
+    "anchor": "hinh-b_1",
+    "title": "![Hình B.1](../figures/images/hinh_b_1.png)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 36
+  },
+  {
+    "clause_id": "muc-b-3",
+    "anchor": "muc-b-3",
+    "title": "B.3  Cấu trúc của một hệ thống phân loại",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 39,
+    "line_end": 46
+  },
+  {
+    "clause_id": "muc-b-4",
+    "anchor": "muc-b-4",
+    "title": "B.4  Phân loại và mô hình hóa",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 78
+  },
+  {
+    "clause_id": "phu-luc-b-muc-1",
+    "anchor": "phu-luc-b-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 82
+  },
+  {
+    "clause_id": "phu-luc-b-muc-2",
+    "anchor": "phu-luc-b-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 86
+  },
+  {
+    "clause_id": "phu-luc-b-muc-3",
+    "anchor": "phu-luc-b-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 90
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Quy định chung (general)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 94
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Nguồn lực xây dựng (construction resource)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 97,
+    "line_end": 98
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Quá trình xây dựng (construction process)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 101,
+    "line_end": 102
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Kết quả xây dựng (construction result)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 106
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Đặc tính xây dựng (construction property)",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 109,
+    "line_end": 110
+  },
+  {
+    "clause_id": "phu-luc-b-muc-4",
+    "anchor": "phu-luc-b-muc-4",
+    "title": "4  NGUYÊN TẮC CƠ BẢN",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 114
+  },
+  {
+    "clause_id": "phu-luc-b-muc-5",
+    "anchor": "phu-luc-b-muc-5",
+    "title": "5  KHUYẾN NGHỊ MỘT SỐ BẢNG PHÂN LOẠI",
+    "source_file": "annexes/phu_luc_b_cac_khai_niem_ve_phan_loai.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 141,
+    "line_end": 142
+  }
+]

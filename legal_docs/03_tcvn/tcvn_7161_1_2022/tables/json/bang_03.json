@@ -1,0 +1,136 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Nồng độ phần trăm tối đa của khí trơ chữa cháy ở giới hạn NOAEL và LOAEL là một hàm số của độ cao",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "",
+    "",
+    "",
+    "NOAEL",
+    "LOAEL"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "col_1": "$P_{O2, LOW-LIMIT}$, kPa →",
+      "col_2": "$P_{O2, LOW-LIMIT}$, kPa →",
+      "col_3": "$P_{O2, LOW-LIMIT}$, kPa →",
+      "NOAEL": "12,1",
+      "LOAEL": "10,2"
+    },
+    {
+      "_row_id": 2,
+      "col_1": "h, m",
+      "col_2": "P, Pa",
+      "col_3": "$P_{O2, ATM}$, kPa",
+      "NOAEL": "$C_{MAX}$, %",
+      "LOAEL": "$C_{MAX}$, %"
+    },
+    {
+      "_row_id": 3,
+      "col_1": "0",
+      "col_2": "101,325",
+      "col_3": "21,28",
+      "NOAEL": "43,1",
+      "LOAEL": "52,1"
+    },
+    {
+      "_row_id": 4,
+      "col_1": "250",
+      "col_2": "98,358",
+      "col_3": "20,66",
+      "NOAEL": "41,4",
+      "LOAEL": "50,6"
+    },
+    {
+      "_row_id": 5,
+      "col_1": "500",
+      "col_2": "95,461",
+      "col_3": "20,05",
+      "NOAEL": "39,6",
+      "LOAEL": "49,1"
+    },
+    {
+      "_row_id": 6,
+      "col_1": "750",
+      "col_2": "92,634",
+      "col_3": "19,45",
+      "NOAEL": "37,8",
+      "LOAEL": "47,6"
+    },
+    {
+      "_row_id": 7,
+      "col_1": "1 000",
+      "col_2": "89,875",
+      "col_3": "18,87",
+      "NOAEL": "35,9",
+      "LOAEL": "46,0"
+    },
+    {
+      "_row_id": 8,
+      "col_1": "1 250",
+      "col_2": "87,182",
+      "col_3": "18,31",
+      "NOAEL": "33,9",
+      "LOAEL": "44,3"
+    },
+    {
+      "_row_id": 9,
+      "col_1": "1 500",
+      "col_2": "84,556",
+      "col_3": "17,76",
+      "NOAEL": "31,9",
+      "LOAEL": "42,6"
+    },
+    {
+      "_row_id": 10,
+      "col_1": "1 750",
+      "col_2": "81,994",
+      "col_3": "17,22",
+      "NOAEL": "29,7",
+      "LOAEL": "40,8"
+    },
+    {
+      "_row_id": 11,
+      "col_1": "2 000",
+      "col_2": "79,495",
+      "col_3": "16,69",
+      "NOAEL": "27,5",
+      "LOAEL": "38,9"
+    },
+    {
+      "_row_id": 12,
+      "col_1": "2 250",
+      "col_2": "77,058",
+      "col_3": "16,18",
+      "NOAEL": "25,2",
+      "LOAEL": "37,0"
+    },
+    {
+      "_row_id": 13,
+      "col_1": "2 500",
+      "col_2": "74,683",
+      "col_3": "15,68",
+      "NOAEL": "22,8",
+      "LOAEL": "35,0"
+    },
+    {
+      "_row_id": 14,
+      "col_1": "2 750",
+      "col_2": "72,366",
+      "col_3": "15,20",
+      "NOAEL": "20,4",
+      "LOAEL": "32,9"
+    },
+    {
+      "_row_id": 15,
+      "col_1": "3 000",
+      "col_2": "70,109",
+      "col_3": "14,72",
+      "NOAEL": "17,8",
+      "LOAEL": "30,7"
+    }
+  ],
+  "footnotes": []
+}

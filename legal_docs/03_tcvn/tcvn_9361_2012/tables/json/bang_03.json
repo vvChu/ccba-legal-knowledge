@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Hệ số $K_{o}$/$Q_{B}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tính chất của đất mà cọc xuyên qua",
+    "Phương pháp hạ cọc",
+    "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — < 15",
+    "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — > 15"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tính chất của đất mà cọc xuyên qua": "Cát no nước, bùn, sét dẻo mềm và dẻo chảy",
+      "Phương pháp hạ cọc": "Không xói nước và lấy đất trong ống ra",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — < 15": "0,80",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — > 15": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Tính chất của đất mà cọc xuyên qua": "Cát ẩm, đất sét, á sét cứng và dẻo mềm",
+      "Phương pháp hạ cọc": "Xói nước tuần hoàn và lấy đất trong ống ra",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — < 15": "1,10",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — > 15": "1,30"
+    },
+    {
+      "_row_id": 3,
+      "Tính chất của đất mà cọc xuyên qua": "Sét cứng hoặc nửa cứng, cát, sỏi sạn",
+      "Phương pháp hạ cọc": "Xói nước và lấy đất dưới mép chân ống ra khỏi ống",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — < 15": "1,30",
+      "$K_{o}$/$Q_{B}$ khi độ sâu hạ cọc, m — > 15": "1,60"
+    }
+  ],
+  "footnotes": []
+}

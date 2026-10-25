@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Các thử nghiệm được tiến hành",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mục tiêu của thử nghiệm",
+    "Kích thước cấu kiện bao che",
+    "Đám cháy thử",
+    "Viện dẫn điều"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mục tiêu của thử nghiệm": "Kiểm tra sự phân bố đầu phun",
+      "Kích thước cấu kiện bao che": "",
+      "Đám cháy thử": "",
+      "Viện dẫn điều": "C.5"
+    },
+    {
+      "_row_id": 2,
+      "Mục tiêu của thử nghiệm": "Đầu phun có chiều cao nhỏ nhất/diện tích quét lớn nhất",
+      "Kích thước cấu kiện bao che": "thích hợp với đầu phun",
+      "Đám cháy thử": "Các van thử heptan",
+      "Viện dẫn điều": "C.5.1"
+    },
+    {
+      "_row_id": 3,
+      "Mục tiêu của thử nghiệm": "Đầu phun có chiều cao lớn nhất",
+      "Kích thước cấu kiện bao che": "≥ 100 $m^{3}$",
+      "Đám cháy thử": "",
+      "Viện dẫn điều": "C.5.2"
+    },
+    {
+      "_row_id": 4,
+      "Mục tiêu của thử nghiệm": "",
+      "Kích thước cấu kiện bao che": "không có cạnh nào nhỏ hơn 4m chiều cao: thích hợp với đầu phun",
+      "Đám cháy thử": "Các van thử heptan",
+      "Viện dẫn điều": ""
+    },
+    {
+      "_row_id": 5,
+      "Mục tiêu của thử nghiệm": "Nồng độ dập tắt",
+      "Kích thước cấu kiện bao che": "≥ 100 $m^{3}$",
+      "Đám cháy thử": "(a) cũi gỗ",
+      "Viện dẫn điều": "C.6.1"
+    },
+    {
+      "_row_id": 6,
+      "Mục tiêu của thử nghiệm": "Nồng độ dập tắt",
+      "Kích thước cấu kiện bao che": "không có cạnh nào nhỏ hơn 4m",
+      "Đám cháy thử": "(b) khay heptan",
+      "Viện dẫn điều": "C.6.2"
+    },
+    {
+      "_row_id": 7,
+      "Mục tiêu của thử nghiệm": "Nồng độ dập tắt",
+      "Kích thước cấu kiện bao che": "chiều cao: tối thiểu là 3,5m",
+      "Đám cháy thử": "(c) tấm polime mỏng\n(i) Polymetylmetacrylat (PMMA)\n(ii) Polypropylen (PP)\n(iii) Acrylonitrin- Butadien- Styren Polime (ABS)",
+      "Viện dẫn điều": "C.6.3"
+    }
+  ],
+  "footnotes": []
+}

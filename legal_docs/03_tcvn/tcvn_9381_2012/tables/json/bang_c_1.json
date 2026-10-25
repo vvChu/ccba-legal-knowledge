@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Nguyên nhân gây nứt trong tường",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số TT vết nứt(Hình C.1)",
+    "Nguyên nhân có thể gây nứt"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số TT vết nứt(Hình C.1)": "1",
+      "Nguyên nhân có thể gây nứt": "Móng bị lún lệch: độ ẩm trong đất nền thay đổi, móng bị trồi do đào hố móng cho nhà liền kề sâu hơn nhà cũ."
+    },
+    {
+      "_row_id": 2,
+      "Số TT vết nứt(Hình C.1)": "2",
+      "Nguyên nhân có thể gây nứt": "Tường bị quá tải.\nCường độ thể xây thấp."
+    },
+    {
+      "_row_id": 3,
+      "Số TT vết nứt(Hình C.1)": "3",
+      "Nguyên nhân có thể gây nứt": "Chiều dài khối nhà lớn hơn giá trị cho phép (không có khe co giãn nhiệt)"
+    },
+    {
+      "_row_id": 4,
+      "Số TT vết nứt(Hình C.1)": "4",
+      "Nguyên nhân có thể gây nứt": "Cường độ thể xây thấp.\nKhông đủ diện tích gối tựa cho lanh tô.\nLanh tô có biến dạng lớn do nhiệt."
+    },
+    {
+      "_row_id": 5,
+      "Số TT vết nứt(Hình C.1)": "5",
+      "Nguyên nhân có thể gây nứt": "Không có khe hở giữa đầu xà gồ và tường."
+    },
+    {
+      "_row_id": 6,
+      "Số TT vết nứt(Hình C.1)": "6",
+      "Nguyên nhân có thể gây nứt": "Thể xây bị ẩm quá.\nCường độ gạch và vữa thấp."
+    }
+  ],
+  "footnotes": []
+}
