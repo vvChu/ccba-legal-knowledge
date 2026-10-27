@@ -1,10 +1,10 @@
 version: 0.3.0
-updated_at: '2026-10-25T09:22:26.953857+00:00'
+updated_at: '2026-10-27T22:01:02.131144+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 105
+  total_documents: 87
   categories:
-    01_vbpl: 52
+    01_vbpl: 34
     02_qcvn: 17
     03_tcvn: 33
     04_appendices: 3
@@ -1697,6 +1697,84 @@ laws:
   sha256: 636322ad85d7731be6bbb2eb191801683723d7a579f69afbefdcdf8fdf89f40e
   source_file_size_kb: 68.1
   published_date: '2021-06-30'
+- id: quyet_dinh_1812_qd_bxd_2026
+  document_number: 1812/QĐ-BXD
+  type: Quyết định
+  issued_by: Bộ Xây dựng
+  signer: Bùi Xuân Dũng
+  issued_date: '2026-10-21'
+  effective_date: '2026-10-21'
+  published_date: '2026-10-21'
+  status: active
+  relations:
+    guided_by:
+    - nghi_dinh_212_2026_nd_cp
+    - thong_tu_39_2026_tt_bxd
+  title: Quyết định số 1812/QĐ-BXD ban hành Từ điển dữ liệu Cơ sở dữ liệu quốc gia về
+    hoạt động xây dựng và năng lực hành nghề hoạt động xây dựng (Phiên bản 1.0)
+  bundle_path: legal_docs/01_vbpl/quyet_dinh_1812_qd_bxd_2026/
+  source_url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1812-QD-BXD-2026-Tu-dien-du-lieu-Co-so-du-lieu-quoc-gia-hoat-dong-xay-dung-Phien-ban-1-0-729970.aspx
+  sha256: d6e7c7d3fdd25a187fe66eeddfaf843741dc8054e575b0a0718652ed1f6a2e19
+  pdf_path: legal_docs/01_vbpl/quyet_dinh_1812_qd_bxd_2026/sources/quyet_dinh_1812_qd_bxd_2026.pdf
+  pdf_sha256: db769ac3c9f7795152aa7f8989b71974e9e2e18ef5afe0a87b8737a77627942e
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/quyet_dinh_1812_qd_bxd_2026/sources/quyet_dinh_1812_qd_bxd_2026.docx
+  source_file_size_kb: 34.4
+  source_assets:
+    pdf:
+      sha256: db769ac3c9f7795152aa7f8989b71974e9e2e18ef5afe0a87b8737a77627942e
+      vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_1812_qd_bxd_2026/quyet_dinh_1812_qd_bxd_2026.pdf
+      status: verified
+    docx:
+      sha256: d6e7c7d3fdd25a187fe66eeddfaf843741dc8054e575b0a0718652ed1f6a2e19
+      vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_1812_qd_bxd_2026/quyet_dinh_1812_qd_bxd_2026.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1812-QD-BXD-2026-Tu-dien-du-lieu-Co-so-du-lieu-quoc-gia-hoat-dong-xay-dung-Phien-ban-1-0-729970.aspx
+  links:
+  - text: Điều 9 Luật Ban hành văn bản quy phạm pháp luật 2025
+    href: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-ban-hanh-van-ban-quy-pham-phap-luat-2025-so-64-2025-QH15-639239.aspx
+    relationship: Guides
+  - text: Thông tư 69/2026/TT-BXD quy định về Hệ thống thông tin, Cơ sở dữ liệu cấp
+      nước sạch và thoát nước đô thị do Bộ trưởng Bộ Xây dựng ban hành
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-69-2026-TT-BXD-He-thong-thong-tin-Co-so-du-lieu-cap-nuoc-sach-va-thoat-nuoc-do-thi-726570.aspx
+    relationship: Guides
+  - text: Nghị định 354/2026/NĐ-CP sửa đổi Nghị định 33/2025/NĐ-CP quy định chức năng,
+      nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng
+    href: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-354-2026-ND-CP-sua-doi-Nghi-dinh-33-2025-ND-CP-nhiem-vu-quyen-han-Bo-Xay-dung-724747.aspx
+    relationship: Amendment
+  - text: Thông tư 39/2026/TT-BXD hướng dẫn nội dung chi tiết trong Hệ thống thông
+      tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng do Bộ trưởng Bộ Xây dựng ban
+      hành
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-39-2026-TT-BXD-huong-dan-noi-dung-trong-Co-so-du-lieu-quoc-gia-ve-hoat-dong-xay-dung-712407.aspx
+    relationship: Guides
+  - text: Nghị định 217/2026/NĐ-CP hướng dẫn Luật Xây dựng về quản lý hoạt động xây
+      dựng
+    href: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-217-2026-ND-CP-huong-dan-Luat-Xay-dung-quan-ly-hoat-dong-xay-dung-696494.aspx
+    relationship: Guides
+  - text: Nghị định 212/2026/NĐ-CP quy định về điều kiện năng lực hoạt động xây dựng,
+      Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-212-2026-ND-CP-dieu-kien-nang-luc-hoat-dong-xay-dung-697287.aspx
+    relationship: Guides
+  - text: Quyết định 945/QĐ-BXD năm 2026 về Từ điển dữ liệu dùng chung ngành xây dựng
+      (Phiên bản 1.0) do Bộ trưởng Bộ Xây dựng ban hành
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-945-QD-BXD-2026-Tu-dien-du-lieu-dung-chung-nganh-xay-dung-Phien-ban-1-0-710948.aspx
+    relationship: Guides
+  - text: Quyết định 897/QĐ-BXD năm 2026 về Quy chế tạm thời quản lý, vận hành, khai
+      thác và bảo đảm an ninh mạng Hệ thống cơ sở dữ liệu cấp nước sạch và thoát nước
+      đô thị do Bộ trưởng Bộ Xây dựng ban hành
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-897-QD-BXD-2026-Quy-che-tam-thoi-quan-ly-He-thong-co-so-du-lieu-cap-nuoc-sach-710131.aspx
+    relationship: Guides
+  - text: Quyết định 11/QĐ-BCĐCP về Kế hoạch hoạt động năm 2026 của Ban Chỉ đạo của
+      Chính phủ về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số
+      và Đề án 06
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-11-QD-BCDCP-2026-Ke-hoach-hoat-dong-Ban-Chi-dao-phat-trien-khoa-hoc-696170.aspx
+    relationship: Guides
+  - text: Quyết định 2629/QĐ-TTg năm 2025 phê duyệt Chương trình phát triển Chính
+      phủ số do Thủ tướng Chính phủ ban hành
+    href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-2629-QD-TTg-2025-phe-duyet-Chuong-trinh-phat-trien-Chinh-phu-so-682760.aspx
+    relationship: Guides
+  pdf_tier: 1
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
