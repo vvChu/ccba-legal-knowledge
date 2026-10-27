@@ -162,7 +162,7 @@ class LegalVerificationHarness:
 
         # 3.2 Validate runner script entrypoints
         validator_script = self.spoke_root / "scripts" / "validate_legal_spoke.py"
-        cleanliness_script = self.spoke_root / "scripts" / "check_spoke_cleanliness.py"
+        cleanliness_script = self._resolve_cleanliness_script()
 
         if not validator_script.is_file():
             print(f"❌ Missing master validator at: {validator_script}", file=sys.stderr)
@@ -174,6 +174,13 @@ class LegalVerificationHarness:
         elapsed = time.monotonic() - start_time
         print(f"  ✓ Health Barrier passed in {elapsed:.3f}s (Deterministic readiness confirmed).")
         return True
+
+    def _resolve_cleanliness_script(self) -> Path:
+        """Resolve check_spoke_cleanliness.py from scripts/_guardrails/ or legacy scripts/."""
+        guardrail_path = self.spoke_root / "scripts" / "_guardrails" / "check_spoke_cleanliness.py"
+        if guardrail_path.is_file():
+            return guardrail_path
+        return self.spoke_root / "scripts" / "check_spoke_cleanliness.py"
 
     # =========================================================================
     # Block 4: Evidence-Capture Test Suite
@@ -190,11 +197,12 @@ class LegalVerificationHarness:
         # Determine commands to execute
         commands_to_run: List[Tuple[str, List[str]]] = []
 
+        cleanliness_script = str(self._resolve_cleanliness_script())
         if self.mode == "cleanliness":
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
-                    [sys.executable, str(self.spoke_root / "scripts" / "check_spoke_cleanliness.py")],
+                    [sys.executable, cleanliness_script],
                 )
             )
         elif self.mode == "bundle":
@@ -215,7 +223,7 @@ class LegalVerificationHarness:
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
-                    [sys.executable, str(self.spoke_root / "scripts" / "check_spoke_cleanliness.py")],
+                    [sys.executable, cleanliness_script],
                 )
             )
             smoke_cmd = [
@@ -231,7 +239,7 @@ class LegalVerificationHarness:
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
-                    [sys.executable, str(self.spoke_root / "scripts" / "check_spoke_cleanliness.py")],
+                    [sys.executable, cleanliness_script],
                 )
             )
             full_cmd = [
