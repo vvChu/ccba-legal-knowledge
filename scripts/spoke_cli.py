@@ -953,7 +953,18 @@ def main() -> None:
                 },
             },
         }
-        EXCLUDED_REGISTRY_KEYS = {"content", "html", "raw_html", "text", "body", "slug"}
+        EXCLUDED_REGISTRY_KEYS = {
+            "content",
+            "html",
+            "raw_html",
+            "text",
+            "body",
+            "slug",
+            "docx_path",
+            "pdf_path",
+            "attachments",
+            "links",
+        }
         for k, v in raw_meta.items():
             if k in EXCLUDED_REGISTRY_KEYS:
                 continue
