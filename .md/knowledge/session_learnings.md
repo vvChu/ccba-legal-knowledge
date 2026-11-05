@@ -19,6 +19,9 @@
   - 100% đường dẫn trong `legal_registry.yaml` và `metadata.yaml` BẮT BUỘC dùng dấu `/`, cấm tuyệt đối dấu Windows `\`.
   - Mọi pipeline nạp văn bản (`spoke_cli.py ingest`) tự động chuẩn hóa qua `.replace("\\", "/")`.
   - Gate 1 và Gate 2 trong `validate_legal_spoke.py` chặn ngay lập tức nếu phát hiện ký tự `\`.
+- **RULE-1.5 [Quét Hợp Nhất 3 Khóa Sổ Bộ & Bảo Toàn Hiệu Lực Re-Ingest — PR #44 & Hub PR #607]**:
+  - Mọi công cụ đọc/ghi `legal_registry.yaml` (`spoke_cli.py`, `validate_legal_spoke.py` Sub-Gate 5.3, `verify_all_docs_against_pdf.py`) BẮT BUỘC quét hợp nhất cả 3 danh sách `("laws", "decrees", "standards")` và đếm 4 phân khu trong `registry_summary` theo chuỗi `/{cat}/` trong `bundle_path`.
+  - Khi re-ingest văn bản đã tồn tại, BẮT BUỘC bảo toàn `status` hiện hữu (`expired`, `superseded`), `expiration_date`, `relations`, `pdf_origin`, `raw_scan_pdf` khi payload mới chỉ mang giá trị mặc định (`active`/`effective`), đồng thời tuyệt đối không bịa đặt `"Chính phủ"`, `"Thủ tướng Chính phủ"`, hay ngày mặc định khi metadata trống.
 
 ---
 
@@ -86,3 +89,6 @@
 - **RULE-5.6 [Pstack 5-Block Verification Harness & Script Budget Invariant — ADR 0009, ADR 0044, ADR 0066]**:
   - Mọi harness kiểm định tại Spoke phải tuân thủ kiến trúc Pstack 5 khối: Clean-Slate Pre-flight, Dual-Mode Lifecycle (`os.setsid` / `CREATE_NEW_PROCESS_GROUP`), Deterministic Health Barrier, Evidence-Capture Suite, và Guaranteed Cleanup kèm per-step timeout $300.0\text{ s}$.
   - Mã nguồn harness BẮT BUỘC đặt trong `.agents/skills/<skill>/harness/`, nghiêm cấm tạo script phụ trong `scripts/` để bảo vệ ngân sách trần cứng $15/15$ scripts.
+- **RULE-5.7 [Kiểm Định Liên Kết `index.md` An Toàn `.gitignore` Trên CI (Gate 2) — ADR 0035 & PR #44]**:
+  - Trong Gate 2 (`_validate_index_md_links`), TUYỆT ĐỐI CẤM gọi `Path.exists()` trên các liên kết tệp nhị phân `.pdf`/`.docx` hoặc liên kết thư mục `./sources/` (vì các bundle chỉ chứa `.pdf`/`.docx` bị `.gitignore` sẽ không được Git checkout thư mục `sources/` trên runner CI).
+  - Thay vào đó: kiểm tra liên kết `.pdf`/`.docx` phải bắt đầu bằng `./sources/` và khớp với basename của `pdf_path`/`raw_scan_pdf`/`source_file` trong `metadata.yaml`; chỉ gọi `Path.exists()` cho các liên kết `.md`, `.json`, `.yaml` và các thư mục ngăn kéo được theo dõi trong Git (`./templates/`, `./tables/`, `./figures/`, `./annexes/`).
