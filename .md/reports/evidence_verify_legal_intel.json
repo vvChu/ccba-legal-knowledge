@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "skill": "ccba-verify-legal-intel",
+  "target_skill": "ccba-legal-intel",
+  "timestamp": "2026-11-05T07:53:45.039078+00:00",
+  "mode": "smoke",
+  "overall_status": "PASSED",
+  "overall_exit_code": 0,
+  "total_duration_seconds": 5.418,
+  "executed_steps": [
+    {
+      "label": "In-Memory Seam Contracts (FEAT-INT-001..004)",
+      "command": "in_memory_contract_checks",
+      "exit_code": 0,
+      "duration_seconds": 5.417,
+      "status": "PASSED",
+      "message": "All 4 in-memory Deep Seam contracts (Search, Clause+CWE22, Table, Lexicon) PASSED."
+    }
+  ]
+}
