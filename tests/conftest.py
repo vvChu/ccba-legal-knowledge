@@ -388,8 +388,11 @@ def qcvn_bundle_dir(repo_root: Path) -> Path:
     return repo_root / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
 @pytest.fixture(scope="session")
-def extracted_docs_dir(repo_root: Path) -> Path:
-    """Extracted raw official .docx directory."""
+def extracted_docs_dir(repo_root: Path, qcvn_bundle_dir: Path) -> Path:
+    """Official .docx source directory (ADR 0036 sources/ compartment with legacy fallback)."""
+    sources_dir = qcvn_bundle_dir / "sources"
+    if sources_dir.exists():
+        return sources_dir
     return repo_root / ".md" / "extracted_docs" / "qcvn_06_2022_bxd"
 
 @pytest.fixture(scope="session")
@@ -418,11 +421,15 @@ def md_sd1_path(qcvn_bundle_dir: Path) -> Path:
 @pytest.fixture(scope="session")
 def qcvn_docx_parsed(docx_qcvn_path: Path) -> DocxParsedBundle:
     """Cached in-memory parsed model of qcvn_06_2022_bxd.docx."""
+    if not docx_qcvn_path.exists():
+        pytest.skip(f"Cloud Vault binary not cached locally: {docx_qcvn_path}")
     return parse_docx_qcvn(docx_qcvn_path)
 
 @pytest.fixture(scope="session")
 def sd1_docx_parsed(docx_sd1_path: Path) -> Dict[str, Any]:
     """Cached in-memory parsed model of sua_doi_1_2023_qcvn_06_2022_bxd.docx."""
+    if not docx_sd1_path.exists():
+        pytest.skip(f"Cloud Vault binary not cached locally: {docx_sd1_path}")
     return parse_docx_amendment(docx_sd1_path)
 
 @pytest.fixture(scope="session")
@@ -508,7 +515,18 @@ def legal_registry_data(repo_root: Path) -> dict:
 def all_registered_bundles(repo_root: Path, legal_registry_data: dict) -> List[Dict[str, Any]]:
     """Returns list of all active registered bundle entries across categories."""
     bundles = []
-    for doc in legal_registry_data.get("documents", []):
+    raw_entries: List[Dict[str, Any]] = []
+    for key in ("laws", "decrees", "standards"):
+        val = legal_registry_data.get(key, [])
+        if isinstance(val, list):
+            raw_entries.extend(d for d in val if isinstance(d, dict))
+    docs = legal_registry_data.get("documents", {})
+    if isinstance(docs, dict):
+        raw_entries.extend(d for d in docs.values() if isinstance(d, dict))
+    elif isinstance(docs, list):
+        raw_entries.extend(d for d in docs if isinstance(d, dict))
+
+    for doc in raw_entries:
         bp = doc.get("bundle_path")
         if bp:
             bundle_dir = repo_root / bp.strip("/")
