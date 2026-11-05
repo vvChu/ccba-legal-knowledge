@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_40_2026_tt_bxd.pdf](./thong_tu_40_2026_tt_bxd.pdf) *(SHA-256: `5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_40_2026_tt_bxd.pdf](./sources/thong_tu_40_2026_tt_bxd.pdf) *(SHA-256: `5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf`)*.
 
 ---
 

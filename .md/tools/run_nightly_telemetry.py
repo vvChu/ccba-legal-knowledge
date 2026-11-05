@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 import time
@@ -46,10 +47,31 @@ def get_total_bundles(root_dir: Path) -> int:
         for cat in ("01_vbpl", "02_qcvn", "03_tcvn", "04_appendices"):
             cat_p = docs_dir / cat
             if cat_p.exists():
-                count += sum(1 for d in cat_p.iterdir() if d.is_dir() and not d.name.startswith("."))
+                count += sum(
+                    1
+                    for d in cat_p.iterdir()
+                    if d.is_dir() and not d.name.startswith(".")
+                )
         if count > 0:
             return count
     return 58
+
+
+def parse_master_ci_summary(code_ci: int, out_ci: str) -> tuple[int, int, str]:
+    """Extract Errors and Warnings counts from validate_legal_spoke SUMMARY REPORT output."""
+    m = re.search(r"SUMMARY REPORT:\s*Errors:\s*(\d+)\s*\|\s*Warnings:\s*(\d+)", out_ci)
+    if m:
+        errs, warns = int(m.group(1)), int(m.group(2))
+        if code_ci == 0:
+            return errs, warns, f"✅ PASSED ({errs} Errors, {warns} Warnings)"
+        return (
+            errs,
+            warns,
+            f"❌ FAILED (Exit {code_ci}: {errs} Errors, {warns} Warnings)",
+        )
+    if code_ci == 0:
+        return 0, 0, "✅ PASSED (0 Errors, 0 Warnings)"
+    return -1, 0, f"❌ FAILED (Exit {code_ci}: Check CI Logs)"
 
 
 def run_command_capture(cmd: list[str], cwd: Path) -> tuple[int, str, float]:
@@ -101,8 +123,12 @@ def main() -> int:
 
     if args.dry_run:
         print("[DRY-RUN] Pre-flight check successful.")
-        print(f"[DRY-RUN] Would execute Stage 1: Ground Truth Parity (cohorts: {args.cohorts})")
-        print(f"[DRY-RUN] Would execute Stage 2: Master CI Validator (15 Gates on {total_bundles} Bundles)")
+        print(
+            f"[DRY-RUN] Would execute Stage 1: Ground Truth Parity (cohorts: {args.cohorts})"
+        )
+        print(
+            f"[DRY-RUN] Would execute Stage 2: Master CI Validator (15 Gates on {total_bundles} Bundles)"
+        )
         print(f"[DRY-RUN] Would generate reports in: {REPORTS_DIR}")
         print("=================================================================")
         return 0
@@ -112,13 +138,26 @@ def main() -> int:
     parity_json = REPORTS_DIR / f"parity_temp_{today_str}.json"
     parity_md = REPORTS_DIR / f"parity_temp_{today_str}.md"
     code_parity, out_parity, dur_parity = run_command_capture(
-        [sys.executable, str(VERIFY_PARITY_SCRIPT), "--cohorts", args.cohorts, "--json-out", str(parity_json), "--md-out", str(parity_md)],
+        [
+            sys.executable,
+            str(VERIFY_PARITY_SCRIPT),
+            "--cohorts",
+            args.cohorts,
+            "--json-out",
+            str(parity_json),
+            "--md-out",
+            str(parity_md),
+        ],
         cwd=ROOT_DIR,
     )
-    print(f"   -> Parity Engine finished in {dur_parity:.2f}s (Exit code: {code_parity})")
+    print(
+        f"   -> Parity Engine finished in {dur_parity:.2f}s (Exit code: {code_parity})"
+    )
 
     # Stage 2: Master CI Gates (15 Gates across all bundles)
-    print(f"[2/2] Executing Master CI Validator (15 Gates on {total_bundles} Bundles)...")
+    print(
+        f"[2/2] Executing Master CI Validator (15 Gates on {total_bundles} Bundles)..."
+    )
     code_ci, out_ci, dur_ci = run_command_capture(
         [sys.executable, str(MASTER_VALIDATOR_SCRIPT)],
         cwd=ROOT_DIR,
@@ -132,6 +171,8 @@ def main() -> int:
             parity_data = json.loads(parity_json.read_text(encoding="utf-8"))
         except Exception:
             pass
+
+    ci_errs, ci_warns, ci_status = parse_master_ci_summary(code_ci, out_ci)
 
     # Compile Combined JSON
     combined_report = {
@@ -148,17 +189,24 @@ def main() -> int:
             "exit_code": code_ci,
             "duration_seconds": round(dur_ci, 2),
             "passed": code_ci == 0,
-            "summary": "PASSED" if code_ci == 0 else "FAILED",
+            "errors": ci_errs,
+            "warnings": ci_warns,
+            "summary": ci_status,
         },
     }
-    json_out.write_text(json.dumps(combined_report, ensure_ascii=False, indent=2), encoding="utf-8")
+    json_out.write_text(
+        json.dumps(combined_report, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     # Compile Markdown Report
-    ci_status = "✅ PASSED (0 Errors, 0 Warnings)" if code_ci == 0 else "❌ FAILED (Check CI Logs)"
     parity_passed = parity_data.get("passed_documents", 0)
     parity_total = parity_data.get("total_documents", 0)
 
-    cohort_label = f"Toàn Bộ Kho Tri Thức ({parity_total} Bundles)" if args.cohorts == "all" else "5 Golden Cohorts (11 Bundles)"
+    cohort_label = (
+        f"Toàn Bộ Kho Tri Thức ({parity_total} Bundles)"
+        if args.cohorts == "all"
+        else "5 Golden Cohorts (11 Bundles)"
+    )
     md_lines = [
         f"# Báo Cáo Định Kỳ Ban Đêm: CCBA Legal Spoke Telemetry ({datetime.now().strftime('%Y-%m-%d')})",
         "",
@@ -172,7 +220,16 @@ def main() -> int:
         f"## 1. Kết Quả Master CI Toàn Bộ Kho Tri Thức ({total_bundles} Bundles)",
         "",
         "```text",
-        "\n".join([line for line in out_ci.splitlines() if "Gate" in line or "SUMMARY" in line or "PASSED" in line or "FAILED" in line][:25]),
+        "\n".join(
+            [
+                line
+                for line in out_ci.splitlines()
+                if "Gate" in line
+                or "SUMMARY" in line
+                or "PASSED" in line
+                or "FAILED" in line
+            ][:25]
+        ),
         "```",
         "",
         "---",

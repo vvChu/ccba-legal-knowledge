@@ -4,7 +4,7 @@
 > **Văn bản:** Nghị định 206/2026/NĐ-CP về Quản lý chi phí đầu tư xây dựng  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [nghi_dinh_206_2026_nd_cp.pdf](./nghi_dinh_206_2026_nd_cp.pdf) *(SHA-256: `160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373`)*.
+> **Mỏ neo PDF Công báo:** [nghi_dinh_206_2026_nd_cp.pdf](./sources/nghi_dinh_206_2026_nd_cp.pdf) *(SHA-256: `160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373`)*.
 
 ---
 

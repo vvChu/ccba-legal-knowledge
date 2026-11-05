@@ -4,7 +4,7 @@
 > **Tài liệu:** qcvn_02_2022_bxd
 > **Cơ quan ban hành:** Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng).
 > **Hiệu lực:** 2021-12-31.
-> **Mỏ neo PDF Công báo:** [qcvn_02_2022_bxd.pdf](./qcvn_02_2022_bxd.pdf) *(SHA-256: `verified`)*.
+> **Mỏ neo PDF Công báo:** [qcvn_02_2022_bxd.pdf](./sources/qcvn_02_2022_bxd.pdf) *(SHA-256: `verified`)*.
 
 ---
 

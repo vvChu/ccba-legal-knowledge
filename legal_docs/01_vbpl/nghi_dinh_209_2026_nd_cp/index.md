@@ -4,7 +4,7 @@
 > **Văn bản:** Nghị định 209/2026/NĐ-CP về Quản lý vật liệu xây dựng  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [nghi_dinh_209_2026_nd_cp.pdf](./nghi_dinh_209_2026_nd_cp.pdf) *(SHA-256: `df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769`)*.
+> **Mỏ neo PDF Công báo:** [nghi_dinh_209_2026_nd_cp.pdf](./sources/nghi_dinh_209_2026_nd_cp.pdf) *(SHA-256: `df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769`)*.
 
 ---
 

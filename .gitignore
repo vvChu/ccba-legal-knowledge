@@ -61,9 +61,14 @@ scratch/
 legal_docs/**/sources/*.pdf
 legal_docs/**/sources/*.docx
 legal_docs/**/sources/*.doc
+legal_docs/**/sources/attachments/*
 legal_docs/**/*.pdf
 legal_docs/**/*.docx
 legal_docs/**/*.doc
+legal_docs/**/*.xlsx
+legal_docs/**/*.xls
+legal_docs/**/*.zip
+legal_docs/**/*.rar
 
 # Caches and Scratch
 .md/cache/formula_vision/

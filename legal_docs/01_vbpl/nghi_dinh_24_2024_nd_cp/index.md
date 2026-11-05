@@ -7,7 +7,7 @@
 > **Văn bản:** Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2024-02-27.  
-> **Mỏ neo PDF Công báo:** [nghi_dinh_24_2024_nd_cp.pdf](./nghi_dinh_24_2024_nd_cp.pdf) *(SHA-256: `810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104`)*.
+> **Mỏ neo PDF Công báo:** [nghi_dinh_24_2024_nd_cp.pdf](./sources/nghi_dinh_24_2024_nd_cp.pdf) *(SHA-256: `810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104`)*.
 
 ---
 

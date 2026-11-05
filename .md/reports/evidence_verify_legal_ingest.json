@@ -7,19 +7,33 @@
     "ccba-legal-document-tracker",
     "ccba-legal-advisor"
   ],
-  "timestamp": "2026-11-05T07:53:45.859174+00:00",
-  "mode": "smoke",
+  "timestamp": "2026-11-05T10:58:04.988743+00:00",
+  "mode": "full",
   "overall_status": "PASSED",
   "overall_exit_code": 0,
-  "total_duration_seconds": 0.179,
+  "total_duration_seconds": 6.071,
   "executed_steps": [
     {
       "label": "In-Memory Pipeline Contracts (FEAT-ING-001..005)",
       "command": "in_memory_pipeline_checks",
       "exit_code": 0,
-      "duration_seconds": 0.179,
+      "duration_seconds": 0.133,
       "status": "PASSED",
       "message": "All 5 in-memory contracts (Mutex, Sanitizer, VisualParity, VBHN, Currency) PASSED."
+    },
+    {
+      "label": "5-Ring Legal Graph Routing CLI (FEAT-ING-005)",
+      "command": "/home/vvc/ccba/ccba-legal-knowledge/.venv/bin/python scripts/spoke_cli.py graph --doc Luat-Xay-dung-2025-135-2025-QH15 --json",
+      "exit_code": 0,
+      "duration_seconds": 0.74,
+      "status": "PASSED"
+    },
+    {
+      "label": "Ingest, Sanitizer, Consolidator & Spoke Integration Suite (90 tests)",
+      "command": "/home/vvc/ccba/ccba-legal-knowledge/.venv/bin/python -m pytest /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_docx_sanitizer.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_okf_bundle_v2.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_consolidator.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_vbhn_engine.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_crawler_seam.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_currency_resolver.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_table_grid_engine.py /home/vvc/ccba/ccba-agent-platform/packages/ccba-legal-intel/tests/test_visual_parity.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_consolidator.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_docx_converter.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_fetch_tvpl_doc.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_gold_standard_processor.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_modernize_annex_engine.py /home/vvc/ccba/ccba-legal-knowledge/tests/integration/test_validate_legal_spoke.py -q",
+      "exit_code": 0,
+      "duration_seconds": 5.198,
+      "status": "PASSED"
     }
   ]
 }

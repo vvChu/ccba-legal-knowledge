@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai thác, sử dụng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_33_2026_tt_bxd.pdf](./thong_tu_33_2026_tt_bxd.pdf) *(SHA-256: `73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_33_2026_tt_bxd.pdf](./sources/thong_tu_33_2026_tt_bxd.pdf) *(SHA-256: `73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399`)*.
 
 ---
 

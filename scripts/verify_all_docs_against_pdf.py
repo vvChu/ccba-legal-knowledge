@@ -88,7 +88,8 @@ def _read_bundle_text(bundle_path: Path) -> tuple[bool, str]:
 
     # 2. Fallback: scan markdown in bundle root, strictly excluding helper / matrix / index files
     candidates = [
-        mf for mf in bundle_path.glob("*.md")
+        mf
+        for mf in bundle_path.glob("*.md")
         if mf.name.lower() not in EXCLUDED_MD_FILES
     ]
     if not candidates:
@@ -113,10 +114,18 @@ def _match_qcvn_sections(pdf_text: str, md_text: str) -> tuple[int, int, float]:
     return pdf_count, md_count, match_rate
 
 
-def _match_vbpl_articles(pdf_text: str, md_text: str) -> tuple[int, int, float, list[int]]:
+def _match_vbpl_articles(
+    pdf_text: str, md_text: str
+) -> tuple[int, int, float, list[int]]:
     """Matches Điều (articles) for standard legal documents (Law, Decree, Circular)."""
-    pdf_matches = set(int(m) for m in re.findall(r"(?:^|\n|\b)Điều\s+(\d+)\b", pdf_text, re.IGNORECASE))
-    md_matches = set(int(m) for m in re.findall(r"(?:^|\n|#+)\s*Điều\s+(\d+)\b", md_text, re.IGNORECASE))
+    pdf_matches = set(
+        int(m)
+        for m in re.findall(r"(?:^|\n|\b)Điều\s+(\d+)\b", pdf_text, re.IGNORECASE)
+    )
+    md_matches = set(
+        int(m)
+        for m in re.findall(r"(?:^|\n|#+)\s*Điều\s+(\d+)\b", md_text, re.IGNORECASE)
+    )
     pdf_count, md_count = len(pdf_matches), len(md_matches)
     if pdf_matches:
         rate = len(pdf_matches & md_matches) / pdf_count * 100.0
@@ -177,7 +186,9 @@ def audit_document(doc_entry: dict[str, Any], root_dir: Path) -> dict[str, Any]:
 
     res["pdf_found"] = True
     actual_pdf_sha = compute_sha256(pdf_path)
-    res["pdf_sha_match"] = bool(expected_pdf_sha and actual_pdf_sha.lower() == expected_pdf_sha.lower())
+    res["pdf_sha_match"] = bool(
+        expected_pdf_sha and actual_pdf_sha.lower() == expected_pdf_sha.lower()
+    )
     if not res["pdf_sha_match"]:
         res["notes"].append("PDF SHA-256 mismatch")
 
@@ -206,11 +217,19 @@ def audit_document(doc_entry: dict[str, Any], root_dir: Path) -> dict[str, Any]:
     )
     if is_technical:
         p_cnt, m_cnt, rate = _match_qcvn_sections(pdf_text, md_text)
-        res["pdf_dieu_count"], res["md_dieu_count"], res["dieu_match_rate"] = p_cnt, m_cnt, rate
+        res["pdf_dieu_count"], res["md_dieu_count"], res["dieu_match_rate"] = (
+            p_cnt,
+            m_cnt,
+            rate,
+        )
         res["unit_name"] = "Mục"
     else:
         p_cnt, m_cnt, rate, missing = _match_vbpl_articles(pdf_text, md_text)
-        res["pdf_dieu_count"], res["md_dieu_count"], res["dieu_match_rate"] = p_cnt, m_cnt, rate
+        res["pdf_dieu_count"], res["md_dieu_count"], res["dieu_match_rate"] = (
+            p_cnt,
+            m_cnt,
+            rate,
+        )
         res["missing_dieu_in_md"] = missing
         res["unit_name"] = "Điều"
 
@@ -250,9 +269,11 @@ def main() -> int:
     with open(registry_file, encoding="utf-8") as f:
         reg = yaml.safe_load(f) or {}
 
-    laws = reg.get("laws", []) + reg.get("standards", [])
+    laws = reg.get("laws", []) + reg.get("decrees", []) + reg.get("standards", [])
     print("=" * 110)
-    print("      CCBA FORENSIC AUDIT: OFFICIAL PDF GAZETTE VS MARKDOWN KNOWLEDGE REPOSITORY")
+    print(
+        "      CCBA FORENSIC AUDIT: OFFICIAL PDF GAZETTE VS MARKDOWN KNOWLEDGE REPOSITORY"
+    )
     print("=" * 110)
     print(
         f"{'Số hiệu / Doc ID':<26} | {'Loại':<10} | {'Trang':<6} | {'SHA-256':<8} | {'PDF Unit':<9} | {'MD Unit':<9} | {'Parity':<8} | {'Trạng thái'}"
@@ -294,7 +315,11 @@ def main() -> int:
             fail_count += 1
             status_str = "❌ FAIL"
 
-        sha_str = "✅ Match" if r["pdf_sha_match"] else ("⏳ Pend" if r["status"] == "PENDING" else "❌ Mis")
+        sha_str = (
+            "✅ Match"
+            if r["pdf_sha_match"]
+            else ("⏳ Pend" if r["status"] == "PENDING" else "❌ Mis")
+        )
         if r["is_scan"]:
             rate_str = "Scan"
         elif r["status"] == "PENDING":
@@ -315,12 +340,20 @@ def main() -> int:
     print("📊 TỔNG HỢP KIỂM TOÁN ĐỐI SOÁT PDF CÔNG BÁO GỐC:")
     print(f"  • Tổng số văn bản theo dõi  : {len(results)} văn bản")
     print(f"  • Tổng số trang PDF Công báo: {total_pdf_pages:,} trang")
-    print(f"  • Gói tri thức chính quy     : {pass_count + warn_count} / {len(results) - internal_count} (100% PDF Verified & SHA-256 Valid)")
-    print(f"    - Văn bản Scan mộc đỏ      : {scanned_count} văn bản (SHA-256 Verified)")
-    print(f"    - Văn bản Native Text      : {len(results) - internal_count - scanned_count} văn bản (Parity Verified)")
+    print(
+        f"  • Gói tri thức chính quy     : {pass_count + warn_count} / {len(results) - internal_count} (100% PDF Verified & SHA-256 Valid)"
+    )
+    print(
+        f"    - Văn bản Scan mộc đỏ      : {scanned_count} văn bản (SHA-256 Verified)"
+    )
+    print(
+        f"    - Văn bản Native Text      : {len(results) - internal_count - scanned_count} văn bản (Parity Verified)"
+    )
     if warn_count > 0:
         print(f"    - Cảnh báo Parity (WARN)   : {warn_count} văn bản")
-    print(f"  • Phụ lục đối chiếu nội bộ  : {internal_count} tài liệu (Matrix Comparison)")
+    print(
+        f"  • Phụ lục đối chiếu nội bộ  : {internal_count} tài liệu (Matrix Comparison)"
+    )
     print(f"  • Thất bại (FAIL)           : {fail_count}")
     print("=" * 110)
 

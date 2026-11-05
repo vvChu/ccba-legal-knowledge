@@ -4,7 +4,7 @@
 > **Văn bản:** Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng vốn ngân sách nhà nước  
 > **Cơ quan ban hành:** Bộ Tài chính (Người ký: KT. Bộ trưởng - Thứ trưởng Tạ Anh Tuấn).  
 > **Ngày ban hành:** 2026-06-30 | **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [`thong_tu_79_2026_tt_btc.pdf`](./thong_tu_79_2026_tt_btc.pdf) *(SHA-256: `ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4`)*.
+> **Mỏ neo PDF Công báo:** [`thong_tu_79_2026_tt_btc.pdf`](./sources/thong_tu_79_2026_tt_btc.pdf) *(SHA-256: `ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4`)*.
 
 ---
 

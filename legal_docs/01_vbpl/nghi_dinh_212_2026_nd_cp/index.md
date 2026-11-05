@@ -4,7 +4,7 @@
 > **Văn bản:** Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL quốc gia  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [nghi_dinh_212_2026_nd_cp.pdf](./nghi_dinh_212_2026_nd_cp.pdf) *(SHA-256: `3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9`)*.
+> **Mỏ neo PDF Công báo:** [nghi_dinh_212_2026_nd_cp.pdf](./sources/nghi_dinh_212_2026_nd_cp.pdf) *(SHA-256: `3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9`)*.
 
 ---
 

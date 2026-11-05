@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-10-27T22:01:02.131144+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 87
+  total_documents: 106
   categories:
-    01_vbpl: 34
+    01_vbpl: 53
     02_qcvn: 17
     03_tcvn: 33
     04_appendices: 3

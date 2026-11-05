@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Văn bản quy phạm pháp luật THONG_TU_02_2024_TT_BKHDT
-> **Cơ quan ban hành:** Chính phủ (Người ký: Thủ tướng Chính phủ).
+> **Cơ quan ban hành:** Bộ Kế hoạch và Đầu tư (Người ký: Thủ tướng Chính phủ).
 > **Hiệu lực:** 2021-03-03.
-> **Mỏ neo PDF Công báo:** [thong_tu_02_2024_tt_bkhdt.pdf](./thong_tu_02_2024_tt_bkhdt.pdf) *(SHA-256: `UNVERIFIED`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_02_2024_tt_bkhdt.pdf](./sources/thong_tu_02_2024_tt_bkhdt.pdf) *(SHA-256: `UNVERIFIED`)*.
 
 ---
 

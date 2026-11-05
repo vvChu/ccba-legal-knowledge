@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_32_2026_tt_bxd.pdf](./thong_tu_32_2026_tt_bxd.pdf) *(SHA-256: `ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_32_2026_tt_bxd.pdf](./sources/thong_tu_32_2026_tt_bxd.pdf) *(SHA-256: `ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790`)*.
 
 ---
 

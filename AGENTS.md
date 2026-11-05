@@ -38,7 +38,7 @@ Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN
 ### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Giao thức "Một Cửa `tab=7`"):
 * **Kịch bản 1 — Nạp tự động 1 lệnh toàn trình (Happy Path):**
 ```powershell
-python -m ccba_legal ingest "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn> --upload-drive
+python ../ccba-agent-platform/scripts/ccba_platform_cli.py ingest-legal --url "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn>
 ```
 * **Kịch bản 2 — Tiếp nhận thủ công / Fallback khi cào bị lỗi:** Nếu lệnh `ingest` bị kẹt do Cloudflare/Captcha, Agent giải quyết cục bộ để đưa đúng 2 tệp `.docx` và `.pdf` vào `sources/`. Ngay sau đó **bắt buộc** thực thi Bước 1 bằng lệnh `convert` — **nghiêm cấm tự viết Markdown bằng LLM**.
 * **Kịch bản 3 — Làm mới / Thay thế file kém chất lượng:** Khi cần thay thế file scan mờ bằng bản nét, chạy `python -m ccba_legal fetch "<tvpl_url>"` để tải đè file chuẩn vào `sources/` rồi chạy lại Bước 1 `convert`.
