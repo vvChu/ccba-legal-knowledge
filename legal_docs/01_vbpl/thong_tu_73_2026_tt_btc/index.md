@@ -4,7 +4,7 @@
 > **Văn bản:** Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán vốn đầu tư  
 > **Cơ quan ban hành:** Bộ Tài chính (Người ký: KT. Bộ trưởng - Thứ trưởng Tạ Anh Tuấn).  
 > **Ngày ban hành:** 2026-06-25 | **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [`thong_tu_73_2026_tt_btc.pdf`](./thong_tu_73_2026_tt_btc.pdf) *(SHA-256: `98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd`)*.
+> **Mỏ neo PDF Công báo:** [`thong_tu_73_2026_tt_btc.pdf`](./sources/thong_tu_73_2026_tt_btc.pdf) *(SHA-256: `98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd`)*.
 
 ---
 

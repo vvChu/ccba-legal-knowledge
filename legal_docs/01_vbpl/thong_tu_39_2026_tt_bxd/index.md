@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 39/2026/TT-BXD hướng dẫn cơ sở dữ liệu quốc gia về hoạt động xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_39_2026_tt_bxd.pdf](./thong_tu_39_2026_tt_bxd.pdf) *(SHA-256: `fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_39_2026_tt_bxd.pdf](./sources/thong_tu_39_2026_tt_bxd.pdf) *(SHA-256: `fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396`)*.
 
 ---
 

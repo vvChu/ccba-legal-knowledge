@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_34_2026_tt_bxd.pdf](./thong_tu_34_2026_tt_bxd.pdf) *(SHA-256: `b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_34_2026_tt_bxd.pdf](./sources/thong_tu_34_2026_tt_bxd.pdf) *(SHA-256: `b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae`)*.
 
 ---
 

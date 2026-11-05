@@ -4,7 +4,7 @@
 > **Văn bản:** Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và chỉ tiêu kinh tế kỹ thuật  
 > **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_37_2026_tt_bxd.pdf](./thong_tu_37_2026_tt_bxd.pdf) *(SHA-256: `beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_37_2026_tt_bxd.pdf](./sources/thong_tu_37_2026_tt_bxd.pdf) *(SHA-256: `beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f`)*.
 
 ---
 

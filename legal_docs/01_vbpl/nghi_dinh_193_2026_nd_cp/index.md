@@ -4,7 +4,7 @@
 > **Văn bản:** Nghị định 193/2026/NĐ-CP về Quyết toán vốn đầu tư dự án  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [nghi_dinh_193_2026_nd_cp.pdf](./nghi_dinh_193_2026_nd_cp.pdf) *(SHA-256: `a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e`)*.
+> **Mỏ neo PDF Công báo:** [nghi_dinh_193_2026_nd_cp.pdf](./sources/nghi_dinh_193_2026_nd_cp.pdf) *(SHA-256: `a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e`)*.
 
 ---
 

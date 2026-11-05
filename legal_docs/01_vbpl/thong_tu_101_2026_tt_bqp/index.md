@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo Luật Xây dựng 2025  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Quốc phòng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_101_2026_tt_bqp.pdf](./thong_tu_101_2026_tt_bqp.pdf) *(SHA-256: `8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_101_2026_tt_bqp.pdf](./sources/thong_tu_101_2026_tt_bqp.pdf) *(SHA-256: `8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7`)*.
 
 ---
 

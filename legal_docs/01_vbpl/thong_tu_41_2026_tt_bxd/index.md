@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [thong_tu_41_2026_tt_bxd.pdf](./thong_tu_41_2026_tt_bxd.pdf) *(SHA-256: `5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30`)*.
+> **Mỏ neo PDF Công báo:** [thong_tu_41_2026_tt_bxd.pdf](./sources/thong_tu_41_2026_tt_bxd.pdf) *(SHA-256: `5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30`)*.
 
 ---
 

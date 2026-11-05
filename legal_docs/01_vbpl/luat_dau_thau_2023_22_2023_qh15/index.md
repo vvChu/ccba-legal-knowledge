@@ -4,7 +4,7 @@
 > **Văn bản:** Luật Đấu thầu số 22/2023/QH15 (Văn bản hợp nhất số 74/VBHN-VPQH năm 2026)  
 > **Cơ quan ban hành:** Quốc hội / Văn phòng Quốc hội.  
 > **Hiệu lực thi hành:** 2024-01-01 (Bản gốc) | 2026-03-25 (VBHN 74).  
-> **Mỏ neo PDF Công báo:** [luat_22_2023_qh15.pdf](./luat_22_2023_qh15.pdf) *(SHA-256: `9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621`)*.
+> **Mỏ neo PDF Công báo:** [luat_dau_thau_2023_22_2023_qh15.pdf](./sources/luat_dau_thau_2023_22_2023_qh15.pdf) *(SHA-256: `9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621`)*.
 
 ---
 

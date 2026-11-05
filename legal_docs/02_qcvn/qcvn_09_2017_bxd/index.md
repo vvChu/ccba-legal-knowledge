@@ -14,7 +14,6 @@
 \- [Catalog Thẻ Tính Toán Tham Số Hóa (YAML)](./figures/figures_catalog.yaml)
 
 ### 📝 Ngăn Kéo Biểu Mẫu Hành Chính Nguyên Tử (templates/ - ADR 0021)
-\- [Thư mục Biểu mẫu](./templates/)
 
 ### 🗄️ Ngăn Kéo Nguồn Gốc Bất Biến (sources/ - ADR 0036)
 \- [DOCX Công báo gốc (OpenXML)](./sources/qcvn_09_2017_bxd.docx)

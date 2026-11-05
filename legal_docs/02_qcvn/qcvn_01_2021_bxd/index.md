@@ -4,7 +4,7 @@
 > **Tài liệu:** QCVN 01:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng
 > **Cơ quan ban hành:** Bộ Xây dựng
 > **Hiệu lực:** 2021-07-05
-> **Mỏ neo PDF Công báo:** [qcvn_01_2021_bxd.pdf](./qcvn_01_2021_bxd.pdf) *(Trạng thái: Verified)*
+> **Mỏ neo PDF Công báo:** [qcvn_01_2021_bxd.pdf](./sources/qcvn_01_2021_bxd.pdf) *(Trạng thái: Verified)*
 
 ---
 
