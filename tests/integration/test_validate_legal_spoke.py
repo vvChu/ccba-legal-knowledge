@@ -3,6 +3,7 @@
 from pathlib import Path
 from scripts.validate_legal_spoke import LegalSpokeValidator
 
+
 def test_validator_on_workspace(tmp_path: Path) -> None:
     """Test LegalSpokeValidator on a mock workspace structure."""
     # 1. Setup mock workspace
@@ -23,7 +24,9 @@ laws:
     bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "test_law_1"
     bundle_dir.mkdir(parents=True)
     index_md = bundle_dir / "index.md"
-    index_md.write_text("---\ntitle: Test Law\n---\n# Test Law\nContent", encoding="utf-8")
+    index_md.write_text(
+        "---\ntitle: Test Law\n---\n# Test Law\nContent", encoding="utf-8"
+    )
 
     # 2. Run validator
     validator = LegalSpokeValidator(tmp_path)
@@ -33,6 +36,7 @@ laws:
     errors, warnings = validator.validate_okf_bundles()
     assert errors == 0
 
+
 def test_validator_detects_missing_registry(tmp_path: Path) -> None:
     """Test LegalSpokeValidator fails when registry is missing."""
     validator = LegalSpokeValidator(tmp_path)
@@ -41,7 +45,9 @@ def test_validator_detects_missing_registry(tmp_path: Path) -> None:
     assert "missing" in validator.errors[0].lower()
 
 
-def test_subgate_5_3_detects_banned_expired_document_with_active_status(tmp_path: Path) -> None:
+def test_subgate_5_3_detects_banned_expired_document_with_active_status(
+    tmp_path: Path,
+) -> None:
     """Sub-Gate 5.3 must fail if banned expired statute (e.g. 10/2021/NĐ-CP) is active."""
     registry_path = tmp_path / "legal_registry.yaml"
     registry_content = """version: 0.2.0
@@ -57,10 +63,14 @@ laws:
     registry_path.write_text(registry_content, encoding="utf-8")
     validator = LegalSpokeValidator(tmp_path)
     validator._validate_legal_validity_and_in_force()
-    assert any("RULE-3.1" in err and "strictly banned" in err for err in validator.errors)
+    assert any(
+        "RULE-3.1" in err and "strictly banned" in err for err in validator.errors
+    )
 
 
-def test_subgate_5_3_detects_expired_date_in_past_with_active_status(tmp_path: Path) -> None:
+def test_subgate_5_3_detects_expired_date_in_past_with_active_status(
+    tmp_path: Path,
+) -> None:
     """Sub-Gate 5.3 must fail if expiration_date <= today but status is active."""
     registry_path = tmp_path / "legal_registry.yaml"
     registry_content = """version: 0.2.0
@@ -77,7 +87,10 @@ laws:
     registry_path.write_text(registry_content, encoding="utf-8")
     validator = LegalSpokeValidator(tmp_path)
     validator._validate_legal_validity_and_in_force()
-    assert any("has expiration_date" in err and "Must be 'expired'" in err for err in validator.errors)
+    assert any(
+        "has expiration_date" in err and "Must be 'expired'" in err
+        for err in validator.errors
+    )
 
 
 def test_subgate_5_3_detects_status_split_brain(tmp_path: Path) -> None:
@@ -107,7 +120,9 @@ def test_gate_4_detects_empty_ast_clauses(tmp_path: Path) -> None:
     """Gate 4 must flag Empty AST Error when clauses.json has 0 clauses."""
     bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "custom_vbpl"
     bundle_dir.mkdir(parents=True)
-    (bundle_dir / "custom_vbpl.md").write_text("### Điều 1. Điều khoản đầu tiên\nNội dung", encoding="utf-8")
+    (bundle_dir / "custom_vbpl.md").write_text(
+        "### Điều 1. Điều khoản đầu tiên\nNội dung", encoding="utf-8"
+    )
     (bundle_dir / "clauses.json").write_text("[]", encoding="utf-8")
 
     validator = LegalSpokeValidator(tmp_path)
@@ -119,14 +134,18 @@ def test_gate_4_detects_missing_ast_clauses(tmp_path: Path) -> None:
     """Gate 4 must flag Missing AST Error when clauses.json is missing on disk."""
     bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "custom_vbpl_no_ast"
     bundle_dir.mkdir(parents=True)
-    (bundle_dir / "custom_vbpl_no_ast.md").write_text("### Điều 1. Điều khoản đầu tiên\nNội dung", encoding="utf-8")
+    (bundle_dir / "custom_vbpl_no_ast.md").write_text(
+        "### Điều 1. Điều khoản đầu tiên\nNội dung", encoding="utf-8"
+    )
 
     validator = LegalSpokeValidator(tmp_path)
     validator._check_vbpl_fake_data(bundle_dir)
     assert any("Missing AST Error" in err for err in validator.errors)
 
 
-def test_subgate_5_3_transitive_dag_detects_superseded_active_document(tmp_path: Path) -> None:
+def test_subgate_5_3_transitive_dag_detects_superseded_active_document(
+    tmp_path: Path,
+) -> None:
     """Sub-Gate 5.3 DAG BFS must automatically detect when active doc replaces another active doc."""
     registry_path = tmp_path / "legal_registry.yaml"
     registry_content = """version: 0.2.0
@@ -147,7 +166,10 @@ standards:
     registry_path.write_text(registry_content, encoding="utf-8")
     validator = LegalSpokeValidator(tmp_path)
     validator._validate_legal_validity_and_in_force()
-    assert any("TCVN-3890-2023" in err and "strictly banned from status: active" in err for err in validator.errors)
+    assert any(
+        "TCVN-3890-2023" in err and "strictly banned from status: active" in err
+        for err in validator.errors
+    )
 
 
 def test_gate_1_detects_windows_backslashes_in_registry_paths(tmp_path: Path) -> None:
@@ -198,13 +220,17 @@ laws:
     errors, warnings = validator.validate_registry()
     assert errors == 0
     assert warnings >= 3
-    warn_texts = [w for w in validator.warnings if "Registry Warning [test_missing_files]" in w]
+    warn_texts = [
+        w for w in validator.warnings if "Registry Warning [test_missing_files]" in w
+    ]
     assert any("pdf_path" in w for w in warn_texts)
     assert any("raw_scan_pdf" in w for w in warn_texts)
     assert any("source_file" in w for w in warn_texts)
 
 
-def test_gate_1_suppresses_missing_pdf_warning_when_pending_download(tmp_path: Path) -> None:
+def test_gate_1_suppresses_missing_pdf_warning_when_pending_download(
+    tmp_path: Path,
+) -> None:
     """Gate 1 must suppress missing pdf warning when pdf_status is pending_download."""
     registry_path = tmp_path / "legal_registry.yaml"
     registry_content = """version: 0.2.0
@@ -239,6 +265,64 @@ def test_gate_2_detects_windows_backslashes_in_bundle_metadata(tmp_path: Path) -
     validator = LegalSpokeValidator(tmp_path)
     errors, warnings = validator.validate_okf_bundles()
     assert errors >= 1
-    assert any("OKF Metadata Format Error" in e and "pdf_path" in e for e in validator.errors)
+    assert any(
+        "OKF Metadata Format Error" in e and "pdf_path" in e for e in validator.errors
+    )
 
 
+def test_subgate_5_3_validates_decrees_section(tmp_path: Path) -> None:
+    """Sub-Gate 5.3 must also validate entries inside the 'decrees:' section of legal_registry.yaml."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_content = """version: 0.3.0
+decrees:
+  - id: nd_expired_in_decrees
+    title: Nghị định hết hạn trong decrees
+    document_number: 88/2020/NĐ-CP
+    bundle_path: legal_docs/01_vbpl/nd_expired_in_decrees
+    status: active
+    expiration_date: "2022-01-01"
+    pdf_status: verified
+    cong_bao_number: "123/2020"
+"""
+    registry_path.write_text(registry_content, encoding="utf-8")
+    validator = LegalSpokeValidator(tmp_path)
+    validator._validate_legal_validity_and_in_force()
+    assert any(
+        "has expiration_date" in err and "Must be 'expired'" in err
+        for err in validator.errors
+    )
+
+
+def test_gate_2_detects_broken_links_in_index_md_ci_safe(tmp_path: Path) -> None:
+    """Verify C4 & N1: Gate 2 checks index.md links against metadata.yaml:pdf_path without Path.exists() on PDF, and checks exists() on directories/md."""
+    bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "luat_dau_thau_2023"
+    bundle_dir.mkdir(parents=True)
+    (bundle_dir / "sources").mkdir()
+    (bundle_dir / "luat_dau_thau_2023.md").write_text(
+        "# Luật Đấu thầu", encoding="utf-8"
+    )
+    (bundle_dir / "metadata.yaml").write_text(
+        "id: luat_dau_thau_2023\npdf_path: legal_docs/01_vbpl/luat_dau_thau_2023/sources/luat_dau_thau_2023_22_2023_qh15.pdf\n",
+        encoding="utf-8",
+    )
+
+    # 1. Broken PDF href (outside ./sources/ and wrong basename) + broken ./templates/ directory
+    (bundle_dir / "index.md").write_text(
+        "# Index\n- [PDF](./luat_22_2023_qh15.pdf)\n- [Templates](./templates/)\n",
+        encoding="utf-8",
+    )
+    validator = LegalSpokeValidator(tmp_path)
+    validator.validate_okf_bundles()
+    assert any(
+        "index.md" in e and "luat_22_2023_qh15.pdf" in e for e in validator.errors
+    )
+    assert any("index.md" in e and "./templates/" in e for e in validator.errors)
+
+    # 2. Valid ./sources/{basename}.pdf href passes even when the .pdf file is gitignored/absent on disk
+    (bundle_dir / "index.md").write_text(
+        "# Index\n- [PDF](./sources/luat_dau_thau_2023_22_2023_qh15.pdf)\n- [Body](./luat_dau_thau_2023.md)\n",
+        encoding="utf-8",
+    )
+    validator_ok = LegalSpokeValidator(tmp_path)
+    validator_ok.validate_okf_bundles()
+    assert not any("index.md" in e for e in validator_ok.errors)

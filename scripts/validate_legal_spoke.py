@@ -95,7 +95,9 @@ class LegalSpokeValidator:
             self.errors.append(f"File Error: Failed to read {path.name}: {exc}")
             return None
 
-    def _extract_frontmatter(self, md_path: Path) -> Tuple[Optional[Dict[str, Any]], str]:
+    def _extract_frontmatter(
+        self, md_path: Path
+    ) -> Tuple[Optional[Dict[str, Any]], str]:
         """Extract YAML frontmatter dictionary and remaining body text from Markdown file."""
         content = self._safe_read_text(md_path)
         if content is None:
@@ -118,7 +120,9 @@ class LegalSpokeValidator:
     def validate_registry(self) -> Tuple[int, int]:
         """Validate legal_registry.yaml syntax, schema, and document paths."""
         if not self.registry_file.exists():
-            self.errors.append(f"CRITICAL: Registry file missing at {self.registry_file}")
+            self.errors.append(
+                f"CRITICAL: Registry file missing at {self.registry_file}"
+            )
             return (1, 0)
 
         try:
@@ -129,12 +133,31 @@ class LegalSpokeValidator:
             return (1, 0)
 
         if not isinstance(data, dict):
-            self.errors.append("CRITICAL: legal_registry.yaml root must be a YAML dictionary.")
+            self.errors.append(
+                "CRITICAL: legal_registry.yaml root must be a YAML dictionary."
+            )
             return (1, 0)
 
         for key in ["version", "spoke_name", "registry_summary"]:
             if key not in data:
-                self.errors.append(f"Schema Error: Missing required root key '{key}' in legal_registry.yaml")
+                self.errors.append(
+                    f"Schema Error: Missing required root key '{key}' in legal_registry.yaml"
+                )
+
+        md_data_reg = self.root_dir / ".md" / "data" / "legal_registry.yaml"
+        if md_data_reg.exists():
+            try:
+                md_reg_data = (
+                    yaml.safe_load(md_data_reg.read_text(encoding="utf-8")) or {}
+                )
+                if md_reg_data.get("registry_summary") != data.get("registry_summary"):
+                    self.errors.append(
+                        "Registry Parity Error: .md/data/legal_registry.yaml registry_summary diverges from root legal_registry.yaml"
+                    )
+            except Exception as exc:
+                self.errors.append(
+                    f"Registry Parity Error: Failed to parse .md/data/legal_registry.yaml: {exc}"
+                )
 
         laws = data.get("laws", [])
         standards = data.get("standards", [])
@@ -158,7 +181,11 @@ class LegalSpokeValidator:
                     doc_id = doc.get("id", "")
                     bundle_p = doc.get("bundle_path", "")
                     doc_num = doc.get("document_number", "")
-                    if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                    if (
+                        doc_id != self.target_bundle
+                        and self.target_bundle not in bundle_p
+                        and doc_num != self.target_bundle
+                    ):
                         continue
                 doc_id = doc.get("id", "UNKNOWN")
                 bundle_path_str = doc.get("bundle_path")
@@ -179,19 +206,35 @@ class LegalSpokeValidator:
                             self.errors.append(
                                 f"Registry Format Error [{doc_id}]: {field} '{val}' contains backslash '\\'. Use POSIX '/' paths."
                             )
-                        if field == "pdf_path" and doc.get("pdf_status") == "pending_download":
+                        if (
+                            field == "pdf_path"
+                            and doc.get("pdf_status") == "pending_download"
+                        ):
                             continue
-                        target_file = self.root_dir / val if not os.path.isabs(val) else Path(val)
+                        target_file = (
+                            self.root_dir / val if not os.path.isabs(val) else Path(val)
+                        )
                         if not target_file.exists():
                             if field == "source_file":
                                 bp = doc.get("bundle_path")
                                 if bp:
                                     b_sources = self.root_dir / bp / "sources"
-                                    if b_sources.exists() and ((b_sources / target_file.name).exists() or list(b_sources.glob("*.docx"))):
+                                    if b_sources.exists() and (
+                                        (b_sources / target_file.name).exists()
+                                        or list(b_sources.glob("*.docx"))
+                                    ):
                                         continue
-                                if (
-                                    "vault_path" in str(doc.get("source_assets", {}).get("docx", {}))
-                                    or (val.startswith(".md/extracted_docs") and doc_id in {"nghi_dinh_210_2026_nd_cp", "thong_tu_38_2026_tt_bxd", "QCVN-04-2021-BXD", "TCVN-7336-2021"})
+                                if "vault_path" in str(
+                                    doc.get("source_assets", {}).get("docx", {})
+                                ) or (
+                                    val.startswith(".md/extracted_docs")
+                                    and doc_id
+                                    in {
+                                        "nghi_dinh_210_2026_nd_cp",
+                                        "thong_tu_38_2026_tt_bxd",
+                                        "QCVN-04-2021-BXD",
+                                        "TCVN-7336-2021",
+                                    }
                                 ):
                                     continue
                             self.warnings.append(
@@ -283,7 +326,9 @@ class LegalSpokeValidator:
     def validate_okf_bundles(self) -> Tuple[int, int]:
         """Validate OKF Bundle markdown files, frontmatter, and metadata in legal_docs/."""
         if not self.legal_docs_dir.exists():
-            self.warnings.append(f"Warning: legal_docs/ directory does not exist at {self.legal_docs_dir}")
+            self.warnings.append(
+                f"Warning: legal_docs/ directory does not exist at {self.legal_docs_dir}"
+            )
             return (len(self.errors), len(self.warnings))
 
         registered_bundles = self._get_registered_bundle_slugs()
@@ -306,7 +351,9 @@ class LegalSpokeValidator:
         """Check invariants and frontmatter of a single document bundle."""
         main_md_files = list(doc_dir.glob("*.md"))
         if not main_md_files:
-            self.warnings.append(f"OKF Warning [{doc_dir.name}]: No Markdown (.md) files found in bundle.")
+            self.warnings.append(
+                f"OKF Warning [{doc_dir.name}]: No Markdown (.md) files found in bundle."
+            )
             return
 
         index_file = doc_dir / "index.md"
@@ -327,11 +374,15 @@ class LegalSpokeValidator:
                     f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Empty '{DIR_TEMPLATES}/' directory detected."
                 )
 
+        b_meta: Dict[str, Any] = {}
         meta_file = doc_dir / "metadata.yaml"
         if meta_file.exists():
             try:
-                b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
-                if isinstance(b_meta, dict):
+                loaded_meta = (
+                    yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                )
+                if isinstance(loaded_meta, dict):
+                    b_meta = loaded_meta
                     for field in ["pdf_path", "raw_scan_pdf", "source_file"]:
                         val = b_meta.get(field)
                         if val and isinstance(val, str) and "\\" in val:
@@ -341,8 +392,54 @@ class LegalSpokeValidator:
             except Exception:
                 pass
 
+        if index_file.exists():
+            self._validate_index_md_links(doc_dir, index_file, b_meta)
+
         for md_path in main_md_files:
             self._extract_frontmatter(md_path)
+
+    def _validate_index_md_links(
+        self, doc_dir: Path, index_file: Path, b_meta: Dict[str, Any]
+    ) -> None:
+        """Validate local links in index.md without calling exists() on gitignored binaries."""
+        text = self._safe_read_text(index_file)
+        if not text:
+            return
+        pdf_names = {
+            Path(str(b_meta.get(k))).name
+            for k in ("pdf_path", "raw_scan_pdf")
+            if b_meta.get(k)
+        } or {f"{doc_dir.name}.pdf"}
+        docx_names = (
+            {Path(str(b_meta.get("source_file"))).name}
+            if b_meta.get("source_file")
+            else {f"{doc_dir.name}.docx"}
+        )
+        docx_names.add(f"{doc_dir.name}.docx")
+
+        for match in re.finditer(r"\[([^\]]+)\]\(([^)]+)\)", text):
+            href = match.group(2).strip()
+            if href.startswith(("http://", "https://", "mailto:", "#")):
+                continue
+            clean_href = href.split("#")[0].strip()
+            if not clean_href:
+                continue
+            norm = clean_href[2:] if clean_href.startswith("./") else clean_href
+            lower_norm = norm.lower()
+            if lower_norm.endswith(".pdf"):
+                if not norm.startswith("sources/") or Path(norm).name not in pdf_names:
+                    self.errors.append(
+                        f"OKF Index Link Error [{doc_dir.name}]: Invalid PDF link '{href}' in index.md (expected './sources/{next(iter(pdf_names))}')."
+                    )
+            elif lower_norm.endswith(".docx"):
+                if not norm.startswith("sources/") or Path(norm).name not in docx_names:
+                    self.errors.append(
+                        f"OKF Index Link Error [{doc_dir.name}]: Invalid DOCX link '{href}' in index.md."
+                    )
+            elif not (doc_dir / clean_href).exists():
+                self.errors.append(
+                    f"OKF Index Link Error [{doc_dir.name}]: Broken link '{href}' in index.md (target does not exist)."
+                )
 
     def validate_table_attachments(self) -> Tuple[int, int]:
         """Validate referenced table CSV/JSON attachments exist in bundle tables/ directory."""
@@ -356,7 +453,9 @@ class LegalSpokeValidator:
             if content is None:
                 continue
 
-            ref_matches = re.findall(r"tables/(?:csv|json)/[a-zA-Z0-9_.-]+\.(?:csv|json)", content)
+            ref_matches = re.findall(
+                r"tables/(?:csv|json)/[a-zA-Z0-9_.-]+\.(?:csv|json)", content
+            )
             bundle_dir = md_file.parent
 
             for ref in ref_matches:
@@ -433,7 +532,9 @@ class LegalSpokeValidator:
             return
 
         size_kb = primary_md.stat().st_size / 1024
-        if size_kb < 20 and (doc_dir.name.startswith("nghi_dinh_") or doc_dir.name.startswith("luat_")):
+        if size_kb < 20 and (
+            doc_dir.name.startswith("nghi_dinh_") or doc_dir.name.startswith("luat_")
+        ):
             self.warnings.append(
                 f"Fake Data Warning [{doc_dir.name}]: Decrees/Laws usually exceed 20KB, but found {size_kb:.1f} KB. Verify full text presence."
             )
@@ -456,7 +557,9 @@ class LegalSpokeValidator:
             dieu_nums = sorted(
                 int(m)
                 for m in re.findall(
-                    r"(?:###|##)\s*(?:__|\*\*)?\s*Điều\s+(\d+)\.", content, flags=re.IGNORECASE
+                    r"(?:###|##)\s*(?:__|\*\*)?\s*Điều\s+(\d+)\.",
+                    content,
+                    flags=re.IGNORECASE,
                 )
             )
             if not is_amending:
@@ -464,7 +567,7 @@ class LegalSpokeValidator:
                     gap = dieu_nums[i + 1] - dieu_nums[i]
                     if gap > 3:
                         self.warnings.append(
-                            f"Fake Data Warning [{doc_dir.name}]: Gap of {gap} detected between Điều {dieu_nums[i]} and Điều {dieu_nums[i+1]}."
+                            f"Fake Data Warning [{doc_dir.name}]: Gap of {gap} detected between Điều {dieu_nums[i]} and Điều {dieu_nums[i + 1]}."
                         )
 
         clauses_json = doc_dir / "clauses.json"
@@ -489,7 +592,9 @@ class LegalSpokeValidator:
                             f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
                         )
             except json.JSONDecodeError as exc:
-                self.errors.append(f"JSON Error [{doc_dir.name}]: Failed to parse clauses.json: {exc}")
+                self.errors.append(
+                    f"JSON Error [{doc_dir.name}]: Failed to parse clauses.json: {exc}"
+                )
         else:
             self.errors.append(
                 f"Missing AST Error [{doc_dir.name}]: clauses.json is missing on disk. AST generation is required for VBPL bundle."
@@ -502,7 +607,9 @@ class LegalSpokeValidator:
                 data = yaml.safe_load(f)
             self._validate_registry_pdf_meta(data)
         except (yaml.YAMLError, OSError) as exc:
-            self.errors.append(f"CRITICAL: Failed to validate PDF metadata in registry: {exc}")
+            self.errors.append(
+                f"CRITICAL: Failed to validate PDF metadata in registry: {exc}"
+            )
 
         # Dynamic QCVN AST check: Discover all QCVN bundles with clauses.json
         qcvn_dir = self.legal_docs_dir / "02_qcvn"
@@ -544,9 +651,14 @@ class LegalSpokeValidator:
                 try:
                     meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
                     if meta.get("pdf_origin") == "docx_vector_rendered":
-                        raw_scan = doc_dir / DIR_SOURCES / f"{doc_dir.name}_raw_scan.pdf"
+                        raw_scan = (
+                            doc_dir / DIR_SOURCES / f"{doc_dir.name}_raw_scan.pdf"
+                        )
                         vector_pdf = doc_dir / DIR_SOURCES / f"{doc_dir.name}.pdf"
-                        is_ci = bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS")) or self.skip_pdf_vault
+                        is_ci = (
+                            bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS"))
+                            or self.skip_pdf_vault
+                        )
                         if not vector_pdf.exists():
                             if not is_ci:
                                 self.errors.append(
@@ -573,9 +685,15 @@ class LegalSpokeValidator:
         s = re.sub(r"[\s\/\-\.:]+", "_", s)
         s = re.sub(r"_+", "_", s).strip("_")
         keys = {s}
-        for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+        for prefix in (
+            "nghi_dinh_",
+            "thong_tu_",
+            "quyet_dinh_",
+            "nghi_quyet_",
+            "luat_",
+        ):
             if s.startswith(prefix):
-                keys.add(s[len(prefix):])
+                keys.add(s[len(prefix) :])
         m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
         if m:
             keys.add(m.group(1))
@@ -612,7 +730,7 @@ class LegalSpokeValidator:
             return
 
         all_items: List[Dict[str, Any]] = []
-        for sec in ["laws", "standards"]:
+        for sec in ["laws", "decrees", "standards"]:
             items = data.get(sec, [])
             if isinstance(items, list):
                 all_items.extend(items)
@@ -645,7 +763,8 @@ class LegalSpokeValidator:
             it
             for it in all_items
             if isinstance(it, dict)
-            and str(it.get("status", "")).strip().lower() in {"active", "current", "còn hiệu lực"}
+            and str(it.get("status", "")).strip().lower()
+            in {"active", "current", "còn hiệu lực"}
         ]
 
         from collections import deque
@@ -659,11 +778,12 @@ class LegalSpokeValidator:
         while queue:
             curr_it, source_active = queue.popleft()
             source_label = str(
-                source_active.get("document_number") or source_active.get("id", "Active Doc")
+                source_active.get("document_number")
+                or source_active.get("id", "Active Doc")
             ).strip()
-            source_keys = self._canonical_keys(source_active.get("id", "")) | self._canonical_keys(
-                source_active.get("document_number", "")
-            )
+            source_keys = self._canonical_keys(
+                source_active.get("id", "")
+            ) | self._canonical_keys(source_active.get("document_number", ""))
 
             # 1. Forward edges: curr_it declares 'replaces'
             for target_str in _get_replaces(curr_it):
@@ -677,9 +797,9 @@ class LegalSpokeValidator:
                             queue.append((doc_by_canonical_key[tk], source_active))
 
             # 2. Backward edges: any document whose 'replaced_by' points to curr_it
-            curr_keys = self._canonical_keys(curr_it.get("id", "")) | self._canonical_keys(
-                curr_it.get("document_number", "")
-            )
+            curr_keys = self._canonical_keys(
+                curr_it.get("id", "")
+            ) | self._canonical_keys(curr_it.get("document_number", ""))
             for candidate in all_items:
                 if not isinstance(candidate, dict):
                     continue
@@ -694,7 +814,9 @@ class LegalSpokeValidator:
                     if rep_by_keys & curr_keys:
                         cand_id = str(candidate.get("id", ""))
                         cand_num = str(candidate.get("document_number", ""))
-                        for ck in self._canonical_keys(cand_id) | self._canonical_keys(cand_num):
+                        for ck in self._canonical_keys(cand_id) | self._canonical_keys(
+                            cand_num
+                        ):
                             if ck not in source_keys:
                                 superseded_by_map[ck] = source_label
                             if ck not in visited_keys:
@@ -708,7 +830,9 @@ class LegalSpokeValidator:
             bundle_p = str(item.get("bundle_path", ""))
             doc_num = str(item.get("document_number", "")).strip()
             status = str(item.get("status", "")).strip().lower()
-            relations = item.get("relations") if isinstance(item.get("relations"), dict) else {}
+            relations = (
+                item.get("relations") if isinstance(item.get("relations"), dict) else {}
+            )
 
             if self.target_bundle:
                 if (
@@ -772,10 +896,20 @@ class LegalSpokeValidator:
                 meta_file = bundle_dir / "metadata.yaml"
                 if meta_file.exists():
                     try:
-                        b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        b_meta = (
+                            yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        )
                         b_status = str(b_meta.get("status", "")).strip().lower()
-                        norm_reg_status = "expired" if status in {"expired", "hết hiệu lực"} else "active"
-                        norm_b_status = "expired" if b_status in {"expired", "hết hiệu lực"} else "active"
+                        norm_reg_status = (
+                            "expired"
+                            if status in {"expired", "hết hiệu lực"}
+                            else "active"
+                        )
+                        norm_b_status = (
+                            "expired"
+                            if b_status in {"expired", "hết hiệu lực"}
+                            else "active"
+                        )
                         if norm_reg_status != norm_b_status:
                             self.errors.append(
                                 f"Split-Brain Status Error [{doc_id}]: Status in legal_registry.yaml ('{status}') "
@@ -786,7 +920,9 @@ class LegalSpokeValidator:
                             f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
                         )
 
-    def _build_registered_canonical_keys(self, all_items: List[Dict[str, Any]]) -> Set[str]:
+    def _build_registered_canonical_keys(
+        self, all_items: List[Dict[str, Any]]
+    ) -> Set[str]:
         """Extract set of canonical lookup tokens for all registered documents."""
         registered_canonical_keys: Set[str] = set()
         for item in all_items:
@@ -798,7 +934,9 @@ class LegalSpokeValidator:
                     registered_canonical_keys.update(self._canonical_keys(val))
             bundle_p = item.get("bundle_path")
             if bundle_p:
-                registered_canonical_keys.update(self._canonical_keys(Path(bundle_p).name))
+                registered_canonical_keys.update(
+                    self._canonical_keys(Path(bundle_p).name)
+                )
         return registered_canonical_keys
 
     def _check_semantic_relation_dict(
@@ -867,20 +1005,33 @@ class LegalSpokeValidator:
             doc_num = item.get("document_number", "")
             bundle_p = item.get("bundle_path", "")
 
-            if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+            if (
+                self.target_bundle
+                and doc_id != self.target_bundle
+                and self.target_bundle not in bundle_p
+                and doc_num != self.target_bundle
+            ):
                 continue
 
             self._check_semantic_relation_dict(
-                item.get("relations"), f"registry:{doc_id}", semantic_keys, registered_canonical_keys
+                item.get("relations"),
+                f"registry:{doc_id}",
+                semantic_keys,
+                registered_canonical_keys,
             )
 
             if bundle_p:
                 meta_file = self.root_dir / bundle_p.strip("/") / "metadata.yaml"
                 if meta_file.exists():
                     try:
-                        b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        b_meta = (
+                            yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        )
                         self._check_semantic_relation_dict(
-                            b_meta.get("relations"), f"bundle:{Path(bundle_p).name}", semantic_keys, registered_canonical_keys
+                            b_meta.get("relations"),
+                            f"bundle:{Path(bundle_p).name}",
+                            semantic_keys,
+                            registered_canonical_keys,
                         )
                     except Exception:
                         pass
@@ -902,12 +1053,21 @@ class LegalSpokeValidator:
                 doc_id = item.get("id", "UNKNOWN")
                 bundle_p = item.get("bundle_path", "")
                 doc_num = item.get("document_number", "")
-                if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                if (
+                    self.target_bundle
+                    and doc_id != self.target_bundle
+                    and self.target_bundle not in bundle_p
+                    and doc_num != self.target_bundle
+                ):
                     continue
                 if "pdf_status" not in item:
-                    self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
+                    self.errors.append(
+                        f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml"
+                    )
                 if "cong_bao_number" not in item:
-                    self.warnings.append(f"PDF Metadata Warning [{doc_id}]: Missing 'cong_bao_number' in legal_registry.yaml")
+                    self.warnings.append(
+                        f"PDF Metadata Warning [{doc_id}]: Missing 'cong_bao_number' in legal_registry.yaml"
+                    )
 
     def _validate_qcvn_ast_clauses(self, qcvn_dir: Path) -> None:
         """Validate jurisdiction, severity, and Cong Bao numbers in QCVN clauses.json."""
@@ -923,30 +1083,50 @@ class LegalSpokeValidator:
                 else raw_clauses
             )
             if not clauses_data:
-                self.errors.append(f"AST Error [{qcvn_dir.name}]: clauses.json is empty")
+                self.errors.append(
+                    f"AST Error [{qcvn_dir.name}]: clauses.json is empty"
+                )
                 return
 
             valid_jurisdictions = {"CQXD", "CONG_AN", "CHU_DAU_TU_TU_THAM_DINH"}
-            valid_severities = {"CRITICAL_DEFECT", "WARNING_NOTICE", "VERIFICATION_REQUIRED"}
+            valid_severities = {
+                "CRITICAL_DEFECT",
+                "WARNING_NOTICE",
+                "VERIFICATION_REQUIRED",
+            }
 
-            missing_jur = sum(1 for c in clauses_data if c.get("jurisdiction") not in valid_jurisdictions)
+            missing_jur = sum(
+                1
+                for c in clauses_data
+                if c.get("jurisdiction") not in valid_jurisdictions
+            )
             missing_cb = sum(1 for c in clauses_data if not c.get("cong_bao_number"))
 
             for c in clauses_data:
                 g_end = c.get("grace_period_end")
                 if g_end and not re.match(r"^\d{4}-\d{2}-\d{2}$", str(g_end)):
-                    self.errors.append(f"AST Error [{qcvn_dir.name}]: Invalid date format for grace_period_end: {g_end}")
+                    self.errors.append(
+                        f"AST Error [{qcvn_dir.name}]: Invalid date format for grace_period_end: {g_end}"
+                    )
                 sev = c.get("compliance_severity")
                 if sev and sev not in valid_severities:
-                    self.errors.append(f"AST Error [{qcvn_dir.name}]: Invalid compliance_severity: {sev}")
+                    self.errors.append(
+                        f"AST Error [{qcvn_dir.name}]: Invalid compliance_severity: {sev}"
+                    )
 
             if missing_jur > 0:
-                self.errors.append(f"AST Error [{qcvn_dir.name}]: {missing_jur}/{len(clauses_data)} clauses missing valid 'jurisdiction'")
+                self.errors.append(
+                    f"AST Error [{qcvn_dir.name}]: {missing_jur}/{len(clauses_data)} clauses missing valid 'jurisdiction'"
+                )
             if missing_cb > 0:
-                self.warnings.append(f"AST Warning [{qcvn_dir.name}]: {missing_cb}/{len(clauses_data)} clauses missing 'cong_bao_number'")
+                self.warnings.append(
+                    f"AST Warning [{qcvn_dir.name}]: {missing_cb}/{len(clauses_data)} clauses missing 'cong_bao_number'"
+                )
 
         except json.JSONDecodeError as exc:
-            self.errors.append(f"AST Error [{qcvn_dir.name}]: Failed to parse clauses.json: {exc}")
+            self.errors.append(
+                f"AST Error [{qcvn_dir.name}]: Failed to parse clauses.json: {exc}"
+            )
 
     def validate_pure_normative_body_gate(self) -> Tuple[int, int]:
         """Validate OKF v2.4 Universal Pure Normative Body standard (ADR 0021 & ADR 0036)."""
@@ -961,7 +1141,11 @@ class LegalSpokeValidator:
                 target_md = doc_dir / f"{doc_dir.name}.md"
                 primary_md = target_md if target_md.exists() else None
                 if primary_md is None:
-                    md_files = [f for f in doc_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
+                    md_files = [
+                        f
+                        for f in doc_dir.glob("*.md")
+                        if f.name not in ("index.md", "dead_ends.md", "log.md")
+                    ]
                     primary_md = md_files[0] if md_files else None
 
                 if primary_md and primary_md.exists():
@@ -983,16 +1167,26 @@ class LegalSpokeValidator:
                     std_md_files = [
                         f
                         for f in doc_dir.glob("*.md")
-                        if f.name not in ("index.md", "dead_ends.md", "log.md", "bang_so_sanh_thay_doi.md")
+                        if f.name
+                        not in (
+                            "index.md",
+                            "dead_ends.md",
+                            "log.md",
+                            "bang_so_sanh_thay_doi.md",
+                        )
                     ]
                     std_primary_md = std_md_files[0] if std_md_files else None
                 if std_primary_md and std_primary_md.exists():
                     content = self._safe_read_text(std_primary_md)
                     if content:
                         main_body = re.split(
-                            r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", content, flags=re.IGNORECASE
+                            r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC",
+                            content,
+                            flags=re.IGNORECASE,
                         )[0].strip()
-                        self._check_annex_leakage(main_body, doc_dir.name, std_primary_md.name)
+                        self._check_annex_leakage(
+                            main_body, doc_dir.name, std_primary_md.name
+                        )
 
         return (len(self.errors), len(self.warnings))
 
@@ -1019,24 +1213,37 @@ class LegalSpokeValidator:
                         f"Pure Normative Body Error [{doc_dir.name}]: Missing required frontmatter field '{req_field}'"
                     )
 
-        main_body = re.split(r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", body_text, flags=re.IGNORECASE)[0].strip()
+        main_body = re.split(
+            r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", body_text, flags=re.IGNORECASE
+        )[0].strip()
         body_lines = [line.strip() for line in main_body.splitlines() if line.strip()]
 
         self._check_header_noise(body_lines, doc_dir.name, primary_md.name)
         self._check_footer_noise(body_lines, doc_dir.name, primary_md.name)
         self._check_html_noise(body_text, doc_dir.name, primary_md.name)
 
-    def _check_header_noise(self, body_lines: List[str], doc_name: str, md_name: str) -> None:
+    def _check_header_noise(
+        self, body_lines: List[str], doc_name: str, md_name: str
+    ) -> None:
         """Check for unstripped Quốc hiệu/Tiêu ngữ in the first 25 lines."""
         header_window = "\n".join(body_lines[:25])
-        if "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" in header_window or "Độc lập - Tự do - Hạnh phúc" in header_window:
+        if (
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" in header_window
+            or "Độc lập - Tự do - Hạnh phúc" in header_window
+        ):
             self.errors.append(
                 f"Pure Normative Body Error [{doc_name}]: Unstripped administrative header in {md_name}"
             )
 
-    def _check_footer_noise(self, body_lines: List[str], doc_name: str, md_name: str) -> None:
+    def _check_footer_noise(
+        self, body_lines: List[str], doc_name: str, md_name: str
+    ) -> None:
         """Check for unstripped Nơi nhận/Chữ ký in the last 25 lines."""
-        footer_window = "\n".join(body_lines[-25:]) if len(body_lines) >= 25 else "\n".join(body_lines)
+        footer_window = (
+            "\n".join(body_lines[-25:])
+            if len(body_lines) >= 25
+            else "\n".join(body_lines)
+        )
         sig_pattern = r"(?:^|\n)(?:__\*?\s*Nơi nhận\s*:|\*+Nơi nhận\s*:|\bNơi nhận\s*:|__KT\.\s+BỘ\s+TRƯỞNG|KT\.\s+BỘ\s+TRƯỞNG|CHỦ\s+TỊCH\s+QUỐC\s+HỘI|TM\.\s+QUỐC\s+HỘI|TM\.\s+CHÍNH\s+PHỦ|__THỦ\s+TƯỚNG__|THỦ\s+TƯỚNG\b)"
         if re.search(sig_pattern, footer_window, re.IGNORECASE):
             self.errors.append(
@@ -1058,21 +1265,38 @@ class LegalSpokeValidator:
             return (0, 0)
 
         allowed_core_scripts = {
-            "__init__.py", "validate_legal_spoke.py", "test_converter_regression.py",
-            "verify_cross_links.py", "verify_all_docs_against_pdf.py", "verify_docx_against_pdf.py",
-            "sync_notebooklm_knowledge.py", "benchmark_legal_rag.py", "spoke_cli.py",
-            "check_hub_import_depth.py", "check_spoke_cleanliness.py", "safe_pytest.py",
-            "lint_visual_parity.py", "query_hub_catalog.py", "analyze_gate_audit.py",
-            "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
-            "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
-            "sync_expansion_roadmap.py", "safe_runner.py",
+            "__init__.py",
+            "validate_legal_spoke.py",
+            "test_converter_regression.py",
+            "verify_cross_links.py",
+            "verify_all_docs_against_pdf.py",
+            "verify_docx_against_pdf.py",
+            "sync_notebooklm_knowledge.py",
+            "benchmark_legal_rag.py",
+            "spoke_cli.py",
+            "check_hub_import_depth.py",
+            "check_spoke_cleanliness.py",
+            "safe_pytest.py",
+            "lint_visual_parity.py",
+            "query_hub_catalog.py",
+            "analyze_gate_audit.py",
+            "sync_adr_matrix.py",
+            "validate_adr_parity.py",
+            "setup_pre_commit.py",
+            "modernize_annex_engine.py",
+            "verify_formula_visual_matrix.py",
+            "sync_expansion_roadmap.py",
+            "safe_runner.py",
             "hydrate_sources_from_vault.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
         for py_file in py_files:
             if py_file.name not in allowed_core_scripts:
-                if any(py_file.name.startswith(p) for p in ["fix_", "audit_", "build_", "temp_", "clean_"]):
+                if any(
+                    py_file.name.startswith(p)
+                    for p in ["fix_", "audit_", "build_", "temp_", "clean_"]
+                ):
                     self.errors.append(
                         f"Spoke Cleanliness Gate: Ephemeral script '{py_file.name}' detected in scripts/. Move to .md/archive/."
                     )
@@ -1090,7 +1314,10 @@ class LegalSpokeValidator:
 
     def validate_template_and_table_integrity(self) -> Tuple[int, int]:
         """Gate 8: Verify Template & Table Structural Integrity (ADR 0021)."""
-        for cat_dir in [self.legal_docs_dir / "01_vbpl", self.legal_docs_dir / "02_qcvn"]:
+        for cat_dir in [
+            self.legal_docs_dir / "01_vbpl",
+            self.legal_docs_dir / "02_qcvn",
+        ]:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
@@ -1099,7 +1326,10 @@ class LegalSpokeValidator:
                         continue
                     self._check_bundle_templates_and_tables(doc_dir)
 
-        for cat_dir in [self.legal_docs_dir / "02_qcvn", self.legal_docs_dir / "03_tcvn"]:
+        for cat_dir in [
+            self.legal_docs_dir / "02_qcvn",
+            self.legal_docs_dir / "03_tcvn",
+        ]:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
@@ -1126,11 +1356,15 @@ class LegalSpokeValidator:
         self._check_form_templates(doc_dir, body_only, templates_dir)
         self._check_broken_pipe_tables(templates_dir)
 
-        all_md_files = [primary_md] + (list(templates_dir.rglob("*.md")) if templates_dir.exists() else [])
+        all_md_files = [primary_md] + (
+            list(templates_dir.rglob("*.md")) if templates_dir.exists() else []
+        )
         for md_path in all_md_files:
             self._check_uncollapsed_list_items(md_path)
 
-    def _check_form_templates(self, doc_dir: Path, body_only: str, templates_dir: Path) -> None:
+    def _check_form_templates(
+        self, doc_dir: Path, body_only: str, templates_dir: Path
+    ) -> None:
         """Check that defined forms have corresponding files in templates/."""
         form_regex = re.compile(
             r"(?:Mẫu\s+số\s+[0-9a-zA-Z\.\-]+(?:\s+ban\s+hành)?\s+kèm\s+theo\s+(?:Nghị\s+định|Thông\s+tư|Quyết\s+định)\s+này|"
@@ -1138,7 +1372,9 @@ class LegalSpokeValidator:
             r"tại\s+Phụ\s+lục\s+Hệ\s+thống\s+biểu\s+mẫu)",
             re.IGNORECASE,
         )
-        if form_regex.search(body_only) and (not templates_dir.exists() or not list(templates_dir.rglob("*.md"))):
+        if form_regex.search(body_only) and (
+            not templates_dir.exists() or not list(templates_dir.rglob("*.md"))
+        ):
             self.errors.append(
                 f"Template Integrity Error [{doc_dir.name}]: Document defines form templates, but templates/ is empty or missing."
             )
@@ -1148,7 +1384,10 @@ class LegalSpokeValidator:
         if templates_dir.exists():
             for tmpl_file in templates_dir.rglob("*.md"):
                 tmpl_txt = self._safe_read_text(tmpl_file)
-                if tmpl_txt and re.search(r"(?:__TT__|\bTT\b)\s*\n\s*\n\s*__(?:Danh mục|Tên sản phẩm)", tmpl_txt):
+                if tmpl_txt and re.search(
+                    r"(?:__TT__|\bTT\b)\s*\n\s*\n\s*__(?:Danh mục|Tên sản phẩm)",
+                    tmpl_txt,
+                ):
                     if "|" not in tmpl_txt:
                         self.errors.append(
                             f"Broken Table Error [{tmpl_file.relative_to(self.root_dir)}]: Flattened table detected. Must be 2D GFM Table."
@@ -1165,9 +1404,12 @@ class LegalSpokeValidator:
             next_line = lines[i + 1].strip()
             if curr_line.startswith(("- ", "+ ", "* ")) and next_line:
                 if not next_line.startswith(("- ", "+ ", "* ", "#", "|", ">")):
-                    if re.match(r"^(?:\d+\.\d+|\d+\.\d+\.\d+|Điều\s+\d+|Khoản\s+\d+|Mục\s+[IVXLCDM0-9]+)\b", next_line):
+                    if re.match(
+                        r"^(?:\d+\.\d+|\d+\.\d+\.\d+|Điều\s+\d+|Khoản\s+\d+|Mục\s+[IVXLCDM0-9]+)\b",
+                        next_line,
+                    ):
                         self.errors.append(
-                            f"Markdown Formatting Error [{md_path.relative_to(self.root_dir)}:L{i+2}]: "
+                            f"Markdown Formatting Error [{md_path.relative_to(self.root_dir)}:L{i + 2}]: "
                             f"Sub-clause '{next_line[:30]}' immediately follows a list item without a blank line."
                         )
 
@@ -1178,7 +1420,9 @@ class LegalSpokeValidator:
             return
         catalog_file = figures_dir / "figures_catalog.yaml"
         if not catalog_file.exists():
-            self.errors.append(f"Figure Catalog Error [{doc_dir.name}]: figures/ exists but figures_catalog.yaml is missing.")
+            self.errors.append(
+                f"Figure Catalog Error [{doc_dir.name}]: figures/ exists but figures_catalog.yaml is missing."
+            )
             return
 
         try:
@@ -1188,9 +1432,13 @@ class LegalSpokeValidator:
                 for fig in cat_data.get("figures", []):
                     img_rel = fig.get("image_relpath")
                     if img_rel and not (doc_dir / img_rel).exists():
-                        self.errors.append(f"Figure Image Error [{doc_dir.name}]: Image '{img_rel}' does not exist on disk.")
+                        self.errors.append(
+                            f"Figure Image Error [{doc_dir.name}]: Image '{img_rel}' does not exist on disk."
+                        )
         except (yaml.YAMLError, OSError) as exc:
-            self.errors.append(f"Figure Catalog Error [{doc_dir.name}]: Failed to parse figures_catalog.yaml: {exc}")
+            self.errors.append(
+                f"Figure Catalog Error [{doc_dir.name}]: Failed to parse figures_catalog.yaml: {exc}"
+            )
 
         # Enforce Zero Orphaned Figures Policy
         images_dir = figures_dir / "images"
@@ -1198,6 +1446,7 @@ class LegalSpokeValidator:
             orphans: List[str] = []
             try:
                 from ccba_legal.figure_extractor import scan_and_prune_orphan_figures
+
                 scan_res = scan_and_prune_orphan_figures(doc_dir, prune=False)
                 orphans = scan_res.get("orphaned", [])
             except Exception:
@@ -1208,30 +1457,42 @@ class LegalSpokeValidator:
                 for md_file in doc_dir.rglob("*.md"):
                     if "sources" not in md_file.parts:
                         txt = self._safe_read_text(md_file) or ""
-                        for m in re.findall(r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt):
+                        for m in re.findall(
+                            r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt
+                        ):
                             referenced.add(Path(m).name)
-                        for m in re.findall(r"<img\b[^>]*src=[\"'][^\"']*images/([^\"'\s>]+)[\"']", txt, re.IGNORECASE):
+                        for m in re.findall(
+                            r"<img\b[^>]*src=[\"'][^\"']*images/([^\"'\s>]+)[\"']",
+                            txt,
+                            re.IGNORECASE,
+                        ):
                             referenced.add(Path(m).name)
                 # 2. In cards/*.md and cards/*.json
                 cards_dir = figures_dir / "cards"
                 if cards_dir.exists():
-                    for card_f in list(cards_dir.glob("*.md")) + list(cards_dir.glob("*.json")):
+                    for card_f in list(cards_dir.glob("*.md")) + list(
+                        cards_dir.glob("*.json")
+                    ):
                         txt = self._safe_read_text(card_f) or ""
                         for m in re.findall(r'"image":\s*"([^"]+)"', txt):
                             referenced.add(Path(m).name)
-                        for m in re.findall(r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt):
+                        for m in re.findall(
+                            r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt
+                        ):
                             referenced.add(Path(m).name)
                 # 3. In figures_catalog.yaml
                 cat_file = figures_dir / "figures_catalog.yaml"
                 if cat_file.exists():
                     txt = self._safe_read_text(cat_file) or ""
-                    for m in re.findall(r"image_relpath:\s*[\"']?figures/images/([^\s\"']+)[\"']?", txt):
+                    for m in re.findall(
+                        r"image_relpath:\s*[\"']?figures/images/([^\s\"']+)[\"']?", txt
+                    ):
                         referenced.add(Path(m).name)
                 orphans = sorted(list(all_images - referenced))
 
             if orphans:
                 sample = ", ".join(orphans[:3])
-                extra = f" (+{len(orphans)-3} more)" if len(orphans) > 3 else ""
+                extra = f" (+{len(orphans) - 3} more)" if len(orphans) > 3 else ""
                 self.errors.append(
                     f"Orphaned Figure Error [{doc_dir.name}]: Found {len(orphans)} unreferenced image(s) in figures/images/: {sample}{extra}. Run 'python -m ccba_legal clean-images --prune' to clean up."
                 )
@@ -1253,12 +1514,26 @@ class LegalSpokeValidator:
 
             for i, line in enumerate(content.splitlines(), 1):
                 if re.search(r"<br>\s*(?:\*\*)?CHÚ THÍCH", line, re.IGNORECASE):
-                    self.errors.append(f"Visual Parity Error [{rel}:L{i}]: Squashed note with <br> tag.")
+                    self.errors.append(
+                        f"Visual Parity Error [{rel}:L{i}]: Squashed note with <br> tag."
+                    )
 
             for chunk in re.split(r"(?=\n#{1,4}\s+|\n<a id=)", content):
-                labels = [m.group(1).upper() for m in re.finditer(r"\b(CHÚ THÍCH(?:\s+\d+)?):", chunk, re.IGNORECASE)]
-                if labels and any("CHÚ THÍCH 2" in lbl for lbl in labels) and any(lbl == "CHÚ THÍCH" for lbl in labels) and not any("CHÚ THÍCH 1" in lbl for lbl in labels):
-                    self.errors.append(f"Visual Parity Error [{rel}]: Missing 'CHÚ THÍCH 1' before 'CHÚ THÍCH 2'.")
+                labels = [
+                    m.group(1).upper()
+                    for m in re.finditer(
+                        r"\b(CHÚ THÍCH(?:\s+\d+)?):", chunk, re.IGNORECASE
+                    )
+                ]
+                if (
+                    labels
+                    and any("CHÚ THÍCH 2" in lbl for lbl in labels)
+                    and any(lbl == "CHÚ THÍCH" for lbl in labels)
+                    and not any("CHÚ THÍCH 1" in lbl for lbl in labels)
+                ):
+                    self.errors.append(
+                        f"Visual Parity Error [{rel}]: Missing 'CHÚ THÍCH 1' before 'CHÚ THÍCH 2'."
+                    )
 
             for err in lint_document(md_file):
                 self.errors.append(f"Visual Parity Error [{rel}]: {err}")
@@ -1276,8 +1551,14 @@ class LegalSpokeValidator:
         except ImportError:
             from scripts.sync_adr_matrix import parse_adr_file
 
-        adr_files = sorted(f for f in adr_dir.glob("*.md") if f.name not in ("README.md", "TRACEABILITY_MATRIX.md"))
-        adr_list = sorted([parse_adr_file(f) for f in adr_files], key=lambda x: x["num"])
+        adr_files = sorted(
+            f
+            for f in adr_dir.glob("*.md")
+            if f.name not in ("README.md", "TRACEABILITY_MATRIX.md")
+        )
+        adr_list = sorted(
+            [parse_adr_file(f) for f in adr_files], key=lambda x: x["num"]
+        )
         known_nums = {a["num"] for a in adr_list}
         # In standalone Spoke CI environments, Hub repository is not cloned.
         # Include known upstream Platform Hub ADRs (ADR 0045 - 0080) to prevent false-positive CI failures.
@@ -1295,24 +1576,40 @@ class LegalSpokeValidator:
 
         self._sync_adr_artifacts(adr_dir, adr_list)
         self._sync_expansion_roadmap()
-        self._lint_session_learnings(self.root_dir / ".md" / "knowledge" / "session_learnings.md")
+        self._lint_session_learnings(
+            self.root_dir / ".md" / "knowledge" / "session_learnings.md"
+        )
         self._check_core_adr_references(known_nums)
 
         return (len(self.errors), len(self.warnings))
 
-    def _sync_adr_artifacts(self, adr_dir: Path, adr_list: List[Dict[str, Any]]) -> None:
+    def _sync_adr_artifacts(
+        self, adr_dir: Path, adr_list: List[Dict[str, Any]]
+    ) -> None:
         """Auto-compile README.md and TRACEABILITY_MATRIX.md for ADRs."""
         try:
             try:
-                from sync_adr_matrix import compile_adr_readme, compile_traceability_matrix, scan_skill_radar
+                from sync_adr_matrix import (
+                    compile_adr_readme,
+                    compile_traceability_matrix,
+                    scan_skill_radar,
+                )
             except ImportError:
-                from scripts.sync_adr_matrix import compile_adr_readme, compile_traceability_matrix, scan_skill_radar
+                from scripts.sync_adr_matrix import (
+                    compile_adr_readme,
+                    compile_traceability_matrix,
+                    scan_skill_radar,
+                )
 
             compile_adr_readme(adr_list, adr_dir / "README.md")
             matrix = scan_skill_radar(adr_list, self.root_dir)
-            compile_traceability_matrix(adr_list, matrix, adr_dir / "TRACEABILITY_MATRIX.md")
+            compile_traceability_matrix(
+                adr_list, matrix, adr_dir / "TRACEABILITY_MATRIX.md"
+            )
         except (ImportError, OSError) as exc:
-            self.errors.append(f"ADR Sync Error: Failed to compile ADR artifacts: {exc}")
+            self.errors.append(
+                f"ADR Sync Error: Failed to compile ADR artifacts: {exc}"
+            )
 
     def _sync_expansion_roadmap(self) -> None:
         """Auto-sync living legal knowledge expansion roadmap."""
@@ -1323,7 +1620,9 @@ class LegalSpokeValidator:
                 from scripts.sync_expansion_roadmap import sync_roadmap
             sync_roadmap()
         except Exception as exc:
-            self.warnings.append(f"Roadmap Sync Warning: Failed to sync expansion roadmap: {exc}")
+            self.warnings.append(
+                f"Roadmap Sync Warning: Failed to sync expansion roadmap: {exc}"
+            )
 
     def _lint_session_learnings(self, session_file: Path) -> None:
         """Sanitize numbered headers and check KaTeX display math tags in session_learnings.md."""
@@ -1351,29 +1650,57 @@ class LegalSpokeValidator:
         no_code_text = re.sub(r"`[^`]*`", "", no_code_text)
         display_math_count = len(re.findall(r"\$\$", no_code_text))
         if display_math_count % 2 != 0:
-            self.errors.append(f"KaTeX Error [session_learnings.md]: Unbalanced display math ($$) tags (count={display_math_count})")
+            self.errors.append(
+                f"KaTeX Error [session_learnings.md]: Unbalanced display math ($$) tags (count={display_math_count})"
+            )
 
     def validate_docx_to_markdown_verbatim_parity(self) -> None:
         """Gate 11: Enforce 100% Verbatim Normative Text Parity between sources/*.docx and bundle Markdown files."""
         try:
             from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:
+
             def _standalone_norm_words(text: str) -> str:
                 greek_map = {
-                    r"\alpha": "α", r"\beta": "β", r"\gamma": "γ", r"\delta": "δ",
-                    r"\epsilon": "ε", r"\varepsilon": "ε", r"\zeta": "ζ", r"\eta": "η",
-                    r"\theta": "θ", r"\vartheta": "θ", r"\iota": "ι", r"\kappa": "κ",
-                    r"\lambda": "λ", r"\mu": "μ", r"\nu": "ν", r"\xi": "ξ",
-                    r"\pi": "π", r"\rho": "ρ", r"\sigma": "σ", r"\tau": "τ",
-                    r"\upsilon": "υ", r"\phi": "φ", r"\varphi": "φ", r"\chi": "χ",
-                    r"\psi": "ψ", r"\omega": "ω", r"\dots": "...", r"\cdot": "·",
+                    r"\alpha": "α",
+                    r"\beta": "β",
+                    r"\gamma": "γ",
+                    r"\delta": "δ",
+                    r"\epsilon": "ε",
+                    r"\varepsilon": "ε",
+                    r"\zeta": "ζ",
+                    r"\eta": "η",
+                    r"\theta": "θ",
+                    r"\vartheta": "θ",
+                    r"\iota": "ι",
+                    r"\kappa": "κ",
+                    r"\lambda": "λ",
+                    r"\mu": "μ",
+                    r"\nu": "ν",
+                    r"\xi": "ξ",
+                    r"\pi": "π",
+                    r"\rho": "ρ",
+                    r"\sigma": "σ",
+                    r"\tau": "τ",
+                    r"\upsilon": "υ",
+                    r"\phi": "φ",
+                    r"\varphi": "φ",
+                    r"\chi": "χ",
+                    r"\psi": "ψ",
+                    r"\omega": "ω",
+                    r"\dots": "...",
+                    r"\cdot": "·",
                 }
                 text = unicodedata.normalize("NFC", text).lower()
                 for k, v in greek_map.items():
                     text = text.replace(k, v)
                 text = re.sub(r"\(#[^)]+\)", " ", text)
                 text = re.sub(r"\\text\{([^}]+)\}", r"\1", text)
-                text = re.sub(r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)", " ", text)
+                text = re.sub(
+                    r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)",
+                    " ",
+                    text,
+                )
                 text = re.sub(r"&nbsp;", " ", text)
                 text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
                 text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
@@ -1390,6 +1717,7 @@ class LegalSpokeValidator:
                     return {"status": "skipped"}
                 try:
                     import docx
+
                     doc = docx.Document(docx_files[0])
                 except Exception as e:
                     return {"status": "error", "error": f"Failed to parse DOCX: {e}"}
@@ -1401,7 +1729,11 @@ class LegalSpokeValidator:
                 has_circular = any(
                     k in p.upper()
                     for p in raw_paras[:15]
-                    for k in ["THÔNG TƯ", "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM", "BAN HÀNH KÈM THEO THÔNG TƯ"]
+                    for k in [
+                        "THÔNG TƯ",
+                        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "BAN HÀNH KÈM THEO THÔNG TƯ",
+                    ]
                 )
                 start_idx = 0
                 if has_circular:
@@ -1410,8 +1742,11 @@ class LegalSpokeValidator:
                             continue
                         if (
                             re.match(r"^(?:QCVN|TCVN)\s+[0-9]+", p.strip().upper())
-                            or p.strip().upper() in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA")
-                            or p.strip().upper().startswith("QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                            or p.strip().upper()
+                            in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                            or p.strip()
+                            .upper()
+                            .startswith("QUY CHUẨN KỸ THUẬT QUỐC GIA")
                         ):
                             start_idx = idx
                             break
@@ -1427,7 +1762,9 @@ class LegalSpokeValidator:
                     if in_toc:
                         is_end = False
                         if p_strip.lower().startswith("lời nói đầu"):
-                            for nxt_idx in range(p_idx + 1, min(p_idx + 5, len(raw_paras))):
+                            for nxt_idx in range(
+                                p_idx + 1, min(p_idx + 5, len(raw_paras))
+                            ):
                                 nxt_t = raw_paras[nxt_idx].strip()
                                 if nxt_t:
                                     if not re.match(
@@ -1438,7 +1775,12 @@ class LegalSpokeValidator:
                                         is_end = True
                                     break
                         elif (
-                            p_upper in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA", "VĂN BẢN QUY PHẠM PHÁP LUẬT")
+                            p_upper
+                            in (
+                                "TIÊU CHUẨN QUỐC GIA",
+                                "QUY CHUẨN KỸ THUẬT QUỐC GIA",
+                                "VĂN BẢN QUY PHẠM PHÁP LUẬT",
+                            )
                             or p_upper.startswith("CHƯƠNG ")
                             or re.match(r"^ĐIỀU\s+\d+", p_upper)
                         ):
@@ -1496,7 +1838,10 @@ class LegalSpokeValidator:
                             or p_low.startswith("xét đề nghị ")
                             or p_low.startswith("cộng hòa xã hội chủ nghĩa việt nam")
                             or p_low.startswith("độc lập - tự do - hạnh phúc")
-                            or (p_low.startswith("bộ trưởng ") and "ban hành thông tư" in p_low)
+                            or (
+                                p_low.startswith("bộ trưởng ")
+                                and "ban hành thông tư" in p_low
+                            )
                             or p_low.startswith("chính phủ ban hành nghị định")
                             or "nơi nhận:" in p_low
                         ):
@@ -1504,7 +1849,15 @@ class LegalSpokeValidator:
                         missing_paras.append((idx, p))
                         effective_paras_count += 1
 
-                parity_rate = ((effective_paras_count - len(missing_paras)) / effective_paras_count) * 100.0 if effective_paras_count else 100.0
+                parity_rate = (
+                    (
+                        (effective_paras_count - len(missing_paras))
+                        / effective_paras_count
+                    )
+                    * 100.0
+                    if effective_paras_count
+                    else 100.0
+                )
 
                 return {
                     "status": "success",
@@ -1540,6 +1893,7 @@ class LegalSpokeValidator:
                 is_vbhn_consolidation = False
                 try:
                     import yaml as _yaml
+
                     meta_path = bundle_dir / "metadata.yaml"
                     if meta_path.exists():
                         with open(meta_path, encoding="utf-8") as _mf:
@@ -1552,9 +1906,13 @@ class LegalSpokeValidator:
 
                 res = verify_bundle_docx_vs_markdown(bundle_dir)
                 if res.get("status") == "error":
-                    self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}")
+                    self.errors.append(
+                        f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}"
+                    )
                 elif res.get("status") == "success" and not res.get("pass", True):
-                    sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
+                    sample_miss = "; ".join(
+                        [f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]]
+                    )
                     msg = (
                         f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% "
                         f"(< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} "
@@ -1563,10 +1921,11 @@ class LegalSpokeValidator:
                     if is_vbhn_consolidation:
                         # VBHN bundles: delta paragraphs are expected (bãi bỏ/thay thế bởi văn bản sửa đổi)
                         # Downgrade to telemetry warning (ADR 0037 Anti-Vacuous Pass Invariant)
-                        self.warnings.append(f"[VBHN Telemetry] {msg} — Delta expected per verification_scope.consolidation_note.")
+                        self.warnings.append(
+                            f"[VBHN Telemetry] {msg} — Delta expected per verification_scope.consolidation_note."
+                        )
                     else:
                         self.errors.append(msg)
-
 
     def validate_multimodal_assets_and_cards_gate(self) -> None:
         """Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
@@ -1607,13 +1966,27 @@ class LegalSpokeValidator:
                 cards_dir = figures_dir / "cards"
                 if catalog_f.exists():
                     try:
-                        cat_data = yaml.safe_load(catalog_f.read_text(encoding="utf-8")) or {}
+                        cat_data = (
+                            yaml.safe_load(catalog_f.read_text(encoding="utf-8")) or {}
+                        )
                         fig_list = cat_data.get("figures", [])
                         registered_slugs = set()
                         for fig in fig_list:
-                            tag = str(fig.get("tag") or fig.get("id") or "").replace("hinh_", "")
-                            raw_slug = str(fig.get("slug") or fig.get("id") or tag).lower().replace(".", "_").replace("-", "_").replace("đ", "dd")
-                            slug = raw_slug[5:] if raw_slug.startswith("hinh_") else raw_slug
+                            tag = str(fig.get("tag") or fig.get("id") or "").replace(
+                                "hinh_", ""
+                            )
+                            raw_slug = (
+                                str(fig.get("slug") or fig.get("id") or tag)
+                                .lower()
+                                .replace(".", "_")
+                                .replace("-", "_")
+                                .replace("đ", "dd")
+                            )
+                            slug = (
+                                raw_slug[5:]
+                                if raw_slug.startswith("hinh_")
+                                else raw_slug
+                            )
                             registered_slugs.add(slug)
 
                             # Check image existence & non-zero byte integrity
@@ -1633,7 +2006,11 @@ class LegalSpokeValidator:
 
                             # Check visual card existence (supports Markdown cards and JSON cards)
                             card_path = cards_dir / f"hinh_{slug}.md"
-                            json_card_candidates = list(cards_dir.glob(f"fig_{slug}_*.json")) if cards_dir.exists() else []
+                            json_card_candidates = (
+                                list(cards_dir.glob(f"fig_{slug}_*.json"))
+                                if cards_dir.exists()
+                                else []
+                            )
                             if not card_path.exists() and not json_card_candidates:
                                 self.errors.append(
                                     f"Missing Figure Card [{bundle_dir.name}]: "
@@ -1641,18 +2018,26 @@ class LegalSpokeValidator:
                                 )
                             else:
                                 card_txt = self._safe_read_text(card_path) or ""
-                                if f"Hình {tag}" not in card_txt and tag not in card_txt:
+                                if (
+                                    f"Hình {tag}" not in card_txt
+                                    and tag not in card_txt
+                                ):
                                     self.warnings.append(
                                         f"Figure Card Mismatch [{bundle_dir.name}]: "
                                         f"Card 'hinh_{slug}.md' does not mention 'Hình {tag}'."
                                     )
 
                             # Check chart/curve attribution (Mutual Cross-Check)
-                            is_chart = fig.get("is_chart", False) or fig.get("type") == "chart"
+                            is_chart = (
+                                fig.get("is_chart", False) or fig.get("type") == "chart"
+                            )
                             if is_chart:
                                 related_tables = fig.get("related_tables", [])
                                 conf_status = fig.get("confidence_status", "")
-                                if not related_tables and conf_status != "ESTIMATED_BY_VISION":
+                                if (
+                                    not related_tables
+                                    and conf_status != "ESTIMATED_BY_VISION"
+                                ):
                                     self.errors.append(
                                         f"Chart Attribution Error [{bundle_dir.name}]: Figure '{tag}' is classified as a chart/curve "
                                         f"but lacks ground-truth 'related_tables' or 'ESTIMATED_BY_VISION' disclaimer (ADR 0040)."
@@ -1679,10 +2064,14 @@ class LegalSpokeValidator:
             if p.exists():
                 text = self._safe_read_text(p)
                 if text:
-                    for m in re.findall(r"\bADR[-\s]*0*([0-9]+)\b", text, re.IGNORECASE):
+                    for m in re.findall(
+                        r"\bADR[-\s]*0*([0-9]+)\b", text, re.IGNORECASE
+                    ):
                         num = int(m)
                         if num not in known_nums:
-                            self.errors.append(f"Broken ADR Reference [{core_f}]: 'ADR {num:04d}' does not exist on disk.")
+                            self.errors.append(
+                                f"Broken ADR Reference [{core_f}]: 'ADR {num:04d}' does not exist on disk."
+                            )
 
     def _get_modified_bundle_names(self) -> Set[str]:
         """Get set of bundle folder names that have git modifications."""
@@ -1746,7 +2135,11 @@ class LegalSpokeValidator:
                 else:
                     try:
                         cat_data = json.loads(catalog_file.read_text(encoding="utf-8"))
-                        raw_list = cat_data.get("tables", []) if isinstance(cat_data, dict) else cat_data
+                        raw_list = (
+                            cat_data.get("tables", [])
+                            if isinstance(cat_data, dict)
+                            else cat_data
+                        )
                         for t in raw_list:
                             tid = t.get("id") or t.get("table_id") or t.get("csv_file")
                             if tid:
@@ -1761,12 +2154,16 @@ class LegalSpokeValidator:
                 for csv_path in csv_files:
                     rel_csv = csv_path.relative_to(self.root_dir)
                     try:
-                        with open(csv_path, mode="r", encoding="utf-8-sig", newline="") as f:
+                        with open(
+                            csv_path, mode="r", encoding="utf-8-sig", newline=""
+                        ) as f:
                             reader = csv.reader(f)
                             rows = list(reader)
 
                         if not rows:
-                            self.errors.append(f"Table Matrix Error [{rel_csv}]: CSV file is completely empty.")
+                            self.errors.append(
+                                f"Table Matrix Error [{rel_csv}]: CSV file is completely empty."
+                            )
                             continue
 
                         # Filter out trailing empty rows
@@ -1778,7 +2175,9 @@ class LegalSpokeValidator:
 
                         header_cols = len(rows[0])
                         if header_cols == 0:
-                            self.errors.append(f"Table Matrix Error [{rel_csv}]: Header row has 0 columns.")
+                            self.errors.append(
+                                f"Table Matrix Error [{rel_csv}]: Header row has 0 columns."
+                            )
                             continue
 
                         ragged_rows = []
@@ -1788,12 +2187,25 @@ class LegalSpokeValidator:
                                 ragged_rows.append((row_idx, len(row), header_cols))
 
                             row_str = " ".join(row).strip()
-                            if re.match(r"^(?:CHÚ\s+THÍCH|CHÚ\s+DẪN|Ghi\s+chú|\(\*\))\s*:", row_str, re.IGNORECASE):
+                            if re.match(
+                                r"^(?:CHÚ\s+THÍCH|CHÚ\s+DẪN|Ghi\s+chú|\(\*\))\s*:",
+                                row_str,
+                                re.IGNORECASE,
+                            ):
                                 footnote_leaks.append(row_idx)
 
                         if ragged_rows:
-                            sample_errs = ", ".join([f"L{r}: got {act} (exp {exp})" for r, act, exp in ragged_rows[:3]])
-                            extra = f" (+{len(ragged_rows)-3} more)" if len(ragged_rows) > 3 else ""
+                            sample_errs = ", ".join(
+                                [
+                                    f"L{r}: got {act} (exp {exp})"
+                                    for r, act, exp in ragged_rows[:3]
+                                ]
+                            )
+                            extra = (
+                                f" (+{len(ragged_rows) - 3} more)"
+                                if len(ragged_rows) > 3
+                                else ""
+                            )
                             self.warnings.append(
                                 f"Ragged Rows Telemetry [{rel_csv}]: Found {len(ragged_rows)} non-rectangular rows: {sample_errs}{extra} (ADR 0041)."
                             )
@@ -1806,12 +2218,17 @@ class LegalSpokeValidator:
 
                         # Catalog cross-check
                         if catalog_file.exists():
-                            if csv_path.name not in catalog_tables and csv_path.stem not in catalog_tables:
+                            if (
+                                csv_path.name not in catalog_tables
+                                and csv_path.stem not in catalog_tables
+                            ):
                                 self.warnings.append(
                                     f"Table Catalog Mismatch [{bundle_dir.name}]: CSV '{csv_path.name}' not registered in 'tables_catalog.json'."
                                 )
                     except Exception as exc:
-                        self.errors.append(f"Table Matrix Error [{rel_csv}]: Failed to read CSV: {exc}")
+                        self.errors.append(
+                            f"Table Matrix Error [{rel_csv}]: Failed to read CSV: {exc}"
+                        )
 
         return (len(self.errors), len(self.warnings))
 
@@ -1872,7 +2289,14 @@ class LegalSpokeValidator:
                         )
 
                 # Rule 2 (Sub-Gate 14.2): Prohibit \tag{...} inside multiline environments (ADR 0038, ADR 0044)
-                multiline_envs = ["aligned", "cases", "gather", "matrix", "array", "bmatrix"]
+                multiline_envs = [
+                    "aligned",
+                    "cases",
+                    "gather",
+                    "matrix",
+                    "array",
+                    "bmatrix",
+                ]
                 for env in multiline_envs:
                     if f"\\begin{{{env}}}" in clean_block:
                         if re.search(r"\\tag\s*\{[^}]*\}", clean_block):
@@ -1940,7 +2364,9 @@ class LegalSpokeValidator:
                     continue
 
                 try:
-                    meta_data = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                    meta_data = (
+                        yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                    )
                 except Exception as exc:
                     self.errors.append(
                         f"Provenance Error [{bundle_dir.name}]: Failed to parse metadata.yaml: {exc}"
@@ -2002,21 +2428,32 @@ class LegalSpokeValidator:
         self.validate_katex_syntax_integrity()
         self.validate_provenance_and_version_attestation()
 
-        for i, name in enumerate([
-            "Registry Check", "OKF Bundles Structure Check", "Table Attachments Check",
-            "Fake Data Gate Check", "PDF Metadata & AST Jurisdiction Gate Check",
-            "Pure Normative Body & Scoped Noise Gate Check", "Spoke Cleanliness & Zero-Wrapper Gate",
-            "Template & Table Structural Integrity Gate", "Visual Parity & Formatting Clutter Gate",
-            "ADR Living Traceability & Self-Healing Sync", "DOCX-to-Markdown Verbatim Normative Parity Gate",
-            "Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)",
-            "Table Knowledge Extraction & 2D Matrix Regularity Gate (ADR 0041)",
-            "KaTeX Math Syntax & Rendering Integrity Gate (ADR 0038)",
-            "OKF Provenance & Algorithm Version Attestation Gate",
-        ], 1):
+        for i, name in enumerate(
+            [
+                "Registry Check",
+                "OKF Bundles Structure Check",
+                "Table Attachments Check",
+                "Fake Data Gate Check",
+                "PDF Metadata & AST Jurisdiction Gate Check",
+                "Pure Normative Body & Scoped Noise Gate Check",
+                "Spoke Cleanliness & Zero-Wrapper Gate",
+                "Template & Table Structural Integrity Gate",
+                "Visual Parity & Formatting Clutter Gate",
+                "ADR Living Traceability & Self-Healing Sync",
+                "DOCX-to-Markdown Verbatim Normative Parity Gate",
+                "Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)",
+                "Table Knowledge Extraction & 2D Matrix Regularity Gate (ADR 0041)",
+                "KaTeX Math Syntax & Rendering Integrity Gate (ADR 0038)",
+                "OKF Provenance & Algorithm Version Attestation Gate",
+            ],
+            1,
+        ):
             print(f"-> Gate {i}: {name} completed.")
 
         print("\n-----------------------------------------------------------------")
-        print(f"SUMMARY REPORT: Errors: {len(self.errors)} | Warnings: {len(self.warnings)}")
+        print(
+            f"SUMMARY REPORT: Errors: {len(self.errors)} | Warnings: {len(self.warnings)}"
+        )
         print("-----------------------------------------------------------------")
 
         if self.errors:
@@ -2038,8 +2475,14 @@ class LegalSpokeValidator:
 
 def main() -> None:
     """CLI entry point for running validator."""
-    parser = argparse.ArgumentParser(description="CCBA Legal Spoke Automated Integrity & Schema Validator")
-    parser.add_argument("--bundle", default=None, help="Validate a specific document bundle (scoped validation)")
+    parser = argparse.ArgumentParser(
+        description="CCBA Legal Spoke Automated Integrity & Schema Validator"
+    )
+    parser.add_argument(
+        "--bundle",
+        default=None,
+        help="Validate a specific document bundle (scoped validation)",
+    )
     parser.add_argument(
         "--skip-pdf-vault",
         action="store_true",

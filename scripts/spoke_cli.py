@@ -70,16 +70,30 @@ def get_spoke_stats(root_dir: Path) -> Dict[str, Any]:
                 if isinstance(data, list):
                     total_qa += len(data)
                 elif isinstance(data, dict):
-                    total_qa += len(data.get("questions") or data.get("qa_entries") or [])
+                    total_qa += len(
+                        data.get("questions") or data.get("qa_entries") or []
+                    )
             except (json.JSONDecodeError, OSError):
                 pass
 
-    total_tables = len(list(legal_docs_dir.glob("**/tables/csv/*.csv"))) if legal_docs_dir.exists() else 0
+    total_tables = (
+        len(list(legal_docs_dir.glob("**/tables/csv/*.csv")))
+        if legal_docs_dir.exists()
+        else 0
+    )
     total_figures = (
-        len(list(legal_docs_dir.glob("**/figures/cards/*.md")))
-        + len(list(legal_docs_dir.glob("**/figures/cards/*.json")))
-    ) if legal_docs_dir.exists() else 0
-    total_templates = len(list(legal_docs_dir.glob("**/templates/**/*.md"))) if legal_docs_dir.exists() else 0
+        (
+            len(list(legal_docs_dir.glob("**/figures/cards/*.md")))
+            + len(list(legal_docs_dir.glob("**/figures/cards/*.json")))
+        )
+        if legal_docs_dir.exists()
+        else 0
+    )
+    total_templates = (
+        len(list(legal_docs_dir.glob("**/templates/**/*.md")))
+        if legal_docs_dir.exists()
+        else 0
+    )
 
     doc_count = 0
     categories_count: Dict[str, int] = {}
@@ -88,12 +102,10 @@ def get_spoke_stats(root_dir: Path) -> Dict[str, Any]:
             reg_data = yaml.safe_load(registry_file.read_text(encoding="utf-8"))
             if isinstance(reg_data, dict):
                 all_docs = []
-                laws = reg_data.get("laws", [])
-                if isinstance(laws, list):
-                    all_docs.extend(laws)
-                standards = reg_data.get("standards", [])
-                if isinstance(standards, list):
-                    all_docs.extend(standards)
+                for sec_key in ("laws", "decrees", "standards"):
+                    sec_list = reg_data.get(sec_key, [])
+                    if isinstance(sec_list, list):
+                        all_docs.extend(sec_list)
                 documents = reg_data.get("documents", {})
                 if isinstance(documents, dict):
                     all_docs.extend(documents.values())
@@ -104,7 +116,9 @@ def get_spoke_stats(root_dir: Path) -> Dict[str, Any]:
                 for doc in all_docs:
                     if isinstance(doc, dict):
                         doc_type = doc.get("type", "Khác")
-                        categories_count[doc_type] = categories_count.get(doc_type, 0) + 1
+                        categories_count[doc_type] = (
+                            categories_count.get(doc_type, 0) + 1
+                        )
         except (yaml.YAMLError, OSError):
             pass
 
@@ -174,13 +188,30 @@ def inspect_bundle_provenance(bundle_dir: Path, category: str) -> dict[str, Any]
             for f in sources_dir.iterdir()
         )
 
-    csv_count = len(list((bundle_dir / "tables" / "csv").glob("*.csv"))) if (bundle_dir / "tables" / "csv").exists() else 0
-    json_count = len(list((bundle_dir / "tables" / "json").glob("*.json"))) if (bundle_dir / "tables" / "json").exists() else 0
-    cards_count = len(list((bundle_dir / "figures" / "cards").glob("*.md"))) if (bundle_dir / "figures" / "cards").exists() else 0
+    csv_count = (
+        len(list((bundle_dir / "tables" / "csv").glob("*.csv")))
+        if (bundle_dir / "tables" / "csv").exists()
+        else 0
+    )
+    json_count = (
+        len(list((bundle_dir / "tables" / "json").glob("*.json")))
+        if (bundle_dir / "tables" / "json").exists()
+        else 0
+    )
+    cards_count = (
+        len(list((bundle_dir / "figures" / "cards").glob("*.md")))
+        if (bundle_dir / "figures" / "cards").exists()
+        else 0
+    )
 
     math_blocks = 0
     for md_file in bundle_dir.glob("*.md"):
-        if md_file.name in ("bang_so_sanh_thay_doi.md", "index.md", "dead_ends.md", "log.md"):
+        if md_file.name in (
+            "bang_so_sanh_thay_doi.md",
+            "index.md",
+            "dead_ends.md",
+            "log.md",
+        ):
             continue
         try:
             text = md_file.read_text(encoding="utf-8", errors="ignore")
@@ -196,7 +227,12 @@ def inspect_bundle_provenance(bundle_dir: Path, category: str) -> dict[str, Any]
         group = "GROUP_C"
         group_label = "🔷 Nhóm C (Consolidated Shield)"
         action = "Bảo vệ Snapshot -> Tái hợp nhất qua VBHN Engine"
-    elif category in ("02_qcvn", "03_tcvn") or math_blocks > 0 or cards_count > 0 or csv_count > 5:
+    elif (
+        category in ("02_qcvn", "03_tcvn")
+        or math_blocks > 0
+        or cards_count > 0
+        or csv_count > 5
+    ):
         group = "GROUP_B"
         group_label = "🔶 Nhóm B (Compartment Refresh)"
         action = "Phẫu thuật cục bộ ngăn kéo tables/ và figures/"
@@ -266,7 +302,11 @@ def generate_provenance_report_md(records: list[dict[str, Any]]) -> str:
     group_c_count = sum(1 for r in records if r["group"] == "GROUP_C")
     internal_count = sum(1 for r in records if r["group"] == "INTERNAL")
 
-    pct_verified = (verified_count / (total_docs - internal_count)) * 100 if (total_docs - internal_count) > 0 else 0.0
+    pct_verified = (
+        (verified_count / (total_docs - internal_count)) * 100
+        if (total_docs - internal_count) > 0
+        else 0.0
+    )
 
     lines = [
         "# Hàng Đợi Di Trú & Kiểm Toán Nguồn Gốc Tri Thức (OKF v2.4 Universal Provenance Queue)",
@@ -294,7 +334,7 @@ def generate_provenance_report_md(records: list[dict[str, Any]]) -> str:
         "",
         "---",
         "",
-        "## 2. Danh Sách Chi Tiết Hàng Đợi 38 Văn Bản",
+        f"## 2. Danh Sách Chi Tiết Hàng Đợi {len(records)} Văn Bản",
         "",
         "| STT | Số Hiệu / ID | Thể Loại | Nhóm Di Trú | Trạng Thái Gate 15 | Đặc Tính (Math / Table / Fig) | Hành Động Đề Xuất |",
         "| :---: | :--- | :--- | :--- | :---: | :--- | :--- |",
@@ -315,38 +355,40 @@ def generate_provenance_report_md(records: list[dict[str, Any]]) -> str:
             f"| {idx} | `{num_str}` | {r['type']} | {r['group_label']} | {r['status_label']} | {char_str} | {r['action']} |"
         )
 
-    lines.extend([
-        "",
-        "---",
-        "",
-        "## 3. Quy Trình Vận Hành Di Trú (Operational SOP)",
-        "",
-        "```mermaid",
-        "flowchart LR",
-        "    Queue[Hàng Đợi Di Trú] --> TierA[Nhóm A: Clean Passthrough]",
-        "    Queue --> TierB[Nhóm B: Compartment Refresh]",
-        "    Queue --> TierC[Nhóm C: Consolidated Shield]",
-        "",
-        "    TierA --> AuditA[Đối soát Gate 1-11] --> StampA[Attest okf_spec: v2.4 Universal]",
-        "    TierB --> SurgB[Phẫu thuật tables/ & figures/] --> AuditB[Gate 12-14] --> StampB[Cấp tem sau nghiệm thu]",
-        "    TierC --> SnapC[Snapshot Shield .bak/] --> EngineC[VBHN Consolidate] --> DiffC[Verify Parity] --> StampC[Cấp tem an toàn]",
-        "```",
-        "",
-        "### 3.1 Hướng Dẫn Di Trú Từng Nhóm",
-        "- **Xử lý Nhóm A (Văn bản thuần túy):**",
-        "  1. Chạy lệnh: `python scripts/spoke_cli.py validate` để chắc chắn 15 gates xanh.",
-        "  2. Cấp dấu Provenance chính thức vào `metadata.yaml` ghi nhận đúng phiên bản bóc tách.",
-        "- **Xử lý Nhóm B (Quy chuẩn/Tiêu chuẩn kỹ thuật):**",
-        "  1. Không ghi đè toàn bộ bundle.",
-        "  2. Tái tạo `tables/` bằng `TableKnowledgeExtractor` (ADR 0041).",
-        "  3. Đồng bộ `figures/cards/` bằng `FigureExtractor` (ADR 0040).",
-        r"  4. Xác nhận Gate 12, Gate 13, Gate 14 đạt $100\%$ trước khi cấp dấu.",
-        "- **Xử lý Nhóm C (Văn bản Hợp nhất VBHN):**",
-        "  1. Sao lưu dự phòng `bang_so_sanh_thay_doi.md` và `patch_manifest.yaml`.",
-        "  2. Thực thi VBHN Engine tái hợp nhất từ `sources/*_goc.md` và `sources/sua_doi_*.md`.",
-        "  3. Đối chiếu diff bảo toàn toàn diện trước khi cấp dấu.",
-        "",
-    ])
+    lines.extend(
+        [
+            "",
+            "---",
+            "",
+            "## 3. Quy Trình Vận Hành Di Trú (Operational SOP)",
+            "",
+            "```mermaid",
+            "flowchart LR",
+            "    Queue[Hàng Đợi Di Trú] --> TierA[Nhóm A: Clean Passthrough]",
+            "    Queue --> TierB[Nhóm B: Compartment Refresh]",
+            "    Queue --> TierC[Nhóm C: Consolidated Shield]",
+            "",
+            "    TierA --> AuditA[Đối soát Gate 1-11] --> StampA[Attest okf_spec: v2.4 Universal]",
+            "    TierB --> SurgB[Phẫu thuật tables/ & figures/] --> AuditB[Gate 12-14] --> StampB[Cấp tem sau nghiệm thu]",
+            "    TierC --> SnapC[Snapshot Shield .bak/] --> EngineC[VBHN Consolidate] --> DiffC[Verify Parity] --> StampC[Cấp tem an toàn]",
+            "```",
+            "",
+            "### 3.1 Hướng Dẫn Di Trú Từng Nhóm",
+            "- **Xử lý Nhóm A (Văn bản thuần túy):**",
+            "  1. Chạy lệnh: `python scripts/spoke_cli.py validate` để chắc chắn 15 gates xanh.",
+            "  2. Cấp dấu Provenance chính thức vào `metadata.yaml` ghi nhận đúng phiên bản bóc tách.",
+            "- **Xử lý Nhóm B (Quy chuẩn/Tiêu chuẩn kỹ thuật):**",
+            "  1. Không ghi đè toàn bộ bundle.",
+            "  2. Tái tạo `tables/` bằng `TableKnowledgeExtractor` (ADR 0041).",
+            "  3. Đồng bộ `figures/cards/` bằng `FigureExtractor` (ADR 0040).",
+            r"  4. Xác nhận Gate 12, Gate 13, Gate 14 đạt $100\%$ trước khi cấp dấu.",
+            "- **Xử lý Nhóm C (Văn bản Hợp nhất VBHN):**",
+            "  1. Sao lưu dự phòng `bang_so_sanh_thay_doi.md` và `patch_manifest.yaml`.",
+            "  2. Thực thi VBHN Engine tái hợp nhất từ `sources/*_goc.md` và `sources/sua_doi_*.md`.",
+            "  3. Đối chiếu diff bảo toàn toàn diện trước khi cấp dấu.",
+            "",
+        ]
+    )
 
     return "\n".join(lines)
 
@@ -359,7 +401,9 @@ def run_provenance_audit(
 ) -> int:
     """Executes the full provenance audit and generates the living Markdown queue."""
     legal_docs_dir = root_dir / "legal_docs"
-    out_file = output_md or (root_dir / ".md" / "knowledge" / "provenance_migration_queue.md")
+    out_file = output_md or (
+        root_dir / ".md" / "knowledge" / "provenance_migration_queue.md"
+    )
     records = scan_all_bundles_provenance(legal_docs_dir)
 
     if attest_group_a:
@@ -370,7 +414,9 @@ def run_provenance_audit(
                 meta_file = legal_docs_dir / r["category"] / r["slug"] / "metadata.yaml"
                 if meta_file.exists():
                     try:
-                        meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        meta = (
+                            yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        )
                         meta["okf_spec"] = CURRENT_OKF_SPEC
                         meta["converter_version"] = CURRENT_CONVERTER_VERSION
                         meta["extracted_at"] = now_iso
@@ -387,14 +433,22 @@ def run_provenance_audit(
                     except Exception as exc:
                         print(f"Lỗi cấp tem cho {r['slug']}: {exc}")
         if not quiet:
-            print(f"\n[ATTESTATION SUCCESSFUL]: Đã cấp tem Provenance bảo chứng cho {attested_count} văn bản Nhóm A!\n")
+            print(
+                f"\n[ATTESTATION SUCCESSFUL]: Đã cấp tem Provenance bảo chứng cho {attested_count} văn bản Nhóm A!\n"
+            )
 
     if not quiet:
         print("=" * 115)
-        print("        CCBA FORENSIC PROVENANCE AUDIT & TIERED MIGRATION QUEUE (GATE 15)")
-        print(f"        Canonical Spec: {CURRENT_OKF_SPEC} | Converter: {CURRENT_CONVERTER_VERSION}")
+        print(
+            "        CCBA FORENSIC PROVENANCE AUDIT & TIERED MIGRATION QUEUE (GATE 15)"
+        )
+        print(
+            f"        Canonical Spec: {CURRENT_OKF_SPEC} | Converter: {CURRENT_CONVERTER_VERSION}"
+        )
         print("=" * 115)
-        print(f"{'Số hiệu / Doc ID':<28} | {'Loại':<12} | {'Nhóm Di Trú':<28} | {'Gate 15 Status':<18} | {'Đặc Tính Kỹ Thuật'}")
+        print(
+            f"{'Số hiệu / Doc ID':<28} | {'Loại':<12} | {'Nhóm Di Trú':<28} | {'Gate 15 Status':<18} | {'Đặc Tính Kỹ Thuật'}"
+        )
         print("-" * 115)
 
         for r in records:
@@ -409,7 +463,9 @@ def run_provenance_audit(
                 chars.append(f"{r['cards_count']} Card")
             char_str = ", ".join(chars) if chars else "Thuần text"
 
-            print(f"{short_num:<28} | {short_type:<12} | {r['group_label']:<28} | {r['status_label']:<18} | {char_str}")
+            print(
+                f"{short_num:<28} | {short_type:<12} | {r['group_label']:<28} | {r['status_label']:<18} | {char_str}"
+            )
 
         total_docs = len(records)
         verified_count = sum(1 for r in records if r["prov_status"] == "VERIFIED")
@@ -417,15 +473,27 @@ def run_provenance_audit(
         group_b_count = sum(1 for r in records if r["group"] == "GROUP_B")
         group_c_count = sum(1 for r in records if r["group"] == "GROUP_C")
         internal_count = sum(1 for r in records if r["group"] == "INTERNAL")
-        pct_verified = (verified_count / (total_docs - internal_count)) * 100 if (total_docs - internal_count) > 0 else 0.0
+        pct_verified = (
+            (verified_count / (total_docs - internal_count)) * 100
+            if (total_docs - internal_count) > 0
+            else 0.0
+        )
 
         print("-" * 115)
         print("📊 TỔNG HỢP KIỂM TOÁN NGUỒN GỐC & PHÂN HẠNG HÀNG ĐỢI:")
         print(f"  • Tổng số văn bản quản lý  : {total_docs} văn bản")
-        print(f"  • Đã cấp tem Provenance     : {verified_count} / {total_docs - internal_count} ({pct_verified:.1f}%)")
-        print(f"  • Nhóm A (Clean Passthrough): {group_a_count} văn bản (Sẵn sàng Attestation an toàn)")
-        print(f"  • Nhóm B (Compartment Ref)  : {group_b_count} văn bản (Cần phẫu thuật tables/ & figures/)")
-        print(f"  • Nhóm C (Consolidated VBHN): {group_c_count} văn bản (Cần bảo vệ Snapshot & re-run VBHN)")
+        print(
+            f"  • Đã cấp tem Provenance     : {verified_count} / {total_docs - internal_count} ({pct_verified:.1f}%)"
+        )
+        print(
+            f"  • Nhóm A (Clean Passthrough): {group_a_count} văn bản (Sẵn sàng Attestation an toàn)"
+        )
+        print(
+            f"  • Nhóm B (Compartment Ref)  : {group_b_count} văn bản (Cần phẫu thuật tables/ & figures/)"
+        )
+        print(
+            f"  • Nhóm C (Consolidated VBHN): {group_c_count} văn bản (Cần bảo vệ Snapshot & re-run VBHN)"
+        )
         print(f"  • Phụ lục đối chiếu nội bộ  : {internal_count} tài liệu (Protected)")
         print("=" * 115)
 
@@ -434,7 +502,9 @@ def run_provenance_audit(
     out_file.write_text(report_content, encoding="utf-8")
 
     if not quiet:
-        print(f"\n[QUEUE GENERATED]: Đã xuất bảng hàng đợi di trú tại -> {out_file.resolve()}\n")
+        print(
+            f"\n[QUEUE GENERATED]: Đã xuất bảng hàng đợi di trú tại -> {out_file.resolve()}\n"
+        )
 
     return 0
 
@@ -449,7 +519,7 @@ def canonical_legal_tokens(val: Any) -> set[str]:
     tokens = {s}
     for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
         if s.startswith(prefix):
-            tokens.add(s[len(prefix):])
+            tokens.add(s[len(prefix) :])
     m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
     if m:
         tokens.add(m.group(1))
@@ -644,7 +714,11 @@ def _render_relations_tree(
             if t in docs:
                 t_title = docs[t].get("title", "")
                 t_num = docs[t].get("document_number", "")
-                desc = f" -> {t_num} ({t_title[:60]}...)" if len(t_title) > 60 else f" -> {t_num} ({t_title})"
+                desc = (
+                    f" -> {t_num} ({t_title[:60]}...)"
+                    if len(t_title) > 60
+                    else f" -> {t_num} ({t_title})"
+                )
             print(f"     ├── {t}{desc}")
 
 
@@ -666,10 +740,230 @@ def print_graph_ecosystem(doc: dict[str, Any], graph: dict[str, Any]) -> None:
     print(f"  📁 Bundle:  {bundle_p}")
     print("-" * 80)
 
-    _render_relations_tree("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS):", doc.get("forward_relations", {}), RING_LABELS, docs, "🔹")
+    _render_relations_tree(
+        "➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS):",
+        doc.get("forward_relations", {}),
+        RING_LABELS,
+        docs,
+        "🔹",
+    )
     print()
-    _render_relations_tree("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS):", doc.get("reverse_relations", {}), REVERSE_LABELS, docs, "🔸")
+    _render_relations_tree(
+        "🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS):",
+        doc.get("reverse_relations", {}),
+        REVERSE_LABELS,
+        docs,
+        "🔸",
+    )
     print("=" * 80 + "\n")
+
+
+def _find_existing_registry_entry(
+    reg_data: dict[str, Any], slug: str, raw_meta: dict[str, Any]
+) -> tuple[str | None, int]:
+    """Search across laws, decrees, and standards for a matching registry entry."""
+    slug_norm = slug.lower().replace("-", "_")
+    raw_id = str(raw_meta.get("id", "")).lower().replace("-", "_")
+    raw_doc_num = str(raw_meta.get("document_number", "")).strip()
+
+    for sec_key in ("laws", "decrees", "standards"):
+        sec_list = reg_data.get(sec_key)
+        if not isinstance(sec_list, list):
+            continue
+        for idx, item in enumerate(sec_list):
+            if not isinstance(item, dict):
+                continue
+            item_id = str(item.get("id", "")).lower().replace("-", "_")
+            item_bundle = (
+                str(item.get("bundle_path", ""))
+                .strip("/")
+                .split("/")[-1]
+                .lower()
+                .replace("-", "_")
+            )
+            item_doc_num = str(item.get("document_number", "")).strip()
+            if (
+                (item_id and item_id in (slug_norm, raw_id))
+                or (item_bundle and item_bundle in (slug_norm, raw_id))
+                or (
+                    raw_doc_num
+                    and item_doc_num
+                    and item_doc_num.upper() == raw_doc_num.upper()
+                )
+            ):
+                return sec_key, idx
+    return None, -1
+
+
+def _merge_existing_registry_entry(
+    existing_entry: dict[str, Any],
+    new_entry: dict[str, Any],
+    raw_meta: dict[str, Any],
+    doc_title: str,
+) -> dict[str, Any]:
+    """Merge new_entry into existing_entry while preserving statutory validity and provenance."""
+    if "title" in existing_entry and (
+        doc_title.startswith("Mock Document")
+        or doc_title.startswith("Document ")
+        or doc_title.startswith("Văn bản quy phạm pháp luật ")
+        or doc_title.startswith("Quy chuẩn kỹ thuật quốc gia ")
+        or doc_title.startswith("Tiêu chuẩn quốc gia ")
+    ):
+        new_entry["title"] = existing_entry["title"]
+
+    preserve_if_missing = (
+        "signer",
+        "issued_by",
+        "relations",
+        "issued_date",
+        "effective_date",
+        "published_date",
+        "expiration_date",
+        "pdf_origin",
+        "raw_scan_pdf",
+    )
+    for field in preserve_if_missing:
+        if field in existing_entry and not raw_meta.get(field):
+            new_entry[field] = existing_entry[field]
+
+    raw_status = str(raw_meta.get("status", "")).strip().lower()
+    if "status" in existing_entry and (
+        not raw_status or raw_status in {"active", "effective", "current"}
+    ):
+        new_entry["status"] = existing_entry["status"]
+
+    if "source_assets" in existing_entry and isinstance(
+        existing_entry["source_assets"], dict
+    ):
+        new_assets = new_entry.setdefault("source_assets", {})
+        for asset_k, asset_v in existing_entry["source_assets"].items():
+            if asset_k not in new_assets:
+                new_assets[asset_k] = asset_v
+
+    existing_entry.update(new_entry)
+    for path_field in ("bundle_path", "pdf_path", "raw_scan_pdf", "source_file"):
+        if path_field in existing_entry and isinstance(existing_entry[path_field], str):
+            existing_entry[path_field] = existing_entry[path_field].replace("\\", "/")
+    return existing_entry
+
+
+def _handle_ingest_pdf_and_attachments(
+    sources_dir: Path,
+    slug: str,
+    input_docx: Path,
+    pdf_arg: Path | None,
+    raw_meta: dict[str, Any],
+    convert_fn: Any = None,
+) -> tuple[Path | None, Path | None, bool]:
+    """Copy attachments and handle ADR 0043 Dual-PDF rendering with safe fallback on error."""
+    attachments = raw_meta.get("attachments")
+    if isinstance(attachments, list) and attachments:
+        att_dir = sources_dir / "attachments"
+        for att in attachments:
+            att_p = Path(str(att))
+            if att_p.is_file():
+                att_dir.mkdir(parents=True, exist_ok=True)
+                dest_att = att_dir / att_p.name
+                if att_p.resolve() != dest_att.resolve():
+                    shutil.copy2(att_p, dest_att)
+
+    if not pdf_arg or not pdf_arg.exists():
+        return None, None, False
+
+    target_pdf = sources_dir / f"{slug}.pdf"
+    raw_scan_target = sources_dir / f"{slug}_raw_scan.pdf"
+    pdf_tier = raw_meta.get("pdf_tier")
+
+    if pdf_tier == 3 and input_docx.exists():
+        if pdf_arg.resolve() != raw_scan_target.resolve():
+            shutil.copy2(pdf_arg, raw_scan_target)
+        try:
+            if convert_fn is None:
+                from ccba_ooxml.converter import convert_to_pdf as convert_fn  # type: ignore[no-redef]
+            convert_fn(input_docx, target_pdf)
+            if target_pdf.exists() and target_pdf.stat().st_size > 0:
+                return target_pdf, raw_scan_target, True
+            raise RuntimeError("Rendered vector PDF is missing or empty")
+        except Exception as exc:
+            print(
+                f"  [ADR 0043 Fallback] Vector PDF conversion failed ({exc}), restoring scan."
+            )
+            if raw_scan_target.exists():
+                raw_scan_target.unlink(missing_ok=True)
+            if pdf_arg.resolve() != target_pdf.resolve():
+                shutil.copy2(pdf_arg, target_pdf)
+            return target_pdf, None, False
+
+    if pdf_arg.resolve() != target_pdf.resolve():
+        shutil.copy2(pdf_arg, target_pdf)
+    return target_pdf, None, False
+
+
+def _extract_docx_header_hints(docx_path: Path) -> dict[str, str]:
+    """Extract non-fabricated metadata hints from the first paragraphs and header table of a DOCX file."""
+    hints: dict[str, str] = {}
+    try:
+        from docx import Document
+
+        doc = Document(str(docx_path))
+        lines: list[str] = []
+        if doc.tables:
+            for row in doc.tables[0].rows[:4]:
+                for cell in row.cells:
+                    lines.extend(s.strip() for s in cell.text.splitlines() if s.strip())
+        lines.extend(
+            p.text.strip() for p in doc.paragraphs[:20] if p.text and p.text.strip()
+        )
+    except Exception:
+        return hints
+
+    doc_type_Anchor_idx = -1
+    for idx, line in enumerate(lines[:20]):
+        m_num = re.search(r"(?:Số|SỐ)\s*:\s*([^\s,;]+)", line)
+        if m_num and "document_number" not in hints:
+            hints["document_number"] = m_num.group(1).strip()
+        m_date = re.search(
+            r"ngày\s+(\d{1,2})\s+tháng\s+(\d{1,2})\s+năm\s+(\d{4})", line, re.I
+        )
+        if m_date and "issued_date" not in hints:
+            hints["issued_date"] = (
+                f"{int(m_date.group(3)):04d}-{int(m_date.group(2)):02d}-{int(m_date.group(1)):02d}"
+            )
+        if "issued_by" not in hints and re.match(
+            r"^(BỘ\s+\S+|CHÍNH\s+PHỦ|QUỐC\s+HỘI|THỦ\s+TƯỚNG\s+CHÍNH\s+PHỦ|ỦY\s+BAN\s+NHÂN\s+DÂN\s+\S+)",
+            line.upper(),
+        ):
+            hints["issued_by"] = line.strip(" -_*")
+        if doc_type_Anchor_idx < 0 and re.match(
+            r"^(NGHỊ\s+ĐỊNH|THÔNG\s+TƯ|LUẬT|QUYẾT\s+ĐỊNH|CHỈ\s+THỊ|NGHỊ\s+QUYẾT)\b",
+            line.upper(),
+        ):
+            doc_type_Anchor_idx = idx
+        elif (
+            doc_type_Anchor_idx >= 0
+            and idx <= doc_type_Anchor_idx + 2
+            and "title" not in hints
+            and len(line) > 10
+        ):
+            hints["title"] = f"{lines[doc_type_Anchor_idx].title()} {line}"
+    return hints
+
+
+def _recompute_registry_summary(reg_data: dict[str, Any]) -> None:
+    """Recompute registry_summary total_documents and 4 category counts by bundle_path."""
+    summary = reg_data.setdefault("registry_summary", {})
+    cat_map = summary.setdefault("categories", {})
+    all_entries: list[dict[str, Any]] = []
+    for sec_key in ("laws", "decrees", "standards"):
+        sec_list = reg_data.get(sec_key)
+        if isinstance(sec_list, list):
+            all_entries.extend(item for item in sec_list if isinstance(item, dict))
+
+    for cat in ("01_vbpl", "02_qcvn", "03_tcvn", "04_appendices"):
+        cat_map[cat] = sum(
+            1 for item in all_entries if f"/{cat}/" in str(item.get("bundle_path", ""))
+        )
+    summary["total_documents"] = len(all_entries)
 
 
 def main() -> None:
@@ -698,15 +992,34 @@ def main() -> None:
     )
 
     # Command: ingest
-    ingest_parser = subparsers.add_parser("ingest", help="Ingest a .docx file into an OKF v2.4 bundle")
-    ingest_parser.add_argument("docx_path", type=Path, help="Path to input .docx file")
-    ingest_parser.add_argument("slug", type=str, help="Document slug (e.g. nghi_dinh_217_2026_nd_cp)")
-    ingest_parser.add_argument(
-        "-c", "--category", type=str, choices=["01_vbpl", "02_qcvn", "03_tcvn"], default="01_vbpl", help="Document category"
+    ingest_parser = subparsers.add_parser(
+        "ingest", help="Ingest a .docx file into an OKF v2.4 bundle"
     )
-    ingest_parser.add_argument("-t", "--doc-type", type=str, default="vbpl", help="Document profile type (default: vbpl)")
-    ingest_parser.add_argument("--pdf-path", type=Path, default=None, help="Path to input .pdf file")
-    ingest_parser.add_argument("--metadata", type=Path, default=None, help="Path to metadata JSON handoff file")
+    ingest_parser.add_argument("docx_path", type=Path, help="Path to input .docx file")
+    ingest_parser.add_argument(
+        "slug", type=str, help="Document slug (e.g. nghi_dinh_217_2026_nd_cp)"
+    )
+    ingest_parser.add_argument(
+        "-c",
+        "--category",
+        type=str,
+        choices=["01_vbpl", "02_qcvn", "03_tcvn"],
+        default="01_vbpl",
+        help="Document category",
+    )
+    ingest_parser.add_argument(
+        "-t",
+        "--doc-type",
+        type=str,
+        default="vbpl",
+        help="Document profile type (default: vbpl)",
+    )
+    ingest_parser.add_argument(
+        "--pdf-path", type=Path, default=None, help="Path to input .pdf file"
+    )
+    ingest_parser.add_argument(
+        "--metadata", type=Path, default=None, help="Path to metadata JSON handoff file"
+    )
 
     # Command: sync-notebooklm
     sync_parser = subparsers.add_parser(
@@ -789,7 +1102,10 @@ def main() -> None:
         graph = build_bidirectional_legal_graph(reg_data)
         doc = query_legal_graph(graph, args.doc)
         if not doc:
-            print(f"[NOT FOUND] Không tìm thấy văn bản nào khớp với truy vấn: '{args.doc}'", file=sys.stderr)
+            print(
+                f"[NOT FOUND] Không tìm thấy văn bản nào khớp với truy vấn: '{args.doc}'",
+                file=sys.stderr,
+            )
             sys.exit(1)
 
         if args.json:
@@ -834,13 +1150,6 @@ def main() -> None:
         else:
             input_docx = args.docx_path
 
-        # Preserve PDF in sources/ if provided
-        target_pdf: Path | None = None
-        if args.pdf_path and args.pdf_path.exists():
-            target_pdf = sources_dir / f"{args.slug}.pdf"
-            if args.pdf_path.resolve() != target_pdf.resolve():
-                shutil.copy2(args.pdf_path, target_pdf)
-
         # Load metadata JSON if provided
         raw_meta: dict[str, Any] = {}
         if args.metadata and args.metadata.exists():
@@ -848,6 +1157,27 @@ def main() -> None:
                 raw_meta = json.loads(args.metadata.read_text(encoding="utf-8"))
             except Exception as exc:
                 print(f"Warning: Failed to parse metadata handoff JSON: {exc}")
+
+        placeholder_titles = {f"Document {args.slug}", f"Mock Document {args.slug}"}
+        placeholder_nums = {args.slug.replace("_", " ").upper(), args.slug.upper()}
+        for hint_k, hint_v in _extract_docx_header_hints(input_docx).items():
+            cur_val = str(raw_meta.get(hint_k, "")).strip()
+            if (
+                not cur_val
+                or (hint_k == "title" and cur_val in placeholder_titles)
+                or (hint_k == "document_number" and cur_val in placeholder_nums)
+            ):
+                raw_meta[hint_k] = hint_v
+
+        target_pdf, raw_scan_pdf, is_vector_rendered = (
+            _handle_ingest_pdf_and_attachments(
+                sources_dir=sources_dir,
+                slug=args.slug,
+                input_docx=input_docx,
+                pdf_arg=args.pdf_path,
+                raw_meta=raw_meta,
+            )
+        )
 
         # Compute file hashes
         import hashlib
@@ -871,7 +1201,9 @@ def main() -> None:
         doc_meta: dict[str, Any] = {}
         if registry_file.exists():
             try:
-                reg_data = yaml.safe_load(registry_file.read_text(encoding="utf-8")) or {}
+                reg_data = (
+                    yaml.safe_load(registry_file.read_text(encoding="utf-8")) or {}
+                )
             except Exception as exc:
                 print(f"Warning: Failed to load registry: {exc}")
                 reg_data = {}
@@ -879,62 +1211,55 @@ def main() -> None:
             reg_data = {}
 
         is_vbpl = args.category == "01_vbpl"
-        section_key = "laws" if is_vbpl else "standards"
-        if section_key not in reg_data or not isinstance(reg_data[section_key], list):
-            reg_data[section_key] = []
+        default_section_key = "laws" if is_vbpl else "standards"
+        if default_section_key not in reg_data or not isinstance(
+            reg_data[default_section_key], list
+        ):
+            reg_data[default_section_key] = []
 
-        # Find existing entry or create new
-        existing_idx = -1
-        slug_norm = args.slug.lower().replace("-", "_")
-        for idx, item in enumerate(reg_data[section_key]):
-            if isinstance(item, dict):
-                item_id = str(item.get("id", "")).lower().replace("-", "_")
-                item_bundle = str(item.get("bundle_path", "")).strip("/").split("/")[-1].lower().replace("-", "_")
-                item_doc_num = str(item.get("document_number", "")).strip()
-                raw_id = str(raw_meta.get("id", "")).lower().replace("-", "_")
-                raw_doc_num = str(raw_meta.get("document_number", "")).strip()
+        matched_section_key, existing_idx = _find_existing_registry_entry(
+            reg_data, args.slug, raw_meta
+        )
 
-                if (
-                    (item_id and item_id in (slug_norm, raw_id))
-                    or (item_bundle and item_bundle in (slug_norm, raw_id))
-                    or (raw_doc_num and item_doc_num and item_doc_num.upper() == raw_doc_num.upper())
-                ):
-                    existing_idx = idx
-                    break
-
-        doc_num = raw_meta.get("document_number", args.slug.replace("_", " ").upper())
+        doc_num = raw_meta.get("document_number") or args.slug.replace("_", " ").upper()
         if is_vbpl:
             default_type = "Nghị định"
-            default_issued = "Chính phủ"
             default_title = f"Văn bản quy phạm pháp luật {doc_num}"
         elif args.category == "02_qcvn":
             default_type = "Quy chuẩn kỹ thuật"
-            default_issued = "Bộ Xây dựng"
             default_title = f"Quy chuẩn kỹ thuật quốc gia {doc_num}"
         else:
             default_type = "Tiêu chuẩn quốc gia"
-            default_issued = "Bộ Khoa học và Công nghệ"
             default_title = f"Tiêu chuẩn quốc gia {doc_num}"
 
-        doc_title = raw_meta.get("title", default_title)
-        pdf_status = "verified" if (target_pdf and target_pdf.exists()) else raw_meta.get("pdf_status", "pending_download")
+        doc_title = raw_meta.get("title") or default_title
+        pdf_status = (
+            "verified"
+            if (target_pdf and target_pdf.exists())
+            else raw_meta.get("pdf_status", "pending_download")
+        )
 
         new_entry: dict[str, Any] = {
             "id": raw_meta.get("id", args.slug),
             "document_number": doc_num,
             "type": raw_meta.get("type", default_type),
-            "issued_by": raw_meta.get("issued_by", default_issued),
-            "signer": raw_meta.get("signer", "Thủ tướng Chính phủ" if is_vbpl else ""),
-            "issued_date": raw_meta.get("issued_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
-            "effective_date": raw_meta.get("effective_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
-            "published_date": raw_meta.get("published_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
+            "issued_by": raw_meta.get("issued_by", ""),
+            "signer": raw_meta.get("signer", ""),
+            "issued_date": raw_meta.get("issued_date", ""),
+            "effective_date": raw_meta.get("effective_date", ""),
+            "published_date": raw_meta.get("published_date", ""),
             "status": raw_meta.get("status", "active"),
             "relations": raw_meta.get("relations", {}),
             "title": doc_title,
             "bundle_path": f"legal_docs/{args.category}/{args.slug}/",
             "source_url": raw_meta.get("source_url", raw_meta.get("url", "")),
             "sha256": docx_sha,
-            "pdf_path": f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf" if target_pdf else raw_meta.get("pdf_path", f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf"),
+            "pdf_path": f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf"
+            if target_pdf
+            else raw_meta.get(
+                "pdf_path",
+                f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf",
+            ),
             "pdf_sha256": pdf_sha,
             "cong_bao_number": raw_meta.get("cong_bao_number", "Đang cập nhật"),
             "pdf_status": pdf_status,
@@ -953,6 +1278,19 @@ def main() -> None:
                 },
             },
         }
+        if is_vector_rendered and raw_scan_pdf and raw_scan_pdf.exists():
+            raw_scan_sha = _calc_sha256(raw_scan_pdf)
+            new_entry["pdf_origin"] = "docx_vector_rendered"
+            new_entry["raw_scan_pdf"] = (
+                f"legal_docs/{args.category}/{args.slug}/sources/{raw_scan_pdf.name}"
+            )
+            new_entry["source_assets"]["pdf"]["origin"] = "docx_vector_rendered"
+            new_entry["source_assets"]["raw_scan"] = {
+                "sha256": raw_scan_sha,
+                "vault_path": f"CCBA_Legal_Vault/{args.category}/{args.slug}/{raw_scan_pdf.name}",
+                "status": "verified",
+                "acquisition_method": "official_gazette_scan",
+            }
         EXCLUDED_REGISTRY_KEYS = {
             "content",
             "html",
@@ -976,54 +1314,36 @@ def main() -> None:
                 new_entry[path_field] = new_entry[path_field].replace("\\", "/")
 
         for asset_k, asset_v in new_entry.get("source_assets", {}).items():
-            if isinstance(asset_v, dict) and "vault_path" in asset_v and isinstance(asset_v["vault_path"], str):
+            if (
+                isinstance(asset_v, dict)
+                and "vault_path" in asset_v
+                and isinstance(asset_v["vault_path"], str)
+            ):
                 asset_v["vault_path"] = asset_v["vault_path"].replace("\\", "/")
 
-        if existing_idx >= 0:
-            existing_entry = reg_data[section_key][existing_idx]
-            # Preserve existing rich metadata if new entry only has fallback/mock defaults
-            if "title" in existing_entry and (doc_title.startswith("Mock Document") or doc_title.startswith("Document ")):
-                new_entry["title"] = existing_entry["title"]
-            if "signer" in existing_entry and not raw_meta.get("signer"):
-                new_entry["signer"] = existing_entry["signer"]
-            if "issued_by" in existing_entry and not raw_meta.get("issued_by"):
-                new_entry["issued_by"] = existing_entry["issued_by"]
-            if "relations" in existing_entry and not raw_meta.get("relations"):
-                new_entry["relations"] = existing_entry["relations"]
-            if "issued_date" in existing_entry and not raw_meta.get("issued_date"):
-                new_entry["issued_date"] = existing_entry["issued_date"]
-            if "effective_date" in existing_entry and not raw_meta.get("effective_date"):
-                new_entry["effective_date"] = existing_entry["effective_date"]
-
-            if "source_assets" in existing_entry and isinstance(existing_entry["source_assets"], dict):
-                for asset_k, asset_v in existing_entry["source_assets"].items():
-                    if asset_k not in new_entry["source_assets"]:
-                        new_entry["source_assets"][asset_k] = asset_v
-            existing_entry.update(new_entry)
-            for path_field in ["bundle_path", "pdf_path", "raw_scan_pdf", "source_file"]:
-                if path_field in existing_entry and isinstance(existing_entry[path_field], str):
-                    existing_entry[path_field] = existing_entry[path_field].replace("\\", "/")
-            doc_meta = existing_entry
+        if matched_section_key is not None and existing_idx >= 0:
+            existing_entry = reg_data[matched_section_key][existing_idx]
+            doc_meta = _merge_existing_registry_entry(
+                existing_entry, new_entry, raw_meta, doc_title
+            )
         else:
-            reg_data[section_key].append(new_entry)
+            reg_data[default_section_key].append(new_entry)
             doc_meta = new_entry
 
-        summary = reg_data.setdefault("registry_summary", {})
-        cat_map = summary.setdefault("categories", {})
-        laws_list = reg_data.get("laws") or []
-        standards_list = reg_data.get("standards") or []
-        cat_map[args.category] = sum(
-            1 for item in (laws_list + standards_list)
-            if isinstance(item, dict) and f"/{args.category}/" in item.get("bundle_path", "")
-        )
-        summary["total_documents"] = len(laws_list) + len(standards_list)
+        _recompute_registry_summary(reg_data)
         reg_data["updated_at"] = datetime.now(timezone.utc).isoformat()
 
         with open(registry_file, "w", encoding="utf-8") as f:
             yaml.dump(reg_data, f, allow_unicode=True, sort_keys=False, indent=2)
+        md_data_reg = root_dir / ".md" / "data" / "legal_registry.yaml"
+        if md_data_reg.exists():
+            shutil.copy2(registry_file, md_data_reg)
 
         if convert_docx_to_okf_bundle is None:
-            print("[ERROR] ccba_legal is required for ingest. Please ensure ccba-legal-intel is installed.", file=sys.stderr)
+            print(
+                "[ERROR] ccba_legal is required for ingest. Please ensure ccba-legal-intel is installed.",
+                file=sys.stderr,
+            )
             sys.exit(1)
 
         res = convert_docx_to_okf_bundle(
@@ -1034,14 +1354,38 @@ def main() -> None:
             registry_file=registry_file,
             doc_meta=doc_meta,
         )
+        bundle_meta_file = target_bundle_dir / "metadata.yaml"
+        if bundle_meta_file.exists() or is_vector_rendered:
+            existing_bmeta: dict[str, Any] = {}
+            if bundle_meta_file.exists():
+                existing_bmeta = (
+                    yaml.safe_load(bundle_meta_file.read_text(encoding="utf-8")) or {}
+                )
+            for sync_key in (
+                "pdf_origin",
+                "raw_scan_pdf",
+                "pdf_sha256",
+                "source_assets",
+            ):
+                if sync_key in doc_meta:
+                    existing_bmeta[sync_key] = doc_meta[sync_key]
+            with open(bundle_meta_file, "w", encoding="utf-8") as bf:
+                yaml.dump(
+                    existing_bmeta, bf, allow_unicode=True, sort_keys=False, indent=2
+                )
         print(f"\n[INGEST SUCCESSFUL]: {res}")
 
     elif args.command == "sync-notebooklm":
         import asyncio
-        from scripts.sync_notebooklm_knowledge import execute_sync, get_canonical_manifest
+        from scripts.sync_notebooklm_knowledge import (
+            execute_sync,
+            get_canonical_manifest,
+        )
 
         sources = get_canonical_manifest(root_dir)
-        code = asyncio.run(execute_sync(args.notebook_id, sources, dry_run=args.dry_run))
+        code = asyncio.run(
+            execute_sync(args.notebook_id, sources, dry_run=args.dry_run)
+        )
         sys.exit(code)
 
     else:
