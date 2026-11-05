@@ -549,8 +549,8 @@ def _build_html_report(
                 }} else {{
                     let locLabel = "Biểu thức không số hiệu";
                     let fid = row.formula_id || "";
-                    let mClause = fid.match(/_C(\d+(?:_\d+)+)_/);
-                    let mAnnex = fid.match(/_ANNEX_([A-Z](?:_\d+)+)_/);
+                    let mClause = fid.match(/_C(\\d+(?:_\\d+)+)_/);
+                    let mAnnex = fid.match(/_ANNEX_([A-Z](?:_\\d+)+)_/);
                     if (mClause) {{
                         let cNum = mClause[1].replace(/_/g, ".");
                         locLabel = `Mục ${{cNum}} • Không số hiệu`;

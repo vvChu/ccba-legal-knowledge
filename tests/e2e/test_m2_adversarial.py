@@ -22,7 +22,7 @@ import docx
 import pytest
 
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
-DOCX_PATH = ROOT_DIR / ".md" / "extracted_docs" / "qcvn_06_2022_bxd" / "qcvn_06_2022_bxd.docx"
+DOCX_PATH = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "sources" / "qcvn_06_2022_bxd.docx"
 TABLES_JSON_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "tables" / "json"
 TABLES_CSV_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "tables" / "csv"
 MD_PATH = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "qcvn_06_2022_bxd.md"
@@ -43,8 +43,11 @@ CANONICAL_TABLE_ORDER = [
 ]
 
 def get_all_md_content() -> str:
-    """Reads normative body and all annexes in OKF bundle."""
+    """Reads normative body, base 2022 source markdown, and all annexes in OKF bundle."""
     text = MD_PATH.read_text(encoding="utf-8")
+    goc_md = MD_PATH.parent / "sources" / "qcvn_06_2022_bxd_goc_2022.md"
+    if goc_md.exists():
+        text += "\n\n" + goc_md.read_text(encoding="utf-8")
     annex_dir = MD_PATH.parent / "annexes"
     if annex_dir.exists():
         for af in sorted(annex_dir.glob("*.md")):

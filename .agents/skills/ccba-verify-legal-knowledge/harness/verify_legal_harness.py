@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 from datetime import datetime, timezone
+import importlib.util
 import json
 import os
 from pathlib import Path
@@ -198,11 +199,24 @@ class LegalVerificationHarness:
         commands_to_run: List[Tuple[str, List[str]]] = []
 
         cleanliness_script = str(self._resolve_cleanliness_script())
+        unit_test_dir = self.spoke_root / "tests" / "unit"
+        has_unit_deps = (
+            unit_test_dir.is_dir()
+            and importlib.util.find_spec("pytest") is not None
+            and importlib.util.find_spec("ccba_legal") is not None
+        )
         if self.mode == "cleanliness":
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
                     [sys.executable, cleanliness_script],
+                )
+            )
+        elif self.mode == "unit":
+            commands_to_run.append(
+                (
+                    "Spoke Unit Test Suite",
+                    [sys.executable, "-m", "pytest", str(unit_test_dir), "-q"],
                 )
             )
         elif self.mode == "bundle":
@@ -219,13 +233,20 @@ class LegalVerificationHarness:
                 cmd.append("--skip-pdf-vault")
             commands_to_run.append((f"Scoped Bundle Check [{self.bundle}]", cmd))
         elif self.mode == "smoke":
-            # Smoke check: Cleanliness + Scoped fast check on primary bundle if available
+            # Smoke check: Cleanliness + Unit Tests (when Hub SDK & pytest installed) + Scoped fast check
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
                     [sys.executable, cleanliness_script],
                 )
             )
+            if has_unit_deps:
+                commands_to_run.append(
+                    (
+                        "Spoke Unit Test Suite",
+                        [sys.executable, "-m", "pytest", str(unit_test_dir), "-q"],
+                    )
+                )
             smoke_cmd = [
                 sys.executable,
                 str(self.spoke_root / "scripts" / "validate_legal_spoke.py"),
@@ -242,6 +263,13 @@ class LegalVerificationHarness:
                     [sys.executable, cleanliness_script],
                 )
             )
+            if has_unit_deps:
+                commands_to_run.append(
+                    (
+                        "Spoke Unit Test Suite",
+                        [sys.executable, "-m", "pytest", str(unit_test_dir), "-q"],
+                    )
+                )
             full_cmd = [
                 sys.executable,
                 str(self.spoke_root / "scripts" / "validate_legal_spoke.py"),
@@ -261,6 +289,7 @@ class LegalVerificationHarness:
             output_lines: List[str] = []
             if proc.stdout:
                 for line in proc.stdout:
+                    output_lines.append(line)
                     sys.stdout.write(line)
                     sys.stdout.flush()
             timed_out = False
@@ -354,9 +383,9 @@ def main() -> None:
     )
     parser.add_argument(
         "--mode",
-        choices=["smoke", "full", "cleanliness", "bundle"],
+        choices=["smoke", "full", "cleanliness", "bundle", "unit"],
         default="full",
-        help="Verification mode: smoke (fast), full (all 15 gates), cleanliness (ADR-0044), bundle (scoped)",
+        help="Verification mode: smoke (fast), full (all 15 gates), cleanliness (ADR-0044), bundle (scoped), unit (pytest unit suite)",
     )
     parser.add_argument(
         "--bundle",

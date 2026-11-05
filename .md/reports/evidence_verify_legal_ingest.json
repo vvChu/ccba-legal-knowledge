@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "skill": "ccba-verify-legal-ingest",
+  "target_skills": [
+    "ccba-legal-ingest",
+    "ccba-tvpl-vip-crawler",
+    "ccba-legal-document-tracker",
+    "ccba-legal-advisor"
+  ],
+  "timestamp": "2026-11-05T07:53:45.859174+00:00",
+  "mode": "smoke",
+  "overall_status": "PASSED",
+  "overall_exit_code": 0,
+  "total_duration_seconds": 0.179,
+  "executed_steps": [
+    {
+      "label": "In-Memory Pipeline Contracts (FEAT-ING-001..005)",
+      "command": "in_memory_pipeline_checks",
+      "exit_code": 0,
+      "duration_seconds": 0.179,
+      "status": "PASSED",
+      "message": "All 5 in-memory contracts (Mutex, Sanitizer, VisualParity, VBHN, Currency) PASSED."
+    }
+  ]
+}
