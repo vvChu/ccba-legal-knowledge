@@ -14,6 +14,8 @@ agent_skills:
 - form-template-cleaner
 - table-reconstructor
 - ccba-verify-legal-knowledge
+- ccba-verify-legal-intel
+- ccba-verify-legal-ingest
 agents:
   language: vi
   primary_domain: legal-standards
@@ -48,3 +50,7 @@ project:
   qc_mode: standalone-knowledge-base
   type: "Pháp điển"
   archetype: "knowledge_corpus"
+verification:
+  test_path:
+  - tests/unit
+

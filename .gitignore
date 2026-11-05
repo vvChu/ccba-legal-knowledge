@@ -20,6 +20,8 @@ requirements-hub.txt
 !.agents/skills/
 .agents/skills/*
 !.agents/skills/ccba-verify-legal-knowledge/
+!.agents/skills/ccba-verify-legal-intel/
+!.agents/skills/ccba-verify-legal-ingest/
 !.agents/workflows/
 !.agents/workflows/*.bak
 !.agents/proposals/
@@ -86,6 +88,7 @@ legal_docs/**/*.doc
 # Pre-computed Embedding Cache (ADR 0060)
 *.npy
 *.npy.sha256
+.rag_cache/
 
 # Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
 .md/peer_exchange/.bridge_cache.json

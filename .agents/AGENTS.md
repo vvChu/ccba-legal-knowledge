@@ -26,6 +26,7 @@ For detailed operational guidance, follow these domain resources:
 - **Execution Guardrails & Async Tasks**: See [`docs/rules/execution_runtime_guardrails.md`](rules/execution_runtime_guardrails.md) and [`docs/rules/execution_coordination_guardrails.md`](rules/execution_coordination_guardrails.md)
 - **Git Conventions**: See [`docs/rules/git_conventions.md`](rules/git_conventions.md)
 - **Code Quality & SDLC Loop**: See [`docs/rules/code_quality_standards.md`](rules/code_quality_standards.md) and [`docs/rules/code_quality_verification.md`](rules/code_quality_verification.md)
+- **Internet Knowledge Research & Provenance**: See [`docs/rules/knowledge_research_protocol.md`](rules/knowledge_research_protocol.md)
 - **Bugbot & Advisory AI Review Rules**: See [`.github/bugbot-rules.md`](rules/bugbot-rules.md) and [`docs/rules/execution_coordination_guardrails.md`](rules/execution_coordination_guardrails.md#19-atomic-micro-pr-pipeline--read-only-advisory-ai-review-guardrail)
 - **Domain Vocabulary & ADRs**: See [`CONTEXT.md`](../CONTEXT.md) and [`docs/adr/`](../docs/adr/)
 - **Monorepo Packages**: See individual `packages/*/AGENTS.md` for package-specific Deep Seams and scoped tests.
