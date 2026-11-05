@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 from datetime import datetime, timezone
+import importlib.util
 import json
 import os
 from pathlib import Path
@@ -199,6 +200,11 @@ class LegalVerificationHarness:
 
         cleanliness_script = str(self._resolve_cleanliness_script())
         unit_test_dir = self.spoke_root / "tests" / "unit"
+        has_unit_deps = (
+            unit_test_dir.is_dir()
+            and importlib.util.find_spec("pytest") is not None
+            and importlib.util.find_spec("ccba_legal") is not None
+        )
         if self.mode == "cleanliness":
             commands_to_run.append(
                 (
@@ -227,14 +233,14 @@ class LegalVerificationHarness:
                 cmd.append("--skip-pdf-vault")
             commands_to_run.append((f"Scoped Bundle Check [{self.bundle}]", cmd))
         elif self.mode == "smoke":
-            # Smoke check: Cleanliness + Unit Tests + Scoped fast check on primary bundle if available
+            # Smoke check: Cleanliness + Unit Tests (when Hub SDK & pytest installed) + Scoped fast check
             commands_to_run.append(
                 (
                     "Spoke Cleanliness Check",
                     [sys.executable, cleanliness_script],
                 )
             )
-            if unit_test_dir.is_dir():
+            if has_unit_deps:
                 commands_to_run.append(
                     (
                         "Spoke Unit Test Suite",
@@ -257,7 +263,7 @@ class LegalVerificationHarness:
                     [sys.executable, cleanliness_script],
                 )
             )
-            if unit_test_dir.is_dir():
+            if has_unit_deps:
                 commands_to_run.append(
                     (
                         "Spoke Unit Test Suite",
