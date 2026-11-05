@@ -436,6 +436,8 @@ class LegalSpokeValidator:
                     self.errors.append(
                         f"OKF Index Link Error [{doc_dir.name}]: Invalid DOCX link '{href}' in index.md."
                     )
+            elif norm.rstrip("/") == "sources":
+                continue
             elif not (doc_dir / clean_href).exists():
                 self.errors.append(
                     f"OKF Index Link Error [{doc_dir.name}]: Broken link '{href}' in index.md (target does not exist)."
