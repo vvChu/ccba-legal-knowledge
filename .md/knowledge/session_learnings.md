@@ -1,94 +1,80 @@
 # 🧠 CCBA Legal Knowledge Spoke: Active Architectural Invariants (Compacted Working Memory)
 
 > **Phạm vi:** Spoke Tri thức Pháp lý (`ccba-legal-knowledge`) | **Chuẩn:** OKF v2.4 (ADR 0021-0066)
-> **Chi tiết Lịch sử 53 Bài Học:** [session_learnings_history.md](archive/session_learnings_history.md) | Ngân sách: $\le 10\text{ KB}$
+> **Chi tiết Lịch sử 54 Bài Học:** [session_learnings_history.md](archive/session_learnings_history.md) | Ngân sách: $\le 10\text{ KB}$
 
 ---
 
 ## Miền 1. 🌐 Thu Thập & Xác Thực Nguồn Gốc Pháp Lý (Acquisition, Ingestion & Provenance)
 
 - **RULE-1.1 [TVPL VIP 3-Tier Download Priority — ADR 0031 & ADR 0035]**:
-  - *Tier 1 (`part=-100`)*: VIP Digital Vector PDF (Mỏ neo pháp lý tối thượng, zero-OCR).
-  - *Tier 2 (`part=-1&docx=1`)*: VIP OpenXML Word Document (Nguồn dữ liệu gốc vàng nạp `docx_converter.py`).
-  - *Tier 3 (`part=0`)*: Gazette Scan PDF (Bản scan Công báo dự phòng).
+  - *Tier 1 (`part=-100`)*: VIP Digital Vector PDF (zero-OCR). *Tier 2 (`part=-1&docx=1`)*: VIP OpenXML Word (`docx_converter.py`). *Tier 3 (`part=0`)*: Gazette Scan PDF dự phòng.
 - **RULE-1.2 [Giao Thức Một Cửa `tab=7` & Chromium VIP Session — ADR 0031]**:
-  - Dùng Chromium CDP cổng `9222` với profile `~/.gemini/antigravity/chrome_vip`. Toàn bộ tải file DOCX/PDF đi qua giao thức `tab=7` và API TVPL.
+  - Dùng Chromium CDP cổng `9222` với profile `~/.gemini/antigravity/chrome_vip`; tải DOCX/PDF qua `tab=7` và API TVPL.
 - **RULE-1.3 [Lưu Trữ Song Song Dual-PDF & Vault Drive — ADR 0043]**:
-  - Scan mờ lưu `sources/<slug>_raw_scan.pdf`. Vector PDF từ Word COM lưu `sources/<slug>.pdf` kèm cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`. Đồng bộ cả 2 lên Google Drive Vault `CCBA_Legal_Vault`.
+  - Scan mờ lưu `sources/<slug>_raw_scan.pdf`; Vector PDF từ Word COM lưu `sources/<slug>.pdf` kèm `pdf_origin: docx_vector_rendered` trong `metadata.yaml`, đồng bộ lên `CCBA_Legal_Vault`.
 - **RULE-1.4 [Chuẩn Hóa Đường Dẫn POSIX Toàn Cầu — ADR 0035 & ADR 0036]**:
-  - 100% đường dẫn trong `legal_registry.yaml` và `metadata.yaml` BẮT BUỘC dùng dấu `/`, cấm tuyệt đối dấu Windows `\`.
-  - Mọi pipeline nạp văn bản (`spoke_cli.py ingest`) tự động chuẩn hóa qua `.replace("\\", "/")`.
-  - Gate 1 và Gate 2 trong `validate_legal_spoke.py` chặn ngay lập tức nếu phát hiện ký tự `\`.
+  - 100% đường dẫn trong `legal_registry.yaml` và `metadata.yaml` BẮT BUỘC dùng `/`, cấm `\`. Pipeline `spoke_cli.py ingest` tự động chuẩn hóa `.replace("\\", "/")`; Gate 1 & Gate 2 chặn ngay nếu phát hiện `\`.
 - **RULE-1.5 [Quét Hợp Nhất 3 Khóa Sổ Bộ & Bảo Toàn Hiệu Lực Re-Ingest — PR #44 & Hub PR #607]**:
-  - Mọi công cụ đọc/ghi `legal_registry.yaml` (`spoke_cli.py`, `validate_legal_spoke.py` Sub-Gate 5.3, `verify_all_docs_against_pdf.py`) BẮT BUỘC quét hợp nhất cả 3 danh sách `("laws", "decrees", "standards")` và đếm 4 phân khu trong `registry_summary` theo chuỗi `/{cat}/` trong `bundle_path`.
-  - Khi re-ingest văn bản đã tồn tại, BẮT BUỘC bảo toàn `status` hiện hữu (`expired`, `superseded`), `expiration_date`, `relations`, `pdf_origin`, `raw_scan_pdf` khi payload mới chỉ mang giá trị mặc định (`active`/`effective`), đồng thời tuyệt đối không bịa đặt `"Chính phủ"`, `"Thủ tướng Chính phủ"`, hay ngày mặc định khi metadata trống.
+  - Mọi công cụ đọc/ghi `legal_registry.yaml` (`spoke_cli.py`, `validate_legal_spoke.py` Sub-Gate 5.3, `verify_all_docs_against_pdf.py`) BẮT BUỘC quét hợp nhất `("laws", "decrees", "standards")` và đếm 4 phân khu trong `registry_summary` theo `/{cat}/` trong `bundle_path`.
+  - Khi re-ingest văn bản đã tồn tại, BẮT BUỘC bảo toàn `status` (`expired`, `superseded`), `expiration_date`, `relations`, `pdf_origin`, `raw_scan_pdf` khi payload mới chỉ mang giá trị mặc định (`active`/`effective`); cấm bịa đặt `"Chính phủ"`, `"Thủ tướng Chính phủ"` hay ngày mặc định.
 
 ---
 
 ## Miền 2. 📐 Bóc Tách Đa Phương Thức & Chuẩn Hóa Toán Học KaTeX (Multimodal & KaTeX Integrity)
 
 - **RULE-2.1 [Bóc Tách Xác Định MTEF MathType & Khử Tệp Đóng Kín — ADR 0040]**:
-  - Bóc tách 100% công thức MathType nhị phân (MTEF v3/v5) từ OLE stream sang KaTeX, không qua OCR hay tốn AI token.
-  - Áp dụng 4-Tier Hybrid Formula Fallback Engine. Vector WMF/EMF bắt buộc chuyển sang Dual-Format (SVG và PNG $\ge 300\text{ DPI}$). Nghiêm cấm lưu file `.wmf`/`.emf` nhị phân đóng kín.
+  - Bóc tách 100% công thức MathType nhị phân (MTEF v3/v5) từ OLE stream sang KaTeX (4-Tier Hybrid Formula Fallback Engine, zero-OCR). Vector WMF/EMF bắt buộc chuyển sang Dual-Format (SVG và PNG $\ge 300\text{ DPI}$); nghiêm cấm lưu `.wmf`/`.emf` đóng kín.
 - **RULE-2.2 [Cú Pháp Toán Học KaTeX Đa Dòng & Bảo Toàn Dấu — ADR 0038 & ADR 0044]**:
-  - Trong các môi trường đa dòng (`aligned`, `cases`, `gather`), BẮT BUỘC dùng `\qquad (X)` ở cuối dòng thay cho `\tag{...}` để đảm bảo không sinh lỗi bôi đỏ KaTeX.
-  - Bảo tồn tuyệt đối cặp ngoặc `\left[` / `\right]`. Tách chú thích hình `<!-- FIGURE: ... -->` ra khỏi khối KaTeX `$$`.
+  - Trong môi trường đa dòng (`aligned`, `cases`, `gather`), BẮT BUỘC dùng `\qquad (X)` cuối dòng thay cho `\tag{...}`; bảo tồn `\left[` / `\right]`; tách `<!-- FIGURE: ... -->` khỏi khối `$$`.
 - **RULE-2.3 [Bảo Tồn Chú Thích Kẹp Giữa Sơ Đồ Đồ Họa — ADR 0039]**:
-  - Bảo tồn 100% các đoạn `CHÚ THÍCH` và `CHÚ DẪN` kẹp giữa ảnh và tiêu đề hình. Xếp dọc đa tầng (Vertical Stack) lề an toàn $\ge 40\text{ px}$. Bắt buộc vượt qua Sub-Gate 11.2 Zero-Dropped Regulatory Notes.
+  - Bảo tồn 100% `CHÚ THÍCH` / `CHÚ DẪN` kẹp giữa ảnh và tiêu đề hình; xếp dọc đa tầng (Vertical Stack) lề $\ge 40\text{ px}$; vượt qua Sub-Gate 11.2 Zero-Dropped Regulatory Notes.
 
 ---
 
 ## Miền 3. 📊 Cấu Trúc Bảng Biểu 2D & Mẫu Biểu Nguyên Tử (Deterministic Tables & Form Templates)
 
 - **RULE-3.1 [Lưới Tọa Độ Ảo 2D & Forward-Fill Có Kiểm Soát — ADR 0041]**:
-  - Thiết lập lưới tọa độ 2D từ `tblGrid`. Áp dụng Hierarchical Forward-Fill có kiểm soát cho ô gộp dọc (`vMerge`) trong CSV/JSON.
-  - Phẳng hóa tiêu đề đa tầng bằng Em-dash ngữ nghĩa (`Tầng 1 — Tầng 2 — Tầng 3`). 100% CSV đạt chuẩn Zero Ragged Rows.
+  - Thiết lập lưới 2D từ `tblGrid`, áp dụng Hierarchical Forward-Fill có kiểm soát cho `vMerge` trong CSV/JSON, phẳng hóa tiêu đề đa tầng bằng Em-dash (`Tầng 1 — Tầng 2`), đạt 100% Zero Ragged Rows.
 - **RULE-3.2 [Tách Rời Chú Thích Bảng & Định Tuyến Biểu Mẫu — ADR 0021 & ADR 0041]**:
-  - Bóc tách 100% chú thích chân bảng (`footnotes`) ra khỏi ma trận dữ liệu quan hệ. Thoát an toàn ký tự `|` trong cell và KaTeX (`\vert `).
-  - Tách các biểu mẫu hành chính nguyên tử sang thư mục `templates/`, cấm để thư mục `templates/` rỗng.
+  - Bóc tách 100% `footnotes` khỏi ma trận dữ liệu; thoát `|` trong cell và KaTeX (`\vert `); định tuyến biểu mẫu hành chính sang `templates/`, cấm để `templates/` rỗng.
 - **RULE-3.3 [Định Danh Bảng Quy Chuẩn Đa Phần — ADR 0044]**:
-  - Văn bản có nhiều phần (QCVN 07) bắt buộc bảng phải mang tiền tố mã định danh (ví dụ `bang_p01_01.csv`) và khai báo `part_id` trong `tables_catalog.json`.
+  - Văn bản nhiều phần (QCVN 07) bắt buộc mang tiền tố mã phần (`bang_p01_01.csv`) và khai báo `part_id` trong `tables_catalog.json`.
 - **RULE-3.4 [Thu Thập & Đếm Biểu Mẫu Hành Chính Đệ Quy — ADR 0021, ADR 0028 & ADR 0036]**:
-  - Biểu mẫu hành chính nguyên tử được phép tổ chức theo thư mục con phụ lục (ví dụ `templates/phu_luc_iv/*.md`) theo đặc tả ADR 0028.
-  - Mọi công cụ đếm hoặc lập manifest (`spoke_cli.py`, `sync_notebooklm_knowledge.py`, `validate_legal_spoke.py`) BẮT BUỘC sử dụng quét đệ quy (`glob("**/templates/**/*.md")` hoặc `rglob("*.md")`) để bảo toàn 100% biểu mẫu (mốc kiểm chuẩn 128 templates tại PR #16).
+  - Cho phép thư mục con phụ lục (`templates/phu_luc_iv/*.md`); mọi công cụ (`spoke_cli.py`, `sync_notebooklm_knowledge.py`, `validate_legal_spoke.py`) BẮT BUỘC quét đệ quy (`glob("**/templates/**/*.md")` hoặc `rglob("*.md")`).
 
 ---
 
 ## Miền 4. 🏛️ Chuẩn Hóa OpenXML DOM & Bảo Tồn Nguyên Văn Quy Phạm (OpenXML Sanitizer & Verbatim Parity)
 
 - **RULE-4.1 [Tiền Xử Lý In-Memory DocxCanonicalSanitizer — ADR 0042]**:
-  - Gọt sạch `w:rsid*`, loại bỏ `w:proofErr`, gộp run liền kề đồng nhất, chuẩn hóa Unicode NFC, tiêm `xml:space="preserve"`.
-  - Giải nén borderless layout tables qua Multi-Factor Scoring (mật độ số liệu $\ge 30\%$). Bảo tồn tuyệt đối whitelist `<w:object>`, `<m:oMath>`, `<w:drawing>`.
+  - Gọt `w:rsid*`, `w:proofErr`, gộp run đồng nhất, chuẩn hóa NFC, tiêm `xml:space="preserve"`, giải nén borderless layout tables qua Multi-Factor Scoring (mật độ số liệu $\ge 30\%$), bảo tồn `<w:object>`, `<m:oMath>`, `<w:drawing>`.
 - **RULE-4.2 [Bảo Tồn Nguyên Văn Quy Phạm 100% — ADR 0037 & ADR 0059]**:
-  - NGHIÊM CẤM mọi hành vi tóm tắt, diễn đạt lại hoặc rút gọn thân văn bản quy phạm. Thân Markdown bắt buộc trích xuất xác định 1:1 từ DOCX và đạt Gate 11 Verbatim Parity $\ge 98.0\%$.
+  - NGHIÊM CẤM tóm tắt hay diễn đạt lại thân quy phạm; trích xuất xác định 1:1 từ DOCX và đạt Gate 11 Verbatim Parity $\ge 98.0\%$.
 - **RULE-4.3 [Bảo Tồn Ký Tự Gốc & Thoát Ký Tự Gạch Đầu Dòng — ADR 0029 & ADR 0030]**:
-  - Bảo tồn 100% dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `. Không dồn cục dòng; vượt qua `lint_visual_parity.py`.
+  - Bảo tồn 100% dấu `-` và `+` bằng `\- ` và `&nbsp;&nbsp;\+ `; vượt qua `lint_visual_parity.py`.
 - **RULE-4.4 [Ground Truth Engine Bilateral Symmetry & Scope Partitioning — ADR 0045]**:
-  - Đồng bộ đối xứng 100% giữa nhánh DOCX và PDF trong Parity Engine: áp dụng giải thuật Block Multi-span Coverage (`check_multi_span_coverage`) kết hợp bóc thẻ HTML và flat Markdown link.
-  - Áp dụng state-machine lọc ranh giới ký duyệt (`in_signatory`: `Nơi nhận:`, `KT. BỘ TRƯỞNG`, `TM. CHÍNH PHỦ`, `THỦ TƯỚNG`, `PHÓ THỦ TƯỚNG`, `THỨ TRƯỞNG`) và tài liệu tham khảo (`in_bibliography`).
-  - Hỗ trợ phân tách phạm vi trang thân quy phạm `verification_scope.normative_body_pages` trong `metadata.yaml` cho các thông tư có hàng nghìn trang biểu mức định mức dự toán được bóc tách riêng sang `templates/` và `tables/`.
+  - Đồng bộ đối xứng nhánh DOCX và PDF qua Block Multi-span Coverage (`check_multi_span_coverage`); lọc ranh giới ký duyệt (`in_signatory`) và tài liệu tham khảo (`in_bibliography`); hỗ trợ `verification_scope.normative_body_pages` trong `metadata.yaml`.
 
 ---
 
 ## Miền 5. 🛡️ Hệ Thống Kiểm Định CI 15 Cổng & Hiệu Lực Pháp Lý Tuyệt Đối (CI Gates & Legal Governance)
 
 - **RULE-5.1 [Rào Chắn Hiệu Lực Pháp Lý Tuyệt Đối — Từ 01/07/2026]**:
-  - Mọi văn bản pháp luật viện dẫn BẮT BUỘC ĐANG CÓ HIỆU LỰC.
-  - VĂN BẢN HIỆN HÀNH: **Luật Xây dựng 2025** (Luật số `135/2025/QH15`), **Nghị định 217/2026/NĐ-CP** (Quản lý Hoạt động Xây dựng — thay thế NĐ 175/2024 & NĐ 15/2021), **Nghị định 207/2026/NĐ-CP** (Quản lý Chất lượng & Bảo trì — thay thế NĐ 06/2021).
+  - Văn bản viện dẫn BẮT BUỘC ĐANG CÓ HIỆU LỰC: **Luật Xây dựng 2025** (`135/2025/QH15`), **NĐ 217/2026/NĐ-CP** (thay thế NĐ 175/2024 & NĐ 15/2021), **NĐ 207/2026/NĐ-CP** (thay thế NĐ 06/2021), **NĐ 206/2026/NĐ-CP** (thay thế NĐ 10/2021).
 - **RULE-5.2 [15 Cổng Kiểm Định Nghiệm Thu Master CI Gate — ADR 0058]**:
-  - Thực thi tự động: `python scripts/validate_legal_spoke.py`.
-  - Tiêu chuẩn nghiệm thu 100%: 0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity, 100% 2D Regularity, 100% KaTeX Math Integrity, 100% OKF Provenance Attestation.
+  - Chạy `python scripts/validate_legal_spoke.py`: 0 Errors, 100% Visual Parity, Verbatim Match, Valid Links, PDF SHA-256, SVG/Cards, 2D Regularity, KaTeX Math, OKF Provenance.
 - **RULE-5.3 [Single-User Multi-Device & Machine-State Decoupling]**:
-  - Khi clone Spoke về nhiều máy (Windows, Linux, WSL), CẤM commit đường dẫn ổ đĩa tuyệt đối vào `workspace_context.yaml`. Đường dẫn Hub cô lập qua biến môi trường `CCBA_HUB_PATH`.
+  - CẤM commit đường dẫn ổ đĩa tuyệt đối vào `workspace_context.yaml`; cô lập đường dẫn Hub qua `CCBA_HUB_PATH`.
 - **RULE-5.4 [Umbrella Master Aggregator Gate & Ruleset Alignment — ADR 0058 & ADR 0066]**:
-  - Khi phân rã CI nguyên khối thành ma trận các cổng song song (Parallel Gates), BẮT BUỘC duy trì một Master Aggregator Gate (`legal-knowledge-audit` khớp 1:1 với tên GitHub Ruleset yêu cầu, e.g. `"Deterministic Parity & Schema Audit"`) với `needs: [...]` và `if: always()`.
-  - Aggregator job tổng hợp trạng thái của mọi cổng thành phần trong $\approx 3\text{ s}$, thỏa mãn 100% Branch Protection Ruleset mà không cần quyền Admin can thiệp cài đặt nhánh.
+  - Duy trì job tổng hợp `legal-knowledge-audit` (`"Deterministic Parity & Schema Audit"`) với `needs: [...]` và `if: always()` khớp 1:1 GitHub Ruleset.
 - **RULE-5.5 [Git Monorepo Subdirectory Install & Pip Cache Fallback trong CI]**:
-  - Khi CI tại Spoke phụ thuộc vào package nội bộ từ Hub monorepo (`ccba-maskara`), BẮT BUỘC cài đặt trực tiếp qua `git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/<pkg>`.
-  - CẤM sử dụng `cache: 'pip'` trong `actions/setup-python@v5` khi repository không có `requirements.txt` hoặc `pyproject.toml` tại thư mục gốc để tránh lỗi khởi tạo runner.
+  - Cài package nội bộ từ Hub qua `git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/<pkg>`; cấm dùng `cache: 'pip'` khi gốc repo không có `requirements.txt`/`pyproject.toml`.
 - **RULE-5.6 [Pstack 5-Block Verification Harness & Script Budget Invariant — ADR 0009, ADR 0044, ADR 0066]**:
-  - Mọi harness kiểm định tại Spoke phải tuân thủ kiến trúc Pstack 5 khối: Clean-Slate Pre-flight, Dual-Mode Lifecycle (`os.setsid` / `CREATE_NEW_PROCESS_GROUP`), Deterministic Health Barrier, Evidence-Capture Suite, và Guaranteed Cleanup kèm per-step timeout $300.0\text{ s}$.
-  - Mã nguồn harness BẮT BUỘC đặt trong `.agents/skills/<skill>/harness/`, nghiêm cấm tạo script phụ trong `scripts/` để bảo vệ ngân sách trần cứng $15/15$ scripts.
+  - Harness tuân thủ 5 khối Pstack đặt trong `.agents/skills/<skill>/harness/`, bảo vệ trần cứng $15/15$ scripts tại `scripts/`.
 - **RULE-5.7 [Kiểm Định Liên Kết `index.md` An Toàn `.gitignore` Trên CI (Gate 2) — ADR 0035 & PR #44]**:
-  - Trong Gate 2 (`_validate_index_md_links`), TUYỆT ĐỐI CẤM gọi `Path.exists()` trên các liên kết tệp nhị phân `.pdf`/`.docx` hoặc liên kết thư mục `./sources/` (vì các bundle chỉ chứa `.pdf`/`.docx` bị `.gitignore` sẽ không được Git checkout thư mục `sources/` trên runner CI).
-  - Thay vào đó: kiểm tra liên kết `.pdf`/`.docx` phải bắt đầu bằng `./sources/` và khớp với basename của `pdf_path`/`raw_scan_pdf`/`source_file` trong `metadata.yaml`; chỉ gọi `Path.exists()` cho các liên kết `.md`, `.json`, `.yaml` và các thư mục ngăn kéo được theo dõi trong Git (`./templates/`, `./tables/`, `./figures/`, `./annexes/`).
+  - Trong `_validate_index_md_links`, CẤM gọi `Path.exists()` trên `.pdf`/`.docx` hoặc `./sources/`; kiểm tra tiền tố `./sources/` khớp `metadata.yaml` và chỉ gọi `Path.exists()` cho `.md`/`.json`/`.yaml` và ngăn kéo Git (`./templates/`, `./tables/`, `./figures/`, `./annexes/`).
+- **RULE-5.8 [Chống Treo Pipe Tiến Trình Con Trong Pstack Harnesses — PR #47]**:
+  - Trong `verify_legal_harness.py`, `verify_legal_intel_harness.py`, `verify_legal_ingest_harness.py`, CẤM dùng `subprocess.run(..., capture_output=True)` khi bật `start_new_session=True`; BẮT BUỘC dùng `subprocess.Popen` và gọi `os.killpg(os.getpgid(proc.pid), signal.SIGKILL)` (hoặc `taskkill /F /T /PID` trên Windows) trong `except subprocess.TimeoutExpired:` trước khi gọi `proc.communicate()`.
+- **RULE-5.9 [Dải Dòng AST Đầy Đủ, Quét Đường Dẫn Máy & Bất Biến Thứ Tự Inode — ADR 0061 & PR #47]**:
+  - `check_hub_import_depth.py` phải quét toàn bộ dải dòng `[node.lineno, getattr(node, "end_lineno", node.lineno)]` cho `# ccba:quarantine` / `# ccba:allow-deep-import`. `check_spoke_cleanliness.py` dùng `MACHINE_PATH_RE` bắt cả chuỗi `r"C:\..."` và đường dẫn YAML không ngoặc kép. Mọi phép duyệt `Path.glob`/`rglob`/`iterdir` phải bọc `sorted(...)` và sắp xếp đa tiêu chí bằng `-round(score, 4)` (cấm `reverse=True` bao trùm).

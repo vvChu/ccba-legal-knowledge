@@ -905,3 +905,24 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   - TUYỆT ĐỐI CẤM dùng NĐ 175/2024/NĐ-CP, NĐ 15/2021/NĐ-CP, NĐ 06/2021/NĐ-CP, và **NĐ 10/2021/NĐ-CP** làm căn cứ pháp lý hiện tại.
   - Trong `legal_registry.yaml` và `metadata.yaml`, các văn bản này bắt buộc gắn `status: expired` và khai báo `relations.replaced_by` trỏ chính xác về văn bản thay thế.
   - Mọi tác vụ tra cứu tri thức (RAG, AST query) tự động bỏ qua văn bản `expired` trừ khi người dùng chủ đích truy vấn lịch sử hoặc điều khoản chuyển tiếp.
+
+
+---
+
+## 54. Subprocess Pipe-Hang Killpg Pattern, AST Multi-line Span & OKF v2.4 E2E Sync (Session 2026-11-06 — PR #47)
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Bẫy Treo Pipe Khi Timeout Trên `subprocess.run(..., capture_output=True)` (`SPEC-06-TIMEOUT`):**
+     - Trong 3 Pstack Verification Harnesses (`verify_legal_harness.py`, `verify_legal_intel_harness.py`, `verify_legal_ingest_harness.py`), việc dùng `subprocess.run(..., capture_output=True, timeout=T, start_new_session=True)` vẫn bị treo vô hạn khi tiến trình con sinh ra tiến trình cháu (grandchild) giữ mở descriptor `stdout`/`stderr`. Khi hết thời gian chờ `T`, Python `subprocess.run` chỉ gọi `proc.kill()` lên PID trực tiếp của tiến trình con rồi gọi `proc.communicate()` để đọc hết pipe — nhưng do tiến trình cháu trong process group vẫn sống và giữ mở đầu ghi pipe, `communicate()` bị block vĩnh viễn.
+  2. **Bỏ Sót Chú Thích Miễn Trừ Trên Câu Lệnh Import Nhiều Dòng (`STD-02` / ADR-0061):**
+     - `check_hub_import_depth.py` chỉ kiểm tra dòng đầu tiên `lines[lineno - 1]`, dẫn tới việc bỏ sót `# ccba:quarantine` hoặc `# ccba:allow-deep-import` đặt ở dòng đóng ngoặc của khối `from ccba_legal... import (\n ...\n)  # ccba:quarantine`.
+  3. **Trôi Dạt Giả Định Bộ Kiểm Thử Legacy `tests/e2e/` Sau Khi Hợp Nhất VBHN & Tách Phụ Lục ADR 0036:**
+     - Bộ kiểm thử `tests/e2e/` (258 tests) được viết trước khi `qcvn_06_2022_bxd` được hợp nhất VBHN với Sửa đổi 1:2023 và tách 9 phụ lục sang `annexes/phu_luc_*.md`, gây ra 42/258 lỗi giả (false failures).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Mẫu Quản Lý Tiến Trình Con Chống Treo Pipe (`RULE-5.8`):**
+     - Thay thế hoàn toàn `subprocess.run(..., capture_output=True)` trong các Pstack Harnesses bằng `subprocess.Popen(..., stdout=subprocess.PIPE, stderr=subprocess.PIPE, start_new_session=True)`.
+     - Trong nhánh `except subprocess.TimeoutExpired:`, bắt buộc gọi `os.killpg(os.getpgid(proc.pid), signal.SIGKILL)` trên POSIX (hoặc `taskkill /F /T /PID` trên Windows) **trước khi** gọi `proc.communicate()` để giải phóng toàn bộ đầu ghi pipe của tiến trình cháu, bảo đảm thoát đúng hạn $100\%$ (`0.50s`, `exit_code=124`).
+  2. **Quét Dải Dòng AST Đầy Đủ & Bất Biến Thứ Tự Inode (`RULE-5.9` — ADR-0061):**
+     - Mọi AST Visitor kiểm tra hợp đồng phụ thuộc (`check_hub_import_depth.py`) bắt buộc quét toàn bộ dải dòng `[node.lineno, getattr(node, "end_lineno", node.lineno)]`.
+     - Mọi phép duyệt tệp (`Path.glob`, `rglob`, `iterdir`, `os.walk`) xây dựng tập dữ liệu hoặc bảng ánh xạ bắt buộc bọc `sorted(...)` và dùng khóa sắp xếp đa tiêu chí tường minh `key=lambda x: (-round(score, 4), str_key)` (cấm `reverse=True` trên tuple hỗn hợp số + chuỗi).

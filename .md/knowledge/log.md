@@ -123,3 +123,9 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
 
 
 
+## [2026-11-06] [fix] | Codebase Review Remediation, Pstack Subprocess Group Timeout & OKF v2.4 E2E Suite Synchronization (PR #47)
+- **Phạm vi:** `scripts/_guardrails/`, `scripts/`, `.agents/skills/ccba-verify-*/harness/`, `tests/`, `.md/peer_exchange/`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Gia Cố Spoke Guardrails & Pstack Verification Harnesses (`RULE-5.8`, `RULE-5.9`):** Nâng cấp `check_spoke_cleanliness.py` (`MACHINE_PATH_RE` theo ADR-0061, sắp xếp tất định `sorted()`) và `check_hub_import_depth.py` (quét toàn bộ dải dòng AST `[lineno..end_lineno]` cho câu lệnh import nhiều dòng); chuyển đổi `run_cmd` trong 3 Pstack Harnesses sang `subprocess.Popen(..., start_new_session=True)` kèm `os.killpg(..., signal.SIGKILL)` trước `proc.communicate()` để chống treo pipe khi tiến trình cháu giữ mở `stdout`/`stderr`.
+  - **Chuẩn Hóa Tất Định & Cổng Kiểm Định OKF v2.4:** Áp dụng Filesystem Inode Ordering Invariance (`sorted(...)`), Multi-Key Deterministic Sorting (`-round(score, 4)`) và xử lý ngoại lệ tường minh trên 14 kịch bản trong `scripts/`; nâng cấp Gate 2, Gate 8 (`rglob`), Gate 12 (`figures/cards/`) trong `validate_legal_spoke.py` và `verify_cross_links.py` (`urllib.parse.unquote`).
+  - **Đồng Bộ 100% Bộ Kiểm Thử `tests/` Với OKF v2.4:** Cập nhật `tests/conftest.py` và 4 tệp trong `tests/e2e/` (`428 passed, 4 skipped, 0 failed`), vượt qua 2 vòng thẩm định độc lập của Grok 4.7 (`FINAL_ACCEPT`, Risk Score `1/5`, `0` Blocking Conditions) và squash-merge PR #47 (`b5b832d`) + PR #48 (`05d6b54`).
