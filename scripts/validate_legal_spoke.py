@@ -26,6 +26,7 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
@@ -40,28 +41,18 @@ if str(_ROOT_DIR) not in sys.path:
 
 try:
     from ccba_legal.constants import (
-        AST_CLAUSES_SCHEMA_VERSION,
         CURRENT_CONVERTER_VERSION,
         CURRENT_OKF_SPEC,
         DIR_SOURCES,
         DIR_TEMPLATES,
-        FIGURES_CATALOG_SCHEMA_VERSION,
         GATE_11_MIN_VERBATIM_PARITY,
-        QA_BENCHMARK_SCHEMA_VERSION,
-        STANDARD_COMPARTMENTS,
-        TABLES_CATALOG_SCHEMA_VERSION,
     )
 except ImportError:
     CURRENT_OKF_SPEC = "v2.4 Universal"
     CURRENT_CONVERTER_VERSION = "0.4.0"
     DIR_SOURCES = "sources"
     DIR_TEMPLATES = "templates"
-    STANDARD_COMPARTMENTS = ("sources", "tables", "figures", "annexes", "templates")
     GATE_11_MIN_VERBATIM_PARITY = 98.0
-    TABLES_CATALOG_SCHEMA_VERSION = "2.4"
-    FIGURES_CATALOG_SCHEMA_VERSION = "2.4"
-    AST_CLAUSES_SCHEMA_VERSION = "2.4"
-    QA_BENCHMARK_SCHEMA_VERSION = "2.4"
 
 
 # Enforce UTF-8 output encoding for Windows PowerShell compatibility
@@ -307,6 +298,8 @@ class LegalSpokeValidator:
                     cwd=self.root_dir,
                     capture_output=True,
                     text=True,
+                    encoding="utf-8",
+                    errors="replace",
                     check=False,
                 )
                 is_tracked = bool(res.stdout.strip())
@@ -338,7 +331,7 @@ class LegalSpokeValidator:
             if not cat_dir.exists():
                 continue
 
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if doc_dir.is_dir() and not doc_dir.name.startswith("."):
                     if self.target_bundle and doc_dir.name != self.target_bundle:
                         continue
@@ -349,7 +342,7 @@ class LegalSpokeValidator:
 
     def _check_single_bundle_structure(self, doc_dir: Path, cat: str) -> None:
         """Check invariants and frontmatter of a single document bundle."""
-        main_md_files = list(doc_dir.glob("*.md"))
+        main_md_files = sorted(doc_dir.glob("*.md"))
         if not main_md_files:
             self.warnings.append(
                 f"OKF Warning [{doc_dir.name}]: No Markdown (.md) files found in bundle."
@@ -448,7 +441,7 @@ class LegalSpokeValidator:
         if not self.legal_docs_dir.exists():
             return (len(self.errors), len(self.warnings))
 
-        for md_file in self.legal_docs_dir.rglob("*.md"):
+        for md_file in sorted(self.legal_docs_dir.rglob("*.md")):
             if self.target_bundle and self.target_bundle not in md_file.parts:
                 continue
             content = self._safe_read_text(md_file)
@@ -483,7 +476,7 @@ class LegalSpokeValidator:
             cat_dir = self.legal_docs_dir / cat
             if not cat_dir.exists():
                 continue
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
                 if self.target_bundle and doc_dir.name != self.target_bundle:
@@ -518,7 +511,7 @@ class LegalSpokeValidator:
         if not vbpl_dir.exists():
             return (len(self.errors), len(self.warnings))
 
-        for doc_dir in vbpl_dir.iterdir():
+        for doc_dir in sorted(vbpl_dir.iterdir()):
             if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                 continue
             if self.target_bundle and doc_dir.name != self.target_bundle:
@@ -616,7 +609,7 @@ class LegalSpokeValidator:
         # Dynamic QCVN AST check: Discover all QCVN bundles with clauses.json
         qcvn_dir = self.legal_docs_dir / "02_qcvn"
         if qcvn_dir.exists():
-            for doc_dir in qcvn_dir.iterdir():
+            for doc_dir in sorted(qcvn_dir.iterdir()):
                 if doc_dir.is_dir() and not doc_dir.name.startswith("."):
                     if self.target_bundle and doc_dir.name != self.target_bundle:
                         continue
@@ -642,7 +635,7 @@ class LegalSpokeValidator:
             cat_dir = self.legal_docs_dir / cat
             if not cat_dir.exists():
                 continue
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
                 if self.target_bundle and doc_dir.name != self.target_bundle:
@@ -1134,7 +1127,7 @@ class LegalSpokeValidator:
         """Validate OKF v2.4 Universal Pure Normative Body standard (ADR 0021 & ADR 0036)."""
         vbpl_dir = self.legal_docs_dir / "01_vbpl"
         if vbpl_dir.exists():
-            for doc_dir in vbpl_dir.iterdir():
+            for doc_dir in sorted(vbpl_dir.iterdir()):
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
                 if self.target_bundle and doc_dir.name != self.target_bundle:
@@ -1145,7 +1138,7 @@ class LegalSpokeValidator:
                 if primary_md is None:
                     md_files = [
                         f
-                        for f in doc_dir.glob("*.md")
+                        for f in sorted(doc_dir.glob("*.md"))
                         if f.name not in ("index.md", "dead_ends.md", "log.md")
                     ]
                     primary_md = md_files[0] if md_files else None
@@ -1158,7 +1151,7 @@ class LegalSpokeValidator:
             cat_dir = self.legal_docs_dir / cat
             if not cat_dir.exists():
                 continue
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
                 if self.target_bundle and doc_dir.name != self.target_bundle:
@@ -1168,7 +1161,7 @@ class LegalSpokeValidator:
                 if std_primary_md is None:
                     std_md_files = [
                         f
-                        for f in doc_dir.glob("*.md")
+                        for f in sorted(doc_dir.glob("*.md"))
                         if f.name
                         not in (
                             "index.md",
@@ -1292,7 +1285,7 @@ class LegalSpokeValidator:
             "hydrate_sources_from_vault.py",
         }
 
-        py_files = list(scripts_dir.glob("*.py"))
+        py_files = sorted(scripts_dir.glob("*.py"))
         for py_file in py_files:
             if py_file.name not in allowed_core_scripts:
                 if any(
@@ -1322,7 +1315,7 @@ class LegalSpokeValidator:
         ]:
             if not cat_dir.exists():
                 continue
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if doc_dir.is_dir() and not doc_dir.name.startswith("."):
                     if self.target_bundle and doc_dir.name != self.target_bundle:
                         continue
@@ -1334,7 +1327,7 @@ class LegalSpokeValidator:
         ]:
             if not cat_dir.exists():
                 continue
-            for doc_dir in cat_dir.iterdir():
+            for doc_dir in sorted(cat_dir.iterdir()):
                 if doc_dir.is_dir() and not doc_dir.name.startswith("."):
                     if self.target_bundle and doc_dir.name != self.target_bundle:
                         continue
@@ -1359,7 +1352,7 @@ class LegalSpokeValidator:
         self._check_broken_pipe_tables(templates_dir)
 
         all_md_files = [primary_md] + (
-            list(templates_dir.rglob("*.md")) if templates_dir.exists() else []
+            sorted(templates_dir.rglob("*.md")) if templates_dir.exists() else []
         )
         for md_path in all_md_files:
             self._check_uncollapsed_list_items(md_path)
@@ -1384,7 +1377,7 @@ class LegalSpokeValidator:
     def _check_broken_pipe_tables(self, templates_dir: Path) -> None:
         """Check for flattened or broken pipe tables in templates/."""
         if templates_dir.exists():
-            for tmpl_file in templates_dir.rglob("*.md"):
+            for tmpl_file in sorted(templates_dir.rglob("*.md")):
                 tmpl_txt = self._safe_read_text(tmpl_file)
                 if tmpl_txt and re.search(
                     r"(?:__TT__|\bTT\b)\s*\n\s*\n\s*__(?:Danh mục|Tên sản phẩm)",
@@ -1456,7 +1449,7 @@ class LegalSpokeValidator:
                 all_images = {p.name for p in images_dir.glob("*.*") if p.is_file()}
                 referenced: Set[str] = set()
                 # 1. In markdown files
-                for md_file in doc_dir.rglob("*.md"):
+                for md_file in sorted(doc_dir.rglob("*.md")):
                     if "sources" not in md_file.parts:
                         txt = self._safe_read_text(md_file) or ""
                         for m in re.findall(
@@ -1472,7 +1465,7 @@ class LegalSpokeValidator:
                 # 2. In cards/*.md and cards/*.json
                 cards_dir = figures_dir / "cards"
                 if cards_dir.exists():
-                    for card_f in list(cards_dir.glob("*.md")) + list(
+                    for card_f in sorted(cards_dir.glob("*.md")) + sorted(
                         cards_dir.glob("*.json")
                     ):
                         txt = self._safe_read_text(card_f) or ""
@@ -1571,7 +1564,7 @@ class LegalSpokeValidator:
             hub_candidates.insert(0, Path(hub_env) / "docs" / "adr")
         for hub_candidate in hub_candidates:
             if hub_candidate.exists():
-                for f in hub_candidate.glob("*.md"):
+                for f in sorted(hub_candidate.glob("*.md")):
                     m = re.match(r"^(\d+)-", f.name)
                     if m:
                         known_nums.add(int(m.group(1)))
@@ -1714,7 +1707,7 @@ class LegalSpokeValidator:
 
             def _standalone_verify_bundle(bundle_dir: Path) -> dict[str, Any]:
                 src_dir = bundle_dir / DIR_SOURCES
-                docx_files = list(src_dir.glob("*.docx")) if src_dir.exists() else []
+                docx_files = sorted(src_dir.glob("*.docx")) if src_dir.exists() else []
                 if not docx_files:
                     return {"status": "skipped"}
                 try:
@@ -1793,7 +1786,7 @@ class LegalSpokeValidator:
                         docx_paras.append(p_text)
 
                 md_texts: list[str] = []
-                for md_f in bundle_dir.rglob("*.md"):
+                for md_f in sorted(bundle_dir.rglob("*.md")):
                     if DIR_SOURCES not in md_f.parts:
                         try:
                             md_texts.append(md_f.read_text(encoding="utf-8"))
@@ -1802,7 +1795,7 @@ class LegalSpokeValidator:
 
                 tables_dir = bundle_dir / "tables"
                 if tables_dir.exists():
-                    for csv_f in tables_dir.rglob("*.csv"):
+                    for csv_f in sorted(tables_dir.rglob("*.csv")):
                         try:
                             md_texts.append(csv_f.read_text(encoding="utf-8"))
                         except Exception:
@@ -1881,7 +1874,7 @@ class LegalSpokeValidator:
             cat_dir = legal_docs / cat
             if not cat_dir.exists():
                 continue
-            for bundle_dir in cat_dir.iterdir():
+            for bundle_dir in sorted(cat_dir.iterdir()):
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
                 if self.target_bundle and bundle_dir.name != self.target_bundle:
@@ -1940,10 +1933,10 @@ class LegalSpokeValidator:
         if not self.legal_docs_dir.exists():
             return
 
-        for category_dir in self.legal_docs_dir.iterdir():
+        for category_dir in sorted(self.legal_docs_dir.iterdir()):
             if not category_dir.is_dir():
                 continue
-            for bundle_dir in category_dir.iterdir():
+            for bundle_dir in sorted(category_dir.iterdir()):
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
                 if self.target_bundle and bundle_dir.name != self.target_bundle:
@@ -1956,7 +1949,7 @@ class LegalSpokeValidator:
                 # 1. Zero stray WMF/EMF in figures/images
                 images_dir = figures_dir / "images"
                 if images_dir.exists():
-                    for f in images_dir.iterdir():
+                    for f in sorted(images_dir.iterdir()):
                         if f.suffix.lower() in (".wmf", ".emf"):
                             self.errors.append(
                                 f"Stray Vector Binary Error [{bundle_dir.name}]: Found unviewable vector binary "
@@ -2047,7 +2040,7 @@ class LegalSpokeValidator:
 
                         # Check for orphaned cards
                         if cards_dir.exists():
-                            for card_f in cards_dir.glob("*.md"):
+                            for card_f in sorted(cards_dir.glob("*.md")):
                                 c_slug = card_f.stem.replace("hinh_", "")
                                 if c_slug not in registered_slugs:
                                     self.warnings.append(
@@ -2083,6 +2076,8 @@ class LegalSpokeValidator:
                 cwd=self.root_dir,
                 capture_output=True,
                 text=True,
+                encoding="utf-8",
+                errors="replace",
                 check=False,
             )
             modified = set()
@@ -2108,11 +2103,11 @@ class LegalSpokeValidator:
         if not self.legal_docs_dir.exists():
             return (len(self.errors), len(self.warnings))
 
-        for category_dir in self.legal_docs_dir.iterdir():
+        for category_dir in sorted(self.legal_docs_dir.iterdir()):
             if not category_dir.is_dir() or category_dir.name.startswith("."):
                 continue
 
-            for bundle_dir in category_dir.iterdir():
+            for bundle_dir in sorted(category_dir.iterdir()):
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
                 if self.target_bundle and bundle_dir.name != self.target_bundle:

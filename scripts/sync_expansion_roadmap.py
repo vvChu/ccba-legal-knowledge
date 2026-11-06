@@ -67,7 +67,7 @@ def scan_citations_across_corpus(candidate_doc_nums: list[str]) -> dict[str, int
             pattern = rf"\b{re.escape(clean_num)}\b"
         regexes[num] = re.compile(pattern, re.IGNORECASE)
 
-    for md_file in LEGAL_DOCS_DIR.rglob("*.md"):
+    for md_file in sorted(LEGAL_DOCS_DIR.rglob("*.md")):
         # Exclude sources/ to prevent duplicate counting of raw constituent drafts
         if "sources" in md_file.parts:
             continue
@@ -77,7 +77,7 @@ def scan_citations_across_corpus(candidate_doc_nums: list[str]) -> dict[str, int
                 matches = len(reg.findall(content))
                 if matches > 0:
                     counts[num] += matches
-        except Exception:
+        except OSError:
             continue
 
     return counts
@@ -102,7 +102,7 @@ def get_ingested_document_numbers() -> set[str]:
                     ingested.add(c.strip().upper())
 
     # Also scan bundle directories in legal_docs/
-    for b_dir in LEGAL_DOCS_DIR.glob("*/*"):
+    for b_dir in sorted(LEGAL_DOCS_DIR.glob("*/*")):
         if b_dir.is_dir():
             meta = load_yaml(b_dir / "metadata.yaml")
             if meta.get("document_number"):
@@ -148,9 +148,14 @@ def sync_roadmap() -> dict[str, Any]:
             c["status"] = "PENDING"
             tier_groups[tier].append(c)
 
-    # Sort tiers by final_score descending
+    # Sort tiers by final_score descending with deterministic tie-breaker
     for t in tier_groups:
-        tier_groups[t].sort(key=lambda x: x["final_score"], reverse=True)
+        tier_groups[t].sort(
+            key=lambda x: (
+                -round(float(x["final_score"]), 4),
+                str(x.get("document_number", "")),
+            )
+        )
     pending_count = sum(len(v) for v in tier_groups.values())
 
     # Dynamic document count from legal_registry.yaml or valid bundle directories

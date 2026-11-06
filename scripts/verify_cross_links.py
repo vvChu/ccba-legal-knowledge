@@ -12,7 +12,8 @@ import argparse
 import re
 import sys
 from pathlib import Path
-from typing import Dict, List, Set, Tuple
+from typing import Any, Dict, List, Set, Tuple
+import yaml
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -30,6 +31,52 @@ def _check_local_anchor(
     if anchor in file_anchors.get(rel_key, set()):
         return True
     return any(anchor in anc_set for anc_set in file_anchors.values())
+
+
+def _is_valid_gitignored_source_link(
+    target_rel_path: str,
+    target_file_path: Path,
+    bundle_dir: Path,
+) -> bool:
+    """Validate gitignored binary or sources/ link against bundle metadata.yaml (RULE-5.7)."""
+    meta_file = bundle_dir / "metadata.yaml"
+    if not meta_file.exists():
+        return False
+    try:
+        loaded = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+        b_meta: Dict[str, Any] = loaded if isinstance(loaded, dict) else {}
+    except (OSError, yaml.YAMLError):
+        b_meta = {}
+
+    norm = target_rel_path[2:] if target_rel_path.startswith("./") else target_rel_path
+    if norm.rstrip("/") == "sources" and target_file_path == (bundle_dir / "sources").resolve():
+        return True
+
+    in_sources = norm.startswith("sources/") or (
+        target_file_path.parent == (bundle_dir / "sources").resolve()
+    )
+    if not in_sources:
+        return False
+
+    lower_norm = norm.lower()
+    if lower_norm.endswith(".pdf"):
+        pdf_names = {
+            Path(str(b_meta.get(k))).name
+            for k in ("pdf_path", "raw_scan_pdf")
+            if b_meta.get(k)
+        } or {f"{bundle_dir.name}.pdf"}
+        return Path(norm).name in pdf_names
+
+    if lower_norm.endswith((".docx", ".doc")):
+        docx_names = (
+            {Path(str(b_meta.get("source_file"))).name}
+            if b_meta.get("source_file")
+            else {f"{bundle_dir.name}.docx"}
+        )
+        docx_names.add(f"{bundle_dir.name}.docx")
+        return Path(norm).name in docx_names
+
+    return False
 
 
 def _check_relative_link(
@@ -51,6 +98,8 @@ def _check_relative_link(
         sources_candidate = bundle_dir / "sources" / Path(target_rel_path).name
         if sources_candidate.exists():
             target_file_path = sources_candidate
+        elif _is_valid_gitignored_source_link(target_rel_path, target_file_path, bundle_dir):
+            return True, ""
         else:
             return False, f"Tệp tin đích '{target_rel_path}' không tồn tại"
 
@@ -77,7 +126,7 @@ def verify_okf_bundle_links(bundle_dir: Path) -> bool:
     print(f"       KIỂM TRA LIÊN KẾT GÓI: {bundle_dir.name}                  ")
     print("=================================================================")
 
-    md_files = list(bundle_dir.rglob("*.md"))
+    md_files = sorted(bundle_dir.rglob("*.md"))
     file_anchors: Dict[str, Set[str]] = {}
     file_contents: Dict[str, str] = {}
 

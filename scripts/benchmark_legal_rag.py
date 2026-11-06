@@ -108,7 +108,7 @@ class LegalRAGBenchmark:
             if score > 0:
                 scored_clauses.append((score, full_id, clause))
 
-        scored_clauses.sort(key=lambda x: x[0], reverse=True)
+        scored_clauses.sort(key=lambda x: (-round(x[0], 4), x[1]))
         return [item[2] for item in scored_clauses[:top_k]]
 
     def run_qa_benchmark(self, sample_size: int = 500) -> dict[str, Any]:
@@ -118,8 +118,9 @@ class LegalRAGBenchmark:
 
         import random
 
+        rng = random.Random(42)
         sample = (
-            random.sample(self.qa_entries, min(sample_size, len(self.qa_entries)))
+            rng.sample(self.qa_entries, min(sample_size, len(self.qa_entries)))
             if sample_size < len(self.qa_entries)
             else self.qa_entries
         )

@@ -14,7 +14,7 @@ import argparse
 import asyncio
 import hashlib
 import sys
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from typing import Any
 
 import yaml
@@ -32,10 +32,11 @@ def get_canonical_manifest(
     root_dir: Path, ultra_full: bool = True
 ) -> list[dict[str, Any]]:
     """Trích xuất danh sách nguồn tri thức chuẩn hóa theo ADR 0012 và ADR 0023."""
-    if not REGISTRY_PATH.exists():
-        raise FileNotFoundError(f"Không tìm thấy registry tại {REGISTRY_PATH}")
+    registry_path = root_dir / "legal_registry.yaml"
+    if not registry_path.exists():
+        raise FileNotFoundError(f"Không tìm thấy registry tại {registry_path}")
 
-    reg = yaml.safe_load(REGISTRY_PATH.read_text(encoding="utf-8")) or {}
+    reg = yaml.safe_load(registry_path.read_text(encoding="utf-8")) or {}
     all_docs: list[dict[str, Any]] = []
     if "laws" in reg and isinstance(reg["laws"], list):
         all_docs.extend(reg["laws"])
@@ -75,7 +76,7 @@ def get_canonical_manifest(
                     "type": "Normative Body",
                     "category": bp.strip("/").split("/")[1] if len(bp.strip("/").split("/")) > 1 else "01_vbpl",
                     "file_path": normative_md,
-                    "rel_path": normative_md.relative_to(root_dir),
+                    "rel_path": PurePosixPath(normative_md.relative_to(root_dir).as_posix()),
                     "size_bytes": normative_md.stat().st_size,
                     "word_count": len(content.split()),
                     "sha256": sha,
@@ -99,7 +100,7 @@ def get_canonical_manifest(
                             "type": "Atomic Form Template",
                             "category": "templates",
                             "file_path": tf,
-                            "rel_path": tf.relative_to(root_dir),
+                            "rel_path": PurePosixPath(tf.relative_to(root_dir).as_posix()),
                             "size_bytes": tf.stat().st_size,
                             "word_count": len(content.split()),
                             "sha256": sha,
@@ -122,7 +123,7 @@ def get_canonical_manifest(
                             "type": "Technical Table 2D",
                             "category": "tables",
                             "file_path": tb,
-                            "rel_path": tb.relative_to(root_dir),
+                            "rel_path": PurePosixPath(tb.relative_to(root_dir).as_posix()),
                             "size_bytes": tb.stat().st_size,
                             "word_count": len(content.split(",")),
                             "sha256": sha,
@@ -145,7 +146,7 @@ def get_canonical_manifest(
                             "type": "Technical Normative Annex",
                             "category": "annexes",
                             "file_path": af,
-                            "rel_path": af.relative_to(root_dir),
+                            "rel_path": PurePosixPath(af.relative_to(root_dir).as_posix()),
                             "size_bytes": af.stat().st_size,
                             "word_count": len(content.split()),
                             "sha256": sha,
@@ -165,12 +166,35 @@ def get_canonical_manifest(
                         "type": "Matrix Comparison",
                         "category": bp.strip("/").split("/")[1] if len(bp.strip("/").split("/")) > 1 else "02_qcvn",
                         "file_path": cmp_matrix,
-                        "rel_path": cmp_matrix.relative_to(root_dir),
+                        "rel_path": PurePosixPath(cmp_matrix.relative_to(root_dir).as_posix()),
                         "size_bytes": cmp_matrix.stat().st_size,
                         "word_count": len(content.split()),
                         "sha256": sha,
                     }
                 )
+
+            # 6. Thẻ thị giác hình ảnh tham số hóa (figures/cards/*.md - ADR 0040)
+            cards_dir = bundle_dir / "figures" / "cards"
+            if cards_dir.exists():
+                for fc in sorted(cards_dir.glob("*.md")):
+                    if str(fc) in seen_paths:
+                        continue
+                    content = fc.read_text(encoding="utf-8")
+                    sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+                    seen_paths.add(str(fc))
+                    sources.append(
+                        {
+                            "id": f"{slug}_{fc.stem}",
+                            "title": f"Thẻ Hình {fc.stem} ({slug})",
+                            "type": "Figure Visual Card",
+                            "category": "figures",
+                            "file_path": fc,
+                            "rel_path": PurePosixPath(fc.relative_to(root_dir).as_posix()),
+                            "size_bytes": fc.stat().st_size,
+                            "word_count": len(content.split()),
+                            "sha256": sha,
+                        }
+                    )
 
     # 4. Các Bảng so sánh đối chiếu quy chuẩn độc lập (Internal Matrix)
     legal_docs = root_dir / "legal_docs"
@@ -192,7 +216,7 @@ def get_canonical_manifest(
                         "type": "Matrix Comparison",
                         "category": cat,
                         "file_path": mf,
-                        "rel_path": mf.relative_to(root_dir),
+                        "rel_path": PurePosixPath(mf.relative_to(root_dir).as_posix()),
                         "size_bytes": mf.stat().st_size,
                         "word_count": len(content.split()),
                         "sha256": sha,

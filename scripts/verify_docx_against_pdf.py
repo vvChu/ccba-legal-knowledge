@@ -50,7 +50,7 @@ def main() -> int:
         for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
             cat_dir = legal_docs / cat
             if cat_dir.exists():
-                for b in cat_dir.iterdir():
+                for b in sorted(cat_dir.iterdir()):
                     if b.is_dir() and not b.name.startswith("."):
                         p_path, d_path = find_bundle_assets(root_dir, b)
                         if p_path and d_path:
