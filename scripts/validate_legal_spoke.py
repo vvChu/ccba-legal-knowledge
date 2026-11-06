@@ -1914,11 +1914,51 @@ class LegalSpokeValidator:
                         f"paragraphs: {sample_miss}"
                     )
                     if is_vbhn_consolidation:
-                        # VBHN bundles: delta paragraphs are expected (bãi bỏ/thay thế bởi văn bản sửa đổi)
-                        # Downgrade to telemetry warning (ADR 0037 Anti-Vacuous Pass Invariant)
-                        self.warnings.append(
-                            f"[VBHN Telemetry] {msg} — Delta expected per verification_scope.consolidation_note."
-                        )
+                        goc_files = sorted(sources_dir.glob("*_goc*.md"))
+                        goc_verified = False
+                        if goc_files and res.get("docx_paras", 0) > 0:
+                            goc_raw = "\n".join(
+                                self._safe_read_text(gf) or "" for gf in goc_files
+                            )
+                            goc_norm = re.sub(
+                                r"[^\w\d\s]",
+                                " ",
+                                unicodedata.normalize("NFC", goc_raw).lower(),
+                                flags=re.UNICODE,
+                            )
+                            goc_norm = re.sub(r"\s+", " ", goc_norm).strip()
+                            still_missing: list[tuple[int, str]] = []
+                            for idx_p, p_txt in res.get("missing_paras", []):
+                                np = re.sub(
+                                    r"[^\w\d\s]",
+                                    " ",
+                                    unicodedata.normalize("NFC", p_txt).lower(),
+                                    flags=re.UNICODE,
+                                )
+                                words = re.sub(r"\s+", " ", np).strip().split()
+                                matched = (
+                                    any(
+                                        " ".join(words[w : w + 6]) in goc_norm
+                                        for w in range(max(1, len(words) - 5))
+                                    )
+                                    if len(words) >= 4
+                                    else (" ".join(words) in goc_norm)
+                                )
+                                if not matched:
+                                    still_missing.append((idx_p, p_txt))
+                            total_paras = int(res.get("docx_paras", 0))
+                            combined_rate = (
+                                ((total_paras - len(still_missing)) / total_paras)
+                                * 100.0
+                            )
+                            if combined_rate >= GATE_11_MIN_VERBATIM_PARITY:
+                                goc_verified = True
+                        if not goc_verified:
+                            # VBHN bundles: delta paragraphs are expected (bãi bỏ/thay thế bởi văn bản sửa đổi)
+                            # Downgrade to telemetry warning (ADR 0037 Anti-Vacuous Pass Invariant)
+                            self.warnings.append(
+                                f"[VBHN Telemetry] {msg} — Delta expected per verification_scope.consolidation_note."
+                            )
                     else:
                         self.errors.append(msg)
 
