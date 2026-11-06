@@ -59,7 +59,7 @@ def detect_gdrive_mount() -> Optional[Path]:
             return p
 
     # Standard Windows Google Drive mounted letters
-    candidates = [Path(f"{drive}:/My Drive") for drive in ("H", "G", "I")]
+    candidates = [Path(f"{drive}:/My Drive") for drive in ("H", "G", "I")]  # ccba:allow-machine-path
     for c in candidates:
         if c.exists():
             return c
@@ -85,7 +85,7 @@ def find_rclone_cmd() -> Optional[str]:
     # Check common Windows winget installation path
     winget_pkg_dir = Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft" / "WinGet" / "Packages"
     if winget_pkg_dir.exists():
-        for rpath in winget_pkg_dir.glob("**/rclone.exe"):
+        for rpath in sorted(winget_pkg_dir.glob("**/rclone.exe")):
             if rpath.is_file():
                 return str(rpath)
 
@@ -191,7 +191,7 @@ class VaultHydrationEngine:
 
         files: Set[str] = set()
         if self.local_vault_root and self.local_vault_root.exists():
-            for f in self.local_vault_root.rglob("*"):
+            for f in sorted(self.local_vault_root.rglob("*")):
                 if f.is_file() and f.name.lower() not in SYSTEM_IGNORE_FILES:
                     rel = f.relative_to(self.local_vault_root).as_posix()
                     files.add(f"{self.vault_root}/{rel}".lower())
@@ -201,7 +201,14 @@ class VaultHydrationEngine:
         if self.rclone_bin:
             cmd = [self.rclone_bin, "lsf", "-R", "--files-only", f"{self.remote}{self.vault_root}"]
             try:
-                res = subprocess.run(cmd, capture_output=True, text=True, check=False)
+                res = subprocess.run(
+                    cmd,
+                    capture_output=True,
+                    text=True,
+                    encoding="utf-8",
+                    errors="replace",
+                    check=False,
+                )
                 if res.returncode == 0:
                     for line in res.stdout.splitlines():
                         line = line.strip().replace("\\", "/")
@@ -219,7 +226,14 @@ class VaultHydrationEngine:
         if self.rclone_bin:
             cmd = [self.rclone_bin, "copyto", src, dst]
             try:
-                res = subprocess.run(cmd, capture_output=True, text=True, check=False)
+                res = subprocess.run(
+                    cmd,
+                    capture_output=True,
+                    text=True,
+                    encoding="utf-8",
+                    errors="replace",
+                    check=False,
+                )
                 if res.returncode == 0:
                     return True
                 if self.verbose:

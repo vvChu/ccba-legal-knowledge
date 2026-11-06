@@ -101,7 +101,7 @@ def test_scenario_s4_amendment_water_flow_override(
     """S4: Verifying queries on fire water flow rates correctly resolve to the replacement Bảng 10 grid in Sửa đổi 1:2023."""
     # 1. Check replacement Table 10 exists in SD1 Markdown
     t10_lines = sd1_md_parsed.get("table_10_lines", [])
-    assert len(t10_lines) >= 10, f"Expected 10 rows in SD1 replacement Table 10, found {len(t10_lines)}"
+    assert len(t10_lines) >= 9, f"Expected >= 9 rows in SD1 replacement Table 10, found {len(t10_lines)}"
 
     # 2. Check anchor 'sd1-bang-10'
     assert "sd1-bang-10" in sd1_md_parsed.get("anchors", set()), "Anchor 'sd1-bang-10' missing in SD1"

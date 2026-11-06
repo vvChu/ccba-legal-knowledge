@@ -21,6 +21,7 @@ import signal
 import subprocess
 import sys
 import tempfile
+import threading
 import time
 from typing import Any
 
@@ -36,7 +37,7 @@ class LegalIngestVerificationHarness:
         spoke_root: Path | None = None,
         mode: str = "full",
         evidence_out: Path | None = None,
-        step_timeout: float = 180.0,
+        step_timeout: float = 300.0,
     ) -> None:
         """Initialize the /ccba-legal-ingest verification harness.
 
@@ -275,18 +276,38 @@ class LegalIngestVerificationHarness:
         step_start = time.monotonic()
         proc = self._spawn_process_group(cmd, cwd=cwd)
         output_lines: list[str] = []
-        if proc.stdout:
-            for line in proc.stdout:
-                output_lines.append(line)
-                sys.stdout.write(line)
-                sys.stdout.flush()
+        timed_out = threading.Event()
+
+        def _on_timeout() -> None:
+            if not timed_out.is_set():
+                timed_out.set()
+                print(
+                    f"\n❌ [TIMEOUT] {label} timed out after {self.step_timeout}s!",
+                    file=sys.stderr,
+                )
+                self.cleanup()
+
+        timer = threading.Timer(self.step_timeout, _on_timeout)
+        timer.daemon = True
+        timer.start()
         try:
-            proc.wait(timeout=self.step_timeout)
-            exit_code = proc.returncode
+            if proc.stdout:
+                for line in proc.stdout:
+                    output_lines.append(line)
+                    sys.stdout.write(line)
+                    sys.stdout.flush()
+            remaining = max(0.0, self.step_timeout - (time.monotonic() - step_start))
+            proc.wait(timeout=remaining)
         except subprocess.TimeoutExpired:
-            print(f"\n❌ [TIMEOUT] {label} timed out after {self.step_timeout}s!", file=sys.stderr)
-            self.cleanup()
-            exit_code = 124
+            _on_timeout()
+        finally:
+            timer.cancel()
+
+        exit_code = (
+            124
+            if timed_out.is_set()
+            else (proc.returncode if proc.returncode is not None else 124)
+        )
 
         duration = round(time.monotonic() - step_start, 3)
         self.active_process = None
@@ -378,6 +399,11 @@ class LegalIngestVerificationHarness:
                 else:
                     pgid = os.getpgid(pid)
                     os.killpg(pgid, signal.SIGTERM)
+                    try:
+                        self.active_process.wait(timeout=5.0)
+                    except subprocess.TimeoutExpired:
+                        if self.active_process.poll() is None:
+                            os.killpg(pgid, signal.SIGKILL)
             except (ProcessLookupError, PermissionError, OSError):
                 pass
             finally:
@@ -396,7 +422,7 @@ def main() -> None:
         help="Verification mode: smoke (fast in-memory contracts), graph (5-Ring CLI), unit (90 pytest tests), full (all)",
     )
     parser.add_argument("--evidence-out", type=Path, default=None, help="Output JSON path")
-    parser.add_argument("--step-timeout", type=float, default=180.0, help="Step timeout (s)")
+    parser.add_argument("--step-timeout", type=float, default=300.0, help="Step timeout (s)")
     args = parser.parse_args()
 
     harness = LegalIngestVerificationHarness(

@@ -29,9 +29,9 @@ def generate_formula_audit_report(
 ) -> dict[str, Any]:
     """Generate self-contained HTML formula verification report."""
     bundle_path = Path(bundle_dir)
-    docx_candidates = list((bundle_path / "sources").glob("*.docx"))
+    docx_candidates = sorted((bundle_path / "sources").glob("*.docx"))
     if not docx_candidates:
-        docx_candidates = list(bundle_path.glob("*.docx"))
+        docx_candidates = sorted(bundle_path.glob("*.docx"))
     if not docx_candidates:
         raise FileNotFoundError(f"No DOCX found in {bundle_path}")
 

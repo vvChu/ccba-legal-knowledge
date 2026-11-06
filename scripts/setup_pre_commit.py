@@ -13,7 +13,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 def install_hook() -> bool:
-    root_dir = Path.cwd()
+    root_dir = Path(__file__).resolve().parent.parent
     git_dir = root_dir / ".git"
     if not git_dir.exists():
         print(f"[ERROR] .git directory not found in: {root_dir}")
@@ -30,7 +30,7 @@ echo "================================================================="
 echo "   [PRE-COMMIT HOOK] RUNNING CCBA SPOKE CLEANLINESS CHECK        "
 echo "================================================================="
 
-python scripts/check_spoke_cleanliness.py
+python scripts/_guardrails/check_spoke_cleanliness.py
 RESULT_CLEAN=$?
 
 if [ $RESULT_CLEAN -ne 0 ]; then
@@ -63,7 +63,7 @@ exit 0
     try:
         current_stat = os.stat(pre_commit_path)
         os.chmod(pre_commit_path, current_stat.st_mode | stat.S_IXUSR | stat.S_IXGRP | stat.S_IXOTH)
-    except Exception:
+    except OSError:
         pass
 
     print(f"✅ Successfully installed Git Pre-Commit Hook at: {pre_commit_path}")

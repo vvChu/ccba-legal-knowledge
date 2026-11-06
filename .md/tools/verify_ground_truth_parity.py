@@ -233,10 +233,11 @@ class GroundTruthParityVerifier:
         self.registry = self._load_registry()
 
     def _load_registry(self) -> Dict[str, Any]:
-        if not REGISTRY_FILE.exists():
+        reg_file = self.root_dir / "legal_registry.yaml"
+        if not reg_file.exists():
             return {}
         try:
-            return yaml.safe_load(REGISTRY_FILE.read_text(encoding="utf-8")) or {}
+            return yaml.safe_load(reg_file.read_text(encoding="utf-8")) or {}
         except Exception:
             return {}
 
@@ -246,7 +247,7 @@ class GroundTruthParityVerifier:
             candidate = self.legal_docs_dir / cat / slug
             if candidate.exists() and candidate.is_dir():
                 return candidate
-            matches = list((self.legal_docs_dir / cat).glob(f"*{slug}*"))
+            matches = sorted((self.legal_docs_dir / cat).glob(f"*{slug}*"))
             if matches and matches[0].is_dir():
                 return matches[0]
         return None
@@ -280,7 +281,7 @@ class GroundTruthParityVerifier:
         result = BundleParityResult(
             slug=slug,
             category=cat,
-            bundle_path=str(bundle_dir.relative_to(self.root_dir)),
+            bundle_path=bundle_dir.relative_to(self.root_dir).as_posix(),
         )
 
         # Dimension 1: Verbatim Parity against Ground Truth (DOCX or Vector PDF)
@@ -313,7 +314,7 @@ class GroundTruthParityVerifier:
     def _extract_all_bundle_markdown_text(self, bundle_dir: Path) -> str:
         """Extract all text recursively across bundle md files, annexes, templates, and CSVs."""
         md_text_parts: List[str] = []
-        for md_file in bundle_dir.rglob("*.md"):
+        for md_file in sorted(bundle_dir.rglob("*.md")):
             if "sources" in md_file.parts or md_file.name in ("index.md", "dead_ends.md", "log.md"):
                 continue
             try:
@@ -329,7 +330,7 @@ class GroundTruthParityVerifier:
         # Also append CSV tables
         tables_dir = bundle_dir / "tables"
         if tables_dir.exists():
-            for csv_f in tables_dir.rglob("*.csv"):
+            for csv_f in sorted(tables_dir.rglob("*.csv")):
                 try:
                     md_text_parts.append(csv_f.read_text(encoding="utf-8"))
                 except Exception:
@@ -340,8 +341,8 @@ class GroundTruthParityVerifier:
     def _check_verbatim_parity(self, bundle_dir: Path, res: BundleParityResult) -> None:
         """Check Verbatim Text Parity using strict consecutive coverage (>= 70%)."""
         sources_dir = bundle_dir / "sources"
-        docx_candidates = list(sources_dir.glob("*.docx")) if sources_dir.exists() else []
-        pdf_candidates = list(sources_dir.glob("*.pdf")) if sources_dir.exists() else []
+        docx_candidates = sorted(sources_dir.glob("*.docx")) if sources_dir.exists() else []
+        pdf_candidates = sorted(sources_dir.glob("*.pdf")) if sources_dir.exists() else []
         vector_pdfs = [p for p in pdf_candidates if not p.name.endswith("_raw_scan.pdf")]
 
         if not docx_candidates and not vector_pdfs:
@@ -364,7 +365,7 @@ class GroundTruthParityVerifier:
                         bundle_slug=bundle_dir.name,
                         error_category="VERBATIM_TEXT",
                         error_code="ERR_DOCX_READ_FAILED",
-                        file_path=str(docx_path.relative_to(self.root_dir)),
+                        file_path=docx_path.relative_to(self.root_dir).as_posix(),
                         location="sources/*.docx",
                         detail=f"Failed to read DOCX asset: {exc}",
                         assigned_skill="ccba-markdown-document-processing",
@@ -498,7 +499,7 @@ class GroundTruthParityVerifier:
                         bundle_slug=bundle_dir.name,
                         error_category="VERBATIM_TEXT",
                         error_code="ERR_PDF_READ_FAILED",
-                        file_path=str(pdf_path.relative_to(self.root_dir)),
+                        file_path=pdf_path.relative_to(self.root_dir).as_posix(),
                         location="sources/*.pdf",
                         detail=f"Failed to read Vector PDF: {exc}",
                         assigned_skill="ccba-ai-pdf-preprocessor",
@@ -664,7 +665,7 @@ class GroundTruthParityVerifier:
                     bundle_slug=bundle_dir.name,
                     error_category="VERBATIM_TEXT",
                     error_code="ERR_VERBATIM_DROP",
-                    file_path=str(bundle_dir.relative_to(self.root_dir)),
+                    file_path=bundle_dir.relative_to(self.root_dir).as_posix(),
                     location="Normative Body Markdown",
                     detail=f"Verbatim match rate is {res.p_verbatim:.1f}% (< {TARGET_VERBATIM}%).",
                     assigned_skill="ccba-markdown-document-processing",
@@ -679,7 +680,7 @@ class GroundTruthParityVerifier:
 
         # Anti-Vacuous Pass: Check if DOCX source has relational data tables
         sources_dir = bundle_dir / "sources"
-        docx_candidates = list(sources_dir.glob("*.docx")) if sources_dir.exists() else []
+        docx_candidates = sorted(sources_dir.glob("*.docx")) if sources_dir.exists() else []
         docx_data_table_count = 0
         if docx_candidates:
             try:
@@ -705,7 +706,7 @@ class GroundTruthParityVerifier:
                         bundle_slug=bundle_dir.name,
                         error_category="2D_GRID_REGULARITY",
                         error_code="ERR_MISSING_TABLE_CSVS",
-                        file_path=str(bundle_dir.relative_to(self.root_dir)),
+                        file_path=bundle_dir.relative_to(self.root_dir).as_posix(),
                         location="tables/csv/",
                         detail=f"Source DOCX has {docx_data_table_count} data tables but tables/csv/ is empty.",
                         assigned_skill="table-reconstructor",
@@ -718,7 +719,7 @@ class GroundTruthParityVerifier:
                 res.details["table"] = {"total_tables": 0, "status": "none"}
                 return
 
-        csv_files = sorted(list(csv_dir.glob("*.csv")))
+        csv_files = sorted(csv_dir.glob("*.csv"))
         catalog_file = tables_dir / "tables_catalog.json"
         has_catalog = catalog_file.exists()
 
@@ -727,7 +728,7 @@ class GroundTruthParityVerifier:
         footnote_tickets = []
 
         for csv_path in csv_files:
-            rel_path = str(csv_path.relative_to(self.root_dir))
+            rel_path = csv_path.relative_to(self.root_dir).as_posix()
             try:
                 with open(csv_path, mode="r", encoding="utf-8-sig", newline="") as f:
                     rows = list(csv.reader(f))
@@ -803,7 +804,7 @@ class GroundTruthParityVerifier:
         valid_blocks = 0
         math_tickets = []
 
-        for md_file in bundle_dir.rglob("*.md"):
+        for md_file in sorted(bundle_dir.rglob("*.md")):
             if "sources" in md_file.parts or md_file.name in ("index.md", "dead_ends.md", "log.md"):
                 continue
             try:
@@ -826,7 +827,7 @@ class GroundTruthParityVerifier:
                 if "<!--" in clean and "-->" in clean:
                     is_valid = False
                     math_tickets.append(
-                        (str(md_file.relative_to(self.root_dir)), b_idx, "HTML comment inside $$ block")
+                        (md_file.relative_to(self.root_dir).as_posix(), b_idx, "HTML comment inside $$ block")
                     )
 
                 # Check 2: No \tag in multiline envs
@@ -834,7 +835,7 @@ class GroundTruthParityVerifier:
                     if f"\\begin{{{env}}}" in clean and re.search(r"\\tag\s*\{", clean):
                         is_valid = False
                         math_tickets.append(
-                            (str(md_file.relative_to(self.root_dir)), b_idx, f"\\tag used inside {env} environment")
+                            (md_file.relative_to(self.root_dir).as_posix(), b_idx, f"\\tag used inside {env} environment")
                         )
                         break
 
@@ -844,7 +845,7 @@ class GroundTruthParityVerifier:
                 if lefts != rights:
                     is_valid = False
                     math_tickets.append(
-                        (str(md_file.relative_to(self.root_dir)), b_idx, f"Unbalanced \\left ({lefts}) and \\right ({rights})")
+                        (md_file.relative_to(self.root_dir).as_posix(), b_idx, f"Unbalanced \\left ({lefts}) and \\right ({rights})")
                     )
 
                 # Check 4: Balanced braces
@@ -852,7 +853,7 @@ class GroundTruthParityVerifier:
                 if nobrace.count("{") != nobrace.count("}"):
                     is_valid = False
                     math_tickets.append(
-                        (str(md_file.relative_to(self.root_dir)), b_idx, "Unbalanced curly braces")
+                        (md_file.relative_to(self.root_dir).as_posix(), b_idx, "Unbalanced curly braces")
                     )
 
                 if is_valid:
@@ -886,7 +887,7 @@ class GroundTruthParityVerifier:
 
         stray_binaries = []
         for ext in (".wmf", ".emf"):
-            stray_binaries.extend(list(figures_dir.rglob(f"*{ext}")))
+            stray_binaries.extend(sorted(figures_dir.rglob(f"*{ext}")))
 
         if stray_binaries:
             for s in stray_binaries[:2]:
@@ -895,7 +896,7 @@ class GroundTruthParityVerifier:
                         bundle_slug=bundle_dir.name,
                         error_category="MULTIMODAL_ASSET",
                         error_code="ERR_STRAY_VECTOR_BINARY",
-                        file_path=str(s.relative_to(self.root_dir)),
+                        file_path=s.relative_to(self.root_dir).as_posix(),
                         location="figures/",
                         detail=f"Found unviewable vector binary '{s.name}'. Must convert to SVG or PNG.",
                         assigned_skill="modernize_annex_engine",
@@ -947,7 +948,7 @@ class GroundTruthParityVerifier:
                             bundle_slug=bundle_dir.name,
                             error_category="MULTIMODAL_ASSET",
                             error_code="ERR_MISSING_FIGURE_CARD",
-                            file_path=str((cards_dir / f"hinh_{f_slug}.md").relative_to(self.root_dir)) if cards_dir.exists() else "figures/cards/",
+                            file_path=(cards_dir / f"hinh_{f_slug}.md").relative_to(self.root_dir).as_posix() if cards_dir.exists() else "figures/cards/",
                             location=f"Figure '{tag}'",
                             detail=f"Figure card 'hinh_{f_slug}.md' is missing.",
                             assigned_skill="modernize_annex_engine",
@@ -978,7 +979,7 @@ class GroundTruthParityVerifier:
         templates_valid = True
         template_tickets = []
         if templates_dir.exists():
-            t_files = list(templates_dir.rglob("*.md"))
+            t_files = sorted(templates_dir.rglob("*.md"))
             if not t_files:
                 templates_valid = False
                 template_tickets.append(("templates/", "Empty templates/ directory detected."))
@@ -987,7 +988,7 @@ class GroundTruthParityVerifier:
                     t_text = tf.read_text(encoding="utf-8")
                     if not t_text.strip():
                         templates_valid = False
-                        template_tickets.append((str(tf.relative_to(self.root_dir)), "Empty template file detected."))
+                        template_tickets.append((tf.relative_to(self.root_dir).as_posix(), "Empty template file detected."))
                         continue
 
                     # Check for corrupted placeholder in frontmatter title or Markdown headings
@@ -997,14 +998,14 @@ class GroundTruthParityVerifier:
                         if l_strip.startswith("title:") or l_strip.startswith("#"):
                             if re.search(r"\.{4,}|……|___", l_strip):
                                 templates_valid = False
-                                template_tickets.append((str(tf.relative_to(self.root_dir)), f"Corrupted placeholder in title: '{l_strip[:40]}'"))
+                                template_tickets.append((tf.relative_to(self.root_dir).as_posix(), f"Corrupted placeholder in title: '{l_strip[:40]}'"))
                                 break
 
                     # Check for broken flattened table in template
                     if re.search(r"(?:__TT__|\bTT\b)\s*\n\s*\n\s*__(?:Danh mục|Tên sản phẩm)", t_text):
                         if "|" not in t_text:
                             templates_valid = False
-                            template_tickets.append((str(tf.relative_to(self.root_dir)), "Flattened table detected in template. Must be 2D GFM Table."))
+                            template_tickets.append((tf.relative_to(self.root_dir).as_posix(), "Flattened table detected in template. Must be 2D GFM Table."))
                 except Exception:
                     pass
 
@@ -1016,7 +1017,7 @@ class GroundTruthParityVerifier:
                     bundle_slug=bundle_dir.name,
                     error_category="STRUCTURAL_AST",
                     error_code="ERR_CLAUSES_AST_INVALID",
-                    file_path=str(clauses_file.relative_to(self.root_dir)) if has_clauses else "clauses.json",
+                    file_path=clauses_file.relative_to(self.root_dir).as_posix() if has_clauses else "clauses.json",
                     location="clauses.json",
                     detail="Missing or invalid clauses.json AST file.",
                     assigned_skill="ccba-markdown-document-processing",

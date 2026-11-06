@@ -23,7 +23,7 @@ import json
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import NamedTuple
+from typing import Any, NamedTuple
 
 import yaml
 
@@ -75,7 +75,7 @@ class GateResult(NamedTuple):
 
 # ── Core functions ────────────────────────────────────────────────────────────
 
-def load_catalog(catalog_path: Path) -> list[dict]:
+def load_catalog(catalog_path: Path) -> list[dict[str, Any]]:
     """Nạp catalog.yaml và trả về danh sách skills.
 
     Args:
@@ -92,7 +92,10 @@ def load_catalog(catalog_path: Path) -> list[dict]:
         sys.exit(2)
     with catalog_path.open(encoding="utf-8") as f:
         data = yaml.safe_load(f)
-    return data.get("skills", [])
+    if not isinstance(data, dict):
+        return []
+    skills = data.get("skills", [])
+    return skills if isinstance(skills, list) else []
 
 
 def _tokenize(text: str) -> set[str]:
@@ -101,7 +104,7 @@ def _tokenize(text: str) -> set[str]:
     return set(re.findall(r"[a-zA-Z_][a-zA-Z0-9_]*", text.lower()))
 
 
-def match_intent(intent: str, catalog: list[dict]) -> list[Match]:
+def match_intent(intent: str, catalog: list[dict[str, Any]]) -> list[Match]:
     """So khớp intent với catalog triggers và capability keywords.
 
     Args:

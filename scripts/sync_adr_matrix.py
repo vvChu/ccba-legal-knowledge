@@ -162,7 +162,7 @@ def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str
     # Search skills
     skills_dir = root_dir / ".agents" / "skills"
     if skills_dir.exists():
-        target_paths.extend(skills_dir.glob("*/SKILL.md"))
+        target_paths.extend(sorted(skills_dir.glob("*/SKILL.md")))
 
     # Core files and constitutional CI scripts (Whitelisted Targets to avoid noise)
     core_candidates = [
@@ -237,7 +237,7 @@ def compile_traceability_matrix(
 
 
 def main() -> None:
-    root_dir = Path.cwd()
+    root_dir = Path(__file__).resolve().parent.parent
     adr_dir = root_dir / "docs" / "adr"
     if not adr_dir.exists():
         print(f"[ERROR] ADR directory not found at: {adr_dir}")

@@ -89,7 +89,7 @@ def _read_bundle_text(bundle_path: Path) -> tuple[bool, str]:
     # 2. Fallback: scan markdown in bundle root, strictly excluding helper / matrix / index files
     candidates = [
         mf
-        for mf in bundle_path.glob("*.md")
+        for mf in sorted(bundle_path.glob("*.md"))
         if mf.name.lower() not in EXCLUDED_MD_FILES
     ]
     if not candidates:

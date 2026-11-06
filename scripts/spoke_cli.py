@@ -1211,7 +1211,16 @@ def main() -> None:
             reg_data = {}
 
         is_vbpl = args.category == "01_vbpl"
-        default_section_key = "laws" if is_vbpl else "standards"
+        raw_doc_type = str(raw_meta.get("type", "")).strip()
+        doc_num = raw_meta.get("document_number") or args.slug.replace("_", " ").upper()
+        is_decree = (
+            args.slug.startswith("nghi_dinh")
+            or "nghị định" in raw_doc_type.lower()
+            or "NĐ-CP" in str(doc_num).upper()
+        )
+        default_section_key = (
+            ("decrees" if is_decree else "laws") if is_vbpl else "standards"
+        )
         if default_section_key not in reg_data or not isinstance(
             reg_data[default_section_key], list
         ):
@@ -1221,9 +1230,17 @@ def main() -> None:
             reg_data, args.slug, raw_meta
         )
 
-        doc_num = raw_meta.get("document_number") or args.slug.replace("_", " ").upper()
         if is_vbpl:
-            default_type = "Nghị định"
+            if is_decree:
+                default_type = "Nghị định"
+            elif args.slug.startswith("luat"):
+                default_type = "Luật"
+            elif args.slug.startswith("thong_tu"):
+                default_type = "Thông tư"
+            elif args.slug.startswith("quyet_dinh"):
+                default_type = "Quyết định"
+            else:
+                default_type = "Nghị định"
             default_title = f"Văn bản quy phạm pháp luật {doc_num}"
         elif args.category == "02_qcvn":
             default_type = "Quy chuẩn kỹ thuật"
