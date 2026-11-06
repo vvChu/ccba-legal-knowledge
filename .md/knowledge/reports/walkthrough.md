@@ -1,31 +1,24 @@
-# Walkthrough: Phát Hành Tính Năng PR #44 & Hub PR #607 (Gia Cố Toàn Trình Pipeline `/ccba-legal-ingest`, Đồng Bộ Sổ Bộ 106 Bundles & Khóa Cổng Liên Kết Gate 2)
+# Walkthrough: Phát Hành Tính Năng PR #47 (Khắc Phục Toàn Trình Codebase Review, Gia Cố Pstack Verification Harnesses & Đồng Bộ 100% E2E Suite OKF v2.4)
 
-> **Mục tiêu:** Gia cố toàn trình chu trình `/ccba-legal-ingest` theo bản đồ [Wayfinder Map `legal-ingest-hardening`](../../wayfinder/legal-ingest-hardening/map.md) (`T-01` $\to$ `T-04`): đồng bộ toàn bộ 19 nghị định trong `decrees:` vào `registry_summary` (`total_documents: 106`), Sub-Gate 5.3 và `spoke_cli.py`; khắc phục lỗi sinh `index.md` / `metadata.yaml` trong `vbpl_admin.py` và sửa 28 tệp `index.md` / `metadata.yaml` kèm khóa kiểm tra liên kết an toàn CI tại Gate 2; hợp nhất cơ chế ADR 0043 Dual-PDF có fallback an toàn, sao chép `attachments` và trích xuất DOCX header hints ở chế độ `--docx` offline; chuẩn hóa báo cáo Nightly Telemetry và làm mới hàng đợi Provenance 106 bundles.
+> **Mục tiêu:** Giải quyết toàn bộ 20 phát hiện chặn từ đợt kiểm tra chéo song song `/ccba-code-review` (`Standards` + `Spec`) và 5 điều kiện nghiệm thu từ Grok 4.7; gia cố 2 bộ kiểm tra vệ sinh Spoke (`check_spoke_cleanliness.py`, `check_hub_import_depth.py`), 3 Pstack Verification Harnesses (bảo vệ tiến trình con bằng `Popen(..., start_new_session=True)` + `os.killpg` chống treo pipe), các cổng kiểm định OKF v2.4 (`validate_legal_spoke.py`, `verify_cross_links.py`), và đồng bộ 100% bộ kiểm thử `tests/e2e/` (`428 passed, 4 skipped, 0 failed`).
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **Spoke PR #44:** [vvChu/ccba-legal-knowledge#44](https://github.com/vvChu/ccba-legal-knowledge/pull/44) — Merge Commit: `9a06d36` (Squash and merge, 6/6 CI Checks Passed)
-> - **Hub PR #607:** [vvChu/ccba-agent-platform#607](https://github.com/vvChu/ccba-agent-platform/pull/607) — Merge Commit: `80ff3c66` (Squash and merge, 8/8 CI Checks Passed)
-> - **Biên bản Thẩm định Grok:** Stage 1 Plan Sign-off (`APPROVE_PLAN`, Session `2267034a-cd73-4564-b7cf-9fe2252de768`) & Stage 2 Code Sign-off (`APPROVE`, Risk: 2, 0 Blocking Conditions, Session `04c35a3e-65ef-482d-893b-d44eabea9d6c`).
+> - **Spoke PR #47:** [vvChu/ccba-legal-knowledge#47](https://github.com/vvChu/ccba-legal-knowledge/pull/47) — Merge Commit: `b5b832d` (Squash and merge, 6/6 CI Checks Passed)
+> - **Biên bản Thẩm định Grok 4.7:** Round 1 (`APPROVE_WITH_CONDITIONS`, Session `7b7b9a49-b881-4134-9ef2-d4884d782213`) & Round 2 (`FINAL_ACCEPT`, Risk: 1/5, 0 Blocking Conditions, Session `6e2ea3db-d153-4502-b98d-4f92501976d7`).
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (Spoke PR #44 & Hub PR #607)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (Spoke PR #47)
 
-### A. T-01: Đồng Bộ Khối `decrees:` (19 Văn Bản) & Mở Rộng Sub-Gate 5.3 (106/106 Bundles)
-- Cập nhật `get_spoke_stats`, `_find_existing_registry_entry`, `_merge_existing_registry_entry`, `_recompute_registry_summary` trong `scripts/spoke_cli.py`, Sub-Gate 5.3 (`_validate_legal_validity_and_in_force`) trong `scripts/validate_legal_spoke.py`, và `scripts/verify_all_docs_against_pdf.py` để quét hợp nhất cả 3 khóa `("laws", "decrees", "standards")` (**51 + 19 + 36 = 106 văn bản**).
-- Bảo toàn hiệu lực pháp lý (`status: expired` của `10/2021/NĐ-CP`, `status: superseded` của `06/2021/TT-BXD`, `expiration_date`, `relations`, `pdf_origin`, `raw_scan_pdf`) khi re-ingest và cập nhật `registry_summary` trong `legal_registry.yaml` (`total_documents: 106`; `01_vbpl: 53, 02_qcvn: 17, 03_tcvn: 33, 04_appendices: 3`).
+### A. Gia Cố Spoke Guardrails & Pstack Verification Harnesses
+- Cập nhật `scripts/_guardrails/check_spoke_cleanliness.py` (mẫu Regex `MACHINE_PATH_RE` theo ADR-0061, sắp xếp tất định `sorted()` trên mọi phép duyệt thư mục) và `scripts/_guardrails/check_hub_import_depth.py` (quét toàn bộ dải dòng AST `[lineno..end_lineno]` để nhận diện `# ccba:quarantine` và `# ccba:allow-deep-import` trên câu lệnh import nhiều dòng).
+- Chuyển đổi `run_cmd` trong 3 Pstack Verification Harnesses (`verify_legal_harness.py`, `verify_legal_intel_harness.py`, `verify_legal_ingest_harness.py`) từ `subprocess.run` sang `subprocess.Popen(..., start_new_session=True)` kèm `os.killpg(..., signal.SIGKILL)` khi `TimeoutExpired`, khử triệt để lỗi treo pipe khi tiến trình con sinh tiến trình cháu giữ mở `stdout`/`stderr`.
 
-### B. T-02: Chuẩn Hóa Sinh `index.md` / `metadata.yaml` & Cổng Kiểm Định Liên Kết Gate 2 An Toàn CI
-- Tại Hub `vbpl_admin.py`: Tách `_build_merged_bundle_metadata` và `_write_bundle_metadata_and_index`, bảo toàn các khóa mở rộng trong `metadata.yaml`, loại bỏ hoàn toàn các giá trị bịa đặt mặc định (`"Chính phủ"`, `"Thủ tướng Chính phủ"`, `"2021-03-03"`, `datetime.now()`), trỏ link PDF về `./sources/{pdf_name}` và ẩn `./templates/` hoặc `./tables/` khi số lượng bằng `0`.
-- Tại Spoke: Sửa **11** tệp `index.md` ghi nhầm `"Chính phủ"`, **27** tệp `index.md` trỏ PDF ra ngoài `./sources/`, **8** dòng liên kết tới ngăn kéo rỗng, và bổ sung `_validate_index_md_links` trong Gate 2 (`scripts/validate_legal_spoke.py`).
+### B. Chuẩn Hóa Tất Định & Cổng Kiểm Định OKF v2.4 (`scripts/` & `.md/tools/`)
+- Áp dụng **Filesystem Inode Ordering Invariance** (`sorted(...)`) và **Multi-Key Deterministic Sorting** (`-round(score, 4)`) cùng xử lý ngoại lệ tường minh (không dùng bare `except Exception: pass`) trên 14 kịch bản kiểm định trong `scripts/` và `.md/tools/verify_ground_truth_parity.py`.
+- Nâng cấp `scripts/validate_legal_spoke.py` (Gate 2 bắt lỗi liên kết hỏng tới tài liệu cấu thành, Gate 8 quét đệ quy `rglob("*.md")`, Gate 12 kiểm tra đồng bộ $1:1$ thẻ thị giác `figures/cards/*.md` và cấm tệp `.wmf`/`.emf` đóng kín) và `scripts/verify_cross_links.py` (bóc tách đầy đủ cú pháp `[label](href)` kèm `urllib.parse.unquote`).
 
-### C. T-03: Hợp Nhất Điểm Vào Ingest Một Cửa, ADR 0043 Dual-PDF Fallback & Offline DOCX Hints
-- Bổ sung `_handle_ingest_pdf_and_attachments` và `_extract_docx_header_hints` trong `scripts/spoke_cli.py` cùng cập nhật `execute_ingest_legal` trong `scripts/ccba_platform_cli.py`:
-  - Hỗ trợ ADR 0043 Dual-PDF khi `pdf_tier == 3` (`_raw_scan.pdf` + `convert_to_pdf`) kèm nhánh fallback an toàn khôi phục bản scan nếu lỗi.
-  - Sao chép `attachments` trực tiếp vào `sources/attachments/` của bundle và khóa `.gitignore` (`legal_docs/**/sources/attachments/*`, `.xlsx`, `.xls`, `.zip`, `.rar`).
-  - Bóc tách tự động `document_number`, `issued_date`, `issued_by`, `title` từ bảng header và đoạn đầu DOCX khi chạy `--docx` offline.
-
-### D. T-04: Chuẩn Hóa Nightly Telemetry & Hàng Đợi Provenance 106 Bundles
-- Bổ sung `parse_master_ci_summary` trong `.md/tools/run_nightly_telemetry.py` cho cả `exit 0` và `exit != 0`; sửa tiêu đề động `len(records)` trong `generate_provenance_report_md` và làm mới `.md/knowledge/provenance_migration_queue.md` lên đúng **106 văn bản** (`103/103` gói chính quy đạt `VERIFIED`).
+### C. Đồng Bộ 100% Bộ Kiểm Thử `tests/` Với Kiến Trúc OKF v2.4
+- Cập nhật `tests/conftest.py` và 4 tệp kiểm thử trong `tests/e2e/` (`test_tier1_feature_coverage.py`, `test_tier2_boundaries.py`, `test_tier3_cross_features.py`, `test_tier4_real_world.py`) để phản ánh cấu trúc VBHN hợp nhất của `qcvn_06_2022_bxd`, phụ lục tách rời `annexes/*.md` (ADR 0036) và bảng dữ liệu 2D tách chú thích (ADR 0041), nâng tỷ lệ vượt qua toàn bộ pytest suite lên **100% (`428 passed, 4 skipped, 0 failed`)**.
 
 ---
 
@@ -34,15 +27,27 @@
 | Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
 | :--- | :--- | :--- | :--- | :---: |
 | **Maskara Secret Gate** | Bảo mật mã nguồn | `python -m ccba_maskara.cli scan --staged` / CI | **0 secret leaks** | ✅ **PASSED** |
-| **Cleanliness & Budget** | Vệ sinh Spoke | `python scripts/_guardrails/check_spoke_cleanliness.py` | **Clean, 0 violations** | ✅ **PASSED** |
-| **Skills Governance** | Metadata Governance | Inline Python AST (ADR-0066/ADR-0057) | **100% Valid, GPI $\ge$ 12.0** | ✅ **PASSED** |
-| **Pstack Verification** | Harness Full & Smoke | `python .agents/skills/ccba-verify-legal-ingest/harness/verify_legal_ingest_harness.py` | **93/93 tests passed** | ✅ **PASSED** |
-| **Master Legal CI Gates**| 15 Cổng Tri thức | `python scripts/validate_legal_spoke.py --skip-pdf-vault` | **15/15 Gates Passed (0 Errors)** | ✅ **PASSED** |
-| **Hub CI Matrix (Py 3.10-3.12)**| 8 Jobs trên Hub | `gh pr checks 607 --repo vvChu/ccba-agent-platform` | **8/8 Checks Passed** | ✅ **PASSED** |
+| **Cleanliness & Budget** | Vệ sinh Spoke | `python scripts/_guardrails/check_spoke_cleanliness.py` | **15/15 scripts, 0 leaks** | ✅ **PASSED** |
+| **Hub Import Depth** | Kiến trúc Seam | `python scripts/_guardrails/check_hub_import_depth.py` | **44 files scanned, 0 violations** | ✅ **PASSED** |
+| **Full Pytest Suite** | Unit + Integration + E2E | `python -m pytest tests/unit/ tests/integration/ tests/e2e/ -q` | **428 passed, 4 skipped, 0 failed** | ✅ **PASSED** |
+| **Master Legal CI Gates**| 15 Cổng Tri thức | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors)** | ✅ **PASSED** |
+| **Spoke GitHub Actions CI**| 6 Jobs trên GitHub | `gh pr checks 47` | **6/6 Checks Passed** | ✅ **PASSED** |
+| **Copilot / Bugbot Audit**| AI Review Gate | `python ../ccba-agent-platform/scripts/validation/audit_pr_comments.py --pr 47` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #44 & Hub PR #607 (Phát hành ngày 2026-11-05)</summary>
+
+### PR #44 & Hub PR #607: Gia Cố Toàn Trình Pipeline `/ccba-legal-ingest`, Đồng Bộ Sổ Bộ 106 Bundles & Khóa Cổng Liên Kết Gate 2
+- **T-01:** Đồng bộ khối `decrees:` (19 văn bản) và mở rộng Sub-Gate 5.3 lên **106/106 bundles**.
+- **T-02:** Chuẩn hóa sinh `index.md` / `metadata.yaml` và bổ sung `_validate_index_md_links` trong Gate 2.
+- **T-03:** Hợp nhất điểm vào ingest một cửa, hỗ trợ ADR 0043 Dual-PDF fallback và trích xuất DOCX header hints offline.
+- **T-04:** Chuẩn hóa Nightly Telemetry và làm mới hàng đợi Provenance 106 bundles.
+
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #40 (Phát hành ngày 2026-10-21)</summary>
