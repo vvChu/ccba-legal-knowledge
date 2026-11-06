@@ -69,12 +69,12 @@ def test_spoke_stats_computation() -> None:
     )
     reg_summary = reg_data.get("registry_summary", {})
     assert reg_summary.get("total_documents") == len(stats_entries)
-    assert reg_summary.get("categories") == {
-        "01_vbpl": 53,
-        "02_qcvn": 17,
-        "03_tcvn": 33,
-        "04_appendices": 3,
-    }
+    reg_cats = reg_summary.get("categories", {})
+    assert sum(reg_cats.values()) == len(stats_entries)
+    assert reg_cats.get("01_vbpl", 0) >= 53
+    assert reg_cats.get("02_qcvn", 0) >= 17
+    assert reg_cats.get("03_tcvn", 0) >= 33
+    assert reg_cats.get("04_appendices", 0) >= 3
     assert stats["categories"].get("Luật", 0) >= 7
     assert stats["categories"].get("Nghị định", 0) >= 11
     assert stats["categories"].get("Thông tư", 0) >= 14

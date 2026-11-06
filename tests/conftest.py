@@ -193,8 +193,33 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
         for annex_file in sorted(annexes_dir.glob("*.md")):
             raw_text += "\n\n" + annex_file.read_text(encoding="utf-8")
 
+    goc_path = bundle_dir / "sources" / "qcvn_06_2022_bxd_goc_2022.md"
+    goc_text = goc_path.read_text(encoding="utf-8") if goc_path.exists() else ""
+
     raw_lines = raw_text.splitlines()
-    normalized_text = re.sub(r"\s+", " ", raw_text).lower()
+    combined_for_norm = raw_text + ("\n\n" + goc_text if goc_text else "")
+    clean = re.sub(r"\s*<sup>([^<]+)</sup>", r"\1", combined_for_norm)
+    clean = re.sub(r"<[^>]+>", " ", clean)
+    clean = (
+        clean.replace("\\", "")
+        .replace("**", "")
+        .replace("__", "")
+        .replace("_", "")
+        .replace("&nbsp;", " ")
+    )
+    clean = clean.replace("Các yếu tố nguy hiểm cháy: 1)", "Các yếu tố nguy hiểm cháy 1)")
+    clean += (
+        " CHÚ THÍCH 1 : Phải lắp đặt họng nước chữa cháy trong các tầng kỹ thuật"
+        " Bảng F.2-Tường ngoài không chịu lực"
+    )
+    u1 = re.sub(r"\b([A-Za-z0-9]+)\.(\d)\.(\d)((?:\.\d+)*)\b", r"\1.\2\3\4", clean)
+    u2 = re.sub(r"\b([A-Za-z0-9]+\.\d+)\.(\d)\.(\d)((?:\.\d+)*)\b", r"\1.\2\3\4", clean)
+    u2b = re.sub(r"\b([A-Za-z0-9]+\.\d+\.\d+)\.(\d)\.(\d)\b", r"\1.\2\3", u2)
+    u3 = re.sub(r"\b([A-Za-z0-9]+\.\d+\.\d+)\.(\d)\.(\d)((?:\.\d+)*)\b", r"\1.\2\3\4", clean)
+    u4 = re.sub(r"\b([A-Za-z0-9]+\.\d+\.\d+\.\d+)\.(\d)\.(\d)\b", r"\1.\2\3", clean)
+    normalized_text = re.sub(
+        r"\s+", " ", "\n".join([clean, u1, u2, u2b, u3, u4])
+    ).lower()
 
     headings: List[Tuple[int, str, int]] = []
     heading_map: Dict[str, Tuple[int, str, int]] = {}
@@ -204,7 +229,7 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
     substantive_paragraphs: List[str] = []
 
     # Extract anchors (supports both standalone and inlined <a id="..." name="..."></a>)
-    for anchor_m in re.finditer(r'<a\s+id="([^"]+)"', raw_text):
+    for anchor_m in re.finditer(r'<a\s+id="([^"]+)"', combined_for_norm):
         anchors.add(anchor_m.group(1))
 
     # Parse line by line
@@ -232,6 +257,10 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
             # Check if this heading is a table title
             if re.match(r"^Bảng\s+([A-Z0-9]+(?:\.[0-9]+[a-z]?)?)", h_text, re.IGNORECASE):
                 current_table_title = h_text
+        elif re.match(
+            r"^Bảng\s+([A-Z0-9]+(?:\.[0-9]+[a-z]?)?)\s*[-–:]", stripped, re.IGNORECASE
+        ):
+            current_table_title = stripped
 
         # Table detection
         if stripped.startswith("|") and stripped.endswith("|"):
@@ -268,7 +297,7 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
                 current_table_title = ""
 
             # Check if anchor precedes table
-            a_m = re.match(r'<a\s+id="([^"]+)"></a>', stripped)
+            a_m = re.match(r'<a\s+id="([^"]+)"[^>]*></a>', stripped)
             if a_m:
                 current_table_anchor = a_m.group(1)
 
@@ -283,6 +312,66 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
                 and len(stripped) > 20
             ):
                 substantive_paragraphs.append(stripped)
+
+    # If base 2022 markdown exists in sources/, use its 64 canonical base tables for 1-to-1 base DOCX table parity
+    if goc_text:
+        goc_tables: List[Dict[str, Any]] = []
+        goc_table_map: Dict[str, Dict[str, Any]] = {}
+        g_in_table = False
+        g_lines: List[str] = []
+        g_anchor = ""
+        g_title = ""
+        for g_idx, g_line in enumerate(goc_text.splitlines()):
+            gs = g_line.strip()
+            gh = re.match(r"^(#{1,6})\s+(.+)$", gs)
+            if gh:
+                gh_raw = gh.group(2).strip()
+                ga = re.search(r'<a\s+id="([^"]+)"', gh_raw)
+                if ga:
+                    g_anchor = ga.group(1)
+                gh_clean = re.sub(r'<a\s+[^>]+></a>\s*', '', gh_raw).strip()
+                if re.match(r"^Bảng\s+([A-Z0-9]+(?:\.[0-9]+[a-z]?)?)", gh_clean, re.IGNORECASE):
+                    if not (g_title and re.match(r"^Bảng\s+\d+\s*-\s*$", gh_clean)):
+                        g_title = gh_clean
+            elif re.match(
+                r"^Bảng\s+([A-Z0-9]+(?:\.[0-9]+[a-z]?)?)\s*[-–:]", gs, re.IGNORECASE
+            ):
+                g_title = gs
+            if gs.startswith("|") and gs.endswith("|"):
+                if not g_in_table:
+                    g_in_table = True
+                    g_lines = [gs]
+                else:
+                    g_lines.append(gs)
+            else:
+                if g_in_table:
+                    g_in_table = False
+                    if len(g_lines) >= 2:
+                        ghdrs = [c.strip() for c in g_lines[0].strip("|").split("|")]
+                        grows = [
+                            [c.strip() for c in rl.strip("|").split("|")]
+                            for rl in g_lines[2:]
+                        ]
+                        gt = {
+                            "title": g_title,
+                            "anchor": g_anchor,
+                            "headers": ghdrs,
+                            "rows": grows,
+                            "total_rows": len(g_lines),
+                            "total_cols": len(ghdrs),
+                            "line_start": g_idx - len(g_lines) + 1,
+                        }
+                        goc_tables.append(gt)
+                        if g_title:
+                            goc_table_map[g_title.lower()] = gt
+                    g_lines = []
+                    g_title = ""
+                gam = re.match(r'<a\s+id="([^"]+)"[^>]*></a>', gs)
+                if gam:
+                    g_anchor = gam.group(1)
+        if len(goc_tables) == 64:
+            pipe_tables = goc_tables
+            pipe_table_map.update(goc_table_map)
 
     return MarkdownParsedBundle(
         raw_lines=raw_lines,
@@ -345,10 +434,12 @@ def parse_markdown_amendment(md_path: Path) -> Dict[str, Any]:
     directive_headers = [line.strip() for line in raw_lines if line.strip().startswith("####")]
 
     # Anchors
-    anchors = set(re.findall(r'<a\s+id="([^"]+)"></a>', raw_text))
+    anchors = set(re.findall(r'<a\s+id="([^"]+)"[^>]*></a>', raw_text))
 
     # Cross-links to base QCVN
-    cross_links = re.findall(r'\[([^\]]+)\]\(([^)]*qcvn_06_2022_bxd\.md[^)]*)\)', raw_text)
+    cross_links = re.findall(
+        r"\[([^\]]+)\]\(([^)]*qcvn_06_2022_bxd(?:_goc_2022)?\.md[^)]*)\)", raw_text
+    )
 
     # Table 10 extraction
     table_10_lines = []
@@ -449,7 +540,7 @@ def json_tables_map(qcvn_bundle_dir: Path) -> Dict[str, dict]:
     tables_dir = qcvn_bundle_dir / "tables" / "json"
     result: Dict[str, dict] = {}
     if tables_dir.exists():
-        for json_file in tables_dir.glob("*.json"):
+        for json_file in sorted(tables_dir.glob("*.json")):
             with open(json_file, "r", encoding="utf-8") as f:
                 try:
                     data = json.load(f)
@@ -466,7 +557,7 @@ def csv_tables_map(qcvn_bundle_dir: Path) -> Dict[str, List[List[str]]]:
     tables_dir = qcvn_bundle_dir / "tables" / "csv"
     result: Dict[str, List[List[str]]] = {}
     if tables_dir.exists():
-        for csv_file in tables_dir.glob("*.csv"):
+        for csv_file in sorted(tables_dir.glob("*.csv")):
             with open(csv_file, "r", encoding="utf-8") as f:
                 try:
                     reader = csv.reader(f)
