@@ -20,8 +20,9 @@ from pathlib import Path
 import signal
 import subprocess
 import sys
+import threading
 import time
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 # UTF-8 stdout configuration for cross-platform compatibility
 if hasattr(sys.stdout, "reconfigure"):
@@ -189,7 +190,6 @@ class LegalVerificationHarness:
     def run_suite(self) -> int:
         """Execute test suite based on selected mode and capture structured evidence."""
         print(f"🚀 [Block 4] Evidence-Capture Test Suite: Running in mode '{self.mode}'...")
-        start_ts = time.time()
         start_monotonic = time.monotonic()
         captured_logs: List[str] = []
         overall_exit_code = 0
@@ -287,21 +287,38 @@ class LegalVerificationHarness:
             proc = self._spawn_process_group(cmd)
 
             output_lines: List[str] = []
-            if proc.stdout:
-                for line in proc.stdout:
-                    output_lines.append(line)
-                    sys.stdout.write(line)
-                    sys.stdout.flush()
-            timed_out = False
+            timed_out = threading.Event()
+
+            def _on_timeout() -> None:
+                if not timed_out.is_set():
+                    timed_out.set()
+                    print(
+                        f"\n❌ [TIMEOUT] {label} timed out after {self.step_timeout}s!",
+                        file=sys.stderr,
+                    )
+                    self.cleanup()
+
+            timer = threading.Timer(self.step_timeout, _on_timeout)
+            timer.daemon = True
+            timer.start()
             try:
-                proc.wait(timeout=self.step_timeout)
+                if proc.stdout:
+                    for line in proc.stdout:
+                        output_lines.append(line)
+                        sys.stdout.write(line)
+                        sys.stdout.flush()
+                remaining = max(0.0, self.step_timeout - (time.monotonic() - step_start))
+                proc.wait(timeout=remaining)
             except subprocess.TimeoutExpired:
-                print(f"\n❌ [TIMEOUT] {label} timed out after {self.step_timeout}s!", file=sys.stderr)
-                self.cleanup()
-                timed_out = True
-                exit_code = 124
-            else:
-                exit_code = proc.returncode
+                _on_timeout()
+            finally:
+                timer.cancel()
+
+            exit_code = (
+                124
+                if timed_out.is_set()
+                else (proc.returncode if proc.returncode is not None else 124)
+            )
 
             step_duration = time.monotonic() - step_start
             self.active_process = None
@@ -366,9 +383,12 @@ class LegalVerificationHarness:
                     try:
                         pgid = os.getpgid(pid)
                         os.killpg(pgid, signal.SIGTERM)
-                        time.sleep(0.2)
-                        os.killpg(pgid, signal.SIGKILL)
-                    except (ProcessLookupError, PermissionError):
+                        try:
+                            self.active_process.wait(timeout=5.0)
+                        except subprocess.TimeoutExpired:
+                            if self.active_process.poll() is None:
+                                os.killpg(pgid, signal.SIGKILL)
+                    except (ProcessLookupError, PermissionError, OSError):
                         pass
             except Exception as exc:
                 print(f"⚠️ Error during cleanup: {exc}", file=sys.stderr)
