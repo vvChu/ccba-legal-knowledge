@@ -88,7 +88,7 @@
 ## 7. Bản Đồ Định Vị Hub-Spoke, 3 Rào Chắn Dữ Liệu & Hợp Đồng Giao Tiếp Song Song (DAG Parallel Contracts)
 
 ### 7.1. 3 Rào Chắn Kiểm Toán Dữ Liệu Đối Kháng (`[đo thực tế]` trên `etl_staging.db`)
-1. **Rào chắn 1 — Chống Nhân Bản Đa Đơn Vị ($1:N$ Fan-out) & Phân Định Trách Nhiệm CCBA vs 14 Viện Chuyên Ngành IBST:**
+1. **Rào chắn 1 — Chống Nhân Bản Đa Đơn Vị ($1:N$ Fan-out) & Phân Định Trách Nhiệm CCBA vs 14 Viện/Trung Tâm Chuyên Ngành Thuộc IBST:**
    - Trong `325` hợp đồng (`495,13 tỷ VND`), có `121` hợp đồng (`126,20 tỷ VND`) không qua `staged_job_assignments` mà nằm trong `staged_scope_department_allocations` (`467` dòng), và có `138/329` scopes do $\ge 2$ đơn vị cùng thực hiện:
      - `CCBA_INTERNAL` (`TT BIM`, `282` dòng): **`320,72 tỷ VND`**
      - `IBST_INTER_UNIT` (14 Viện/TT chuyên ngành thuộc IBST, `183` dòng): **`93,34 tỷ VND`**
