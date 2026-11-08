@@ -47,14 +47,14 @@ summary: Registry isolation, POSIX rel paths, pre-commit root, decree section ro
 telemetry:
   session_id: 7b7b9a49-b881-4134-9ef2-d4884d782213
   primary_model: grok-4.7-build
-  input_tokens: 70971
-  output_tokens: 3772
-  reasoning_tokens: 1862
-  cached_read_tokens: 1152
-  total_tokens: 74743
-  model_calls: 1
-  turn_count: 1
-  cost_usd: 0.0554
+  input_tokens: 738197
+  output_tokens: 14865
+  reasoning_tokens: 9253
+  cached_read_tokens: 582272
+  total_tokens: 753062
+  model_calls: 16
+  turn_count: 2
+  cost_usd: 0.2353
   cost_mode: exact
   duration_seconds: 49.06
   degraded_reasoning: false
