@@ -926,3 +926,25 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   2. **Quét Dải Dòng AST Đầy Đủ & Bất Biến Thứ Tự Inode (`RULE-5.9` — ADR-0061):**
      - Mọi AST Visitor kiểm tra hợp đồng phụ thuộc (`check_hub_import_depth.py`) bắt buộc quét toàn bộ dải dòng `[node.lineno, getattr(node, "end_lineno", node.lineno)]`.
      - Mọi phép duyệt tệp (`Path.glob`, `rglob`, `iterdir`, `os.walk`) xây dựng tập dữ liệu hoặc bảng ánh xạ bắt buộc bọc `sorted(...)` và dùng khóa sắp xếp đa tiêu chí tường minh `key=lambda x: (-round(score, 4), str_key)` (cấm `reverse=True` trên tuple hỗn hợp số + chuỗi).
+
+
+---
+
+## 55. Gate 11 VBHN Bilateral Delta Verification, Unified Context Graph Architecture & Institutional Nomenclature Invariant (Session 2026-11-08 — PR #50, #51, #52)
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Cảnh Báo Giả `[VBHN Telemetry]` Tại Gate 11 Trên Các Bundle Hợp Nhất (`PR #50`):**
+     - Đối với các văn bản hợp nhất (`is_vbhn_consolidation`, như `qcvn_06_2022_bxd`), một số đoạn văn trong DOCX gốc đã bị sửa đổi hoặc bãi bỏ trong thân văn bản hợp nhất `.md`, khiến phép đối chiếu đơn phương chỉ với thân hợp nhất báo thiếu đoạn và sinh cảnh báo `[VBHN Telemetry]` dù các đoạn gốc đó vẫn được bảo tồn nguyên vẹn trong `sources/*_goc*.md`.
+  2. **Đứt Gãy Truy Vết Giữa Đồ Thị Pháp Lý 5-Ring Và Quy Chế Nội Bộ / Vận Hành EOS L10 (`PR #51`):**
+     - Các điều khoản trong `QCTK 2815` và `QCCTNB 3209` viện dẫn thông tư cũ (`11/2021/TT-BXD`, `13/2021/TT-BXD`, `09/2025/TT-BXD`) đã bị thay thế từ `01/07/2026` bởi `NĐ 206/2026/NĐ-CP` và `TT 36, 37/2026/TT-BXD`, cần cơ chế phát hiện lệch pha tự động mà không tự ý sửa ngầm văn bản nội bộ.
+  3. **Lỗi Lặp Từ Loại Danh Xưng Pháp Nhân (`"Viện IBST"`, `"Trung tâm CCBA"`, `"14 Viện chuyên ngành IBST"` — `PR #52`):**
+     - Chữ `I` trong `IBST` (`Institute`) đã mang nghĩa `"Viện"` và chữ `C` đầu trong `CCBA` (`Center`) đã mang nghĩa `"Trung tâm"`; việc ghép `"Viện IBST"` hoặc `"14 Viện chuyên ngành IBST"` gây dư thừa ngữ nghĩa và lệch chuẩn định danh thể chế (`RULE-6.1`).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Đối Soát Bù Trừ Đoạn Lệch VBHN Qua `sources/*_goc*.md` Tại Gate 11 (`RULE-4.5` — PR #50):**
+     - Trong `scripts/validate_legal_spoke.py`, khi `is_vbhn_consolidation` có `missing_paras`, tự động đọc `sorted(sources_dir.glob("*_goc*.md"))` và đối sánh cửa sổ trượt 6 từ (`6-word sliding window` chuẩn hóa NFC). Nếu tỷ lệ khớp kết hợp đạt $\ge 98.0\%$ (`GATE_11_MIN_VERBATIM_PARITY`), xác nhận `goc_verified = True` và triệt tiêu hoàn toàn cảnh báo giả (`0 Errors, 0 Warnings`).
+  2. **Chuẩn Hóa Danh Xưng Pháp Nhân Viện / IBST & Trung Tâm / CCBA (`RULE-6.1` — PR #52):**
+     - Nghiêm cấm lặp từ loại tiếng Việt + chữ đầu viết tắt tiếng Anh (`"Viện IBST"`, `"Trung tâm CCBA"`) hoặc ghép dấu gạch chéo đồng nghĩa (`"Viện/IBST"`, `"CCBA/TT BIM"`). Chỉ sử dụng danh xưng chuẩn: `"IBST"`, `"Viện"`, `"Viện KHCN Xây dựng (IBST)"`, `"14 Viện/Trung tâm chuyên ngành thuộc IBST"`, `"CCBA"`, `"Trung tâm"`, và liên danh `"IBST - CCBA"`.
+  3. **Kiến Trúc 4-Slice CCBA Unified Context Graph & Hợp Đồng `governance_drift_report.json` (`RULE-6.2` — PR #51):**
+     - Kết nối `5-Ring Legal Graph` (`ccba-legal-knowledge` + `QĐ 1812/QĐ-BXD`) với `:InternalRegulation` / `:InternalClause` trên `neo4j-graph` qua cạnh `:DERIVED_FROM_STATUTE`; gắn cờ `drift_status: "STATUTE_SUPERSEDED"` và xuất `governance_drift_report.json` để cảnh báo tại cuộc họp EOS L10 mà bảo toàn nguyên trạng văn bản quy chế nội bộ.
+
