@@ -62,14 +62,14 @@ summary: 'Mục 3 thoát `\d` trong f-string là đúng và có thể làm ngay.
 telemetry:
   session_id: d1375d42-1bb6-4c7b-864a-7dc92aa35aba
   primary_model: grok-4.7-build
-  input_tokens: 309170
-  output_tokens: 18341
-  reasoning_tokens: 14307
-  cached_read_tokens: 257024
-  total_tokens: 327511
-  model_calls: 1
-  turn_count: 1
-  cost_usd: 0.2481
+  input_tokens: 458528
+  output_tokens: 23018
+  reasoning_tokens: 18116
+  cached_read_tokens: 363392
+  total_tokens: 481546
+  model_calls: 6
+  turn_count: 2
+  cost_usd: 0.305
   cost_mode: exact
   duration_seconds: 240.0
   degraded_reasoning: false

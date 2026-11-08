@@ -35,7 +35,7 @@ telemetry:
   cached_read_tokens: 236544
   total_tokens: 370966
   model_calls: 3
-  turn_count: 1
+  turn_count: 2
   cost_usd: 0.1416
   cost_mode: exact
   duration_seconds: 112.09
