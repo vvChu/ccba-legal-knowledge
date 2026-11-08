@@ -98,3 +98,7 @@ legal_docs/**/*.rar
 
 # Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
 .md/peer_exchange/.bridge_cache.json
+
+# Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
+.skill_versions/
+**/.skill_versions/
