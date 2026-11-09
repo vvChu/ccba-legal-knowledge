@@ -342,9 +342,7 @@ def scan_file(
                     line_num = node.lineno
                     end_line = getattr(node, "end_lineno", line_num) or line_num
                     span_lines = lines[max(0, line_num - 1) : min(len(lines), end_line)]
-                    if any(
-                        "ccba:quarantine" in sl or "noqa" in sl for sl in span_lines
-                    ):
+                    if any("ccba:quarantine" in sl or "noqa" in sl for sl in span_lines):
                         continue
                     line_content = (
                         lines[line_num - 1].strip()
@@ -364,12 +362,8 @@ def scan_file(
                     if is_violation:
                         line_num = node.lineno
                         end_line = getattr(node, "end_lineno", line_num) or line_num
-                        span_lines = lines[
-                            max(0, line_num - 1) : min(len(lines), end_line)
-                        ]
-                        if any(
-                            "ccba:quarantine" in sl or "noqa" in sl for sl in span_lines
-                        ):
+                        span_lines = lines[max(0, line_num - 1) : min(len(lines), end_line)]
+                        if any("ccba:quarantine" in sl or "noqa" in sl for sl in span_lines):
                             continue
                         line_content = (
                             lines[line_num - 1].strip()
