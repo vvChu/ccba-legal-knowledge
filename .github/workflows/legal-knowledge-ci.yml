@@ -27,11 +27,22 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install uv
+        run: pip install uv
+
+      - name: Cache uv wheels
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-3.11-maskara-${{ hashFiles('.github/workflows/legal-knowledge-ci.yml') }}
+          restore-keys: |
+            uv-${{ runner.os }}-3.11-maskara-
+            uv-${{ runner.os }}-3.11-
+
       - name: Install Maskara Scanner
         run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml
-          pip install "git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/ccba-maskara" || echo "ℹ️ Hub repo is private; using built-in Spoke secret scanner fallback"
+          uv pip install --system pyyaml
+          uv pip install --system "git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/ccba-maskara" || echo "ℹ️ Hub repo is private; using built-in Spoke secret scanner fallback"
 
       - name: Run Maskara Secret Scan
         run: |
@@ -87,10 +98,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install uv
+        run: pip install uv
+
+      - name: Cache uv wheels
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-3.11-pyyaml-${{ hashFiles('.github/workflows/legal-knowledge-ci.yml') }}
+          restore-keys: |
+            uv-${{ runner.os }}-3.11-pyyaml-
+            uv-${{ runner.os }}-3.11-
+
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml
+        run: uv pip install --system pyyaml
 
       - name: Check Script Budget & Machine State Paths
         run: |
@@ -116,10 +137,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install uv
+        run: pip install uv
+
+      - name: Cache uv wheels
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-3.11-pyyaml-${{ hashFiles('.github/workflows/legal-knowledge-ci.yml') }}
+          restore-keys: |
+            uv-${{ runner.os }}-3.11-pyyaml-
+            uv-${{ runner.os }}-3.11-
+
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml
+        run: uv pip install --system pyyaml
 
       - name: Validate SKILL.md Frontmatter & GPI Score
         run: |
@@ -155,10 +186,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install uv
+        run: pip install uv
+
+      - name: Cache uv wheels
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-3.11-docx-${{ hashFiles('.github/workflows/legal-knowledge-ci.yml') }}
+          restore-keys: |
+            uv-${{ runner.os }}-3.11-docx-
+            uv-${{ runner.os }}-3.11-
+
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml python-docx
+        run: uv pip install --system pyyaml python-docx
 
       - name: Run Pstack Verification Harness (Smoke Mode)
         run: |
@@ -188,10 +229,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install uv
+        run: pip install uv
+
+      - name: Cache uv wheels
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-3.11-docx-${{ hashFiles('.github/workflows/legal-knowledge-ci.yml') }}
+          restore-keys: |
+            uv-${{ runner.os }}-3.11-docx-
+            uv-${{ runner.os }}-3.11-
+
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pyyaml python-docx
+        run: uv pip install --system pyyaml python-docx
 
       - name: Run Master 15 CI Gates Validation
         run: |
