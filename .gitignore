@@ -102,3 +102,11 @@ legal_docs/**/*.rar
 # Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
 .skill_versions/
 **/.skill_versions/
+
+# Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
+.md/peer_exchange/*.lock
+.md/peer_exchange/status.json
+.md/peer_exchange/*.md
+!.md/peer_exchange/PEER_HANDSHAKE.md
+!.md/peer_exchange/README.md
+!.md/peer_exchange/.gitkeep
