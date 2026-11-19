@@ -28,5 +28,6 @@ For detailed operational guidance, follow these domain resources:
 - **Code Quality & SDLC Loop**: See [`docs/rules/code_quality_standards.md`](rules/code_quality_standards.md) and [`docs/rules/code_quality_verification.md`](rules/code_quality_verification.md)
 - **Internet Knowledge Research & Provenance**: See [`docs/rules/knowledge_research_protocol.md`](rules/knowledge_research_protocol.md)
 - **Bugbot & Advisory AI Review Rules**: See [`.github/bugbot-rules.md`](rules/bugbot-rules.md) and [`docs/rules/execution_coordination_guardrails.md`](rules/execution_coordination_guardrails.md#19-atomic-micro-pr-pipeline--read-only-advisory-ai-review-guardrail)
+- **Peer Exchange & Grok Dispatch (ADR-0063..0067)**: Read `.md/peer_exchange/PEER_HANDSHAKE.md`, invoke ONLY via `ccba-harness peer-dispatch` (`WaitMsBeforeAsync: 500`; never call raw `grok` CLI), and follow [`docs/rules/execution_coordination_guardrails.md`](rules/execution_coordination_guardrails.md#20-level-2-peer-agent-delegation-protocol-grok--antigravity-cost-turn--liveness-guardrails---adr-00630065)
 - **Domain Vocabulary & ADRs**: See [`CONTEXT.md`](../CONTEXT.md) and [`docs/adr/`](../docs/adr/)
 - **Monorepo Packages**: See individual `packages/*/AGENTS.md` for package-specific Deep Seams and scoped tests.
