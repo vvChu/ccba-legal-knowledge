@@ -19,3 +19,12 @@ legal_basis:
   title: Luật Đấu thầu số 22/2023/QH15
 replaces: []
 extracted_at: '2026-10-03T05:20:00.000000+00:00'
+source_assets:
+  pdf:
+    sha256: 4ac6f1b0553b79834df8ea40f7c499592e2995f194692453ea92c5bf16efe6f8
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_105_2025_tt_btc/thong_tu_105_2025_tt_btc.pdf
+    status: verified
+  docx:
+    sha256: 4c447feee5d36ad7c95cea77ee3a2b9efcb0844cd360a506a381328b27b324d1
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_105_2025_tt_btc/thong_tu_105_2025_tt_btc.docx
+    status: verified

@@ -19,7 +19,7 @@ source_assets:
   docx:
     sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.docx
-    status: verified
+    status: pending_acquisition
   pdf:
     sha256: 6b5a5a7d9f05cba125ab025062c90a1bac109c83543ce25ab2d41f0eaedd21ec
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.pdf
