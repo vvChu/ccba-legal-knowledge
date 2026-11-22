@@ -694,6 +694,77 @@ class LegalSpokeValidator:
             keys.add(m.group(1))
         return keys
 
+    @staticmethod
+    def _normalize_lifecycle_bucket(raw_status: str) -> str:
+        """Normalize raw lifecycle status string into canonical comparison bucket."""
+        s = raw_status.strip().lower()
+        if s in {"expired", "superseded", "repealed", "abrogated", "hết hiệu lực"}:
+            return "expired"
+        if s in {"pending_effective", "pending", "not_yet_in_force", "chưa hiệu lực"}:
+            return "pending_effective"
+        return "active"
+
+    def _validate_amendments_future_dates(
+        self,
+        doc_id: str,
+        amendments_list: list[Any],
+        today_str: str,
+        source_label: str = "legal_registry.yaml",
+    ) -> None:
+        """Validate nested amendment effective_date against lifecycle status."""
+        seen_keys: set[tuple[str, str]] = set()
+        for am in amendments_list:
+            if not isinstance(am, dict):
+                continue
+            am_eff = str(am.get("effective_date", "")).strip()
+            am_status = str(am.get("status", "")).strip().lower()
+            am_id = str(
+                am.get("id") or am.get("document_number") or "AMENDMENT"
+            ).strip()
+            dedup_key = (am_id, am_eff)
+            if dedup_key in seen_keys:
+                continue
+            seen_keys.add(dedup_key)
+            if (
+                am_eff
+                and re.fullmatch(r"\d{4}-\d{2}-\d{2}", am_eff)
+                and am_eff > today_str
+                and (not am_status or am_status in {"active", "current", "còn hiệu lực"})
+            ):
+                self.errors.append(
+                    f"Legal Validity Inconsistency [{doc_id}/{am_id}] ({source_label}): Amendment has effective_date {am_eff} "
+                    f"> {today_str} but status is '{am_status or 'unspecified'}'. Must be 'pending_effective' (ADR-0050)."
+                )
+
+    def _validate_future_effective_dates(
+        self, doc_id: str, doc_num: str, item: dict[str, Any], today_str: str
+    ) -> None:
+        """Ensure documents and nested amendments with future effective_date use pending_effective."""
+        eff_date = str(item.get("effective_date", "")).strip()
+        status = str(item.get("status", "")).strip().lower()
+        if (
+            eff_date
+            and re.fullmatch(r"\d{4}-\d{2}-\d{2}", eff_date)
+            and eff_date > today_str
+            and status in {"active", "current", "còn hiệu lực"}
+        ):
+            self.errors.append(
+                f"Legal Validity Inconsistency [{doc_id}]: Document {doc_num} has effective_date {eff_date} "
+                f"> {today_str} but status is '{status}'. Must be 'pending_effective' (ADR-0050)."
+            )
+
+        raw_relations = item.get("relations")
+        relations: dict[str, Any] = (
+            raw_relations if isinstance(raw_relations, dict) else {}
+        )
+        amendments_candidates: list[Any] = []
+        for raw_am in (relations.get("amendments"), item.get("amendments")):
+            if isinstance(raw_am, list):
+                amendments_candidates.extend(raw_am)
+        self._validate_amendments_future_dates(
+            doc_id, amendments_candidates, today_str, source_label="legal_registry.yaml"
+        )
+
     def _validate_legal_validity_and_in_force(self) -> None:
         """Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059).
 
@@ -866,6 +937,9 @@ class LegalSpokeValidator:
                         f"<= {today_str} but status is still '{status}'. Must be 'expired' (RULE-3.1)."
                     )
 
+            # 2b. Future Effective Date Check vs Status (ADR-0050)
+            self._validate_future_effective_dates(doc_id, doc_num, item, today_str)
+
             # 3. Expired Document Integrity Check
             if status in {"expired", "hết hiệu lực"}:
                 if not relations.get("replaced_by") and not item.get("replaces"):
@@ -895,21 +969,24 @@ class LegalSpokeValidator:
                             yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
                         )
                         b_status = str(b_meta.get("status", "")).strip().lower()
-                        norm_reg_status = (
-                            "expired"
-                            if status in {"expired", "hết hiệu lực"}
-                            else "active"
-                        )
-                        norm_b_status = (
-                            "expired"
-                            if b_status in {"expired", "hết hiệu lực"}
-                            else "active"
-                        )
+                        norm_reg_status = self._normalize_lifecycle_bucket(status)
+                        norm_b_status = self._normalize_lifecycle_bucket(b_status)
                         if norm_reg_status != norm_b_status:
                             self.errors.append(
                                 f"Split-Brain Status Error [{doc_id}]: Status in legal_registry.yaml ('{status}') "
                                 f"does not match bundle metadata.yaml ('{b_status}')."
                             )
+                        raw_b_rels = b_meta.get("relations")
+                        b_rels: dict[str, Any] = (
+                            raw_b_rels if isinstance(raw_b_rels, dict) else {}
+                        )
+                        b_am_list: list[Any] = []
+                        for raw_am in (b_meta.get("amendments"), b_rels.get("amendments")):
+                            if isinstance(raw_am, list):
+                                b_am_list.extend(raw_am)
+                        self._validate_amendments_future_dates(
+                            doc_id, b_am_list, today_str, source_label="metadata.yaml"
+                        )
                     except Exception as exc:
                         self.warnings.append(
                             f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
