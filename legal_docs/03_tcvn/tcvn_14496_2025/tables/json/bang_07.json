@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_07",
+  "table_number": "7",
+  "table_title": "Bảng 7 - Vật liệu được sử dụng để chế tạo tấm chắn",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại vật liệu",
+    "Độ dày tối thiểu, mm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại vật liệu": "Tấm thép",
+      "Độ dày tối thiểu, mm": "0,6"
+    },
+    {
+      "_row_id": 2,
+      "Loại vật liệu": "Tấm vật liệu từ xi măng",
+      "Độ dày tối thiểu, mm": "10"
+    }
+  ],
+  "footnotes": []
+}
