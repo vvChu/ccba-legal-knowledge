@@ -326,3 +326,102 @@ def test_gate_2_detects_broken_links_in_index_md_ci_safe(tmp_path: Path) -> None
     validator_ok = LegalSpokeValidator(tmp_path)
     validator_ok.validate_okf_bundles()
     assert not any("index.md" in e for e in validator_ok.errors)
+
+
+def test_subgate_5_3_detects_future_effective_date_with_active_status(
+    tmp_path: Path,
+) -> None:
+    """Sub-Gate 5.3 must fail if effective_date > today but status is active."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_path.write_text(
+        """version: 0.3.0
+laws:
+  - id: future_doc
+    title: Future Circular
+    document_number: 99/2099/TT-BXD
+    bundle_path: legal_docs/01_vbpl/future_doc
+    status: active
+    effective_date: "2099-12-31"
+""",
+        encoding="utf-8",
+    )
+    validator = LegalSpokeValidator(tmp_path)
+    validator._validate_legal_validity_and_in_force()
+    assert any(
+        "effective_date 2099-12-31" in err and "Must be 'pending_effective'" in err
+        for err in validator.errors
+    )
+
+    registry_path.write_text(
+        registry_path.read_text(encoding="utf-8").replace(
+            "status: active", "status: pending_effective"
+        ),
+        encoding="utf-8",
+    )
+    validator_ok = LegalSpokeValidator(tmp_path)
+    validator_ok._validate_legal_validity_and_in_force()
+    assert validator_ok.errors == []
+
+
+def test_subgate_5_3_detects_future_amendment_without_pending_effective_status(
+    tmp_path: Path,
+) -> None:
+    """Sub-Gate 5.3 must fail if a future-dated nested amendment lacks pending_effective."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_path.write_text(
+        """version: 0.3.0
+standards:
+  - id: QCVN-99-2021-BXD
+    title: QCVN 99:2021/BXD
+    document_number: QCVN 99:2021/BXD
+    bundle_path: legal_docs/02_qcvn/qcvn_99_2021_bxd
+    status: current
+    effective_date: "2021-07-05"
+    relations:
+      amendments:
+        - id: SD1-2099-QCVN-99
+          document_number: 99/2099/TT-BXD
+          effective_date: "2099-12-31"
+""",
+        encoding="utf-8",
+    )
+    validator = LegalSpokeValidator(tmp_path)
+    validator._validate_legal_validity_and_in_force()
+    assert any(
+        "Amendment has effective_date 2099-12-31" in err
+        and "Must be 'pending_effective'" in err
+        for err in validator.errors
+    )
+
+    registry_path.write_text(
+        registry_path.read_text(encoding="utf-8")
+        + "          status: pending_effective\n",
+        encoding="utf-8",
+    )
+    validator_ok = LegalSpokeValidator(tmp_path)
+    validator_ok._validate_legal_validity_and_in_force()
+    assert validator_ok.errors == []
+
+
+def test_subgate_5_3_detects_pending_effective_split_brain(tmp_path: Path) -> None:
+    """Sub-Gate 5.3 must fail if registry status is pending_effective while bundle metadata is active."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_path.write_text(
+        """version: 0.3.0
+laws:
+  - id: future_split_doc
+    title: Future Split Doc
+    document_number: 88/2099/TT-BXD
+    bundle_path: legal_docs/01_vbpl/future_split_doc
+    status: pending_effective
+    effective_date: "2099-12-31"
+""",
+        encoding="utf-8",
+    )
+    bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "future_split_doc"
+    bundle_dir.mkdir(parents=True)
+    (bundle_dir / "metadata.yaml").write_text("status: active\n", encoding="utf-8")
+
+    validator = LegalSpokeValidator(tmp_path)
+    validator._validate_legal_validity_and_in_force()
+    assert any("Split-Brain Status Error" in err for err in validator.errors)
