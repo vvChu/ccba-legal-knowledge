@@ -20,3 +20,12 @@ legal_basis:
   title: Nghị định số 85/2020/NĐ-CP ngày 17 tháng 7 năm 2020 của Chính phủ về quy định chi tiết một số điều của Luật Kiến trúc
 replaces: []
 extracted_at: '2026-10-03T07:32:30.214055+00:00'
+source_assets:
+  pdf:
+    sha256: ab01b488765ba5d78b9ee0f4ea63d76f75431e38cb218a8dad22ac2d08c40da0
+    vault_path: CCBA_Legal_Vault/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.pdf
+    status: verified
+  docx:
+    sha256: f0c321faee74352fff1c70c9aa3b1db1d152d94edd380c683dc782d4b7e09c36
+    vault_path: CCBA_Legal_Vault/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.docx
+    status: verified

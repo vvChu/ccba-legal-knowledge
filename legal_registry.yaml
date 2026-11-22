@@ -1425,7 +1425,7 @@ laws:
     docx:
       sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.docx
-      status: verified
+      status: pending_acquisition
     pdf:
       sha256: 6b5a5a7d9f05cba125ab025062c90a1bac109c83543ce25ab2d41f0eaedd21ec
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.pdf
@@ -1605,7 +1605,11 @@ laws:
     pdf:
       sha256: 4bfc31972c1bf9222365fa5b6e30769cf4e8bab77b2ed9c664b1306fbb7b9ff9
       vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.pdf
-      status: pending_acquisition
+      status: verified
+    docx:
+      sha256: fe681f6743cbfa149780f84bdb9afe8f2c5a2ea1f54d7cbc061715fc63cc88ad
+      vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.docx
+      status: verified
 - id: nghi_dinh_339_2026_nd_cp
   document_number: 339/2026/NĐ-CP
   type: Nghị định
@@ -1633,6 +1637,10 @@ laws:
       sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.pdf
       status: pending_acquisition
+    docx:
+      sha256: bd8568ccd6f9037977a65bc836b924b0486525a2229777aaf5a12b8925f6d75e
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.docx
+      status: verified
   doc_id: nghi_dinh_339_2026_nd_cp
   category: 01_vbpl
   doc_type: vbpl
@@ -2431,7 +2439,7 @@ standards:
   title: Quy chuẩn kỹ thuật quốc gia về Trạm bơm nước chữa cháy
   bundle_path: legal_docs/02_qcvn/qcvn_02_2020_bca/
   source_url: https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-52-2020-tt-bca-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-tram-bom-nuoc-chua-chay--145004
-  sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+  sha256: d21aeef240cdea2cd2b258ec828e82864035310242921f3e6f4e2c077073e2de
   pdf_path: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.pdf
   pdf_sha256: 4a3da1f3731afa58741b02600a2f747e0629f6320c8458052249c436d9c8fd6f
   cong_bao_number: Đang cập nhật
@@ -2444,7 +2452,7 @@ standards:
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.pdf
       status: verified
     docx:
-      sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+      sha256: d21aeef240cdea2cd2b258ec828e82864035310242921f3e6f4e2c077073e2de
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.docx
       status: verified
 - id: tcvn_13456_2022

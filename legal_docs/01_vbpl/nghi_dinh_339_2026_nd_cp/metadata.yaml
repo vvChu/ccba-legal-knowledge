@@ -19,3 +19,7 @@ source_assets:
     sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.pdf
     status: pending_acquisition
+  docx:
+    sha256: bd8568ccd6f9037977a65bc836b924b0486525a2229777aaf5a12b8925f6d75e
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.docx
+    status: verified

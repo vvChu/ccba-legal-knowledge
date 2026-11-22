@@ -37,4 +37,8 @@ source_assets:
   pdf:
     sha256: 4bfc31972c1bf9222365fa5b6e30769cf4e8bab77b2ed9c664b1306fbb7b9ff9
     vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.pdf
-    status: pending_acquisition
+    status: verified
+  docx:
+    sha256: fe681f6743cbfa149780f84bdb9afe8f2c5a2ea1f54d7cbc061715fc63cc88ad
+    vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.docx
+    status: verified

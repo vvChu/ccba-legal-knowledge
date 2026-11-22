@@ -21,3 +21,12 @@ okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-10-03T10:00:14.227063+00:00'
+source_assets:
+  pdf:
+    sha256: 3c1b65a8e204cf88c1d39aae3625085d196916aaf05e9c1f5f1e9acb294496f6
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_02_2024_tt_bkhdt/thong_tu_02_2024_tt_bkhdt.pdf
+    status: verified
+  docx:
+    sha256: cd7786b9ed2f13dab92b0dcae3feff45c756bf622253d6e6019cc16705a37f3e
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_02_2024_tt_bkhdt/thong_tu_02_2024_tt_bkhdt.docx
+    status: verified

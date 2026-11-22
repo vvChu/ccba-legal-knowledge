@@ -40,3 +40,12 @@ schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-10-27T22:05:28.643371+00:00'
 issued_by: Bộ Xây dựng
 issued_date: '2026-10-21'
+source_assets:
+  pdf:
+    sha256: db769ac3c9f7795152aa7f8989b71974e9e2e18ef5afe0a87b8737a77627942e
+    vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_1812_qd_bxd_2026/quyet_dinh_1812_qd_bxd_2026.pdf
+    status: verified
+  docx:
+    sha256: d6e7c7d3fdd25a187fe66eeddfaf843741dc8054e575b0a0718652ed1f6a2e19
+    vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_1812_qd_bxd_2026/quyet_dinh_1812_qd_bxd_2026.docx
+    status: verified

@@ -19,3 +19,12 @@ legal_basis:
   title: Luật Giáo dục ngày 14 tháng 6 năm 2019
 replaces: []
 extracted_at: '2026-10-03T05:20:00.000000+00:00'
+source_assets:
+  pdf:
+    sha256: 104f8f9211776f4ad73a056841c0129a77e16b2c7cb0f6c5b45231b7c6b6a06a
+    vault_path: CCBA_Legal_Vault/01_vbpl/14_vbhn_bgddt/14_vbhn_bgddt.pdf
+    status: verified
+  docx:
+    sha256: 61a875615f729be7eed34b1e36e576c77cd7af954b9da5c8194d04c8082820a4
+    vault_path: CCBA_Legal_Vault/01_vbpl/14_vbhn_bgddt/14_vbhn_bgddt.docx
+    status: verified

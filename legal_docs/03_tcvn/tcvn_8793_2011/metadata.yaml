@@ -22,3 +22,12 @@ related_drafts:
   status: draft_under_review
   issued_by: Bộ Xây dựng lấy ý kiến
 extracted_at: '2026-10-03T05:20:00.000000+00:00'
+source_assets:
+  pdf:
+    sha256: a13628d29cdf5b7bc781e3ef96fafbf71bd9f738c4f46612599c8b4278fef126
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_8793_2011/tcvn_8793_2011.pdf
+    status: verified
+  docx:
+    sha256: 0be095ac55e8e487f6672e1d7fb914c4593c12d9400dc228e34151eb5a19dcf0
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_8793_2011/tcvn_8793_2011.docx
+    status: verified

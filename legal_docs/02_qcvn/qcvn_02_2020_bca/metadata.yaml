@@ -23,11 +23,11 @@ extracted_at: '2026-10-03T10:37:24+00:00'
 pdf_origin: official_vector_pdf
 bundle_path: legal_docs/02_qcvn/qcvn_02_2020_bca/
 source_file: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.docx
-sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+sha256: d21aeef240cdea2cd2b258ec828e82864035310242921f3e6f4e2c077073e2de
 cong_bao_number: Đang cập nhật
 source_assets:
   docx:
-    sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+    sha256: d21aeef240cdea2cd2b258ec828e82864035310242921f3e6f4e2c077073e2de
     status: verified
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.docx
   pdf:
