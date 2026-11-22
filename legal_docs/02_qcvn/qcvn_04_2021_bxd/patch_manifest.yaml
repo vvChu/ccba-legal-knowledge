@@ -71,12 +71,7 @@ patches:
     jurisdiction: CQXD
     source_pdf_page: 97
     new_content_inline: |
-      <a id="muc-2-2-17" name="muc-2-2-17"></a>
-      ### 2.2.17  Chỗ để xe
-      
-      > *[Sửa đổi bởi Thông tư 31/2026/TT-BXD (Sửa đổi 01:2026), hiệu lực 15/12/2026]*
-      
-      Chỗ để xe của nhà chung cư (bao gồm xe ô tô, xe máy, xe đạp, xe điện) phải tuân thủ các quy định tại Mục 2.10 và các quy chuẩn hiện hành.
+      Chỗ để xe
 
   - action: INSERT_AFTER
     target_anchor: muc-2-9
@@ -392,9 +387,4 @@ patches:
     jurisdiction: CQXD
     source_pdf_page: 101
     new_content_inline: |
-      <a id="muc-4-3" name="muc-4-3"></a>
-      ### 4.3
-      
-      > *[Sửa đổi bởi Thông tư 31/2026/TT-BXD (Sửa đổi 01:2026), hiệu lực 15/12/2026]*
-      
       Trong quá trình triển khai thực hiện, nếu có vướng mắc, mọi ý kiến gửi về Bộ Xây dựng để được hướng dẫn và xử lý.

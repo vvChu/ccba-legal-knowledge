@@ -366,7 +366,8 @@ laws:
     quốc gia
   type: Nghị định
   issued_by: Chính phủ
-  issued_date: '2026-06-25'
+  signer: Phạm Gia Túc
+  issued_date: '2026-06-17'
   effective_date: '2026-07-01'
   status: active
   bundle_path: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/
@@ -379,7 +380,7 @@ laws:
   pdf_sha256: c2449b8bf63ec3e7ce6ea095091f979ffbc90509eecd32bd0c26e46950513def
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 32c73f0c9ebe4a1e96b2f362d35336c1a866ec1623fca0aca812867d25a9e6cd
+  sha256: 27cc4335412eeece7e0b32de006492cbe39c92d7d647db47c35e3f51a2045e35
   source_file: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/sources/nghi_dinh_212_2026_nd_cp.docx
   source_file_size_kb: 281.5
   source_assets:
@@ -1096,12 +1097,15 @@ laws:
     - id: SD1-2026-QCVN-04
       document_number: 31/2026/TT-BXD
       title: Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
+      issued_date: '2026-06-15'
+      effective_date: '2026-12-15'
+      status: pending_effective
       source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
-      sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
-      pdf_sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
+      sha256: ''
+      pdf_sha256: ''
       cong_bao_number: 373/2026
       pdf_status: pending_download
-  sha256: 73967d4d35762a85b871f269eca5227f641ed6c9eddac2fe3a4cb78fdf08ccf3
+  sha256: 8aebdb36c54db76b2a1c71bfbfcb2841e2c16977a9751b0453e4dfa868493ac3
   pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
   pdf_sha256: c34d11842766492d9acd48ef27c738ab9b4a0431cf12228e93fe7b2537752524
   cong_bao_number: 373/2026 (SĐ1) / 235/2021
@@ -1227,7 +1231,7 @@ laws:
   issued_by: CCBA Legal Research Group
   issued_date: '2026-06-15'
   effective_date: '2026-12-15'
-  status: active
+  status: pending_effective
   bundle_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/
   relations:
     compares:
@@ -1237,7 +1241,7 @@ laws:
   pdf_sha256: ''
   cong_bao_number: Đang cập nhật
   pdf_status: pending_download
-  sha256: 346f090c3d697412813139b4a8c5fc7f357ec3085838459ee580d3d8e670c743
+  sha256: 6d839159bf8a75ac95c15ed62d44c3a4519ab299ecc116e4613d19f07d1f63d0
 - id: bang_so_sanh_sua_doi_2023_qcvn_06
   document_number: APPENDIX-SD-2023-QCVN-06
   title: Bảng So sánh Đối chiếu Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
