@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Hệ số thay đổi chiều cao của gian phòng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Chiều cao gian phòng H, m",
+    "Hệ số thay đổi chiều cao của gian phòng, Ψ, $m^{-1}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chiều cao gian phòng H, m": "Đến 6,4.",
+      "Hệ số thay đổi chiều cao của gian phòng, Ψ, $m^{-1}$": "0"
+    },
+    {
+      "_row_id": 2,
+      "Chiều cao gian phòng H, m": "Trên 6,4 đến 14,0.",
+      "Hệ số thay đổi chiều cao của gian phòng, Ψ, $m^{-1}$": "0,06"
+    }
+  ],
+  "footnotes": []
+}

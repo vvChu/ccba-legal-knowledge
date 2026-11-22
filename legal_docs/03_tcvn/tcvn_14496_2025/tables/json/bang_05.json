@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Chiều dài tính toán A, m",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại tấm pallet",
+    "Chiều dài tính toán A, m"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tấm pallet": "Dạng phẳng",
+      "Chiều dài tính toán A, m": "15"
+    },
+    {
+      "_row_id": 2,
+      "Loại tấm pallet": "Dạng hộp",
+      "Chiều dài tính toán A, m": "12"
+    },
+    {
+      "_row_id": 3,
+      "Loại tấm pallet": "Dạng hộp bằng kim loại",
+      "Chiều dài tính toán A, m": "8"
+    }
+  ],
+  "footnotes": []
+}

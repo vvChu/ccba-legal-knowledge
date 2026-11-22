@@ -1,0 +1,45 @@
+id: tcvn_14496_2025
+document_number: TCVN 14496:2025
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: ''
+issued_date: Năm 2025
+effective_date: ''
+published_date: ''
+status: active
+relations: {}
+title: Tiêu chuẩn TCVN 14496:2025 về Hệ thống chữa cháy tự động bằng nước cho nhà
+  kho
+bundle_path: legal_docs/03_tcvn/tcvn_14496_2025/
+source_url: https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/TCVN-14496-2025-He-thong-chua-chay-tu-dong-bang-nuoc-cho-nha-kho-922039.aspx
+sha256: df28594f880bbc4d23e6ba0ccc4ca4ce60d44a033ee878b248292815bf97d094
+pdf_path: legal_docs/03_tcvn/tcvn_14496_2025/sources/tcvn_14496_2025.pdf
+pdf_sha256: 883a61081f587d2cb8d5b452614d949077f59af80a2df0fd3fe336ce6b182c84
+cong_bao_number: null
+pdf_status: verified
+source_file: legal_docs/03_tcvn/tcvn_14496_2025/sources/tcvn_14496_2025.docx
+source_file_size_kb: 1098.0
+source_assets:
+  pdf:
+    sha256: 883a61081f587d2cb8d5b452614d949077f59af80a2df0fd3fe336ce6b182c84
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14496_2025/tcvn_14496_2025.pdf
+    status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: df28594f880bbc4d23e6ba0ccc4ca4ce60d44a033ee878b248292815bf97d094
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14496_2025/tcvn_14496_2025.docx
+    status: verified
+  raw_scan:
+    sha256: c66e86b1bd4c1ca3e51aed9733554c740e1893ecedf30098c73840a8b2981219
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_14496_2025/tcvn_14496_2025_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: legal_docs/03_tcvn/tcvn_14496_2025/sources/tcvn_14496_2025_raw_scan.pdf
+url: https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/TCVN-14496-2025-He-thong-chua-chay-tu-dong-bang-nuoc-cho-nha-kho-922039.aspx
+cong_bao_date: null
+pdf_tier: 3
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-22T03:33:57.966178+00:00'

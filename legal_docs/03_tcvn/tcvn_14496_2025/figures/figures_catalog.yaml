@@ -1,0 +1,85 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 14496 2025
+total_figures: 10
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Minh họa phương án bố trí các đầu phun phía trên mái
+  annex: B
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Minh họa phương án bố trí các đầu phun trong kệ hàng hai dãy
+  annex: B
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Minh họa phương án bố trí đầu phun trong kệ hàng một dãy
+  annex: B
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Minh họa phương án bố trí các kệ hàng một dãy
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_A_2
+  slug: a_2
+  tag: A.2
+  title: Minh họa phương án bố trí các kệ hàng hai dãy
+  annex: A
+  anchor: hinh-a_2
+  image_relpath: figures/images/hinh_a_2.png
+  has_image: true
+- figure_id: FIG_A_3
+  slug: a_3
+  tag: A.3
+  title: Minh họa phương án bố trí các kệ hàng nhiều dãy
+  annex: A
+  anchor: hinh-a_3
+  image_relpath: figures/images/hinh_a_3.png
+  has_image: true
+- figure_id: FIG_A_4
+  slug: a_4
+  tag: A.4
+  title: Minh họa phương án bố trí khe khói dọc
+  annex: A
+  anchor: hinh-a_4
+  image_relpath: figures/images/hinh_a_4.png
+  has_image: true
+- figure_id: FIG_A_5
+  slug: a_5
+  tag: A.5
+  title: Minh họa phương án bố trí khe khói ngang
+  annex: A
+  anchor: hinh-a_5
+  image_relpath: figures/images/hinh_a_5.png
+  has_image: true
+- figure_id: FIG_A_6
+  slug: a_6
+  tag: A.6
+  title: Minh họa các pallet dạng phẳng
+  annex: A
+  anchor: hinh-a_6
+  image_relpath: figures/images/hinh_a_6.png
+  has_image: true
+- figure_id: FIG_A_7
+  slug: a_7
+  tag: A.7
+  title: Minh họa các pallet dạng hộp
+  annex: A
+  anchor: hinh-a_7
+  image_relpath: figures/images/hinh_a_7.png
+  has_image: true
