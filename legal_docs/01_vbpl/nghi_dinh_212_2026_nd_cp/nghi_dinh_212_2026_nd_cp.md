@@ -16,8 +16,8 @@ doc_id: nghi_dinh_212_2026_nd_cp
 document_number: 212/2026/NĐ-CP
 document_type: Nghị định
 issued_by: Chính phủ
-signer: Đang cập nhật
-issued_date: '2026-06-25'
+signer: Phạm Gia Túc
+issued_date: '2026-06-17'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
@@ -37,8 +37,8 @@ artifacts:
 ## NGHỊ ĐỊNH 212/2026/NĐ-CP VỀ ĐIỀU KIỆN NĂNG LỰC HOẠT ĐỘNG XÂY DỰNG & CSDL QUỐC GIA
 
 > [!NOTE]
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
-> **Ngày ban hành:** 2026-06-25 | **Hiệu lực:** 2026-07-01.  
+> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).  
+> **Ngày ban hành:** 2026-06-17 | **Hiệu lực:** 2026-07-01.  
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_212_2026_nd_cp.pdf`](./nghi_dinh_212_2026_nd_cp.pdf) *(SHA-256: `3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9`)*.
 
 ---
