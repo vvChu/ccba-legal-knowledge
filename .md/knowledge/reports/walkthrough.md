@@ -1,4 +1,46 @@
-# Walkthrough: Phát Hành Tính Năng PR #65 (Đồng Bộ Cloud Vault `macvnboy@gmail.com` & Backfill `source_assets` 13 Bundles — Issue #64)
+# Walkthrough: Phát Hành Tính Năng PR #68 (Đối Soát Hiệu Lực `QCVN 04` / `TT 31/2026`, `APPENDIX-SD-2026` & `NĐ 212/2026` — Part of Issue #59)
+
+> **Mục tiêu:** Giải quyết triệt để mâu thuẫn hiệu lực `pending_effective` (`2026-12-15`) của Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư `31/2026/TT-BXD`), nâng cấp Sub-Gate 5.3 ngăn chặn khai báo `active` cho văn bản/sửa đổi chưa đến ngày hiệu lực, đồng bộ lại cây điều khoản VBHN QCVN 04 (`161` clauses), viết lại chuẩn xác phụ lục `APPENDIX-SD-2026-QCVN-04` và đính chính metadata Nghị định `212/2026/NĐ-CP` theo nguyên văn DOCX gốc.  
+> **Trạng thái:** ✅ **MERGED VÀO MAIN** *(Part of Issue #59 — Micro-PR 2 tiếp tục nạp 6 văn bản gốc theo ADR-0059)*  
+> - **Spoke PR #68:** [vvChu/ccba-legal-knowledge#68](https://github.com/vvChu/ccba-legal-knowledge/pull/68) — Merge Commit: `2b69931` (Squash and merge, `6/6` CI Checks Passed)  
+> - **Issue liên quan:** [vvChu/ccba-legal-knowledge#59](https://github.com/vvChu/ccba-legal-knowledge/issues/59) (`OPEN` — `in-progress`, chờ Micro-PR 2)
+
+---
+
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (Spoke PR #68)
+
+### A. Nâng Cấp Sub-Gate 5.3 & Integration Tests (`scripts/validate_legal_spoke.py`)
+- Bổ sung `_normalize_lifecycle_bucket`, `_validate_amendments_future_dates`, và `_validate_future_effective_dates` tại [`scripts/validate_legal_spoke.py`](../../../scripts/validate_legal_spoke.py) để phân tách rạch ròi 3 nhóm `expired`, `pending_effective`, `active` (ADR-0050), cưỡng chế trạng thái `pending_effective` khi `effective_date > today` ở cả cấp văn bản lẫn `amendments[]` trong [`legal_registry.yaml`](../../../legal_registry.yaml) và `metadata.yaml`.
+- Bổ sung 3 integration tests tại [`tests/integration/test_validate_legal_spoke.py`](../../../tests/integration/test_validate_legal_spoke.py) dùng mốc tương lai bất biến `"2099-12-31"`.
+
+### B. Đồng Bộ `QCVN 04:2021/BXD`, `APPENDIX-SD-2026-QCVN-04` & Đính Chính `NĐ 212/2026/NĐ-CP`
+- **Gói `qcvn_04_2021_bxd`:** Sửa [`patch_manifest.yaml`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/patch_manifest.yaml) (gỡ câu tóm tắt tự chèn tại `muc-2-2-17`, bỏ lặp heading `2.2.17` và `4.3`), chạy lại `python -m ccba_legal consolidate` sinh đồng bộ [`qcvn_04_2021_bxd.md`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.md), [`clauses.json`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/clauses.json) (`161` clauses), [`qa_benchmark.json`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/qa_benchmark.json), [`bang_so_sanh_thay_doi.md`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/bang_so_sanh_thay_doi.md); cập nhật [`metadata.yaml`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/metadata.yaml), [`index.md`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/index.md) phân tầng hiệu lực theo ADR-0013 và xóa `qcvn_04_2021_bxd.md.bak`.
+- **Phụ lục `bang_so_sanh_sua_doi_2026`:** Chuyển `status: pending_effective` đồng bộ trong [`bang_so_sanh_sua_doi_2026.md`](../../../legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/bang_so_sanh_sua_doi_2026.md), [`metadata.yaml`](../../../legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/metadata.yaml) và [`legal_registry.yaml`](../../../legal_registry.yaml); viết lại bảng đối chiếu 7 nhóm khớp nguyên văn `sources/sua_doi_01_2026_qcvn_04_2021_bxd.md` và sửa `13/13` liên kết chéo.
+- **Nghị định `212/2026/NĐ-CP`:** Đính chính `issued_date: '2026-06-17'` và `signer: Phạm Gia Túc` khớp DOCX gốc tại [`metadata.yaml`](../../../legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/metadata.yaml), phần header [`nghi_dinh_212_2026_nd_cp.md`](../../../legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/nghi_dinh_212_2026_nd_cp.md) và [`legal_registry.yaml`](../../../legal_registry.yaml); ghi nhận lỗi thư mời (`212/2026/NĐ-CP` không ban hành `10/01/2026`, khả năng nhầm từ `22/2026/NĐ-CP` ngày `16/01/2026`).
+
+---
+
+## 2. Ma Trận Nghiệm Thu Kiểm Định (Verification Matrix)
+
+| Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
+| :--- | :--- | :--- | :--- | :---: |
+| **Integration Tests** | Sub-Gate 5.3 & Consolidator | `pytest tests/integration/test_validate_legal_spoke.py tests/integration/test_consolidator.py` | **27 passed in 0.06s** | ✅ **PASSED** |
+| **Master Legal CI Gates** | 15 Cổng Tri thức | `python3 scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 0 Warnings)** | ✅ **PASSED** |
+| **Cross-Links & Anchors** | Liên kết chéo | `python3 scripts/verify_cross_links.py --bundle qcvn_04_2021_bxd` + script kiểm tra `bang_so_sanh_sua_doi_2026.md` | **17/17 QCVN 04, 13/13 Appendix, 6/6 index OK** | ✅ **PASSED** |
+| **Cleanliness & Budget** | Vệ sinh Spoke | `python3 scripts/_guardrails/check_spoke_cleanliness.py` | **15/15 scripts, 0 leaks** | ✅ **PASSED** |
+| **Hub Import Depth** | Kiến trúc Seam | `python3 scripts/_guardrails/check_hub_import_depth.py` | **48 files scanned, 0 violations** | ✅ **PASSED** |
+| **Pstack Smoke Harness** | Toàn trình TRIHT | `python3 .agents/skills/ccba-verify-legal-knowledge/harness/verify_legal_harness.py --mode smoke --skip-pdf-vault` | **126 unit tests + 15-Gate smoke PASSED** | ✅ **PASSED** |
+| **Spoke GitHub Actions CI** | 6 Jobs trên GitHub | `gh pr checks 68` | **6/6 Checks Passed** | ✅ **PASSED** |
+| **Copilot / Bugbot Audit** | AI Review Gate | `python3 ../ccba-agent-platform/scripts/validation/audit_pr_comments.py` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
+
+---
+
+## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #65 (Phát hành ngày 2026-11-22)</summary>
+
+### Walkthrough: Phát Hành Tính Năng PR #65 (Đồng Bộ Cloud Vault `macvnboy@gmail.com` & Backfill `source_assets` 13 Bundles — Issue #64)
 
 > **Mục tiêu:** Giải quyết dứt điểm bất đồng bộ Cloud Vault (`CCBA_Legal_Vault`), backfill metadata `source_assets` cho Nhóm 2 (`2` bundles) và Nhóm 3 (`9` bundles), khắc phục lệch SHA-256 `qcvn_02_2020_bca.docx`, ghi nhận ngoại lệ Google Drive `403 cannotDownloadAbusiveFile` cho `qcvn_13_2018_bxd.docx` và hoàn tất đẩy toàn bộ tệp nguồn hợp lệ lên tài khoản chuẩn `macvnboy@gmail.com`.  
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**  
@@ -40,9 +82,7 @@
 | **Spoke GitHub Actions CI** | 6 Jobs trên GitHub | `gh pr checks 65` | **6/6 Checks Passed** | ✅ **PASSED** |
 | **Copilot / Bugbot Audit** | AI Review Gate | `python3 ../ccba-agent-platform/scripts/validation/audit_pr_comments.py --pr 65` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
 
----
-
-## 3. Lịch Sử Phát Hành Tiền Nhiệm
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #47</summary>
