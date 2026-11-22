@@ -1,4 +1,53 @@
-# Walkthrough: Phát Hành Tính Năng PR #47 (Khắc Phục Toàn Trình Codebase Review, Gia Cố Pstack Verification Harnesses & Đồng Bộ 100% E2E Suite OKF v2.4)
+# Walkthrough: Phát Hành Tính Năng PR #65 (Đồng Bộ Cloud Vault `macvnboy@gmail.com` & Backfill `source_assets` 13 Bundles — Issue #64)
+
+> **Mục tiêu:** Giải quyết dứt điểm bất đồng bộ Cloud Vault (`CCBA_Legal_Vault`), backfill metadata `source_assets` cho Nhóm 2 (`2` bundles) và Nhóm 3 (`9` bundles), khắc phục lệch SHA-256 `qcvn_02_2020_bca.docx`, ghi nhận ngoại lệ Google Drive `403 cannotDownloadAbusiveFile` cho `qcvn_13_2018_bxd.docx` và hoàn tất đẩy toàn bộ tệp nguồn hợp lệ lên tài khoản chuẩn `macvnboy@gmail.com`.  
+> **Trạng thái:** ✅ **MERGED VÀO MAIN**  
+> - **Spoke PR #65:** [vvChu/ccba-legal-knowledge#65](https://github.com/vvChu/ccba-legal-knowledge/pull/65) — Merge Commit: `a8b7d4f` (Squash and merge, `6/6` CI Checks Passed)  
+> - **Issue liên quan:** [vvChu/ccba-legal-knowledge#64](https://github.com/vvChu/ccba-legal-knowledge/issues/64) (`CLOSED`)  
+> - **Cloud Vault chuẩn:** `gdrive:CCBA_Legal_Vault` trên `macvnboy@gmail.com` (Folder ID `1MREnTZmEu74GtV9UTpVMf_4hYBdMDK4Z`)
+
+---
+
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (Spoke PR #65)
+
+### A. Đồng Bộ Cloud Vault Trên Tài Khoản Thống Nhất (`macvnboy@gmail.com`)
+- Kết nối lại `rclone gdrive:` trên máy Linux sang `macvnboy@gmail.com` khớp 1:1 với kho `CCBA_Legal_Vault` của máy Windows (`138` tệp verified trước đó, thiếu đúng `74` tệp Nhóm 1).
+- Di dời tệp thử nghiệm lạc `test_vector.pdf` khỏi `legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/sources/` sang `.md/scratch/` và tạm tách bản stub 1 trang `nghi_dinh_339_2026_nd_cp.pdf` (`968 bytes`, MuPDF) trong lúc `--push` để không đẩy tệp rác/stub giả lên Cloud Vault.
+- Thực thi `python3 scripts/hydrate_sources_from_vault.py --push`: kiểm tra `245` tệp (`136` đã có sẵn, **`109` tải lên thành công**, `0` lỗi).
+
+### B. Cập Nhật Metadata & Registry (`14` Tệp YAML — Strict Atomic Scope)
+- **Nhóm 2 (`2` bundles — `metadata.yaml` + [`legal_registry.yaml`](../../../legal_registry.yaml)):**
+  - `01_vbpl/10_2021_nd_cp`: Chuyển `source_assets.pdf.status` $\to$ `verified` (`4bfc3197...`) và bổ sung `source_assets.docx` (`verified`, `fe681f67...`).
+  - `01_vbpl/nghi_dinh_339_2026_nd_cp`: Giữ `source_assets.pdf.status: pending_acquisition` (stub `968 bytes`) và bổ sung `source_assets.docx` (`verified`, `bd8568cc...`).
+- **Nhóm 3 (`9` bundles — backfill `source_assets` `pdf` + `docx` vào `metadata.yaml` khớp `legal_registry.yaml`):**
+  - `01_vbpl/14_vbhn_bgddt`, `01_vbpl/83_vbhn_tt_bxd`, `01_vbpl/quyet_dinh_1812_qd_bxd_2026`, `01_vbpl/thong_tu_02_2024_tt_bkhdt`, `01_vbpl/thong_tu_03_2024_tt_bkhdt`, `01_vbpl/thong_tu_08_2021_tt_bxd`, `01_vbpl/thong_tu_105_2025_tt_btc`, `03_tcvn/tcvn_5065_1990`, `03_tcvn/tcvn_8793_2011`.
+- **Xử lý lệch SHA-256 & Ngoại lệ (`2` bundles — `metadata.yaml` + `legal_registry.yaml`):**
+  - `02_qcvn/qcvn_02_2020_bca`: Cập nhật `sha256` & `source_assets.docx.sha256` sang `d21aeef240cdea2cd2b258ec828e82864035310242921f3e6f4e2c077073e2de`.
+  - `02_qcvn/qcvn_13_2018_bxd`: Chuyển `source_assets.docx.status` $\to$ `pending_acquisition` do Google Drive chặn tải `403 cannotDownloadAbusiveFile` (chờ thu thập lại bản sạch từ TVPL).
+
+---
+
+## 2. Ma Trận Nghiệm Thu Kiểm Định (Verification Matrix)
+
+| Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
+| :--- | :--- | :--- | :--- | :---: |
+| **Cloud Vault Parity** | Toàn vẹn Vault | `python3 scripts/hydrate_sources_from_vault.py --verify-only` | **232/232 verified, 0 missing, 0 mismatch** | ✅ **PASSED** |
+| **Master Legal CI Gates** | 15 Cổng Tri thức | `python3 scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 0 Warnings)** | ✅ **PASSED** |
+| **Cleanliness & Budget** | Vệ sinh Spoke | `python3 scripts/_guardrails/check_spoke_cleanliness.py` | **15/15 scripts, 0 leaks** | ✅ **PASSED** |
+| **Hub Import Depth** | Kiến trúc Seam | `python3 scripts/_guardrails/check_hub_import_depth.py` | **48 files scanned, 0 violations** | ✅ **PASSED** |
+| **Visual Parity Gate** | Trình bày Markdown | `python3 scripts/lint_visual_parity.py` | **1133 files scanned, 0 errors** | ✅ **PASSED** |
+| **Unit Test Suite** | Kiểm thử đơn vị | `pytest tests/unit -q` | **126 passed in 0.04s** | ✅ **PASSED** |
+| **Spoke GitHub Actions CI** | 6 Jobs trên GitHub | `gh pr checks 65` | **6/6 Checks Passed** | ✅ **PASSED** |
+| **Copilot / Bugbot Audit** | AI Review Gate | `python3 ../ccba-agent-platform/scripts/validation/audit_pr_comments.py --pr 65` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
+
+---
+
+## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #47</summary>
+
+### Walkthrough: Phát Hành Tính Năng PR #47 (Khắc Phục Toàn Trình Codebase Review, Gia Cố Pstack Verification Harnesses & Đồng Bộ 100% E2E Suite OKF v2.4)
 
 > **Mục tiêu:** Giải quyết toàn bộ 20 phát hiện chặn từ đợt kiểm tra chéo song song `/ccba-code-review` (`Standards` + `Spec`) và 5 điều kiện nghiệm thu từ Grok 4.7; gia cố 2 bộ kiểm tra vệ sinh Spoke (`check_spoke_cleanliness.py`, `check_hub_import_depth.py`), 3 Pstack Verification Harnesses (bảo vệ tiến trình con bằng `Popen(..., start_new_session=True)` + `os.killpg` chống treo pipe), các cổng kiểm định OKF v2.4 (`validate_legal_spoke.py`, `verify_cross_links.py`), và đồng bộ 100% bộ kiểm thử `tests/e2e/` (`428 passed, 4 skipped, 0 failed`).
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
@@ -34,9 +83,7 @@
 | **Spoke GitHub Actions CI**| 6 Jobs trên GitHub | `gh pr checks 47` | **6/6 Checks Passed** | ✅ **PASSED** |
 | **Copilot / Bugbot Audit**| AI Review Gate | `python ../ccba-agent-platform/scripts/validation/audit_pr_comments.py --pr 47` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
 
----
-
-## 3. Lịch Sử Phát Hành Tiền Nhiệm
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #44 & Hub PR #607 (Phát hành ngày 2026-11-05)</summary>
