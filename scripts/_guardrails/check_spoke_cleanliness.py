@@ -15,7 +15,9 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import importlib
 import importlib.util
+import json
 import os
 import re
 import sys
@@ -23,26 +25,20 @@ from pathlib import Path
 from typing import Any
 
 
-def _load_cleanliness_seam() -> Any:
-    """Load the pure-stdlib cleanliness seam via installed package, Tier-0 sibling, or Hub."""
-    try:
-        from ccba_harness import scan_parameter_cleanliness as _seam_scan
-
-        _ = _seam_scan
-        return sys.modules["ccba_harness._parameter_cleanliness"]
-    except ImportError:
-        pass
+def _load_tier0_seam(
+    filename: str, mod_name: str, pkg_mod: str | None = None, required: bool = False
+) -> Any | None:
+    """Load a pure-stdlib Tier-0 seam via package, sibling _guardrails/, or Hub source."""
+    if pkg_mod:
+        try:
+            return importlib.import_module(pkg_mod)
+        except ImportError:
+            pass
     here = Path(__file__).resolve().parent
-    hub_fallback = (
-        here.parents[1] / "packages/ccba-harness/src/ccba_harness/_parameter_cleanliness.py"
-    )
-    for candidate in (
-        here / "_parameter_cleanliness.py",
-        here / "_guardrails" / "_parameter_cleanliness.py",
-        hub_fallback,
-    ):
-        if candidate.is_file():
-            spec = importlib.util.spec_from_file_location("_ccba_parameter_cleanliness", candidate)
+    hub_src = here.parents[1] / "packages" / "ccba-harness" / "src" / "ccba_harness" / filename
+    for cand in (here / filename, here / "_guardrails" / filename, hub_src):
+        if cand.is_file():
+            spec = importlib.util.spec_from_file_location(mod_name, cand)
             if spec is not None and spec.loader is not None:
                 mod = sys.modules.get(spec.name)
                 if mod is None:
@@ -50,10 +46,32 @@ def _load_cleanliness_seam() -> Any:
                     sys.modules[spec.name] = mod
                     spec.loader.exec_module(mod)
                 return mod
-    raise ImportError("Unable to locate stdlib _parameter_cleanliness seam.")
+    if required:
+        raise ImportError(f"Unable to locate stdlib {filename} seam.")
+    return None
 
 
-_CLEANLINESS_SEAM = _load_cleanliness_seam()
+def _load_budget_seam() -> Any | None:
+    """Lazily load _module_size_budget seam without importing pydantic."""
+    return _load_tier0_seam(
+        "_module_size_budget.py", "_ccba_module_size_budget", "ccba_harness._module_size_budget"
+    )
+
+
+def _load_manifest_seam() -> Any | None:
+    """Lazily load _guardrail_manifest seam without module-level static import."""
+    return _load_tier0_seam("_guardrail_manifest.py", "_ccba_guardrail_manifest")
+
+
+_DEFAULT_BUDGET_ROOTS: tuple[str, ...] = tuple(
+    "packages/*/src tools services backend formulas scripts".split()
+)
+_CLEANLINESS_SEAM = _load_tier0_seam(
+    "_parameter_cleanliness.py",
+    "_ccba_parameter_cleanliness",
+    "ccba_harness._parameter_cleanliness",
+    required=True,
+)
 
 APPROVED_MODEL_ALIASES = _CLEANLINESS_SEAM._APPROVED_MODEL_ALIASES
 DEPRECATED_GATEWAY_COMPAT_PREFIXES = _CLEANLINESS_SEAM._DEPRECATED_MODEL_PREFIXES
@@ -140,6 +158,7 @@ IPV4_CANDIDATE_PATTERN = _CLEANLINESS_SEAM._IPV4_CANDIDATE_RE
 ALLOWLIST_SCRIPTS = set(
     "__init__.py conftest.py safe_pytest.py safe_runner.py check_hub_import_depth.py "
     "check_spoke_cleanliness.py _parameter_cleanliness.py _workspace_roots.py "
+    "_module_size_budget.py _guardrail_manifest.py "
     "check_claudekit_updates.py spoke_bootstrap.py spoke_bootstrap.ps1 setup_pre_commit.py sync.py".split()
 )
 
@@ -718,12 +737,116 @@ def _scan_scripts_dir(
     return has_errors, has_warnings
 
 
+def _resolve_budget_target(spoke_root: Path) -> tuple[Path, tuple[str, ...], bool]:
+    """Resolves baseline path, scan roots, and whether target is the Hub repository."""
+    if (spoke_root / "packages" / "ccba-harness").is_dir():
+        return spoke_root / "scripts" / "module_budget_baseline.json", ("scripts",), True
+    return (
+        spoke_root / "scripts" / "_guardrails" / "module_budget_baseline.json",
+        _DEFAULT_BUDGET_ROOTS,
+        False,
+    )
+
+
+def _load_budget_baseline_dict(base_file: Path) -> dict[str, int]:
+    """Loads baseline JSON dict from disk; raises ValueError on invalid format."""
+    raw = json.loads(base_file.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        raise ValueError(f"Expected JSON object in {base_file}")
+    return {str(k): int(v) for k, v in raw.items()}
+
+
+def _append_module_budget_violations(
+    spoke_root: Path, enforce_budget: bool, messages: list[str]
+) -> bool:
+    """Runs module size budget & ratchet check; skips old Spokes cleanly without warning."""
+    base_file, roots, is_hub = _resolve_budget_target(spoke_root)
+    if not base_file.is_file() and not enforce_budget and not is_hub:
+        messages.append(
+            "ℹ️  [Module Size Budget] Chưa có scripts/_guardrails/module_budget_baseline.json; bỏ qua kiểm tra."
+        )
+        return False
+    seam = _load_budget_seam()
+    if seam is None:
+        messages.append(
+            "❌ [Module Size Budget] Thiếu _module_size_budget.py; hãy chạy sync_spoke.py."
+        )
+        return True
+    baseline: dict[str, int] = {}
+    if base_file.is_file():
+        try:
+            baseline = _load_budget_baseline_dict(base_file)
+        except Exception as exc:
+            messages.append(f"❌ [Module Size Budget] Không đọc được baseline {base_file}: {exc}")
+            return True
+    files = seam.iter_production_files(spoke_root, roots)
+    violations = seam.evaluate_module_budgets(spoke_root, files, baseline)
+    if violations:
+        details = "\n".join(f"   - {v}" for v in violations[:20])
+        messages.append(
+            f"❌ [Module Size Budget] Phát hiện {len(violations)} tệp vượt trần 800 LOC / ratchet:\n"
+            f"{details}\n   💡 Hãy tách module nhỏ hơn hoặc kiểm tra codegen banner / baseline."
+        )
+        return True
+    messages.append(
+        f"✅ [Module Size Budget] {len(files)} tệp sản xuất đạt chuẩn (<= 800 LOC / ratchet)."
+    )
+    return False
+
+
+def _run_ratchet_update(spoke_root: Path) -> int:
+    """Computes and writes a monotonic module budget baseline JSON for the target workspace."""
+    seam = _load_budget_seam()
+    if seam is None:
+        print("❌ Missing _module_size_budget.py seam.", file=sys.stderr)
+        return 1
+    base_file, roots, _ = _resolve_budget_target(spoke_root)
+    existing: dict[str, int] | None = None
+    if base_file.is_file():
+        try:
+            existing = _load_budget_baseline_dict(base_file)
+        except Exception as exc:
+            print(f"❌ Cannot update corrupted baseline {base_file}: {exc}", file=sys.stderr)
+            return 1
+    files = seam.iter_production_files(spoke_root, roots)
+    updated = seam.compute_ratchet_baseline(spoke_root, files, existing=existing)
+    base_file.parent.mkdir(parents=True, exist_ok=True)
+    base_file.write_text(json.dumps(updated, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    rel = base_file.relative_to(spoke_root.resolve()).as_posix()
+    print(f"✅ Updated {rel}: {len(updated)} file(s) > 800 LOC across {len(files)} scanned files.")
+    return 0
+
+
+def _append_guardrail_manifest_violations(spoke_root: Path, messages: list[str]) -> bool:
+    """Verify Tier-0 guardrails LF-SHA-256 manifest fail-closed only when manifest exists."""
+    manifest_file = spoke_root / "scripts" / "_guardrails" / "guardrails_manifest.json"
+    if not manifest_file.is_file():
+        messages.append(
+            "ℹ️  [Guardrail Manifest] Chưa có guardrails_manifest.json; bỏ qua kiểm tra."
+        )
+        return False
+    seam = _load_manifest_seam()
+    if seam is None:
+        messages.append(
+            "❌ [Guardrail Manifest] Thiếu _guardrail_manifest.py; hãy chạy sync_spoke.py."
+        )
+        return True
+    violations = seam.verify_guardrail_manifest(spoke_root, manifest_file)
+    if violations:
+        details = "\n".join(f"   - {v}" for v in violations[:20])
+        messages.append(f"❌ [Guardrail Manifest] Phát hiện {len(violations)} sai lệch:\n{details}")
+        return True
+    messages.append("✅ [Guardrail Manifest] Toàn bộ scripts/_guardrails/* khớp SHA-256.")
+    return False
+
+
 def scan_spoke_cleanliness(
     spoke_root: Path,
     max_scripts: int = 15,
     strict: bool = False,
     custom_allowlist: set[str] | None = None,
     role_allowlist: set[str] | None = None,
+    enforce_module_budget: bool = False,
 ) -> tuple[int, list[str]]:
     """Runs all cleanliness checks against a target Spoke workspace."""
     messages: list[str] = []
@@ -737,6 +860,10 @@ def scan_spoke_cleanliness(
         has_errors, has_warnings = _scan_scripts_dir(
             spoke_root, scripts_dir, max_scripts, effective_allowlist, effective_roles, messages
         )
+    has_errors = (
+        _append_module_budget_violations(spoke_root, enforce_module_budget, messages) or has_errors
+    )
+    has_errors = _append_guardrail_manifest_violations(spoke_root, messages) or has_errors
     has_errors = _append_agents_debris_violations(spoke_root, messages) or has_errors
     has_errors = _append_living_doc_violations(spoke_root, messages) or has_errors
     return (1 if has_errors or (strict and has_warnings) else 0), messages
@@ -744,37 +871,16 @@ def scan_spoke_cleanliness(
 
 def _build_arg_parser() -> argparse.ArgumentParser:
     """Builds CLI argument parser for spoke cleanliness check."""
-    parser = argparse.ArgumentParser(
-        description="CCBA Spoke Cleanliness & Script Budget Checker (ADR 0044 / Issue #215)"
-    )
-    parser.add_argument(
-        "--path", "-p", default=".", help="Target Spoke root directory (default: current dir)"
-    )
-    parser.add_argument(
-        "--max-scripts",
-        type=int,
-        default=15,
-        help="Maximum number of core scripts in scripts/ folder (default: 15)",
-    )
-    parser.add_argument(
-        "--strict",
-        action="store_true",
-        help="Fail (exit code 1) on warnings such as ephemeral script names",
-    )
-    parser.add_argument(
-        "--allow-script",
-        nargs="+",
-        default=None,
-        help="Additional script names to exclude from the script count budget",
-    )
-    parser.add_argument(
-        "--allow-role",
-        nargs="+",
-        default=None,
-        help="Script names exempted by role from ephemeral warnings (e.g. audits:audit_memory.py)",
-    )
-    parser.add_argument("files", nargs="*", help="Optional specific files passed by pre-commit")
-    return parser
+    p = argparse.ArgumentParser(description="CCBA Spoke Cleanliness & Script Budget Checker")
+    p.add_argument("--path", "-p", default=".", help="Target Spoke root directory")
+    p.add_argument("--max-scripts", type=int, default=15, help="Max core scripts in scripts/")
+    p.add_argument("--strict", action="store_true", help="Fail on ephemeral warnings")
+    p.add_argument("--enforce-module-budget", action="store_true", help="Enforce >800 LOC budget")
+    p.add_argument("--ratchet-update", action="store_true", help="Update monotonic LOC baseline")
+    p.add_argument("--allow-script", nargs="+", default=None, help="Exclude scripts from budget")
+    p.add_argument("--allow-role", nargs="+", default=None, help="Exempt scripts by role")
+    p.add_argument("files", nargs="*", help="Optional files passed by pre-commit")
+    return p
 
 
 def main() -> int:
@@ -786,6 +892,8 @@ def main() -> int:
 
     args = _build_arg_parser().parse_args()
     spoke_root = Path(args.path).resolve()
+    if args.ratchet_update:
+        return _run_ratchet_update(spoke_root)
     custom_allowlist = set(args.allow_script) if args.allow_script else None
     role_allowlist: set[str] = set()
     if args.allow_role:
@@ -798,6 +906,7 @@ def main() -> int:
         strict=args.strict,
         custom_allowlist=custom_allowlist,
         role_allowlist=role_allowlist if role_allowlist else None,
+        enforce_module_budget=args.enforce_module_budget,
     )
 
     print("=" * 80)
