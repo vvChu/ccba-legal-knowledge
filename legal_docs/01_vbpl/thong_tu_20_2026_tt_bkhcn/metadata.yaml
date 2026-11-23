@@ -1,0 +1,54 @@
+id: thong_tu_20_2026_tt_bkhcn
+document_number: 20/2026/TT-BKHCN
+type: Thông tư
+title: Thông tư 20/2026/TT-BKHCN sửa đổi, bổ sung một số điều của các Thông tư để
+  cắt giảm, đơn giản hoá thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ
+  Khoa học và Công nghệ
+status: active
+effective_date: '2026-05-20'
+signer: Vũ Hải Quân
+pdf_path: legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/sources/thong_tu_20_2026_tt_bkhcn.pdf
+pdf_sha256: e2c5d447f79de67f40573d40a59bedfb9983afc56ea9209938dc9fc18f9bcb2c
+pdf_status: verified
+pdf_tier: 1
+legal_basis:
+- doc_id: luật_ban_hành_văn_bản_quy_phạm_pháp_luật_số_64_202
+  title: Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15, được sửa đổi, bổ
+    sung bởi Luật số 87/2025/QH15
+- doc_id: nghị_định_số_78_2025_nđ_cp_của_chính_phủ_quy_định_
+  title: Nghị định số 78/2025/NĐ-CP của Chính phủ quy định chi tiết một số điều và
+    biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật
+    được sửa đổi, bổ sung bởi Nghị định số 187/2025/NĐ-CP
+- doc_id: nghị_định_số_55_2025_nđ_cp_của_chính_phủ_quy_định_
+  title: Nghị định số 55/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
+    hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ
+- doc_id: nghị_quyết_số_66.18_2026_nq_cp
+  title: Nghị quyết số 66.18/2026/NQ-CP của Chính phủ quy định về phân quyền, cắt giảm,
+    đơn giản hóa thủ tục hành chính, điều kiện kinh doanh
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T09:29:15.998156+00:00'
+issued_by: Bộ Khoa học và Công nghệ
+issued_date: '2026-05-20'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: e2c5d447f79de67f40573d40a59bedfb9983afc56ea9209938dc9fc18f9bcb2c
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.pdf
+    status: verified
+  docx:
+    sha256: d5d66a279b57e6f58cee075352b0b30fe2e45fb17c16fce354fcf663a570d4ca
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-20-2026-TT-BKHCN-sua-doi-cac-Thong-tu-de-cat-giam-thu-tuc-hanh-chinh-706286.aspx
+source_file: legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/sources/thong_tu_20_2026_tt_bkhcn.docx
+relations:
+  amends:
+  - 36/2025/TT-BKHCN
+  - 43/2025/TT-BKHCN
+  - 01/2026/TT-BKHCN
+  - 10/2026/TT-BKHCN
+  related_statutes:
+  - nghi_dinh_267_2025_nd_cp

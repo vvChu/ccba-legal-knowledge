@@ -1,0 +1,45 @@
+id: nghi_dinh_268_2025_nd_cp
+document_number: 268/2025/NĐ-CP
+type: Nghị định
+title: Nghị định 268/2025/NĐ-CP quy định chi tiết và hướng dẫn một số điều của Luật
+  Khoa học, công nghệ và đổi mới sáng tạo về đổi mới sáng tạo; khuyến khích hoạt động
+  khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm
+  đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi
+  nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo
+status: active
+effective_date: '2025-10-14'
+signer: Nguyễn Chí Dũng
+pdf_path: legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/sources/nghi_dinh_268_2025_nd_cp.pdf
+pdf_sha256: 28c8bc46044ff70c2e10fa33b6c0f93472288b03b16771b8f2b3ef6b997a1332
+pdf_status: verified
+pdf_tier: 1
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
+  title: Luật Tổ chức Chính phủ số 63/2025/QH15
+- doc_id: luat_93_2025_qh15
+  title: Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15
+replaces:
+- 13/2019/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T09:25:55.942613+00:00'
+issued_by: Chính phủ
+issued_date: '2025-10-14'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: 28c8bc46044ff70c2e10fa33b6c0f93472288b03b16771b8f2b3ef6b997a1332
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_268_2025_nd_cp/nghi_dinh_268_2025_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 084d96e6389d6ee834dbe406686c55e723e1e206fc524f701aacdc3ecef7d13f
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_268_2025_nd_cp/nghi_dinh_268_2025_nd_cp.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Nghi-dinh-268-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-khuyen-khich-hoat-dong-khoa-hoc-677733.aspx
+source_file: legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/sources/nghi_dinh_268_2025_nd_cp.docx
+relations:
+  enacts:
+  - luat_93_2025_qh15
+  replaces:
+  - 13/2019/NĐ-CP

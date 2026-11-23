@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 5,
+  "columns_count": 2,
+  "headers": [
+    "STT",
+    "Tên mẫu"
+  ],
+  "records": [
+    {
+      "STT": "Mẫu số 01",
+      "Tên mẫu": "Tờ khai duy trì, gia hạn hiệu lực văn bằng bảo hộ đối tượng sở hữu công nghiệp"
+    },
+    {
+      "STT": "Mẫu số 02",
+      "Tên mẫu": "Tờ khai sửa đổi văn bằng bảo hộ đối tượng sở hữu công nghiệp"
+    },
+    {
+      "STT": "Mẫu số 03",
+      "Tên mẫu": "Yêu cầu công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp"
+    },
+    {
+      "STT": "Mẫu số 04",
+      "Tên mẫu": "Giấy chứng nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp"
+    }
+  ],
+  "footnotes": []
+}

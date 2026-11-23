@@ -1,0 +1,47 @@
+id: nghi_dinh_267_2025_nd_cp
+document_number: 267/2025/NĐ-CP
+type: Nghị định
+title: Nghị định 267/2025/NĐ-CP quy định chi tiết và hướng dẫn một số điều của Luật
+  Khoa học, công nghệ và đổi mới sáng tạo về chương trình, nhiệm vụ khoa học, công
+  nghệ và đổi mới sáng tạo và một số quy định về thúc đẩy hoạt động nghiên cứu khoa
+  học, phát triển công nghệ và đổi mới sáng tạo
+status: active
+effective_date: '2025-10-14'
+signer: Nguyễn Chí Dũng
+pdf_path: legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/sources/nghi_dinh_267_2025_nd_cp.pdf
+pdf_sha256: cab99dad7ec00774636da92d862306c17b8726c3ef84395ca0d1c2f787cb32f4
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
+  title: Luật Tổ chức Chính phủ số 63/2025/QH15
+- doc_id: luat_93_2025_qh15
+  title: Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15
+replaces:
+- 08/2014/NĐ-CP
+- 70/2018/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T09:19:10.015776+00:00'
+issued_by: Chính phủ
+issued_date: '2025-10-14'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: cab99dad7ec00774636da92d862306c17b8726c3ef84395ca0d1c2f787cb32f4
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_267_2025_nd_cp/nghi_dinh_267_2025_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 8744720a4253c6c7c60f98edf97a2abc3141a1097d66f0ca78d5679f51364848
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_267_2025_nd_cp/nghi_dinh_267_2025_nd_cp.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-267-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-va-doi-moi-sang-tao-677731.aspx
+source_file: legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/sources/nghi_dinh_267_2025_nd_cp.docx
+relations:
+  enacts:
+  - luat_93_2025_qh15
+  replaces:
+  - 08/2014/NĐ-CP
+  - 70/2018/NĐ-CP
+  related_statutes:
+  - thong_tu_20_2026_tt_bkhcn
