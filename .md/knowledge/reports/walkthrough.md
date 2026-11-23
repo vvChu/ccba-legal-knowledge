@@ -1,4 +1,37 @@
-# Walkthrough: Phát Hành Tính Năng PR #71, PR #72 & PR #73 — Hoàn Tất Issue #59 (`107 → 113` OKF v2.4 Bundles & Session Retrospective)
+# Walkthrough: Phát Hành Tính Năng PR #75 — Đồng Bộ Hub Skills & Guardrails (2026-11-24)
+
+> **Mục tiêu:** Ghi nhận kết quả đồng bộ Spoke `/ccba-update-spoke` từ Hub `ccba-agent-platform@6a21510f` (bao gồm RFCs `#873`/`#877`, `#874`/`#880`, `#882`, `#884`, `#870`), dọn `6` skill `scope: hub`, cập nhật `scripts/_guardrails/*` và làm mới `docs/adr/TRACEABILITY_MATRIX.md` qua Gate 10.
+> **Trạng thái:** ✅ **MERGED VÀO MAIN (`PR #75`, Squash Commit `67356cf`)**
+> - **Spoke PR #75:** [vvChu/ccba-legal-knowledge#75](https://github.com/vvChu/ccba-legal-knowledge/pull/75) — Feature Commit: `9347c44` → Squash Merge Commit: `67356cf` (`6/6` CI Checks Passed, `0` Copilot comments)
+> - **Branch cleanup:** Đã xóa local & remote `chore/sync-hub-skills-20261124`
+
+## 1. Tóm Tắt Thay Đổi & Đồng Bộ Hub → Spoke (`PR #75`)
+- **Đồng bộ `.agents/skills/` cục bộ (gitignored theo `.gitignore:21`):**
+  - **57** skill cập nhật từ Hub (`platform-loader`, `ccba-legal-ingest`, `ccba-maskara`, `ccba-update-spoke`, v.v.) + **2** guardrails (`check_spoke_cleanliness.py`, `_module_size_budget.py`).
+  - **6** skill `scope: hub` được dọn khỏi Spoke: `ccba-autoresearch`, `ccba-build-skill`, `ccba-graduate-rd`, `ccba-init-spoke`, `ccba-spoke-adopter`, `ccba-sync-upstream`.
+  - **10** thành phần đặc thù Spoke được bảo toàn: `ccba-infrastructure-manager`, `ccba-verify-legal-ingest`, `ccba-verify-legal-intel`, `ccba-verify-legal-knowledge`, `form-template-cleaner` và 5 workflow `.bak`.
+  - **Snapshot sao lưu:** `.md/backups/agents_backup_20261124_002942`; dry-run sau đồng bộ đạt `0 mới, 0 cập nhật, 82 không đổi, 0 dọn dẹp cũ, 10 giữ nguyên nội bộ`.
+- **Thay đổi được Git theo dõi (4 tệp):**
+  - [`check_spoke_cleanliness.py`](../../../scripts/_guardrails/check_spoke_cleanliness.py): bổ sung `_iter_budget_files` và cập nhật `DEFAULT_PRODUCTION_ROOTS`.
+  - [`_module_size_budget.py`](../../../scripts/_guardrails/_module_size_budget.py): đồng bộ `frontend/src` trong `DEFAULT_PRODUCTION_ROOTS`.
+  - [`guardrails_manifest.json`](../../../scripts/_guardrails/guardrails_manifest.json): cập nhật SHA-256 manifest khớp 100% các guardrails vừa đồng bộ.
+  - [`TRACEABILITY_MATRIX.md`](../../../docs/adr/TRACEABILITY_MATRIX.md): Gate 10 `sync_adr_matrix.py` cập nhật ma trận liên kết ADR (`0030`, `0033`, `0040`, `0041`, `0044`, `0045`) sau khi dọn 6 skill `scope: hub`.
+
+## 2. Ma Trận Nghiệm Thu Kiểm Định (`PR #75`)
+
+| Cổng Kiểm Định | Lệnh Thực Thi | Kết Quả | Trạng Thái |
+| :--- | :--- | :--- | :---: |
+| **TRIHT Pre & Post Cleanliness** | `check_release_cleanliness.py --phase pre/post --repo-root .` | Clean 100%, 100% Hermetic | ✅ **PASSED** |
+| **Skills Governance GPI** | `validate_skills.py --enforce-gpi .agents/skills` | **77/77** `SKILL.md` đạt chuẩn tất cả CI Gates | ✅ **PASSED** |
+| **Master Legal 15 CI Gates** | `python3 scripts/validate_legal_spoke.py` | **113/113** bundles, **15/15** Gates (`Errors: 0 \| Warnings: 0`) | ✅ **PASSED** |
+| **Cleanliness & Guardrail Manifest** | `python3 scripts/_guardrails/check_spoke_cleanliness.py` | Script Budget 15/15, Guardrail Manifest khớp SHA-256 | ✅ **PASSED** |
+| **Hub Import Depth** | `python3 scripts/_guardrails/check_hub_import_depth.py` | Quét **48** file(s), 0 vi phạm | ✅ **PASSED** |
+| **Verify-Patch (ADR-0058)** | `python3 -m ccba_harness verify-patch -c ...` | **3/3** commands passed (`24644.2 ms`) | ✅ **PASSED** |
+| **GitHub Actions CI & Copilot** | `gh pr checks 75` + `audit_pr_comments.py` | **6/6** CI Checks Passed, **0** Copilot comments | ✅ **PASSED** |
+
+---
+
+## Lịch Sử Trước Đó — PR #71, PR #72 & PR #73 — Hoàn Tất Issue #59 (`107 → 113` OKF v2.4 Bundles & Session Retrospective)
 
 > **Mục tiêu:** Hoàn tất thu thập, chuẩn hóa OKF v2.4 Universal (ADR-0059) và đồng bộ Google Drive Vault cho toàn bộ 6 văn bản gốc thuộc **Issue #59** (`31/2026/TT-BXD`, `258/QĐ-TTg`, `93/2025/QH15`, `267/2025/NĐ-CP`, `268/2025/NĐ-CP`, `20/2026/TT-BKHCN`), đối soát nguyên văn `31/2026/TT-BXD` ↔ `QCVN 04`, và tổng kết tri thức cuối phiên (`RULE-1.7`, `RULE-4.6`, History `#57`).  
 > **Trạng thái:** ✅ **MERGED VÀO MAIN (`Issue #59 CLOSED`, `113` văn bản)**  
