@@ -1,9 +1,65 @@
-# Walkthrough: Phát Hành Tính Năng PR #68 (Đối Soát Hiệu Lực `QCVN 04` / `TT 31/2026`, `APPENDIX-SD-2026` & `NĐ 212/2026` — Part of Issue #59)
+# Walkthrough: Phát Hành Tính Năng PR #71, PR #72 & PR #73 — Hoàn Tất Issue #59 (`107 → 113` OKF v2.4 Bundles & Session Retrospective)
+
+> **Mục tiêu:** Hoàn tất thu thập, chuẩn hóa OKF v2.4 Universal (ADR-0059) và đồng bộ Google Drive Vault cho toàn bộ 6 văn bản gốc thuộc **Issue #59** (`31/2026/TT-BXD`, `258/QĐ-TTg`, `93/2025/QH15`, `267/2025/NĐ-CP`, `268/2025/NĐ-CP`, `20/2026/TT-BKHCN`), đối soát nguyên văn `31/2026/TT-BXD` ↔ `QCVN 04`, và tổng kết tri thức cuối phiên (`RULE-1.7`, `RULE-4.6`, History `#57`).  
+> **Trạng thái:** ✅ **MERGED VÀO MAIN (`Issue #59 CLOSED`, `113` văn bản)**  
+> - **Spoke PR #71 (Micro-PR 2A):** [vvChu/ccba-legal-knowledge#71](https://github.com/vvChu/ccba-legal-knowledge/pull/71) — Merge Commit: `23eabba` (`6/6` CI Checks Passed)  
+> - **Spoke PR #72 (Micro-PR 2B):** [vvChu/ccba-legal-knowledge#72](https://github.com/vvChu/ccba-legal-knowledge/pull/72) — Merge Commit: `6f4de09` (`6/6` CI Checks Passed, `Closes #59`)  
+> - **Spoke PR #73 (Retrospective):** [vvChu/ccba-legal-knowledge#73](https://github.com/vvChu/ccba-legal-knowledge/pull/73) — Merge Commit: `c309a49` (`6/6` CI Checks Passed, `0` Copilot comments)  
+> - **Issue liên quan:** [vvChu/ccba-legal-knowledge#59](https://github.com/vvChu/ccba-legal-knowledge/issues/59) (`CLOSED`, `labels: []`)
+
+---
+
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (`PR #71` – `PR #73`)
+
+### A. Micro-PR 2A — Nạp `31/2026/TT-BXD`, `258/QĐ-TTg` & Đối Soát `QCVN 04` (`PR #71`)
+- **Thông tư `31/2026/TT-BXD`** ([`thong_tu_31_2026_tt_bxd.md`](../../../legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.md)): Ban hành `--archetype VBPL_ADMIN` (`4` AST clauses, `status: pending_effective`, `effective_date: '2026-12-15'`, `relations.amends: ['QCVN-04-2021-BXD']`, `5/5` cross-links); đối soát nguyên văn với [`sua_doi_01_2026_qcvn_04_2021_bxd.md`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/sua_doi_01_2026_qcvn_04_2021_bxd.md) đạt `0.9784` khớp từ (7/7 nhóm sửa đổi khớp 100%); backfill `sha256` & `pdf_sha256` cho `SD1-2026-QCVN-04` tại [`qcvn_04_2021_bxd/metadata.yaml`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/metadata.yaml) và liên kết tại [`qcvn_04_2021_bxd/index.md`](../../../legal_docs/02_qcvn/qcvn_04_2021_bxd/index.md).
+  - DOCX (`15,359 B`): `c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc` | PDF (`536,097 B`, `14p`): `4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b`.
+- **Quyết định `258/QĐ-TTg`** ([`quyet_dinh_258_qd_ttg_2023.md`](../../../legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/quyet_dinh_258_qd_ttg_2023.md)): Chuẩn hóa `--archetype VBPL_ADMIN` (`9` AST clauses, `status: active`, `effective_date: '2023-03-17'`, `5/5` cross-links).
+  - DOCX (`10,052 B`): `c2e70d324c0eb1dab75ca2b1694e920270421aa2d8107264ee25c57e13ec0314` | PDF (`446,425 B`, `4p`): `e41d6a7f53322ac320a0aa5712ffe93378f9fd1a8f50adbeaaa9e677c53a49e8`.
+
+### B. Micro-PR 2B — Cụm KH&CN: `93/2025/QH15`, `267/2025/NĐ-CP`, `268/2025/NĐ-CP` & `20/2026/TT-BKHCN` (`PR #72`)
+- **Luật `93/2025/QH15`** ([`luat_93_2025_qh15.md`](../../../legal_docs/01_vbpl/luat_93_2025_qh15/luat_93_2025_qh15.md)): `409` AST clauses, `1` table (`bang_01.csv`), `enacted_by: [nghi_dinh_267_2025_nd_cp, nghi_dinh_268_2025_nd_cp]`, `replaces: [29/2013/QH13]`, `6/6` cross-links.
+  - DOCX (`55,167 B`): `c54c348ab97c9b44e9da3177f36e8483534bc56b96109a3a67180eb8dbbf661a` | PDF (`2,671,283 B`, `52p`): `18e9ba52ff3a0eb6f43f20d723bb42a4cb95d2f91e1c02752b831ae055fdb2f9`.
+- **Nghị định `267/2025/NĐ-CP`** ([`nghi_dinh_267_2025_nd_cp.md`](../../../legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/nghi_dinh_267_2025_nd_cp.md)): `289` AST clauses, `enacts: [luat_93_2025_qh15]`, `replaces: [08/2014/NĐ-CP, 70/2018/NĐ-CP]`, `related_statutes: [thong_tu_20_2026_tt_bkhcn]`, cắt `Nơi nhận:` chuẩn Gate 6 (`line_end: 1791`), `5/5` cross-links.
+  - DOCX (`44,814 B`): `8744720a4253c6c7c60f98edf97a2abc3141a1097d66f0ca78d5679f51364848` | PDF (`2,872,816 B`, `63p`): `cab99dad7ec00774636da92d862306c17b8726c3ef84395ca0d1c2f787cb32f4`.
+- **Nghị định `268/2025/NĐ-CP`** ([`nghi_dinh_268_2025_nd_cp.md`](../../../legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/nghi_dinh_268_2025_nd_cp.md)): `340` AST clauses, `1` table (`bang_01.csv`), `enacts: [luat_93_2025_qh15]`, `replaces: [13/2019/NĐ-CP]`, ghép PDF 293 trang (`677733.pdf`), cắt `Nơi nhận:` (`line_end: 2181`), `6/6` cross-links.
+  - DOCX (`434,885 B`): `084d96e6389d6ee834dbe406686c55e723e1e206fc524f701aacdc3ecef7d13f` | PDF (`102,315,245 B`, `293p`): `28c8bc46044ff70c2e10fa33b6c0f93472288b03b16771b8f2b3ef6b997a1332`.
+- **Thông tư `20/2026/TT-BKHCN`** ([`thong_tu_20_2026_tt_bkhcn.md`](../../../legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.md)): `62` AST clauses, `12` tables, `6` templates (`phu_luc_i` & `phu_luc_ii`), `amends: [36/2025/TT-BKHCN, 43/2025/TT-BKHCN, 01/2026/TT-BKHCN, 10/2026/TT-BKHCN]`, `related_statutes: [nghi_dinh_267_2025_nd_cp]`, chuẩn metadata & cắt `Nơi nhận:` (`line_end: 427`), `7/7` cross-links.
+  - DOCX (`31,422 B`): `d5d66a279b57e6f58cee075352b0b30fe2e45fb17c16fce354fcf663a570d4ca` | PDF (`1,285,616 B`, `28p`): `e2c5d447f79de67f40573d40a59bedfb9983afc56ea9209938dc9fc18f9bcb2c`.
+- **Cloud Vault (`macvnboy@gmail.com`):** Đẩy có phạm vi `--bundle` và xác minh đủ **`12/12`** tệp nguồn DOCX/PDF (`4` từ PR #71 + `8` từ PR #72) qua `rclone lsjson --stat --metadata`; đồng bộ [`legal_registry.yaml`](../../../legal_registry.yaml) lên **113 văn bản** (`01_vbpl: 59`, `02_qcvn: 17`, `03_tcvn: 34`, `04_appendices: 3`).
+
+### C. Session Retrospective & ADR Traceability (`PR #73`)
+- Cập nhật [`session_learnings.md`](../../../.md/knowledge/session_learnings.md) (`9.93 KB <= 10.0 KB`, giữ nguyên toàn bộ `32/32` `RULE-X.Y`, bổ sung **`RULE-1.7`** & **`RULE-4.6`**), ghi mục `#57` vào [`session_learnings_history.md`](../../../.md/knowledge/archive/session_learnings_history.md) và cập nhật [`log.md`](../../../.md/knowledge/log.md); đồng bộ ADR Matrix qua [`scripts/sync_adr_matrix.py`](../../../scripts/sync_adr_matrix.py) (`45` ADRs, `154` cross-references).
+
+---
+
+## 2. Ma Trận Nghiệm Thu Kiểm Định (Verification Matrix — Issue #59)
+
+| Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
+| :--- | :--- | :--- | :--- | :---: |
+| **Master Legal CI Gates** | 15 Cổng Tri thức (Full) | `python3 scripts/validate_legal_spoke.py` | **113/113 bundles, 15/15 Gates (`Errors: 0 \| Warnings: 0`)** | ✅ **PASSED** |
+| **Cross-Links & Anchors** | Liên kết 6 gói mới + QCVN 04 | `python3 scripts/verify_cross_links.py --bundle <slug>` | **TT31 `5/5`, QD258 `5/5`, L93 `6/6`, ND267 `5/5`, ND268 `6/6`, TT20 `7/7`, QCVN04 `18/18`** | ✅ **PASSED** |
+| **Cleanliness & Budget** | Vệ sinh Spoke & Release | `check_spoke_cleanliness.py` + `check_release_cleanliness.py --phase post --repo-root .` | **15/15 scripts, 0 leaks, 100% Hermetic** | ✅ **PASSED** |
+| **Hub Import Depth** | Kiến trúc Seam | `python3 scripts/_guardrails/check_hub_import_depth.py` | **48 files scanned, 0 violations** | ✅ **PASSED** |
+| **Pstack Smoke & Verify-Patch** | Unit Tests + ADR-0058 | `verify_legal_harness.py --mode smoke --skip-pdf-vault` + `verify-patch` | **126 passed (`0.04s`) + `3/3` verify-patch PASSED (`24,987.4 ms`)** | ✅ **PASSED** |
+| **Governance & Memory Gates** | Skills GPI / Wiki / Docs / 10 KB | `validate_skills.py`, `wiki_health_linter.py`, `compact_session_learnings.py`, `validate_docs.py` | **77 skills OK, `9.93 KB <= 10.0 KB`, Wiki/Docs PASSED** | ✅ **PASSED** |
+| **Cloud Vault Owner Audit** | Toàn vẹn `CCBA_Legal_Vault` | `rclone lsjson <file> --stat --metadata` | **12/12 binaries verified (`owner: macvnboy@gmail.com`)** | ✅ **PASSED** |
+| **Spoke GitHub Actions CI** | 6 Jobs / PR trên GitHub | `gh pr checks 71`, `gh pr checks 72`, `gh pr checks 73` | **6/6 Checks Passed trên cả PR #71, PR #72 và PR #73** | ✅ **PASSED** |
+| **Copilot / Bugbot Audit** | AI Review Gate | `audit_pr_comments.py --pr 73` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
+
+---
+
+## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #68 (Part of Issue #59 — Phát hành ngày 2026-11-23)</summary>
+
+### Walkthrough: Phát Hành Tính Năng PR #68 (Đối Soát Hiệu Lực `QCVN 04` / `TT 31/2026`, `APPENDIX-SD-2026` & `NĐ 212/2026` — Part of Issue #59)
 
 > **Mục tiêu:** Giải quyết triệt để mâu thuẫn hiệu lực `pending_effective` (`2026-12-15`) của Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư `31/2026/TT-BXD`), nâng cấp Sub-Gate 5.3 ngăn chặn khai báo `active` cho văn bản/sửa đổi chưa đến ngày hiệu lực, đồng bộ lại cây điều khoản VBHN QCVN 04 (`161` clauses), viết lại chuẩn xác phụ lục `APPENDIX-SD-2026-QCVN-04` và đính chính metadata Nghị định `212/2026/NĐ-CP` theo nguyên văn DOCX gốc.  
-> **Trạng thái:** ✅ **MERGED VÀO MAIN** *(Part of Issue #59 — Micro-PR 2 tiếp tục nạp 6 văn bản gốc theo ADR-0059)*  
+> **Trạng thái:** ✅ **MERGED VÀO MAIN** *(Part of Issue #59)*  
 > - **Spoke PR #68:** [vvChu/ccba-legal-knowledge#68](https://github.com/vvChu/ccba-legal-knowledge/pull/68) — Merge Commit: `2b69931` (Squash and merge, `6/6` CI Checks Passed)  
-> - **Issue liên quan:** [vvChu/ccba-legal-knowledge#59](https://github.com/vvChu/ccba-legal-knowledge/issues/59) (`OPEN` — `in-progress`, chờ Micro-PR 2)
+> - **Issue liên quan:** [vvChu/ccba-legal-knowledge#59](https://github.com/vvChu/ccba-legal-knowledge/issues/59)
 
 ---
 
@@ -33,9 +89,7 @@
 | **Spoke GitHub Actions CI** | 6 Jobs trên GitHub | `gh pr checks 68` | **6/6 Checks Passed** | ✅ **PASSED** |
 | **Copilot / Bugbot Audit** | AI Review Gate | `python3 ../ccba-agent-platform/scripts/validation/audit_pr_comments.py` | **0 unresolved comments (Clean)** | ✅ **PASSED** |
 
----
-
-## 3. Lịch Sử Phát Hành Tiền Nhiệm
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #65 (Phát hành ngày 2026-11-22)</summary>
