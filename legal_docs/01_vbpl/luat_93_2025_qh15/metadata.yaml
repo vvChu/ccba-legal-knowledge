@@ -1,0 +1,40 @@
+id: luat_93_2025_qh15
+document_number: 93/2025/QH15
+type: Luật
+title: Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15
+status: active
+effective_date: '2025-10-01'
+signer: Trần Thanh Mẫn
+pdf_path: legal_docs/01_vbpl/luat_93_2025_qh15/sources/luat_93_2025_qh15.pdf
+pdf_sha256: 18e9ba52ff3a0eb6f43f20d723bb42a4cb95d2f91e1c02752b831ae055fdb2f9
+pdf_status: verified
+legal_basis:
+- doc_id: hiến_pháp_nước_cộng_hòa_xã_hội_chủ_nghĩa_việt_nam_
+  title: Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung
+    một số điều theo Nghị quyết số 203/2025/QH15
+replaces:
+- 29/2013/QH13
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T09:17:28.768259+00:00'
+issued_by: Quốc hội
+issued_date: '2025-06-27'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: 18e9ba52ff3a0eb6f43f20d723bb42a4cb95d2f91e1c02752b831ae055fdb2f9
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_93_2025_qh15/luat_93_2025_qh15.pdf
+    status: verified
+  docx:
+    sha256: c54c348ab97c9b44e9da3177f36e8483534bc56b96109a3a67180eb8dbbf661a
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_93_2025_qh15/luat_93_2025_qh15.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Luat-Khoa-hoc-Cong-nghe-va-Doi-moi-sang-tao-2025-so-93-2025-QH15-581164.aspx
+source_file: legal_docs/01_vbpl/luat_93_2025_qh15/sources/luat_93_2025_qh15.docx
+relations:
+  enacted_by:
+  - nghi_dinh_267_2025_nd_cp
+  - nghi_dinh_268_2025_nd_cp
+  replaces:
+  - 29/2013/QH13

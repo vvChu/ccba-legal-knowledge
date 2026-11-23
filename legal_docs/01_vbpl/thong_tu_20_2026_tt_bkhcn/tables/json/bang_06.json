@@ -1,0 +1,164 @@
+{
+  "table_id": "bang_06",
+  "title": "Bảng 06",
+  "rows_count": 22,
+  "columns_count": 6,
+  "headers": [
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí",
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính",
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng",
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng",
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu",
+    "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền"
+  ],
+  "records": [
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí thẩm định yêu cầu duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Lệ phí duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "điểm yêu cầu bảo hộ độc lập",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Lệ phí duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "nhóm hàng hóa/dịch vụ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Lệ phí duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "phương án của từng sản phẩm",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Lệ phí duy trì hiệu lực muộn",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "tháng nộp muộn",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí sử dụng văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "điểm yêu cầu bảo hộ độc lập",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí sử dụng văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "nhóm hàng hóa/dịch vụ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí sử dụng văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "phương án của từng sản phẩm",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí đăng bạ quyết định duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Phí công bố quyết định duy trì, gia hạn hiệu lực văn bằng bảo hộ",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "quyết định",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "Tổng số phí, lệ phí nộp theo đơn là:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "Tổng số phí, lệ phí nộp theo đơn là:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "Tổng số phí, lệ phí nộp theo đơn là:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "Tổng số phí, lệ phí nộp theo đơn là:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "(Nộp kèm theo Bản sao chụp chứng từ/bằng chứng về việc nộp phí, lệ phí theo quy định)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "(Nộp kèm theo Bản sao chụp chứng từ/bằng chứng về việc nộp phí, lệ phí theo quy định)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "(Nộp kèm theo Bản sao chụp chứng từ/bằng chứng về việc nộp phí, lệ phí theo quy định)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "(Nộp kèm theo Bản sao chụp chứng từ/bằng chứng về việc nộp phí, lệ phí theo quy định)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": ""
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "(VII) DANH MỤC CÁC TÀI LIỆU CÓ TRONG ĐƠN",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "(VII) DANH MỤC CÁC TÀI LIỆU CÓ TRONG ĐƠN",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "KIỂM TRA DANH MỤC",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "KIỂM TRA DANH MỤC",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "KIỂM TRA DANH MỤC"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Tờ khai, gồm …….trang",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Tờ khai, gồm …….trang",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Bản gốc văn bằng bảo hộ (trường hợp bản gốc văn bằng bảo hộ được cấp dưới dạng giấy và có yêu cầu ghi nhận việc gia hạn vào văn bằng bảo hộ)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Bản gốc văn bằng bảo hộ (trường hợp bản gốc văn bằng bảo hộ được cấp dưới dạng giấy và có yêu cầu ghi nhận việc gia hạn vào văn bằng bảo hộ)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "([ ] bản gốc đã nộp theo đơn số:………………..)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "([ ] bản gốc đã nộp theo đơn số:………………..)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Bản gốc văn bản uỷ quyền bằng tiếng ............,",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Bản gốc văn bản uỷ quyền bằng tiếng ............,",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Bản dịch tiếng Việt văn bản uỷ quyền, gồm ............ trang",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Bản dịch tiếng Việt văn bản uỷ quyền, gồm ............ trang",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Bản sao văn bản uỷ quyền ([ ] Bản gốc nộp sau; [ ] Bản gốc nộp theo đơn số:............)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Bản sao văn bản uỷ quyền ([ ] Bản gốc nộp sau; [ ] Bản gốc nộp theo đơn số:............)",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "[ ] Tài liệu khác, cụ thể:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "[ ] Tài liệu khác, cụ thể:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "[ ]",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "[ ]"
+    },
+    {
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Loại phí, lệ phí": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Đơn vị tính": "",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số lượng": "Cán bộ nhận đơn:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Mức thu": "Cán bộ nhận đơn:",
+      "(VI) PHÍ, LỆ PHÍ                                                                                               ĐVT: Nghìn đồng — Số tiền": "Cán bộ nhận đơn:"
+    }
+  ],
+  "footnotes": []
+}

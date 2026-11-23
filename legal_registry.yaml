@@ -1,10 +1,10 @@
 version: 0.3.0
-updated_at: '2026-11-23T09:00:24.045150+00:00'
+updated_at: '2026-11-23T09:27:33.339405+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 109
+  total_documents: 113
   categories:
-    01_vbpl: 55
+    01_vbpl: 59
     02_qcvn: 17
     03_tcvn: 34
     04_appendices: 3
@@ -1855,6 +1855,84 @@ laws:
   url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-258-QD-TTg-2023-ap-dung-Mo-hinh-thong-tin-cong-trinh-BIM-trong-hoat-dong-xay-dung-559799.aspx
   cong_bao_date: null
   pdf_tier: 1
+- id: luat_93_2025_qh15
+  document_number: 93/2025/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Trần Thanh Mẫn
+  issued_date: '2025-06-27'
+  effective_date: '2025-10-01'
+  published_date: ''
+  status: active
+  relations:
+    enacted_by:
+    - nghi_dinh_267_2025_nd_cp
+    - nghi_dinh_268_2025_nd_cp
+    replaces:
+    - 29/2013/QH13
+  title: Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15
+  bundle_path: legal_docs/01_vbpl/luat_93_2025_qh15/
+  source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Luat-Khoa-hoc-Cong-nghe-va-Doi-moi-sang-tao-2025-so-93-2025-QH15-581164.aspx
+  sha256: c54c348ab97c9b44e9da3177f36e8483534bc56b96109a3a67180eb8dbbf661a
+  pdf_path: legal_docs/01_vbpl/luat_93_2025_qh15/sources/luat_93_2025_qh15.pdf
+  pdf_sha256: 18e9ba52ff3a0eb6f43f20d723bb42a4cb95d2f91e1c02752b831ae055fdb2f9
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_93_2025_qh15/sources/luat_93_2025_qh15.docx
+  source_file_size_kb: 53.9
+  source_assets:
+    pdf:
+      sha256: 18e9ba52ff3a0eb6f43f20d723bb42a4cb95d2f91e1c02752b831ae055fdb2f9
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_93_2025_qh15/luat_93_2025_qh15.pdf
+      status: verified
+    docx:
+      sha256: c54c348ab97c9b44e9da3177f36e8483534bc56b96109a3a67180eb8dbbf661a
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_93_2025_qh15/luat_93_2025_qh15.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Luat-Khoa-hoc-Cong-nghe-va-Doi-moi-sang-tao-2025-so-93-2025-QH15-581164.aspx
+  cong_bao_date: null
+  pdf_tier: 1
+- id: thong_tu_20_2026_tt_bkhcn
+  document_number: 20/2026/TT-BKHCN
+  type: Thông tư
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Vũ Hải Quân
+  issued_date: '2026-05-20'
+  effective_date: '2026-05-20'
+  published_date: ''
+  status: active
+  relations:
+    amends:
+    - 36/2025/TT-BKHCN
+    - 43/2025/TT-BKHCN
+    - 01/2026/TT-BKHCN
+    - 10/2026/TT-BKHCN
+    related_statutes:
+    - nghi_dinh_267_2025_nd_cp
+  title: Thông tư 20/2026/TT-BKHCN sửa đổi, bổ sung một số điều của các Thông tư để
+    cắt giảm, đơn giản hoá thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ
+    Khoa học và Công nghệ
+  bundle_path: legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/
+  source_url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-20-2026-TT-BKHCN-sua-doi-cac-Thong-tu-de-cat-giam-thu-tuc-hanh-chinh-706286.aspx
+  sha256: d5d66a279b57e6f58cee075352b0b30fe2e45fb17c16fce354fcf663a570d4ca
+  pdf_path: legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/sources/thong_tu_20_2026_tt_bkhcn.pdf
+  pdf_sha256: e2c5d447f79de67f40573d40a59bedfb9983afc56ea9209938dc9fc18f9bcb2c
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/sources/thong_tu_20_2026_tt_bkhcn.docx
+  source_file_size_kb: 30.7
+  source_assets:
+    pdf:
+      sha256: e2c5d447f79de67f40573d40a59bedfb9983afc56ea9209938dc9fc18f9bcb2c
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.pdf
+      status: verified
+    docx:
+      sha256: d5d66a279b57e6f58cee075352b0b30fe2e45fb17c16fce354fcf663a570d4ca
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-20-2026-TT-BKHCN-sua-doi-cac-Thong-tu-de-cat-giam-thu-tuc-hanh-chinh-706286.aspx
+  cong_bao_date: null
+  pdf_tier: 1
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
@@ -3634,3 +3712,85 @@ decrees:
       sha256: e59f7518b3fbdec8fcca8e8e10287fdd40883c92a01ff204e47938519dc370f9
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_03_2024_tt_bkhdt/thong_tu_03_2024_tt_bkhdt.docx
       status: verified
+- id: nghi_dinh_267_2025_nd_cp
+  document_number: 267/2025/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Chí Dũng
+  issued_date: '2025-10-14'
+  effective_date: '2025-10-14'
+  published_date: ''
+  status: active
+  relations:
+    enacts:
+    - luat_93_2025_qh15
+    replaces:
+    - 08/2014/NĐ-CP
+    - 70/2018/NĐ-CP
+    related_statutes:
+    - thong_tu_20_2026_tt_bkhcn
+  title: Nghị định 267/2025/NĐ-CP quy định chi tiết và hướng dẫn một số điều của Luật
+    Khoa học, công nghệ và đổi mới sáng tạo về chương trình, nhiệm vụ khoa học, công
+    nghệ và đổi mới sáng tạo và một số quy định về thúc đẩy hoạt động nghiên cứu khoa
+    học, phát triển công nghệ và đổi mới sáng tạo
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-267-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-va-doi-moi-sang-tao-677731.aspx
+  sha256: 8744720a4253c6c7c60f98edf97a2abc3141a1097d66f0ca78d5679f51364848
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/sources/nghi_dinh_267_2025_nd_cp.pdf
+  pdf_sha256: cab99dad7ec00774636da92d862306c17b8726c3ef84395ca0d1c2f787cb32f4
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_267_2025_nd_cp/sources/nghi_dinh_267_2025_nd_cp.docx
+  source_file_size_kb: 43.8
+  source_assets:
+    pdf:
+      sha256: cab99dad7ec00774636da92d862306c17b8726c3ef84395ca0d1c2f787cb32f4
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_267_2025_nd_cp/nghi_dinh_267_2025_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 8744720a4253c6c7c60f98edf97a2abc3141a1097d66f0ca78d5679f51364848
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_267_2025_nd_cp/nghi_dinh_267_2025_nd_cp.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-267-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-va-doi-moi-sang-tao-677731.aspx
+  cong_bao_date: null
+  pdf_tier: 1
+- id: nghi_dinh_268_2025_nd_cp
+  document_number: 268/2025/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Chí Dũng
+  issued_date: '2025-10-14'
+  effective_date: '2025-10-14'
+  published_date: ''
+  status: active
+  relations:
+    enacts:
+    - luat_93_2025_qh15
+    replaces:
+    - 13/2019/NĐ-CP
+  title: Nghị định 268/2025/NĐ-CP quy định chi tiết và hướng dẫn một số điều của Luật
+    Khoa học, công nghệ và đổi mới sáng tạo về đổi mới sáng tạo; khuyến khích hoạt
+    động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung
+    tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp
+    khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Nghi-dinh-268-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-khuyen-khich-hoat-dong-khoa-hoc-677733.aspx
+  sha256: 084d96e6389d6ee834dbe406686c55e723e1e206fc524f701aacdc3ecef7d13f
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/sources/nghi_dinh_268_2025_nd_cp.pdf
+  pdf_sha256: 28c8bc46044ff70c2e10fa33b6c0f93472288b03b16771b8f2b3ef6b997a1332
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_268_2025_nd_cp/sources/nghi_dinh_268_2025_nd_cp.docx
+  source_file_size_kb: 424.7
+  source_assets:
+    pdf:
+      sha256: 28c8bc46044ff70c2e10fa33b6c0f93472288b03b16771b8f2b3ef6b997a1332
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_268_2025_nd_cp/nghi_dinh_268_2025_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 084d96e6389d6ee834dbe406686c55e723e1e206fc524f701aacdc3ecef7d13f
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_268_2025_nd_cp/nghi_dinh_268_2025_nd_cp.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Nghi-dinh-268-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-khuyen-khich-hoat-dong-khoa-hoc-677733.aspx
+  cong_bao_date: null
+  pdf_tier: 1

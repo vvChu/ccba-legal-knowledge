@@ -1,0 +1,3683 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 34,
+    "line_end": 37
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 43
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 46,
+    "line_end": 49
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. *Khoa học* là hệ thống tri thức về bản chất, quy luật tồn tại và phát triển của sự vật, hiện tượng tự nhiên, xã hội và tư duy.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 51,
+    "line_end": 52
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. *Công nghệ* là tập hợp các giải pháp kỹ thuật, quy trình, công cụ, bao gồm cả bí quyết, được tạo ra bởi ứng dụng tri thức khoa học, kinh nghiệm để biến đổi nguồn lực thành sản phẩm.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 55
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. *Đổi mới sáng tạo* là hoạt động tạo ra sản phẩm mới, dịch vụ mới, quy trình mới, mô hình kinh doanh mới hoặc cải tiến đáng kể so với sản phẩm, dịch vụ, quy trình, mô hình kinh doanh đã có.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 58
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. *Hoạt động khoa học, công nghệ và đổi mới sáng tạo* bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 79
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. *Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo* là hình thức tổ chức công việc để giải quyết các vấn đề về khoa học, công nghệ và đổi mới sáng tạo đáp ứng yêu cầu thực tiễn phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, phát triển khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 82
+  },
+  {
+    "clause_id": "dieu-3-khoan-6",
+    "anchor": "dieu-3-khoan-6",
+    "title": "6. *Nghiên cứu cơ bản* là hoạt động nghiên cứu nhằm khám phá bản chất, quy luật của sự vật, hiện tượng tự nhiên, xã hội và tư duy.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 85
+  },
+  {
+    "clause_id": "dieu-3-khoan-7",
+    "anchor": "dieu-3-khoan-7",
+    "title": "7. *Nghiên cứu ứng dụng* là hoạt động nghiên cứu khoa học sử dụng tri thức khoa học để tạo ra giải pháp phục vụ nhu cầu thực tiễn trong sản xuất, kinh doanh, đời sống kinh tế - xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 87,
+    "line_end": 88
+  },
+  {
+    "clause_id": "dieu-3-khoan-8",
+    "anchor": "dieu-3-khoan-8",
+    "title": "8. *Phát triển công nghệ* là quá trình vận dụng kết quả nghiên cứu khoa học và kinh nghiệm để thiết kế, thử nghiệm, hoàn thiện và chuẩn hóa quy trình kỹ thuật nhằm tạo ra công nghệ mới hoặc cải tiến công nghệ, phù hợp với điều kiện ứng dụng thực tiễn.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 91
+  },
+  {
+    "clause_id": "dieu-3-khoan-9",
+    "anchor": "dieu-3-khoan-9",
+    "title": "9. *Phát triển giải pháp xã hội* là việc phát triển, triển khai sáng kiến hoặc giải pháp mới nhằm giải quyết hiệu quả và bền vững vấn đề xã hội, cộng đồng và môi trường góp phần tạo ra giá trị xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 94
+  },
+  {
+    "clause_id": "dieu-3-khoan-10",
+    "anchor": "dieu-3-khoan-10",
+    "title": "10. *Sản xuất thử nghiệm* là việc sản xuất thử sản phẩm mới trong điều kiện sản xuất thực tế nhằm kiểm soát chất lượng, chi phí và khả năng thương mại hóa trước khi triển khai sản xuất thương mại.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97
+  },
+  {
+    "clause_id": "dieu-3-khoan-11",
+    "anchor": "dieu-3-khoan-11",
+    "title": "11. *Khởi nghiệp sáng tạo* là quá trình hình thành, phát triển mô hình kinh doanh sáng tạo dựa trên công nghệ, ý tưởng đột phá hoặc mô hình kinh doanh mới, do cá nhân, nhóm cá nhân hoặc tổ chức thực hiện, nhằm tạo ra giá trị mới, giải quyết vấn đề thị trường hoặc kinh tế - xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 100
+  },
+  {
+    "clause_id": "dieu-3-khoan-12",
+    "anchor": "dieu-3-khoan-12",
+    "title": "12. *Dịch vụ khoa học, công nghệ và đổi mới sáng tạo* là hoạt động phục vụ, hỗ trợ kỹ thuật cho hoạt động khoa học và công nghệ, hoạt động đổi mới sáng tạo, hoạt động khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 103
+  },
+  {
+    "clause_id": "dieu-3-khoan-13",
+    "anchor": "dieu-3-khoan-13",
+    "title": "13. *Hỗ trợ đổi mới sáng tạo* là hoạt động cung cấp nguồn lực, dịch vụ cho đổi mới sáng tạo, bao gồm: sở hữu trí tuệ, tiêu chuẩn, đo lường, chất lượng, hạ tầng kỹ thuật, không gian làm việc, pháp lý, thông tin thị trường, tài chính, thương mại, truyền thông, kết nối đầu tư và hỗ trợ cần thiết khác.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 106
+  },
+  {
+    "clause_id": "dieu-3-khoan-14",
+    "anchor": "dieu-3-khoan-14",
+    "title": "14. *Hỗ trợ khởi nghiệp sáng tạo* là hoạt động quy định tại khoản 13 Điều này để cung cấp nguồn lực, dịch vụ cho khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 109
+  },
+  {
+    "clause_id": "dieu-3-khoan-15",
+    "anchor": "dieu-3-khoan-15",
+    "title": "15. *Tổ chức khoa học và công nghệ* là tổ chức được thành lập theo quy định của pháp luật để thực hiện nghiên cứu khoa học, phát triển công nghệ hoặc cung cấp dịch vụ khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 111,
+    "line_end": 112
+  },
+  {
+    "clause_id": "dieu-3-khoan-16",
+    "anchor": "dieu-3-khoan-16",
+    "title": "16. *Trung tâm nghiên cứu và phát triển* là tổ chức chuyên thực hiện hoạt động nghiên cứu khoa học và phát triển công nghệ, được công nhận theo tiêu chí năng lực và kết quả hoạt động.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 115
+  },
+  {
+    "clause_id": "dieu-3-khoan-17",
+    "anchor": "dieu-3-khoan-17",
+    "title": "17. *Trung tâm đổi mới sáng tạo* là tổ chức thực hiện, hỗ trợ hoạt động đổi mới sáng tạo, khởi nghiệp sáng tạo, được công nhận theo tiêu chí năng lực và kết quả hoạt động.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 118
+  },
+  {
+    "clause_id": "dieu-3-khoan-18",
+    "anchor": "dieu-3-khoan-18",
+    "title": "18. *Doanh nghiệp khởi nghiệp sáng tạo* là doanh nghiệp triển khai mô hình kinh doanh sáng tạo, có khả năng tăng trưởng nhanh và mở rộng quy mô thị trường dựa trên khai thác hiệu quả công nghệ, quyền sở hữu trí tuệ, ý tưởng đột phá hoặc mô hình kinh doanh mới.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 121
+  },
+  {
+    "clause_id": "dieu-3-khoan-19",
+    "anchor": "dieu-3-khoan-19",
+    "title": "19. *Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia *là hệ thống số hóa phục vụ quản lý nhà nước, theo dõi tiến độ, đánh giá kết quả và hiệu quả triển khai hoạt động khoa học, công nghệ và đổi mới sáng tạo trên phạm vi toàn quốc.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 124
+  },
+  {
+    "clause_id": "dieu-3-khoan-20",
+    "anchor": "dieu-3-khoan-20",
+    "title": "20. *Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo* là hạ tầng số phục vụ lưu trữ, chia sẻ, phổ biến, khai thác và sử dụng công khai kết quả hoạt động khoa học, công nghệ và đổi mới sáng tạo cho tổ chức, cá nhân trong xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 126,
+    "line_end": 127
+  },
+  {
+    "clause_id": "dieu-3-khoan-21",
+    "anchor": "dieu-3-khoan-21",
+    "title": "21. *Hệ thống đổi mới sáng tạo* là tổng thể các chủ thể và mối liên kết giữa doanh nghiệp, cơ sở giáo dục, cơ sở nghiên cứu, tổ chức trung gian, cơ quan nhà nước, cộng đồng và hệ thống thiết chế để thúc đẩy việc tạo ra hoặc cải tiến sản phẩm, dịch vụ, mô hình kinh doanh nhằm nâng cao hiệu suất, giá trị gia tăng, hiệu quả kinh tế - xã hội và chất lượng cuộc sống.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 130
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Áp dụng Luật Khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 136
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Nguyên tắc trong hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 140
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Xuất phát từ yêu cầu thực tiễn và dự báo xu hướng phát triển; phục vụ phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, nâng cao chất lượng cuộc sống, bảo vệ môi trường và phát triển bền vững; lấy con người làm trung tâm, tôn trọng quyền con người.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 143
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Nghiên cứu trong lĩnh vực y tế, công nghệ sinh học, trí tuệ nhân tạo và lĩnh vực khác liên quan trực tiếp đến con người phải bảo đảm tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan và bảo đảm việc phát triển, ứng dụng công nghệ luôn đặt dưới sự giám sát, kiểm soát của con người.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 145,
+    "line_end": 146
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Bảo đảm quyền tự do nghiên cứu và sáng tạo; đề cao, tuân thủ đạo đức nghề nghiệp, yêu cầu chuyên môn, tính trung thực, khách quan và tinh thần trách nhiệm trong hoạt động khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 148,
+    "line_end": 149
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Phát triển hệ thống tiêu chuẩn làm nền tảng thiết lập chuẩn mực trình độ công nghệ, định hướng nghiên cứu, phát triển, ứng dụng công nghệ, tạo cơ sở cho việc ngăn chặn, loại bỏ công nghệ lạc hậu, công nghệ ảnh hưởng xấu đến kinh tế - xã hội, quốc phòng, an ninh, môi trường, sức khỏe con người; hỗ trợ đăng ký, bảo hộ, quản lý, khai thác quyền sở hữu trí tuệ; thúc đẩy hoạt động đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 151,
+    "line_end": 152
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Nhà nước quản lý hoạt động khoa học, công nghệ và đổi mới sáng tạo chủ yếu theo nguyên tắc hậu kiểm, tập trung đánh giá kết quả thực hiện, không can thiệp vào phương pháp, quy trình thực hiện; bảo đảm quyền tự chủ và trách nhiệm giải trình của tổ chức, doanh nghiệp, cá nhân. Trường hợp cần thiết, được áp dụng nguyên tắc tiền kiểm nhưng bảo đảm không gây cản trở hoạt động khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 154,
+    "line_end": 155
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Định hướng chiến lược và chính sách phát triển khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 158,
+    "line_end": 159
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Định hướng chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 161,
+    "line_end": 174
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Để cụ thể hóa các định hướng chiến lược quy định tại khoản 1 Điều này, Nhà nước thực hiện các chính sách sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 176,
+    "line_end": 195
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Ngày Khoa học, Công nghệ và Đổi mới sáng tạo Việt Nam",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 198,
+    "line_end": 201
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Liêm chính khoa học, đạo đức nghề nghiệp trong nghiên cứu khoa học, phát triển công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 204,
+    "line_end": 205
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo đảm tuân thủ liêm chính khoa học và đạo đức nghề nghiệp trong nghiên cứu khoa học, phát triển công nghệ. Hành vi ngụy tạo dữ liệu, đạo văn, che giấu xung đột lợi ích hoặc hành vi làm sai lệch bản chất nghiên cứu là hành vi vi phạm nghiêm trọng liêm chính khoa học.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 207,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Cơ quan quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo có trách nhiệm hướng dẫn áp dụng việc tuân thủ liêm chính khoa học và đạo đức nghề nghiệp trong phạm vi quản lý.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 210,
+    "line_end": 211
+  },
+  {
+    "clause_id": "dieu-8-khoan-3",
+    "anchor": "dieu-8-khoan-3",
+    "title": "3. Tổ chức khoa học và công nghệ có trách nhiệm xây dựng, ban hành quy tắc về liêm chính khoa học và đạo đức nghề nghiệp phù hợp với hướng dẫn của cơ quan quản lý nhà nước có thẩm quyền.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 213,
+    "line_end": 214
+  },
+  {
+    "clause_id": "dieu-8-khoan-4",
+    "anchor": "dieu-8-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này; quy định trường hợp cập nhật thông tin về hành vi vi phạm liêm chính khoa học và đạo đức nghề nghiệp trên Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 216,
+    "line_end": 217
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Chấp nhận rủi ro trong hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 220,
+    "line_end": 221
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Rủi ro trong hoạt động khoa học, công nghệ và đổi mới sáng tạo được chấp nhận theo quy định của Luật này và quy định khác của pháp luật có liên quan; bảo đảm có biện pháp quản trị rủi ro phù hợp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 223,
+    "line_end": 224
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Rủi ro trong hoạt động khoa học, công nghệ và đổi mới sáng tạo bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 226,
+    "line_end": 235
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Việc chấp nhận rủi ro trong nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo được quy định như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 237,
+    "line_end": 246
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này; quy định tiêu chí xác định rủi ro được chấp nhận, quy trình đánh giá việc tuân thủ quy trình, quy định trong phê duyệt, quản lý, thực hiện nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 248,
+    "line_end": 249
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Trách nhiệm phổ biến, lan tỏa tri thức khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 252,
+    "line_end": 253
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Tổ chức, cá nhân thực hiện hoạt động khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước hoặc được hưởng ưu đãi, hỗ trợ, tài trợ từ Nhà nước có trách nhiệm phổ biến, lan tỏa tri thức, công bố kết quả hoạt động khoa học, công nghệ và đổi mới sáng tạo bằng hình thức phù hợp, bao gồm cả việc cập nhật thông tin trên Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 255,
+    "line_end": 256
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Nhà nước khuyến khích tổ chức, cá nhân khác không thuộc trường hợp quy định tại khoản 1 Điều này phổ biến, lan tỏa tri thức, công bố thông tin hoạt động khoa học, công nghệ và đổi mới sáng tạo trên Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo, trên các phương tiện thông tin đại chúng hoặc theo các hình thức khác phù hợp với quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 258,
+    "line_end": 259
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Nội dung thuộc phạm vi bí mật nhà nước hoặc ảnh hưởng đến khả năng bảo hộ quyền sở hữu trí tuệ của kết quả hoạt động khoa học, công nghệ và đổi mới sáng tạo không thuộc phạm vi phổ biến, cập nhật quy định tại Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 262
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Khuyến khích sáng kiến, cải tiến kỹ thuật, hợp lý hóa sản xuất và truyền thông, phổ biến tri thức khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 265,
+    "line_end": 266
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Nhà nước hỗ trợ tài chính cho hoạt động sáng kiến, cải tiến kỹ thuật, hợp lý hóa sản xuất, truyền thông khoa học, công nghệ và đổi mới sáng tạo, phổ biến tri thức thông qua việc tài trợ, hỗ trợ hoạt động theo cơ chế phù hợp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 268,
+    "line_end": 269
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Kinh phí doanh nghiệp chi cho hoạt động sáng kiến, cải tiến kỹ thuật, hợp lý hóa sản xuất, truyền thông khoa học, công nghệ và đổi mới sáng tạo, phổ biến tri thức được hạch toán vào chi phí sản xuất, kinh doanh theo quy định của pháp luật về thuế và pháp luật về kế toán.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 271,
+    "line_end": 272
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này; quy định tiêu chí, hình thức, trình tự, thủ tục và mức tài trợ, hỗ trợ cho hoạt động quy định tại khoản 1 Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 274,
+    "line_end": 275
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Tạp chí khoa học",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 278,
+    "line_end": 279
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Tổ chức nghiên cứu khoa học, tổ chức nghiên cứu khoa học và phát triển công nghệ được hình thành một hoặc một số tạp chí khoa học. Tổ chức nghiên cứu khoa học, tổ chức nghiên cứu khoa học và phát triển công nghệ thành lập hội đồng biên tập tạp chí khoa học cho mỗi tạp chí khoa học. Hội đồng biên tập tạp chí khoa học bao gồm Chủ tịch hội đồng biên tập tạp chí khoa học và các thành viên là các chuyên gia, nhà khoa học hoạt động chuyên trách hoặc kiêm nhiệm. Hội đồng biên tập tạp chí khoa học có trách nhiệm xét chọn các bài báo khoa học đăng trên tạp chí khoa học, hình thành nội dung tạp chí khoa học bảo đảm chất lượng khoa học.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 281,
+    "line_end": 282
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Việc xuất bản tạp chí khoa học được thực hiện thông qua cơ quan tạp chí khoa học theo quy định của pháp luật về báo chí.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 284,
+    "line_end": 285
+  },
+  {
+    "clause_id": "dieu-12-khoan-3",
+    "anchor": "dieu-12-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này; quy định tiêu chí khoa học đối với tạp chí khoa học, hội đồng biên tập tạp chí khoa học, quy trình xét chọn bài báo khoa học, xếp loại tạp chí khoa học.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 288
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Trách nhiệm quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 291,
+    "line_end": 292
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Trách nhiệm của Chính phủ được quy định như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 294,
+    "line_end": 299
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Bộ Khoa học và Công nghệ chịu trách nhiệm trước Chính phủ trong việc thực hiện quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo trên phạm vi cả nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 301,
+    "line_end": 302
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Bộ, cơ quan ngang Bộ, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo trong ngành, lĩnh vực được phân công phụ trách.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 304,
+    "line_end": 305
+  },
+  {
+    "clause_id": "dieu-13-khoan-4",
+    "anchor": "dieu-13-khoan-4",
+    "title": "4. Ủy ban nhân dân cấp tỉnh, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo tại địa phương.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 307,
+    "line_end": 308
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Các hành vi bị nghiêm cấm",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 311,
+    "line_end": 312
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Cản trở, gây khó khăn cho hoạt động khoa học, công nghệ và đổi mới sáng tạo của tổ chức, cá nhân.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 314,
+    "line_end": 315
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Lợi dụng chức vụ, quyền hạn để can thiệp trái pháp luật vào việc đặt hàng, tài trợ, hỗ trợ, đánh giá hoạt động khoa học, công nghệ và đổi mới sáng tạo hoặc hành vi khác can thiệp trái pháp luật vào hoạt động khoa học, công nghệ và đổi mới sáng tạo của tổ chức, cá nhân.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 317,
+    "line_end": 318
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Lợi dụng hoạt động khoa học, công nghệ và đổi mới sáng tạo để thực hiện một trong các hành vi sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 320,
+    "line_end": 327
+  },
+  {
+    "clause_id": "dieu-14-khoan-4",
+    "anchor": "dieu-14-khoan-4",
+    "title": "4. Cố ý không tuân thủ quy định trong hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo hoặc cố ý che giấu rủi ro khi thực hiện nghiên cứu, thử nghiệm, ứng dụng công nghệ gây thiệt hại nghiêm trọng đến tài nguyên, môi trường, đa dạng sinh học, sức khỏe cộng đồng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 329,
+    "line_end": 330
+  },
+  {
+    "clause_id": "dieu-14-khoan-5",
+    "anchor": "dieu-14-khoan-5",
+    "title": "5. Tiết lộ hoặc sử dụng trái phép dữ liệu nhạy cảm thu thập trong quá trình nghiên cứu và phát triển, gây ảnh hưởng đến quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình hoặc an ninh quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 332,
+    "line_end": 333
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo; kế hoạch về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 342,
+    "line_end": 343
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Thủ tướng Chính phủ phê duyệt Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo phù hợp với chiến lược phát triển kinh tế - xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 345,
+    "line_end": 346
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Cơ quan quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo ở trung ương xây dựng, ban hành kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo 05 năm phù hợp với chiến lược, kế hoạch phát triển kinh tế - xã hội, trong đó xác định cơ cấu chi ngân sách nhà nước về chi đầu tư, chi thường xuyên cho khoa học, công nghệ và đổi mới sáng tạo; tổ chức kiểm tra, đánh giá hằng năm việc thực hiện kế hoạch của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và Ủy ban nhân dân cấp tỉnh. Kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo 05 năm là một trong các căn cứ để hình thành nội dung đầu tư phát triển khoa học, công nghệ và đổi mới sáng tạo trong kế hoạch đầu tư công trung hạn.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 348,
+    "line_end": 349
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Căn cứ kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo 05 năm, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và Ủy ban nhân dân cấp tỉnh xây dựng, ban hành kế hoạch về khoa học, công nghệ và đổi mới sáng tạo thuộc phạm vi quản lý của mình; quản lý và sử dụng ngân sách hiệu quả, đóng góp vào phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh; chịu trách nhiệm giải trình về hiệu quả thực hiện.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 351,
+    "line_end": 352
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 354,
+    "line_end": 355
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 358,
+    "line_end": 359
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 361,
+    "line_end": 368
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo do Nhà nước đặt hàng được tuyển chọn hoặc giao trực tiếp cho tổ chức, doanh nghiệp thực hiện. Cơ quan có thẩm quyền phê duyệt nhiệm vụ quyết định việc giao trực tiếp thực hiện nhiệm vụ trong các trường hợp sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 370,
+    "line_end": 379
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được xét tài trợ, tuyển chọn, giao trực tiếp theo từng nhiệm vụ, cụm nhiệm vụ, chuỗi nhiệm vụ. Việc xét tài trợ, tuyển chọn, giao trực tiếp nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được thực hiện định kỳ, đột xuất hoặc trong khuôn khổ chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia, chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia đặc biệt, chương trình khoa học, công nghệ và đổi mới sáng tạo của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và Ủy ban nhân dân cấp tỉnh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 381,
+    "line_end": 382
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 384,
+    "line_end": 385
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 388,
+    "line_end": 389
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia là tập hợp các hoạt động khoa học, công nghệ và đổi mới sáng tạo có mục tiêu chung để giải quyết các vấn đề có tính liên ngành, liên vùng, phục vụ phát triển kinh tế - xã hội trung hạn hoặc dài hạn.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 391,
+    "line_end": 392
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Việc xây dựng chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia đáp ứng các yêu cầu sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 394,
+    "line_end": 401
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia sau khi có ý kiến thẩm định của cơ quan có thẩm quyền, tổ chức thực hiện chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 403,
+    "line_end": 404
+  },
+  {
+    "clause_id": "dieu-17-khoan-4",
+    "anchor": "dieu-17-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 406,
+    "line_end": 407
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo đặc biệt; chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia đặc biệt",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 410,
+    "line_end": 411
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo đặc biệt và chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia đặc biệt là nhiệm vụ, chương trình có quy mô lớn do Thủ tướng Chính phủ quyết định nhằm thực hiện một trong các mục tiêu sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 413,
+    "line_end": 424
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo đặc biệt và chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gia đặc biệt được áp dụng cơ chế đầu tư, tài chính và quản lý đặc thù theo quy định của Chính phủ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 426,
+    "line_end": 427
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 430
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Đánh giá hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 434
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Việc đánh giá kết quả, hiệu quả, tác động của hoạt động khoa học, công nghệ và đổi mới sáng tạo bao gồm các nội dung sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 436,
+    "line_end": 445
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Việc đánh giá chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước bao gồm các nội dung sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 447,
+    "line_end": 456
+  },
+  {
+    "clause_id": "dieu-19-khoan-3",
+    "anchor": "dieu-19-khoan-3",
+    "title": "3. Việc đánh giá kết quả, hiệu quả, tác động của hoạt động khoa học, công nghệ và đổi mới sáng tạo thực hiện theo nguyên tắc độc lập, trung thực, khách quan, công khai, minh bạch, đúng pháp luật và được triển khai trên cơ sở sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 458,
+    "line_end": 465
+  },
+  {
+    "clause_id": "dieu-19-khoan-4",
+    "anchor": "dieu-19-khoan-4",
+    "title": "4. Kết quả đánh giá hoạt động khoa học, công nghệ và đổi mới sáng tạo là căn cứ để điều chỉnh kế hoạch, nội dung, phương án phân bổ và bố trí ngân sách nhà nước cho Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và địa phương, tổ chức liên quan để thực hiện chiến lược, kế hoạch, chương trình, nhiệm vụ; điều chỉnh số lượng người làm việc, sắp xếp đơn vị sự nghiệp công lập trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo; điều chỉnh chính sách ưu đãi về khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 467,
+    "line_end": 468
+  },
+  {
+    "clause_id": "dieu-19-khoan-5",
+    "anchor": "dieu-19-khoan-5",
+    "title": "5. Kinh phí thực hiện đánh giá được bố trí trong dự toán ngân sách nhà nước cho hoạt động quản lý khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 470,
+    "line_end": 471
+  },
+  {
+    "clause_id": "dieu-19-khoan-6",
+    "anchor": "dieu-19-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 474
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Chuyển đổi số trong hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 478
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Nhà nước thúc đẩy chuyển đổi số toàn diện trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo thông qua việc phát triển đồng bộ hạ tầng số, cung cấp dịch vụ công trực tuyến, số hóa dữ liệu và tự động hóa quy trình nghiệp vụ nhằm nâng cao hiệu quả, tính minh bạch.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 480,
+    "line_end": 481
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Nhà nước khuyến khích ứng dụng dữ liệu lớn và trí tuệ nhân tạo để nâng cao hiệu quả của hoạt động khoa học, công nghệ và đổi mới sáng tạo; sử dụng trí tuệ nhân tạo trong việc đổi mới lực lượng khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 483,
+    "line_end": 484
+  },
+  {
+    "clause_id": "dieu-20-khoan-3",
+    "anchor": "dieu-20-khoan-3",
+    "title": "3. Nhà nước đầu tư xây dựng, vận hành và duy trì Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia tập trung, thống nhất, kết nối các cơ quan, tổ chức trên môi trường mạng để quản lý các nội dung sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 486,
+    "line_end": 493
+  },
+  {
+    "clause_id": "dieu-20-khoan-4",
+    "anchor": "dieu-20-khoan-4",
+    "title": "4. Nhà nước đầu tư xây dựng, vận hành và duy trì Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo tập trung, thống nhất; bảo đảm yêu cầu bảo mật, kết nối các cơ quan, tổ chức, doanh nghiệp trên môi trường mạng để lưu trữ, chia sẻ, phổ biến công khai kết quả hoạt động khoa học, công nghệ và đổi mới sáng tạo cho tổ chức, cá nhân khai thác và sử dụng; bảo đảm kết nối Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo với Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia để cung cấp dữ liệu đầu vào chính xác, thống nhất.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 495,
+    "line_end": 496
+  },
+  {
+    "clause_id": "dieu-20-khoan-5",
+    "anchor": "dieu-20-khoan-5",
+    "title": "5. Cơ quan nhà nước, tổ chức, doanh nghiệp, cá nhân, bao gồm cả tổ chức khoa học và công nghệ, trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo và doanh nghiệp khoa học và công nghệ sử dụng ngân sách nhà nước, thụ hưởng chính sách ưu đãi, hỗ trợ trong hoạt động khoa học, công nghệ và đổi mới sáng tạo có trách nhiệm cung cấp thông tin phục vụ quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo trên Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 498,
+    "line_end": 499
+  },
+  {
+    "clause_id": "dieu-20-khoan-6",
+    "anchor": "dieu-20-khoan-6",
+    "title": "6. Nhà nước khuyến khích tổ chức, cá nhân cung cấp thông tin và công khai kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo không sử dụng ngân sách nhà nước trên Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 501,
+    "line_end": 502
+  },
+  {
+    "clause_id": "dieu-20-khoan-7",
+    "anchor": "dieu-20-khoan-7",
+    "title": "7. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 504,
+    "line_end": 505
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Yêu cầu chung đối với thử nghiệm có kiểm soát công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 510,
+    "line_end": 511
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Thử nghiệm có kiểm soát là việc cơ quan nhà nước có thẩm quyền cho phép tổ chức, doanh nghiệp triển khai thử nghiệm đối với công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới mà pháp luật chưa có quy định hoặc khác với quy định của pháp luật hiện hành, trong điều kiện thực tế có giới hạn về phạm vi, thời gian, không gian.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 513,
+    "line_end": 514
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Việc cho phép thử nghiệm có kiểm soát phải bảo đảm các nguyên tắc sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 516,
+    "line_end": 525
+  },
+  {
+    "clause_id": "dieu-21-khoan-3",
+    "anchor": "dieu-21-khoan-3",
+    "title": "3. Nội dung thử nghiệm có kiểm soát bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 527,
+    "line_end": 550
+  },
+  {
+    "clause_id": "dieu-21-khoan-4",
+    "anchor": "dieu-21-khoan-4",
+    "title": "4. Thời hạn cho phép thử nghiệm có kiểm soát được xác định trên cơ sở đề xuất của tổ chức, doanh nghiệp nhưng không quá 03 năm và có thể được gia hạn 01 lần không quá 03 năm.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 552,
+    "line_end": 553
+  },
+  {
+    "clause_id": "dieu-21-khoan-5",
+    "anchor": "dieu-21-khoan-5",
+    "title": "5. Việc thực hiện thử nghiệm có kiểm soát phải được sơ kết, tổng kết để cấp có thẩm quyền xem xét, quyết định việc tiếp tục áp dụng thử nghiệm có kiểm soát hoặc ban hành văn bản quy phạm pháp luật để áp dụng chính thức.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 555,
+    "line_end": 556
+  },
+  {
+    "clause_id": "dieu-21-khoan-6",
+    "anchor": "dieu-21-khoan-6",
+    "title": "6. Căn cứ vào yêu cầu quản lý thực tiễn của từng ngành, lĩnh vực, Chính phủ được ban hành văn bản quy định chi tiết khoản 3 Điều này và các nội dung cần thiết để xử lý các vấn đề phát sinh khác với luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội, báo cáo Ủy ban Thường vụ Quốc hội, Quốc hội tại phiên họp, kỳ họp gần nhất.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 558,
+    "line_end": 559
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Miễn, loại trừ trách nhiệm trong hoạt động thử nghiệm có kiểm soát",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 562,
+    "line_end": 565
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Cơ quan có thẩm quyền cho phép thử nghiệm có kiểm soát; tổ chức, cá nhân trực tiếp, tham gia thẩm định, cấp phép, đánh giá thử nghiệm có kiểm soát được miễn, loại trừ các trách nhiệm khi đã thực hiện đúng, đầy đủ các quy định về thử nghiệm có kiểm soát tại Luật này và quy định của pháp luật về thử nghiệm có kiểm soát, có động cơ trong sáng, vì lợi ích chung, trừ trường hợp đã biết hoặc buộc phải biết về nguy cơ rủi ro đối với quá trình thử nghiệm có kiểm soát nhưng không áp dụng đầy đủ biện pháp phù hợp để ngăn ngừa, hạn chế mức độ thiệt hại có thể xảy ra. Các trách nhiệm được miễn, loại trừ bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 567,
+    "line_end": 574
+  },
+  {
+    "clause_id": "dieu-22-khoan-2",
+    "anchor": "dieu-22-khoan-2",
+    "title": "2. Tổ chức, doanh nghiệp được cấp phép tiến hành thử nghiệm có kiểm soát, cá nhân thực hiện thử nghiệm có kiểm soát được miễn, loại trừ trách nhiệm khi đã thực hiện đúng, đầy đủ các quy định của Luật này và quy định khác của pháp luật có liên quan, trừ trường hợp đã biết hoặc buộc phải biết về nguy cơ rủi ro nhưng không kịp thời thông tin, báo cáo cơ quan nhà nước có thẩm quyền về nguy cơ rủi ro phát sinh trong quá trình thử nghiệm có kiểm soát và thực hiện các biện pháp phòng ngừa, hạn chế mức độ thiệt hại có thể xảy ra. Các trách nhiệm được miễn, loại trừ bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 576,
+    "line_end": 583
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Bảo vệ người tham gia thử nghiệm có kiểm soát",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 586,
+    "line_end": 589
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Khuyến cáo rủi ro khi tham gia thử nghiệm có kiểm soát trong thời gian thử nghiệm có kiểm soát; bảo đảm cung cấp thông tin chính xác, đầy đủ, trung thực về công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới, chi phí sử dụng sản phẩm, dịch vụ, chi phí khác (nếu có), quyền, nghĩa vụ của người tham gia thử nghiệm có kiểm soát;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 591,
+    "line_end": 592
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Có cơ chế quản lý dữ liệu thử nghiệm có kiểm soát; xây dựng và bảo đảm tuân thủ quy trình nội bộ, biện pháp kiểm soát rủi ro của việc truy cập hoặc sử dụng trái phép dữ liệu cá nhân, gian lận và đánh cắp thông tin cá nhân của người tham gia thử nghiệm có kiểm soát;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 594,
+    "line_end": 595
+  },
+  {
+    "clause_id": "dieu-23-khoan-3",
+    "anchor": "dieu-23-khoan-3",
+    "title": "3. Định kỳ đánh giá rủi ro, bảo đảm thực hiện biện pháp phòng ngừa rủi ro, khắc phục hậu quả trong quá trình thử nghiệm có kiểm soát và sau khi kết thúc thử nghiệm có kiểm soát; kịp thời thông báo cho người tham gia thử nghiệm có kiểm soát trong trường hợp có sự thay đổi về mức độ rủi ro của công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 597,
+    "line_end": 598
+  },
+  {
+    "clause_id": "dieu-23-khoan-4",
+    "anchor": "dieu-23-khoan-4",
+    "title": "4. Công bố đầu mối giải quyết khiếu nại của người tham gia thử nghiệm có kiểm soát. Trường hợp phát sinh tranh chấp, khiếu nại, tổ chức, doanh nghiệp được cấp phép thử nghiệm có kiểm soát có trách nhiệm tiếp nhận và có biện pháp xử lý mọi yêu cầu tra soát, khiếu nại của người tham gia thử nghiệm có kiểm soát. Thời gian thực hiện giải quyết yêu cầu tra soát, khiếu nại thực hiện theo phương án tại hồ sơ đề nghị thử nghiệm có kiểm soát đã được cơ quan có thẩm quyền phê duyệt;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 600,
+    "line_end": 601
+  },
+  {
+    "clause_id": "dieu-23-khoan-5",
+    "anchor": "dieu-23-khoan-5",
+    "title": "5. Thực hiện bồi thường thiệt hại và thực hiện nghĩa vụ dân sự khác theo quy định của pháp luật về dân sự trong quá trình thử nghiệm có kiểm soát và sau khi kết thúc thử nghiệm có kiểm soát, trừ các trường hợp được miễn, loại trừ trách nhiệm quy định tại khoản 2 Điều 22 của Luật này;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 603,
+    "line_end": 604
+  },
+  {
+    "clause_id": "dieu-23-khoan-6",
+    "anchor": "dieu-23-khoan-6",
+    "title": "6. Trách nhiệm khác theo quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 606,
+    "line_end": 607
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Xử lý tài sản trang bị thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 612,
+    "line_end": 613
+  },
+  {
+    "clause_id": "dieu-24-khoan-1",
+    "anchor": "dieu-24-khoan-1",
+    "title": "1. Đối với tài sản trang bị từ nguồn ngân sách nhà nước, Nhà nước giao tự động quyền quản lý, sử dụng, quyền sở hữu tài sản trang bị cho tổ chức chủ trì nhiệm vụ ngay sau khi trang bị tài sản; không phải thực hiện thủ tục giao quyền quản lý, sử dụng, giao quyền sở hữu; không phải bồi hoàn giá trị tài sản; không ghi tăng vốn đầu tư của Nhà nước vào doanh nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 615,
+    "line_end": 616
+  },
+  {
+    "clause_id": "dieu-24-khoan-2",
+    "anchor": "dieu-24-khoan-2",
+    "title": "2. Tổ chức chủ trì nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo thực hiện quản lý, theo dõi riêng tài sản quy định tại khoản 1 Điều này theo quy định của pháp luật tương ứng với loại hình hoạt động của tổ chức ngay khi hình thành tài sản; có trách nhiệm sử dụng hiệu quả tài sản để thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo. Đối với tài sản sau khi đã hoàn thành mục đích sử dụng trong nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo, tổ chức chủ trì được tự chủ, tự chịu trách nhiệm trong các hoạt động sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 618,
+    "line_end": 627
+  },
+  {
+    "clause_id": "dieu-24-khoan-3",
+    "anchor": "dieu-24-khoan-3",
+    "title": "3. Việc xử lý tài sản trang bị từ nguồn kinh phí ngoài ngân sách nhà nước được thực hiện theo thỏa thuận của các bên đóng góp nguồn kinh phí khi thực hiện nhiệm vụ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 629,
+    "line_end": 630
+  },
+  {
+    "clause_id": "dieu-24-khoan-4",
+    "anchor": "dieu-24-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 632,
+    "line_end": 633
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Quyền quản lý, sử dụng, quyền sở hữu kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 636,
+    "line_end": 637
+  },
+  {
+    "clause_id": "dieu-25-khoan-1",
+    "anchor": "dieu-25-khoan-1",
+    "title": "1. Tổ chức, cá nhân đóng góp tài sản, tài chính để thực hiện nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo là chủ sở hữu kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo tương ứng với tỷ lệ đóng góp theo thỏa thuận, trừ trường hợp các bên có thỏa thuận khác hoặc kết quả thuộc phạm vi bảo hộ quyền sở hữu trí tuệ của người khác.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 639,
+    "line_end": 640
+  },
+  {
+    "clause_id": "dieu-25-khoan-2",
+    "anchor": "dieu-25-khoan-2",
+    "title": "2. Tổ chức chủ trì thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được Nhà nước tự động giao quyền quản lý, sử dụng, quyền sở hữu phần kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo tương ứng với kinh phí từ ngân sách nhà nước, không phải thực hiện thủ tục giao quyền quản lý, sử dụng, quyền sở hữu và không phải bồi hoàn chi phí cho Nhà nước, trừ các trường hợp sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 642,
+    "line_end": 649
+  },
+  {
+    "clause_id": "dieu-25-khoan-3",
+    "anchor": "dieu-25-khoan-3",
+    "title": "3. Đối với kết quả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng toàn bộ hoặc một phần ngân sách nhà nước có kết quả là tài sản gắn liền với đất thuộc quyền sử dụng hoặc gắn liền với tài sản thuộc quyền sở hữu của tổ chức, cá nhân tham gia nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo, Nhà nước giao quyền quản lý, sử dụng, quyền sở hữu tài sản tương ứng với phần ngân sách nhà nước gắn liền với đất hoặc gắn liền với tài sản của tổ chức, cá nhân cho tổ chức, cá nhân có quyền sử dụng đất, sở hữu tài sản một cách tự động, không phải thực hiện thủ tục giao quyền và không phải bồi hoàn chi phí cho Nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 651,
+    "line_end": 654
+  },
+  {
+    "clause_id": "dieu-25-khoan-4",
+    "anchor": "dieu-25-khoan-4",
+    "title": "4. Tổ chức được giao quyền quản lý, sử dụng, quyền sở hữu kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo theo dõi riêng kết quả, không phải hạch toán chung vào tài sản, giá trị tài sản và vốn nhà nước tại tổ chức; không phải xác định nguyên giá, giá trị còn lại, khấu hao, hao mòn tài sản; được tự quyết định tiếp tục đầu tư nghiên cứu, phát triển, triển khai ứng dụng, thương mại hóa kết quả nghiên cứu và thực hiện quyền, trách nhiệm khác theo quy định của Chính phủ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 656,
+    "line_end": 659
+  },
+  {
+    "clause_id": "dieu-25-khoan-5",
+    "anchor": "dieu-25-khoan-5",
+    "title": "5. Nhà nước thu hồi kết quả hoặc cho phép tổ chức, cá nhân khác sử dụng kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng toàn bộ ngân sách nhà nước trong các trường hợp sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 661,
+    "line_end": 666
+  },
+  {
+    "clause_id": "dieu-25-khoan-6",
+    "anchor": "dieu-25-khoan-6",
+    "title": "6. Kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo mà có lưu trữ, xử lý dữ liệu cốt lõi, dữ liệu quan trọng, dữ liệu chuyển xuyên biên giới thực hiện theo quy định của Luật Dữ liệu.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 668,
+    "line_end": 669
+  },
+  {
+    "clause_id": "dieu-25-khoan-7",
+    "anchor": "dieu-25-khoan-7",
+    "title": "7. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 671,
+    "line_end": 672
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Kiểm soát chuyển giao kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước cho tổ chức, cá nhân nước ngoài",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 675,
+    "line_end": 676
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Tổ chức, cá nhân được giao quyền quản lý, sử dụng, quyền sở hữu kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo có quyền chuyển giao quyền sở hữu hoặc quyền quản lý, sử dụng kết quả đó theo quy định của pháp luật. Đối với việc chuyển giao kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo cho tổ chức, cá nhân nước ngoài còn phải tuân thủ quy định của pháp luật về chuyển giao công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 678,
+    "line_end": 679
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển theo quy định của pháp luật về công nghệ cao phải được công bố công khai trên Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia và dành quyền tiếp cận ưu tiên cho tổ chức, cá nhân trong nước trong thời hạn tối thiểu 12 tháng trước khi chuyển giao ra nước ngoài.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 681,
+    "line_end": 682
+  },
+  {
+    "clause_id": "dieu-26-khoan-3",
+    "anchor": "dieu-26-khoan-3",
+    "title": "3. Việc chuyển giao kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo mà có lưu trữ, xử lý dữ liệu cốt lõi, dữ liệu quan trọng, dữ liệu chuyển xuyên biên giới thực hiện theo quy định của Luật Dữ liệu.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 684,
+    "line_end": 685
+  },
+  {
+    "clause_id": "dieu-26-khoan-4",
+    "anchor": "dieu-26-khoan-4",
+    "title": "4. Tổ chức, cá nhân thực hiện chuyển giao có trách nhiệm thực hiện nghĩa vụ tài chính đối với Nhà nước theo quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 687,
+    "line_end": 688
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 691,
+    "line_end": 692
+  },
+  {
+    "clause_id": "dieu-27-khoan-1",
+    "anchor": "dieu-27-khoan-1",
+    "title": "1. Chủ sở hữu kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo tự quyết định việc thương mại hóa kết quả.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 694,
+    "line_end": 695
+  },
+  {
+    "clause_id": "dieu-27-khoan-2",
+    "anchor": "dieu-27-khoan-2",
+    "title": "2. Tổ chức được giao quyền quản lý, sử dụng kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo được tự chủ, tự quyết định lựa chọn hình thức, phương án, giá, phân chia lợi nhuận thu được trong việc thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo. Các hình thức thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo bao gồm: cho thuê, bán, chuyển nhượng, chuyển giao quyền sử dụng; kinh doanh dịch vụ; hợp tác, liên doanh, liên kết, thành lập doanh nghiệp; tự khai thác, sử dụng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 697,
+    "line_end": 700
+  },
+  {
+    "clause_id": "dieu-27-khoan-3",
+    "anchor": "dieu-27-khoan-3",
+    "title": "3. Trường hợp kết quả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng một phần ngân sách nhà nước, tổ chức chủ trì thực hiện nhiệm vụ được giao quyền quản lý, sử dụng, quyền sở hữu phần tương ứng với kinh phí sử dụng ngân sách nhà nước được tự chủ, tự quyết định trong việc thỏa thuận thống nhất với các chủ sở hữu khác để thực hiện tổ chức thương mại hóa theo quy định tại khoản 1 và khoản 2 Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 702,
+    "line_end": 703
+  },
+  {
+    "clause_id": "dieu-27-khoan-4",
+    "anchor": "dieu-27-khoan-4",
+    "title": "4. Tổ chức chủ trì thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo chịu trách nhiệm áp dụng các biện pháp để phòng, chống thất thoát, lãng phí, tiêu cực; công khai, minh bạch thông tin thương mại hóa kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo; báo cáo kết quả, hiệu quả thương mại hóa kết quả theo yêu cầu của cơ quan có thẩm quyền.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 705,
+    "line_end": 706
+  },
+  {
+    "clause_id": "dieu-27-khoan-5",
+    "anchor": "dieu-27-khoan-5",
+    "title": "5. Cơ quan chủ quản của tổ chức chủ trì thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo có trách nhiệm kiểm tra, giám sát tổ chức chủ trì trong việc sử dụng kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước nhằm phòng, chống thất thoát, lãng phí, tiêu cực.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 708,
+    "line_end": 709
+  },
+  {
+    "clause_id": "dieu-27-khoan-6",
+    "anchor": "dieu-27-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 711,
+    "line_end": 712
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Phân chia lợi nhuận từ thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 715,
+    "line_end": 716
+  },
+  {
+    "clause_id": "dieu-28-khoan-1",
+    "anchor": "dieu-28-khoan-1",
+    "title": "1. Tổ chức trung gian, môi giới được hưởng một phần lợi nhuận thu được từ hoạt động thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo dựa trên giá trị của hợp đồng thương mại hóa hoặc theo thỏa thuận của các bên.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 718,
+    "line_end": 719
+  },
+  {
+    "clause_id": "dieu-28-khoan-2",
+    "anchor": "dieu-28-khoan-2",
+    "title": "2. Đối với phần lợi nhuận thu được tương ứng với kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo không sử dụng ngân sách nhà nước trong quá trình thương mại hóa, chủ sở hữu kết quả được tự quyết định việc xử lý lợi nhuận, bao gồm thưởng cho tác giả của kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo (nếu có).",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 721,
+    "line_end": 722
+  },
+  {
+    "clause_id": "dieu-28-khoan-3",
+    "anchor": "dieu-28-khoan-3",
+    "title": "3. Đối với phần lợi nhuận thu được tương ứng với phần kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước trong quá trình thương mại hóa, tổ chức chủ trì nhiệm vụ sử dụng lợi nhuận sau thuế cho các mục đích sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 724,
+    "line_end": 733
+  },
+  {
+    "clause_id": "dieu-28-khoan-4",
+    "anchor": "dieu-28-khoan-4",
+    "title": "4. Trường hợp kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước là sáng chế, thiết kế bố trí, kiểu dáng công nghiệp và giống cây trồng được bảo hộ theo quy định của Luật Sở hữu trí tuệ, tác giả được hưởng các quyền lợi theo quy định tại khoản 3 Điều này và còn được hưởng các quyền lợi khác theo quy định của Luật Sở hữu trí tuệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 735,
+    "line_end": 736
+  },
+  {
+    "clause_id": "dieu-28-khoan-5",
+    "anchor": "dieu-28-khoan-5",
+    "title": "5. Tác giả của kết quả nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo là người trực tiếp tạo ra kết quả; trường hợp có 02 người trở lên cùng trực tiếp tạo ra kết quả thì là đồng tác giả. Trường hợp có đồng tác giả, phần lợi nhuận thưởng cho tác giả là mức dành cho các đồng tác giả. Các đồng tác giả tự thỏa thuận việc phân chia số lợi nhuận nhận được.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 738,
+    "line_end": 739
+  },
+  {
+    "clause_id": "dieu-28-khoan-6",
+    "anchor": "dieu-28-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 741,
+    "line_end": 742
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Nghiên cứu khoa học",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 749,
+    "line_end": 750
+  },
+  {
+    "clause_id": "dieu-29-khoan-1",
+    "anchor": "dieu-29-khoan-1",
+    "title": "1. Chính sách của Nhà nước về thúc đẩy hoạt động nghiên cứu cơ bản bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 752,
+    "line_end": 761
+  },
+  {
+    "clause_id": "dieu-29-khoan-2",
+    "anchor": "dieu-29-khoan-2",
+    "title": "2. Chính sách của Nhà nước đối với hoạt động nghiên cứu ứng dụng bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 763,
+    "line_end": 770
+  },
+  {
+    "clause_id": "dieu-29-khoan-3",
+    "anchor": "dieu-29-khoan-3",
+    "title": "3. Chính sách của Nhà nước đối với nghiên cứu trong lĩnh vực khoa học lý luận chính trị, khoa học xã hội và nhân văn bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 772,
+    "line_end": 783
+  },
+  {
+    "clause_id": "dieu-29-khoan-4",
+    "anchor": "dieu-29-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 785,
+    "line_end": 786
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Phát triển công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 789,
+    "line_end": 790
+  },
+  {
+    "clause_id": "dieu-30-khoan-1",
+    "anchor": "dieu-30-khoan-1",
+    "title": "1. Nhà nước xác định phát triển công nghệ là cầu nối giữa nghiên cứu khoa học và đổi mới sáng tạo, đóng vai trò trung tâm trong việc chuyển hóa tri thức thành sản phẩm, dịch vụ, giá trị kinh tế - xã hội.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 792,
+    "line_end": 793
+  },
+  {
+    "clause_id": "dieu-30-khoan-2",
+    "anchor": "dieu-30-khoan-2",
+    "title": "2. Nhà nước khuyến khích, hỗ trợ phát triển công nghệ từ kết quả nghiên cứu khoa học, sáng chế, sáng kiến, giải pháp hữu ích và nguồn tri thức khác nhằm tạo ra, cải tiến, hoàn thiện, làm chủ công nghệ; nâng cao năng lực công nghệ nội sinh, nâng cao tỷ lệ nội địa hóa của sản phẩm, hàng hóa trong nước và khả năng ứng dụng trong sản xuất, đời sống.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 795,
+    "line_end": 796
+  },
+  {
+    "clause_id": "dieu-30-khoan-3",
+    "anchor": "dieu-30-khoan-3",
+    "title": "3. Nhà nước ưu tiên hỗ trợ phát triển công nghệ trong các lĩnh vực công nghệ cao, công nghệ chiến lược, công nghệ tạo ra sản phẩm lưỡng dụng, công nghệ có khả năng tạo đột phá về năng suất, chất lượng, hiệu quả kinh tế - xã hội, bảo đảm quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 798,
+    "line_end": 799
+  },
+  {
+    "clause_id": "dieu-30-khoan-4",
+    "anchor": "dieu-30-khoan-4",
+    "title": "4. Nhà nước hỗ trợ phát triển công nghệ thông qua hình thức sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 801,
+    "line_end": 806
+  },
+  {
+    "clause_id": "dieu-30-khoan-5",
+    "anchor": "dieu-30-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 808,
+    "line_end": 809
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Cơ chế đặc biệt trong giải mã công nghệ, mua bí quyết công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 812,
+    "line_end": 813
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Trường hợp sử dụng ngân sách nhà nước triển khai nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo cho mục tiêu giải mã công nghệ để phát triển công nghệ chiến lược, mua bí quyết công nghệ, tổ chức chủ trì nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được áp dụng cơ chế đặc biệt sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 815,
+    "line_end": 824
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Doanh nghiệp được sử dụng kinh phí từ quỹ phát triển khoa học và công nghệ hoặc chi trực tiếp ngoài quỹ phát triển khoa học và công nghệ để giải mã công nghệ, mua bí quyết công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 826,
+    "line_end": 839
+  },
+  {
+    "clause_id": "dieu-31-khoan-3",
+    "anchor": "dieu-31-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 841,
+    "line_end": 842
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Thúc đẩy hợp tác, chia *sẻ* trong nghiên cứu khoa học",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 845,
+    "line_end": 846
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Nhà nước khuyến khích chia sẻ dữ liệu, phương pháp, kết quả nghiên cứu khoa học, bao gồm cả việc sử dụng và phát triển công nghệ nguồn mở, bảo đảm minh bạch, dễ tiếp cận, đồng thời bảo đảm quyền sở hữu trí tuệ, bảo vệ dữ liệu cá nhân. Nhà nước xây dựng hạ tầng, yêu cầu kỹ thuật để chia sẻ dữ liệu, công bố kết quả nghiên cứu khoa học, bảo đảm bảo mật thông tin, khả năng tương tác và tái sử dụng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 848,
+    "line_end": 849
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Doanh nghiệp, cộng đồng được khuyến khích tham gia sử dụng, đóng góp dữ liệu, kết quả nghiên cứu khoa học và phát triển công nghệ nguồn mở.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 851,
+    "line_end": 852
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Ứng dụng khoa học và công nghệ trong dự án đầu tư, chương trình phát triển kinh tế - xã hội",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 855,
+    "line_end": 856
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Nhà nước ưu tiên hỗ trợ kinh phí triển khai nội dung nghiên cứu khoa học, phát triển công nghệ để phục vụ xây dựng căn cứ trong giai đoạn chuẩn bị đầu tư, thực hiện đầu tư và giải quyết vấn đề phát sinh trong quá trình thực hiện đối với dự án đầu tư, chương trình phát triển kinh tế - xã hội sử dụng ngân sách nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 858,
+    "line_end": 859
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Nhà nước ưu tiên hỗ trợ kinh phí triển khai nội dung nghiên cứu, phát triển khoa học lý luận chính trị, khoa học xã hội và nhân văn để phục vụ xây dựng luận cứ và giải quyết vấn đề phát sinh trong quá trình thực hiện đối với dự án đầu tư xây dựng thể chế, phát triển văn hóa, xã hội và con người.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 861,
+    "line_end": 862
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Thúc đẩy phát triển hệ thống đổi mới sáng tạo lấy doanh nghiệp làm trung tâm",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 869,
+    "line_end": 870
+  },
+  {
+    "clause_id": "dieu-34-khoan-1",
+    "anchor": "dieu-34-khoan-1",
+    "title": "1. Nhà nước thúc đẩy phát triển toàn diện hệ thống đổi mới sáng tạo lấy doanh nghiệp làm trung tâm, bảo đảm kết nối hiệu quả giữa doanh nghiệp, cơ sở giáo dục, cơ sở nghiên cứu, tổ chức trung gian, cơ quan nhà nước và cộng đồng. Nhà nước thực hiện vai trò kiến tạo, định hướng thông qua việc hoàn thiện thể chế, thiết lập cơ chế tài chính phù hợp, bảo đảm môi trường thực thi thuận lợi.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 872,
+    "line_end": 873
+  },
+  {
+    "clause_id": "dieu-34-khoan-2",
+    "anchor": "dieu-34-khoan-2",
+    "title": "2. Nhà nước thúc đẩy, phát triển hệ thống đổi mới sáng tạo ở quy mô quốc gia, ngành, địa phương.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 875,
+    "line_end": 876
+  },
+  {
+    "clause_id": "dieu-34-khoan-3",
+    "anchor": "dieu-34-khoan-3",
+    "title": "3. Nhà nước khuyến khích và thúc đẩy vai trò trung tâm của doanh nghiệp trong hệ thống đổi mới sáng tạo thông qua biện pháp sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 878,
+    "line_end": 891
+  },
+  {
+    "clause_id": "dieu-34-khoan-4",
+    "anchor": "dieu-34-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này; quy định về hoạt động đổi mới sáng tạo trong doanh nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 893,
+    "line_end": 894
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Khuyến khích hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo trong doanh nghiệp",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 897,
+    "line_end": 898
+  },
+  {
+    "clause_id": "dieu-35-khoan-1",
+    "anchor": "dieu-35-khoan-1",
+    "title": "1. Nhà nước khuyến khích và hỗ trợ doanh nghiệp thực hiện hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo; đầu tư, nâng cấp trang thiết bị phục vụ cho các hoạt động này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 900,
+    "line_end": 901
+  },
+  {
+    "clause_id": "dieu-35-khoan-2",
+    "anchor": "dieu-35-khoan-2",
+    "title": "2. Chi phí của doanh nghiệp tài trợ cho nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, khoản chi cho nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo được tính vào chi phí được trừ khi xác định thu nhập chịu thuế theo quy định của pháp luật về thuế thu nhập doanh nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 903,
+    "line_end": 904
+  },
+  {
+    "clause_id": "dieu-35-khoan-3",
+    "anchor": "dieu-35-khoan-3",
+    "title": "3. Chi phí khi xác định thu nhập chịu thuế của doanh nghiệp đối với hoạt động nghiên cứu và phát triển được trừ theo tỷ lệ phần trăm tính trên chi phí thực tế của hoạt động này theo quy định của pháp luật về thuế thu nhập doanh nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 906,
+    "line_end": 907
+  },
+  {
+    "clause_id": "dieu-35-khoan-4",
+    "anchor": "dieu-35-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 909,
+    "line_end": 910
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Hỗ trợ doanh nghiệp đầu tư phát triển công nghệ chiến lược",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 913,
+    "line_end": 914
+  },
+  {
+    "clause_id": "dieu-36-khoan-1",
+    "anchor": "dieu-36-khoan-1",
+    "title": "1. Nhà nước thực hiện chính sách hỗ trợ, đầu tư, hợp tác và giao nhiệm vụ cho doanh nghiệp Việt Nam để phát triển công nghệ chiến lược thông qua các phương thức sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 916,
+    "line_end": 925
+  },
+  {
+    "clause_id": "dieu-36-khoan-2",
+    "anchor": "dieu-36-khoan-2",
+    "title": "2. Các dự án quy định tại các điểm a, b và c khoản 1 Điều này nếu thực hiện theo phương thức đối tác công tư thì thực hiện theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 927,
+    "line_end": 928
+  },
+  {
+    "clause_id": "dieu-36-khoan-3",
+    "anchor": "dieu-36-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 930,
+    "line_end": 931
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Bảo đảm quyền và cơ chế hỗ trợ đối với tổ chức ngoài công lập trong hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 934,
+    "line_end": 935
+  },
+  {
+    "clause_id": "dieu-37-khoan-1",
+    "anchor": "dieu-37-khoan-1",
+    "title": "1. Tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo ngoài công lập, bao gồm doanh nghiệp ngoài nhà nước, viện nghiên cứu tư nhân, tổ chức khoa học và công nghệ tư nhân, tổ chức phi lợi nhuận tư nhân và các tổ chức ngoài công lập khác (sau đây gọi chung là tổ chức ngoài công lập) được bảo đảm quyền tiếp cận bình đẳng với các chính sách, chương trình, nguồn lực hỗ trợ của Nhà nước theo quy định của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 937,
+    "line_end": 938
+  },
+  {
+    "clause_id": "dieu-37-khoan-2",
+    "anchor": "dieu-37-khoan-2",
+    "title": "2. Tổ chức ngoài công lập có quyền sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 940,
+    "line_end": 949
+  },
+  {
+    "clause_id": "dieu-37-khoan-3",
+    "anchor": "dieu-37-khoan-3",
+    "title": "3. Tổ chức ngoài công lập được tham gia hợp tác với tổ chức công lập trong nghiên cứu khoa học, phát triển công nghệ và thương mại hóa kết quả nghiên cứu. Việc hợp tác được thực hiện trên nguyên tắc tự nguyện, tôn trọng quyền sở hữu trí tuệ, phân chia lợi ích và rủi ro phù hợp với mức độ đóng góp của các bên.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 951,
+    "line_end": 952
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Thúc đẩy văn hóa đổi mới sáng tạo, khởi nghiệp sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 955,
+    "line_end": 956
+  },
+  {
+    "clause_id": "dieu-38-khoan-1",
+    "anchor": "dieu-38-khoan-1",
+    "title": "1. Văn hóa đổi mới sáng tạo, khởi nghiệp sáng tạo là hệ thống khuôn mẫu, chuẩn mực hành vi, quy tắc, niềm tin, thói quen, nhận thức, phương pháp tiếp cận có ảnh hưởng đến hành động của tổ chức, cá nhân và cộng đồng trong hoạt động đổi mới sáng tạo, khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 958,
+    "line_end": 959
+  },
+  {
+    "clause_id": "dieu-38-khoan-2",
+    "anchor": "dieu-38-khoan-2",
+    "title": "2. Nhà nước thúc đẩy, phổ biến, lan tỏa văn hóa đổi mới sáng tạo, khởi nghiệp sáng tạo thông qua chính sách, chương trình, nhiệm vụ, hoạt động hỗ trợ đổi mới sáng tạo, khởi nghiệp sáng tạo, tổ chức sự kiện, trình diễn, giải thưởng về đổi mới sáng tạo, khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 961,
+    "line_end": 962
+  },
+  {
+    "clause_id": "dieu-38-khoan-3",
+    "anchor": "dieu-38-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 964,
+    "line_end": 965
+  },
+  {
+    "clause_id": "dieu-39",
+    "anchor": "dieu-39",
+    "title": "Điều 39. Doanh nghiệp khoa học và công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 968,
+    "line_end": 969
+  },
+  {
+    "clause_id": "dieu-39-khoan-1",
+    "anchor": "dieu-39-khoan-1",
+    "title": "1. Doanh nghiệp khoa học và công nghệ là doanh nghiệp thực hiện hoạt động nghiên cứu, phát triển, chuyển giao, đổi mới công nghệ, có năng lực hấp thụ, làm chủ công nghệ và mang lại hiệu quả về kinh tế, xã hội, môi trường.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 971,
+    "line_end": 972
+  },
+  {
+    "clause_id": "dieu-39-khoan-2",
+    "anchor": "dieu-39-khoan-2",
+    "title": "2. Doanh nghiệp khoa học và công nghệ được ưu tiên thuê đất, cơ sở hạ tầng tại khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao, khu công nghệ số tập trung; ưu tiên sử dụng trang thiết bị nghiên cứu, phát triển tại phòng thí nghiệm dùng chung, cơ sở ươm tạo, trung tâm đổi mới sáng tạo; được hỗ trợ thông tin, truyền thông, xúc tiến thương mại.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 974,
+    "line_end": 975
+  },
+  {
+    "clause_id": "dieu-39-khoan-3",
+    "anchor": "dieu-39-khoan-3",
+    "title": "3. Doanh nghiệp khoa học và công nghệ có trách nhiệm cung cấp thông tin về tình hình hoạt động và kết quả thụ hưởng chính sách hỗ trợ phục vụ quản lý nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 977,
+    "line_end": 978
+  },
+  {
+    "clause_id": "dieu-39-khoan-4",
+    "anchor": "dieu-39-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này; quy định điều kiện, trình tự, thủ tục, thẩm quyền chứng nhận doanh nghiệp khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 980,
+    "line_end": 981
+  },
+  {
+    "clause_id": "dieu-40",
+    "anchor": "dieu-40",
+    "title": "Điều 40. Quỹ đầu tư mạo hiểm quốc gia và quỹ đầu tư mạo hiểm của địa phương",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 984,
+    "line_end": 985
+  },
+  {
+    "clause_id": "dieu-40-khoan-1",
+    "anchor": "dieu-40-khoan-1",
+    "title": "1. Quỹ đầu tư mạo hiểm quốc gia được thành lập để đầu tư, cùng đầu tư cho doanh nghiệp khởi nghiệp sáng tạo, đầu tư vào quỹ khác cho khởi nghiệp sáng tạo, hỗ trợ hệ sinh thái khởi nghiệp sáng tạo quốc gia. Quỹ đầu tư mạo hiểm quốc gia được cấp vốn điều lệ từ ngân sách nhà nước và được quyền nhận tài trợ, viện trợ và nguồn vốn hợp pháp khác mà không làm tăng vốn điều lệ của Quỹ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 987,
+    "line_end": 988
+  },
+  {
+    "clause_id": "dieu-40-khoan-2",
+    "anchor": "dieu-40-khoan-2",
+    "title": "2. Ủy ban nhân dân cấp tỉnh căn cứ điều kiện về nguồn lực, nhu cầu thực tiễn, quyết định việc thành lập quỹ đầu tư mạo hiểm của địa phương để đầu tư cho khởi nghiệp sáng tạo, hỗ trợ hệ sinh thái khởi nghiệp sáng tạo địa phương. Quỹ đầu tư mạo hiểm của địa phương được cấp vốn điều lệ từ ngân sách nhà nước và được quyền nhận tài trợ, viện trợ và nguồn vốn hợp pháp khác mà không làm tăng vốn điều lệ của quỹ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 990,
+    "line_end": 991
+  },
+  {
+    "clause_id": "dieu-40-khoan-3",
+    "anchor": "dieu-40-khoan-3",
+    "title": "3. Quỹ hoạt động theo nguyên tắc thị trường, minh bạch, chấp nhận rủi ro có kiểm soát, trong đó tổng mức tổn thất phát sinh từ hoạt động đầu tư không vượt quá ngưỡng rủi ro đã được xác định trong chiến lược đầu tư hoặc kế hoạch đầu tư, trên cơ sở tổng thể danh mục đầu tư và trong một chu kỳ đầu tư xác định được cấp có thẩm quyền phê duyệt theo quy định của Chính phủ. Quỹ không áp dụng yêu cầu bảo toàn vốn theo từng năm tài chính, theo từng dự án, nhiệm vụ cụ thể.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 993,
+    "line_end": 994
+  },
+  {
+    "clause_id": "dieu-40-khoan-4",
+    "anchor": "dieu-40-khoan-4",
+    "title": "4. Quỹ đầu tư mạo hiểm quốc gia, quỹ đầu tư mạo hiểm của địa phương được hợp tác, thuê tổ chức, cá nhân chuyên nghiệp quản lý, điều hành; có cơ chế hợp tác, phối hợp sử dụng hiệu quả nguồn lực, chuyên gia của quỹ trong nước, nước ngoài; có cơ chế giám sát và đánh giá độc lập về rủi ro, hiệu quả đầu tư, tác động xã hội, hiệu quả thu hút đầu tư từ khu vực tư nhân; có nghĩa vụ công bố báo cáo định kỳ, giải trình, cung cấp thông tin phục vụ quản lý nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 996,
+    "line_end": 997
+  },
+  {
+    "clause_id": "dieu-40-khoan-5",
+    "anchor": "dieu-40-khoan-5",
+    "title": "5. Tổ chức, *cá* nhân quản lý, điều hành Quỹ đầu tư mạo hiểm quốc gia, quỹ đầu tư mạo hiểm của địa phương được miễn trách nhiệm dân sự, loại trừ trách nhiệm hành chính liên quan đến tổn thất đầu tư, nếu tổn thất phát sinh do rủi ro khách quan và đã tuân thủ đầy đủ nguyên tắc đầu tư, quy định nội bộ của quỹ và nghĩa vụ minh bạch, trung thực trong quá trình ra quyết định đầu tư.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 999,
+    "line_end": 1000
+  },
+  {
+    "clause_id": "dieu-40-khoan-6",
+    "anchor": "dieu-40-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này; quy định việc thành lập, cơ cấu tổ chức, hoạt động, quản lý, cơ cấu tỷ lệ phần vốn từ ngân sách nhà nước, sử dụng vốn, cơ chế giám sát đối với Quỹ đầu tư mạo hiểm quốc gia, quỹ đầu tư mạo hiểm của địa phương.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1002,
+    "line_end": 1003
+  },
+  {
+    "clause_id": "dieu-41",
+    "anchor": "dieu-41",
+    "title": "Điều 41. Tổ chức thị trường giao dịch chứng khoán chuyên biệt cho doanh nghiệp khởi nghiệp sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1006,
+    "line_end": 1007
+  },
+  {
+    "clause_id": "dieu-41-khoan-1",
+    "anchor": "dieu-41-khoan-1",
+    "title": "1. Sở giao dịch chứng khoán Việt Nam và công ty con được tổ chức thị trường giao dịch chứng khoán chuyên biệt cho doanh nghiệp khởi nghiệp sáng tạo thông qua một phân bảng chuyên biệt giao dịch, niêm yết cổ phiếu của doanh nghiệp khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1009,
+    "line_end": 1010
+  },
+  {
+    "clause_id": "dieu-41-khoan-2",
+    "anchor": "dieu-41-khoan-2",
+    "title": "2. Đối tượng tham gia thị trường giao dịch chứng khoán chuyên biệt cho doanh nghiệp khởi nghiệp sáng tạo bao gồm nhà đầu tư chứng khoán chuyên nghiệp theo quy định của pháp luật về chứng khoán, Quỹ đầu tư mạo hiểm quốc gia, quỹ đầu tư mạo hiểm của địa phương, quỹ phát triển khoa học và công nghệ của doanh nghiệp, tổ chức tài chính và quỹ đầu tư cho khởi nghiệp sáng tạo trong nước và quốc tế, tổ chức hỗ trợ khởi nghiệp sáng tạo, doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân cho khởi nghiệp sáng tạo được cơ quan có thẩm quyền công nhận và đối tượng khác theo quy định của Chính phủ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1012,
+    "line_end": 1013
+  },
+  {
+    "clause_id": "dieu-41-khoan-3",
+    "anchor": "dieu-41-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này; quy định điều kiện đặc thù cho đăng ký giao dịch, niêm yết cổ phiếu của doanh nghiệp khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1015,
+    "line_end": 1016
+  },
+  {
+    "clause_id": "dieu-42",
+    "anchor": "dieu-42",
+    "title": "Điều 42. Phát triển tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1025,
+    "line_end": 1026
+  },
+  {
+    "clause_id": "dieu-42-khoan-1",
+    "anchor": "dieu-42-khoan-1",
+    "title": "1. Nhà nước thúc đẩy phát triển tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo, không phân biệt công lập hay ngoài công lập; ưu tiên nguồn lực hình thành, phát triển một số tổ chức có vai trò, nhiệm vụ dẫn dắt trong nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1028,
+    "line_end": 1029
+  },
+  {
+    "clause_id": "dieu-42-khoan-2",
+    "anchor": "dieu-42-khoan-2",
+    "title": "2. Chính phủ quy định về loại hình tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1031,
+    "line_end": 1032
+  },
+  {
+    "clause_id": "dieu-43",
+    "anchor": "dieu-43",
+    "title": "Điều 43. Tổ chức khoa học và công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1035,
+    "line_end": 1036
+  },
+  {
+    "clause_id": "dieu-43-khoan-1",
+    "anchor": "dieu-43-khoan-1",
+    "title": "1. Hình thức của tổ chức khoa học và công nghệ được quy định như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1038,
+    "line_end": 1045
+  },
+  {
+    "clause_id": "dieu-43-khoan-2",
+    "anchor": "dieu-43-khoan-2",
+    "title": "2. Tổ chức khoa học và công nghệ được thành lập khi có đủ các điều kiện sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1047,
+    "line_end": 1054
+  },
+  {
+    "clause_id": "dieu-43-khoan-3",
+    "anchor": "dieu-43-khoan-3",
+    "title": "3. Tổ chức, cá nhân được thành lập, góp vốn thành lập tổ chức khoa học và công nghệ theo quy định của pháp luật. Thủ tướng Chính phủ quy định lĩnh vực cá nhân được thành lập, góp vốn thành lập tổ chức khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1056,
+    "line_end": 1057
+  },
+  {
+    "clause_id": "dieu-43-khoan-4",
+    "anchor": "dieu-43-khoan-4",
+    "title": "4. Tổ chức được thành lập đáp ứng các quy định tại khoản 2 Điều này được cấp Giấy chứng nhận đăng ký tổ chức khoa học và công nghệ sau khi tiến hành đăng ký tại cơ quan nhà nước có thẩm quyền.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1059,
+    "line_end": 1060
+  },
+  {
+    "clause_id": "dieu-43-khoan-5",
+    "anchor": "dieu-43-khoan-5",
+    "title": "5. Cơ sở giáo dục đại học, bệnh viện được thành lập theo quy định của pháp luật về giáo dục đại học, pháp luật về khám bệnh, chữa bệnh, trong chức năng, nhiệm vụ quy định bởi cấp có thẩm quyền có chức năng nghiên cứu khoa học, phát triển công nghệ hoặc cung cấp dịch vụ khoa học, công nghệ và đổi mới sáng tạo được cấp Giấy chứng nhận đăng ký tổ chức khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1062,
+    "line_end": 1063
+  },
+  {
+    "clause_id": "dieu-43-khoan-6",
+    "anchor": "dieu-43-khoan-6",
+    "title": "6. Tổ chức khoa học và công nghệ có quyền sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1065,
+    "line_end": 1078
+  },
+  {
+    "clause_id": "dieu-43-khoan-7",
+    "anchor": "dieu-43-khoan-7",
+    "title": "7. Tổ chức khoa học và công nghệ có nghĩa vụ sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1080,
+    "line_end": 1091
+  },
+  {
+    "clause_id": "dieu-43-khoan-8",
+    "anchor": "dieu-43-khoan-8",
+    "title": "8. Chính phủ quy định chi tiết Điều này; quy định về thẩm quyền, trình tự, thủ tục thành lập, hợp nhất, sáp nhập, chia, tách, giải thể tổ chức khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1093,
+    "line_end": 1094
+  },
+  {
+    "clause_id": "dieu-44",
+    "anchor": "dieu-44",
+    "title": "Điều 44. Trách nhiệm của cơ quan chủ quản của tổ chức khoa học và công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1097,
+    "line_end": 1098
+  },
+  {
+    "clause_id": "dieu-44-khoan-1",
+    "anchor": "dieu-44-khoan-1",
+    "title": "1. Kiểm tra, giám sát để bảo đảm tổ chức khoa học và công nghệ tuân thủ đầy đủ các điều kiện thành lập và hoạt động theo đúng lĩnh vực đã được quy định trong Giấy chứng nhận đăng ký tổ chức khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1100,
+    "line_end": 1101
+  },
+  {
+    "clause_id": "dieu-44-khoan-2",
+    "anchor": "dieu-44-khoan-2",
+    "title": "2. Đánh giá hiệu quả hoạt động của tổ chức khoa học và công nghệ làm cơ sở xác định mức hỗ trợ kinh phí từ ngân sách nhà nước, điều chỉnh, đình chỉ hoặc chấm dứt hoạt động của tổ chức khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1103,
+    "line_end": 1104
+  },
+  {
+    "clause_id": "dieu-44-khoan-3",
+    "anchor": "dieu-44-khoan-3",
+    "title": "3. Chịu trách nhiệm thực hiện việc hợp nhất, sáp nhập, chia, tách, giải thể tổ chức khoa học và công nghệ theo quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1106,
+    "line_end": 1107
+  },
+  {
+    "clause_id": "dieu-45",
+    "anchor": "dieu-45",
+    "title": "Điều 45. Tổ chức khoa học và công nghệ công lập",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1110,
+    "line_end": 1111
+  },
+  {
+    "clause_id": "dieu-45-khoan-1",
+    "anchor": "dieu-45-khoan-1",
+    "title": "1. Tổ chức khoa học và công nghệ công lập là tổ chức khoa học và công nghệ do cơ quan nhà nước có thẩm quyền, tổ chức chính trị, tổ chức chính trị - xã hội thành lập và quản lý.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1113,
+    "line_end": 1114
+  },
+  {
+    "clause_id": "dieu-45-khoan-2",
+    "anchor": "dieu-45-khoan-2",
+    "title": "2. Nhà nước đầu tư cơ sở vật chất, hỗ trợ kinh phí hoạt động, giao quyền tự chủ, tự chịu trách nhiệm cho tổ chức khoa học và công nghệ công lập về tổ chức bộ máy, nhân sự, tài chính, hợp tác quốc tế, liên doanh, liên kết.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1116,
+    "line_end": 1117
+  },
+  {
+    "clause_id": "dieu-45-khoan-3",
+    "anchor": "dieu-45-khoan-3",
+    "title": "3. Tổ chức khoa học và công nghệ công lập, trừ cơ sở giáo dục đại học, được quyền có nhân sự đồng cơ hữu với cơ sở giáo dục đại học.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1119,
+    "line_end": 1120
+  },
+  {
+    "clause_id": "dieu-45-khoan-4",
+    "anchor": "dieu-45-khoan-4",
+    "title": "4. Tổ chức khoa học và công nghệ công lập được thành lập, tham gia thành lập hoặc tham gia góp vốn vào doanh nghiệp để thương mại hóa kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo; được cử viên chức tham gia điều hành doanh nghiệp, làm việc định kỳ tại doanh nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1122,
+    "line_end": 1123
+  },
+  {
+    "clause_id": "dieu-45-khoan-5",
+    "anchor": "dieu-45-khoan-5",
+    "title": "5. Tổ chức khoa học và công nghệ công lập được cử viên chức sang làm việc tại doanh nghiệp, tổ chức khoa học và công nghệ khác trong thời gian nhất định để trao đổi học thuật, nâng cao năng lực, nắm bắt nhu cầu công nghệ; có trách nhiệm giữ nguyên chế độ lương, quy hoạch, bổ nhiệm, thi đua, khen thưởng và các chế độ, chính sách khác đối với viên chức được cử.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1125,
+    "line_end": 1126
+  },
+  {
+    "clause_id": "dieu-45-khoan-6",
+    "anchor": "dieu-45-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1128,
+    "line_end": 1129
+  },
+  {
+    "clause_id": "dieu-46",
+    "anchor": "dieu-46",
+    "title": "Điều 46. Tổ chức khoa học và công nghệ công lập đặc thù",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1132,
+    "line_end": 1133
+  },
+  {
+    "clause_id": "dieu-46-khoan-1",
+    "anchor": "dieu-46-khoan-1",
+    "title": "1. Tổ chức khoa học và công nghệ công lập đặc thù là tổ chức khoa học và công nghệ công lập được áp dụng cơ chế đặc thù riêng về tài chính, tổ chức bộ máy, biên chế và nhân sự theo quy định của Chính phủ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1135,
+    "line_end": 1136
+  },
+  {
+    "clause_id": "dieu-46-khoan-2",
+    "anchor": "dieu-46-khoan-2",
+    "title": "2. Tổ chức khoa học và công lập đặc thù quy định tại khoản 1 Điều này bao gồm:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1138,
+    "line_end": 1143
+  },
+  {
+    "clause_id": "dieu-46-khoan-3",
+    "anchor": "dieu-46-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1145,
+    "line_end": 1146
+  },
+  {
+    "clause_id": "dieu-47",
+    "anchor": "dieu-47",
+    "title": "Điều 47. Trung tâm nghiên cứu và phát triển, trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1149,
+    "line_end": 1150
+  },
+  {
+    "clause_id": "dieu-47-khoan-1",
+    "anchor": "dieu-47-khoan-1",
+    "title": "1. Trung tâm nghiên cứu và phát triển, trung tâm đổi mới sáng tạo, trung tâm đổi mới sáng tạo cấp tỉnh, trung tâm đổi mới sáng tạo cấp quốc gia, trung tâm hỗ trợ khởi nghiệp sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo cấp tỉnh, trung tâm hỗ trợ khởi nghiệp sáng tạo cấp quốc gia được xác định dựa trên tiêu chí về hạ tầng kỹ thuật, nguồn lực, năng lực thực hiện, mục tiêu, kết quả hoạt động.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1152,
+    "line_end": 1153
+  },
+  {
+    "clause_id": "dieu-47-khoan-2",
+    "anchor": "dieu-47-khoan-2",
+    "title": "2. Các loại hình tổ chức có hoạt động nghiên cứu và phát triển, đổi mới sáng tạo, khởi nghiệp sáng tạo, hỗ trợ đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo đáp ứng tiêu chí quy định tại khoản 1 Điều này có thể yêu cầu cơ quan có thẩm quyền công nhận để làm căn cứ áp dụng chính sách ưu đãi, hỗ trợ theo quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1155,
+    "line_end": 1156
+  },
+  {
+    "clause_id": "dieu-47-khoan-3",
+    "anchor": "dieu-47-khoan-3",
+    "title": "3. Tổ chức quy định tại khoản 1 và khoản 2 Điều này được ưu tiên thuê đất, cơ sở hạ tầng tại khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao, khu công nghệ số tập trung; ưu tiên sử dụng trang thiết bị nghiên cứu, phát triển tại phòng thí nghiệm dùng chung, cơ sở ươm tạo, trung tâm đổi mới sáng tạo; được hỗ trợ thông tin, truyền thông, xúc tiến thương mại; được hưởng ưu đãi, hỗ trợ theo quy định của pháp luật; có trách nhiệm cung cấp thông tin về tình hình hoạt động và kết quả thụ hưởng chính sách ưu đãi, hỗ trợ phục vụ quản lý nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1158,
+    "line_end": 1159
+  },
+  {
+    "clause_id": "dieu-47-khoan-4",
+    "anchor": "dieu-47-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1161,
+    "line_end": 1162
+  },
+  {
+    "clause_id": "dieu-48",
+    "anchor": "dieu-48",
+    "title": "Điều 48. Đơn vị sự nghiệp công lập trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1165,
+    "line_end": 1168
+  },
+  {
+    "clause_id": "dieu-48-khoan-1",
+    "anchor": "dieu-48-khoan-1",
+    "title": "1. Tổ chức khoa học và công nghệ công lập, trừ cơ sở giáo dục đại học, bệnh viện và các tổ chức khoa học và công nghệ trực thuộc cơ sở giáo dục đại học, bệnh viện này;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1170,
+    "line_end": 1171
+  },
+  {
+    "clause_id": "dieu-48-khoan-2",
+    "anchor": "dieu-48-khoan-2",
+    "title": "2. Trung tâm đổi mới sáng tạo công lập;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1173,
+    "line_end": 1174
+  },
+  {
+    "clause_id": "dieu-48-khoan-3",
+    "anchor": "dieu-48-khoan-3",
+    "title": "3. Trung tâm hỗ trợ khởi nghiệp sáng tạo công lập;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1176,
+    "line_end": 1177
+  },
+  {
+    "clause_id": "dieu-48-khoan-4",
+    "anchor": "dieu-48-khoan-4",
+    "title": "4. Tổ chức khác do cơ quan nhà nước có thẩm quyền thành lập để cung cấp dịch vụ công, phục vụ quản lý nhà nước trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1179,
+    "line_end": 1180
+  },
+  {
+    "clause_id": "dieu-49",
+    "anchor": "dieu-49",
+    "title": "Điều 49. Nhân lực hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1185,
+    "line_end": 1188
+  },
+  {
+    "clause_id": "dieu-50",
+    "anchor": "dieu-50",
+    "title": "Điều 50. Chức danh khoa học, chức danh công nghệ",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1191,
+    "line_end": 1192
+  },
+  {
+    "clause_id": "dieu-50-khoan-1",
+    "anchor": "dieu-50-khoan-1",
+    "title": "1. Chức danh khoa học, chức danh công nghệ là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ, kỹ năng của cá nhân hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1194,
+    "line_end": 1195
+  },
+  {
+    "clause_id": "dieu-50-khoan-2",
+    "anchor": "dieu-50-khoan-2",
+    "title": "2. Cá nhân hoạt động khoa học, công nghệ và đổi mới sáng tạo tham gia giảng dạy, đào tạo đại học, sau đại học được xét công nhận và bổ nhiệm chức danh giáo sư, phó giáo sư theo quy định của pháp luật về giáo dục đại học.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1197,
+    "line_end": 1198
+  },
+  {
+    "clause_id": "dieu-50-khoan-3",
+    "anchor": "dieu-50-khoan-3",
+    "title": "3. Người có học vị tiến sĩ hoặc có công trình xuất sắc, giải thưởng cao về khoa học, công nghệ, đổi mới sáng tạo được xét công nhận, bổ nhiệm vào chức danh khoa học, chức danh công nghệ cao hơn không phụ thuộc vào năm công tác.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1200,
+    "line_end": 1201
+  },
+  {
+    "clause_id": "dieu-50-khoan-4",
+    "anchor": "dieu-50-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1203,
+    "line_end": 1204
+  },
+  {
+    "clause_id": "dieu-51",
+    "anchor": "dieu-51",
+    "title": "Điều 51. Quyền của cá nhân hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1207,
+    "line_end": 1208
+  },
+  {
+    "clause_id": "dieu-51-khoan-1",
+    "anchor": "dieu-51-khoan-1",
+    "title": "1. Tự do sáng tạo, bình đẳng trong hoạt động khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1210,
+    "line_end": 1211
+  },
+  {
+    "clause_id": "dieu-51-khoan-2",
+    "anchor": "dieu-51-khoan-2",
+    "title": "2. Được cơ quan, tổ chức, đơn vị công tác giao nhiệm vụ, trang bị phương tiện và tạo điều kiện làm việc phù hợp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1213,
+    "line_end": 1214
+  },
+  {
+    "clause_id": "dieu-51-khoan-3",
+    "anchor": "dieu-51-khoan-3",
+    "title": "3. Được tham gia tư vấn, đề xuất ý kiến về chính sách, pháp luật, Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo, kế hoạch về khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1216,
+    "line_end": 1217
+  },
+  {
+    "clause_id": "dieu-51-khoan-4",
+    "anchor": "dieu-51-khoan-4",
+    "title": "4. Hợp tác với tổ chức, cá nhân khác để hoạt động khoa học, công nghệ và đổi mới sáng tạo, ký kết hợp đồng khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1219,
+    "line_end": 1220
+  },
+  {
+    "clause_id": "dieu-51-khoan-5",
+    "anchor": "dieu-51-khoan-5",
+    "title": "5. Được tiếp cận thông tin, cơ sở dữ liệu về khoa học, công nghệ và đổi mới sáng tạo để hoạt động khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1222,
+    "line_end": 1223
+  },
+  {
+    "clause_id": "dieu-51-khoan-6",
+    "anchor": "dieu-51-khoan-6",
+    "title": "6. Được tham gia tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo; được tham gia hội, hiệp hội khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1225,
+    "line_end": 1226
+  },
+  {
+    "clause_id": "dieu-51-khoan-7",
+    "anchor": "dieu-51-khoan-7",
+    "title": "7. Được tham gia hoạt động đào tạo, tư vấn, hội nghị, hội thảo khoa học, công nghệ và đổi mới sáng tạo; tham gia hoạt động hợp tác quốc tế về khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1228,
+    "line_end": 1229
+  },
+  {
+    "clause_id": "dieu-51-khoan-8",
+    "anchor": "dieu-51-khoan-8",
+    "title": "8. Được xét công nhận, bổ nhiệm vào chức danh khoa học, chức danh công nghệ theo quy định của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1231,
+    "line_end": 1232
+  },
+  {
+    "clause_id": "dieu-51-khoan-9",
+    "anchor": "dieu-51-khoan-9",
+    "title": "9. Được khen thưởng, hưởng quyền lợi, quyền ưu đãi, hỗ trợ theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1234,
+    "line_end": 1235
+  },
+  {
+    "clause_id": "dieu-52",
+    "anchor": "dieu-52",
+    "title": "Điều 52. Nghĩa vụ của cá nhân hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1238,
+    "line_end": 1239
+  },
+  {
+    "clause_id": "dieu-52-khoan-1",
+    "anchor": "dieu-52-khoan-1",
+    "title": "1. Đóng góp trí tuệ, tài năng vào sự nghiệp phát triển khoa học, công nghệ và đổi mới sáng tạo, phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1241,
+    "line_end": 1242
+  },
+  {
+    "clause_id": "dieu-52-khoan-2",
+    "anchor": "dieu-52-khoan-2",
+    "title": "2. Tuân thủ liêm chính khoa học, đạo đức nghề nghiệp trong hoạt động khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1244,
+    "line_end": 1245
+  },
+  {
+    "clause_id": "dieu-52-khoan-3",
+    "anchor": "dieu-52-khoan-3",
+    "title": "3. Thực hiện trách nhiệm truyền thông, phổ biến tri thức, kết quả, thành tựu khoa học, công nghệ và đổi mới sáng tạo cho cộng đồng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1247,
+    "line_end": 1248
+  },
+  {
+    "clause_id": "dieu-52-khoan-4",
+    "anchor": "dieu-52-khoan-4",
+    "title": "4. Tuân thủ quy định của tổ chức nơi làm việc, thỏa thuận của tổ chức đầu tư, tài trợ khi cung cấp, công bố kết quả nghiên cứu, đăng ký quyền sở hữu trí tuệ, chuyển giao công nghệ được tạo ra từ kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo của tổ chức đó.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1250,
+    "line_end": 1251
+  },
+  {
+    "clause_id": "dieu-52-khoan-5",
+    "anchor": "dieu-52-khoan-5",
+    "title": "5. Thực hiện nghĩa vụ khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1253,
+    "line_end": 1254
+  },
+  {
+    "clause_id": "dieu-53",
+    "anchor": "dieu-53",
+    "title": "Điều 53. Tổng công trình sư về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1257,
+    "line_end": 1258
+  },
+  {
+    "clause_id": "dieu-53-khoan-1",
+    "anchor": "dieu-53-khoan-1",
+    "title": "1. Trong trường hợp cần thiết, cơ quan nhà nước có thẩm quyền quyết định việc giao tổng công trình sư là người có uy tín, kinh nghiệm, năng lực vượt trội để chủ trì thực hiện chương trình, nhiệm vụ sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1260,
+    "line_end": 1267
+  },
+  {
+    "clause_id": "dieu-53-khoan-2",
+    "anchor": "dieu-53-khoan-2",
+    "title": "2. Trong quá trình thực hiện chương trình, nhiệm vụ được giao, tổng công trình sư có nhiệm vụ và quyền hạn sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1269,
+    "line_end": 1286
+  },
+  {
+    "clause_id": "dieu-53-khoan-3",
+    "anchor": "dieu-53-khoan-3",
+    "title": "3. Thẩm quyền và quy trình lựa chọn tổng công trình sư do Chính phủ quy định.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1288,
+    "line_end": 1289
+  },
+  {
+    "clause_id": "dieu-53-khoan-4",
+    "anchor": "dieu-53-khoan-4",
+    "title": "4. Ngoài được hưởng ưu đãi theo quy định tại khoản 1 Điều 55 của Luật này, trong quá trình thực hiện chương trình, nhiệm vụ được giao, tổng công trình sư còn được hưởng các ưu đãi sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1291,
+    "line_end": 1300
+  },
+  {
+    "clause_id": "dieu-53-khoan-5",
+    "anchor": "dieu-53-khoan-5",
+    "title": "5. Trong lĩnh vực công nghiệp quốc phòng, an ninh và động viên công nghiệp, việc xét công nhận tổng công trình sư thực hiện theo quy định của pháp luật về công nghiệp quốc phòng, an ninh và động viên công nghiệp. Tổng công trình sư trong lĩnh vực công nghiệp quốc phòng, an ninh và động viên công nghiệp được hưởng ưu đãi theo quy định của Luật này và Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1302,
+    "line_end": 1303
+  },
+  {
+    "clause_id": "dieu-53-khoan-6",
+    "anchor": "dieu-53-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1305,
+    "line_end": 1306
+  },
+  {
+    "clause_id": "dieu-54",
+    "anchor": "dieu-54",
+    "title": "Điều 54. Thu hút, trọng dụng nhân tài về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1309,
+    "line_end": 1310
+  },
+  {
+    "clause_id": "dieu-54-khoan-1",
+    "anchor": "dieu-54-khoan-1",
+    "title": "1. Nhân tài trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo là cá nhân có năng lực đặc biệt, có đóng góp đột phá hoặc có tầm ảnh hưởng đến sự phát triển của ngành, lĩnh vực trên phạm vi quốc gia hoặc quốc tế, đáp ứng một trong các tiêu chí sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1312,
+    "line_end": 1319
+  },
+  {
+    "clause_id": "dieu-54-khoan-2",
+    "anchor": "dieu-54-khoan-2",
+    "title": "2. Nhà nước có chính sách thu hút, trọng dụng nhân tài về khoa học, công nghệ và đổi mới sáng tạo sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1321,
+    "line_end": 1328
+  },
+  {
+    "clause_id": "dieu-54-khoan-3",
+    "anchor": "dieu-54-khoan-3",
+    "title": "3. Việc xác định nhân tài trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo được thực hiện thông qua tiêu chí và minh chứng cụ thể, không cần thủ tục công nhận danh hiệu chính thức. Trên cơ sở tiêu chí quy định tại khoản 1 Điều này, cơ quan có thẩm quyền giao thực hiện nhiệm vụ quyết định việc áp dụng chính sách thu hút, đãi ngộ nhân tài.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1330,
+    "line_end": 1331
+  },
+  {
+    "clause_id": "dieu-54-khoan-4",
+    "anchor": "dieu-54-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1333,
+    "line_end": 1334
+  },
+  {
+    "clause_id": "dieu-55",
+    "anchor": "dieu-55",
+    "title": "Điều 55. Ưu đãi đối với cá nhân hoạt động khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1337,
+    "line_end": 1338
+  },
+  {
+    "clause_id": "dieu-55-khoan-1",
+    "anchor": "dieu-55-khoan-1",
+    "title": "1. Cá nhân hoạt động khoa học, công nghệ và đổi mới sáng tạo được hỗ trợ đào tạo, bồi dưỡng, nghiên cứu khoa học, phát triển công nghệ; được ưu tiên trong bổ nhiệm, tuyển dụng, bố trí vị trí việc làm, thu nhập, thuế thu nhập cá nhân, lao động, nhà ở, xuất cảnh, nhập cảnh, cư trú và cấp giấy phép lao động.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1340,
+    "line_end": 1341
+  },
+  {
+    "clause_id": "dieu-55-khoan-2",
+    "anchor": "dieu-55-khoan-2",
+    "title": "2. Tổng công trình sư được ưu đãi theo quy định tại khoản 4 Điều 53 của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1343,
+    "line_end": 1344
+  },
+  {
+    "clause_id": "dieu-55-khoan-3",
+    "anchor": "dieu-55-khoan-3",
+    "title": "3. Nhân tài được ưu đãi theo quy định tại khoản 2 Điều 54 của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1346,
+    "line_end": 1347
+  },
+  {
+    "clause_id": "dieu-55-khoan-4",
+    "anchor": "dieu-55-khoan-4",
+    "title": "4. Nghiên cứu viên sau tiến sĩ, nghiên cứu sinh của chương trình đào tạo tiến sĩ, học viên của chương trình đào tạo thạc sĩ được xem xét tài trợ hoạt động nghiên cứu từ ngân sách nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1349,
+    "line_end": 1350
+  },
+  {
+    "clause_id": "dieu-55-khoan-5",
+    "anchor": "dieu-55-khoan-5",
+    "title": "5. Nhà khoa học trẻ tài năng, kỹ sư trẻ tài năng được ưu tiên hỗ trợ nâng cao trình độ ở nước ngoài, chủ trì nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo và giao kinh phí hỗ trợ nhóm nghiên cứu mạnh trong lĩnh vực chuyên môn.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1352,
+    "line_end": 1353
+  },
+  {
+    "clause_id": "dieu-55-khoan-6",
+    "anchor": "dieu-55-khoan-6",
+    "title": "6. Nhà khoa học xuất sắc có thành tích nổi bật trong nghiên cứu khoa học và phát triển công nghệ được xem xét tài trợ kinh phí để chủ động thực hiện ý tưởng nghiên cứu khoa học và phát triển công nghệ có tính đột phá, tiềm năng ứng dụng cao, đóng góp cho phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1355,
+    "line_end": 1356
+  },
+  {
+    "clause_id": "dieu-55-khoan-7",
+    "anchor": "dieu-55-khoan-7",
+    "title": "7. Chuyên gia, nhà khoa học trong nước, người Việt Nam định cư ở nước ngoài, chuyên gia, nhà khoa học nước ngoài được hưởng các ưu đãi sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1358,
+    "line_end": 1363
+  },
+  {
+    "clause_id": "dieu-55-khoan-8",
+    "anchor": "dieu-55-khoan-8",
+    "title": "8. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1365,
+    "line_end": 1366
+  },
+  {
+    "clause_id": "dieu-56",
+    "anchor": "dieu-56",
+    "title": "Điều 56. Danh hiệu vinh dự Nhà nước, khen thưởng và giải thưởng về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1369,
+    "line_end": 1370
+  },
+  {
+    "clause_id": "dieu-56-khoan-1",
+    "anchor": "dieu-56-khoan-1",
+    "title": "1. Tổ chức, cá nhân có thành tích trong khoa học, công nghệ và đổi mới sáng tạo được phong, tặng danh hiệu vinh dự Nhà nước, giải thưởng và các hình thức khen thưởng khác theo quy định của pháp luật về thi đua, khen thưởng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1372,
+    "line_end": 1373
+  },
+  {
+    "clause_id": "dieu-56-khoan-2",
+    "anchor": "dieu-56-khoan-2",
+    "title": "2. Tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài được đặt, tặng giải thưởng nhằm khuyến khích phát triển khoa học, công nghệ và đổi mới sáng tạo tại Việt Nam theo quy định của pháp luật.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1375,
+    "line_end": 1376
+  },
+  {
+    "clause_id": "dieu-56-khoan-3",
+    "anchor": "dieu-56-khoan-3",
+    "title": "3. Tổ chức, cá nhân được nhận danh hiệu, giải thưởng về khoa học, công nghệ và đổi mới sáng tạo của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài phù hợp với quy định của pháp luật Việt Nam.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1378,
+    "line_end": 1379
+  },
+  {
+    "clause_id": "dieu-56-khoan-4",
+    "anchor": "dieu-56-khoan-4",
+    "title": "4. Bộ, cơ quan ngang Bộ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh căn cứ tình hình và nhu cầu động viên, khen thưởng trong phạm vi, lĩnh vực quản lý của mình để xét, tặng giải thưởng về khoa học, công nghệ và đổi mới sáng tạo cho tập thể, cá nhân có kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo xuất sắc.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1381,
+    "line_end": 1382
+  },
+  {
+    "clause_id": "dieu-56-khoan-5",
+    "anchor": "dieu-56-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1384,
+    "line_end": 1385
+  },
+  {
+    "clause_id": "dieu-57",
+    "anchor": "dieu-57",
+    "title": "Điều 57. Cá nhân, nhóm cá nhân, doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư, chuyên gia hỗ trợ đổi mới sáng tạo, khởi nghiệp sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1388,
+    "line_end": 1389
+  },
+  {
+    "clause_id": "dieu-57-khoan-1",
+    "anchor": "dieu-57-khoan-1",
+    "title": "1. Cá nhân, nhóm cá nhân, doanh nghiệp khởi nghiệp sáng tạo, chuyên gia hỗ trợ, nhà đầu tư cá nhân cho khởi nghiệp sáng tạo có thể yêu cầu cơ quan có thẩm quyền công nhận là đối tượng được hưởng chính sách ưu đãi theo quy định của pháp luật và chính sách hỗ trợ của chương trình, đề án hỗ trợ đổi mới sáng tạo, khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1391,
+    "line_end": 1392
+  },
+  {
+    "clause_id": "dieu-57-khoan-2",
+    "anchor": "dieu-57-khoan-2",
+    "title": "2. Cá nhân, nhóm cá nhân, doanh nghiệp khởi nghiệp sáng tạo được ưu tiên thuê đất, cơ sở hạ tầng tại khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao, khu công nghệ số tập trung; ưu tiên sử dụng trang thiết bị nghiên cứu, phát triển tại các phòng thí nghiệm dùng chung, cơ sở ươm tạo, trung tâm đổi mới sáng tạo; được hỗ trợ thông tin, truyền thông, xúc tiến thương mại.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1394,
+    "line_end": 1395
+  },
+  {
+    "clause_id": "dieu-57-khoan-3",
+    "anchor": "dieu-57-khoan-3",
+    "title": "3. Cá nhân, nhóm cá nhân, doanh nghiệp quy định tại khoản 1 Điều này có trách nhiệm cung cấp thông tin về tình hình hoạt động và kết quả thụ hưởng chính sách hỗ trợ phục vụ quản lý nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1397,
+    "line_end": 1398
+  },
+  {
+    "clause_id": "dieu-57-khoan-4",
+    "anchor": "dieu-57-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này; quy định trình tự, thủ tục, điều kiện, thẩm quyền công nhận đối tượng quy định tại khoản 1 Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1400,
+    "line_end": 1401
+  },
+  {
+    "clause_id": "dieu-58",
+    "anchor": "dieu-58",
+    "title": "Điều 58. Viên chức tham gia góp vốn, làm việc, quản lý, điều hành tại doanh nghiệp để thương mại hóa kết quả nghiên cứu",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1404,
+    "line_end": 1405
+  },
+  {
+    "clause_id": "dieu-58-khoan-1",
+    "anchor": "dieu-58-khoan-1",
+    "title": "1. Viên chức, viên chức quản lý làm việc tại tổ chức khoa học và công nghệ công lập được tham gia góp vốn, tham gia quản lý, điều hành doanh nghiệp, làm việc tại doanh nghiệp do tổ chức thành lập hoặc tham gia thành lập để thương mại hóa kết quả nghiên cứu do tổ chức đó tạo ra khi được sự đồng ý của người đứng đầu tổ chức.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1407,
+    "line_end": 1408
+  },
+  {
+    "clause_id": "dieu-58-khoan-2",
+    "anchor": "dieu-58-khoan-2",
+    "title": "2. Trường hợp viên chức quản lý là người đứng đầu tổ chức khoa học và công nghệ công lập thì phải được sự đồng ý của cấp trên quản lý trực tiếp.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1410,
+    "line_end": 1411
+  },
+  {
+    "clause_id": "dieu-59",
+    "anchor": "dieu-59",
+    "title": "Điều 59. Xây dựng, phát triển hạ tầng phục vụ nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1416,
+    "line_end": 1417
+  },
+  {
+    "clause_id": "dieu-59-khoan-1",
+    "anchor": "dieu-59-khoan-1",
+    "title": "1. Nhà nước đầu tư xây dựng, cải tạo, nâng cấp, sửa chữa, duy trì và vận hành cơ sở vật chất, hạ tầng kỹ thuật, trang thiết bị phục vụ nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, trong đó tập trung phát triển các thư viện chuyên ngành, bảo tàng chuyên ngành, trung tâm nghiên cứu, trung tâm thử nghiệm, phòng thí nghiệm trọng điểm quốc gia, đặc biệt là hạ tầng kỹ thuật phục vụ cho việc nghiên cứu, phát triển công nghệ chiến lược.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1419,
+    "line_end": 1422
+  },
+  {
+    "clause_id": "dieu-59-khoan-2",
+    "anchor": "dieu-59-khoan-2",
+    "title": "2. Nhà nước đầu tư xây dựng cơ sở vật chất, hạ tầng kỹ thuật, trang thiết bị dùng chung trong một số lĩnh vực để phục vụ đào tạo, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1424,
+    "line_end": 1425
+  },
+  {
+    "clause_id": "dieu-59-khoan-3",
+    "anchor": "dieu-59-khoan-3",
+    "title": "3. Tổ chức quản lý cơ sở vật chất, hạ tầng kỹ thuật, trang thiết bị dùng chung quy định tại khoản 2 Điều này có trách nhiệm sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1427,
+    "line_end": 1434
+  },
+  {
+    "clause_id": "dieu-59-khoan-4",
+    "anchor": "dieu-59-khoan-4",
+    "title": "4. Tổ chức quản lý cơ sở vật chất, hạ tầng kỹ thuật, trang thiết bị dùng chung quy định tại khoản 2 Điều này có thể thu chi phí dịch vụ dựa trên chi phí thực tế, bao gồm bảo trì, sửa chữa, vận hành và khấu hao, theo định mức kinh tế - kỹ thuật được công bố công khai.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1436,
+    "line_end": 1437
+  },
+  {
+    "clause_id": "dieu-59-khoan-5",
+    "anchor": "dieu-59-khoan-5",
+    "title": "5. Nhà nước khuyến khích phát triển các cụm, khu nghiên cứu và phát triển, đổi mới sáng tạo tập trung, bao gồm cả khu công nghệ cao, công viên khoa học, cụm đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1439,
+    "line_end": 1440
+  },
+  {
+    "clause_id": "dieu-59-khoan-6",
+    "anchor": "dieu-59-khoan-6",
+    "title": "6. Nhà nước đầu tư xây dựng, phát triển, tham gia khai thác hạ tầng, mạng lưới, hệ sinh thái hỗ trợ khởi nghiệp sáng tạo trong nước, nước ngoài để kết nối hệ sinh thái khởi nghiệp sáng tạo quốc gia với quốc tế.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1442,
+    "line_end": 1443
+  },
+  {
+    "clause_id": "dieu-59-khoan-7",
+    "anchor": "dieu-59-khoan-7",
+    "title": "7. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1445,
+    "line_end": 1446
+  },
+  {
+    "clause_id": "dieu-60",
+    "anchor": "dieu-60",
+    "title": "Điều 60. Xây dựng hạ tầng thông tin, thống kê khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1449,
+    "line_end": 1450
+  },
+  {
+    "clause_id": "dieu-60-khoan-1",
+    "anchor": "dieu-60-khoan-1",
+    "title": "1. Nhà nước ưu tiên đầu tư hạ tầng thông tin, nguồn tin, thống kê khoa học, công nghệ và đổi mới sáng tạo, bao gồm cả Nền tảng số quản lý khoa học, công nghệ và đổi mới sáng tạo quốc gia và Hệ thống thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo để phục vụ nghiên cứu, quản lý, hoạch định chính sách, phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1452,
+    "line_end": 1453
+  },
+  {
+    "clause_id": "dieu-60-khoan-2",
+    "anchor": "dieu-60-khoan-2",
+    "title": "2. Nhà nước đầu tư, hỗ trợ tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo trong thu thập, xử lý, quản lý và phổ biến thông tin, tri thức khoa học, công nghệ và đổi mới sáng tạo; xây dựng cơ sở dữ liệu mở phục vụ cộng đồng.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1455,
+    "line_end": 1456
+  },
+  {
+    "clause_id": "dieu-60-khoan-3",
+    "anchor": "dieu-60-khoan-3",
+    "title": "3. Khuyến khích tổ chức, cá nhân tài trợ và tham gia các hoạt động quy định khoản 1 và khoản 2 Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1458,
+    "line_end": 1459
+  },
+  {
+    "clause_id": "dieu-61",
+    "anchor": "dieu-61",
+    "title": "Điều 61. Ngân sách nhà nước cho khoa học, công nghệ, đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1466,
+    "line_end": 1467
+  },
+  {
+    "clause_id": "dieu-61-khoan-1",
+    "anchor": "dieu-61-khoan-1",
+    "title": "1. Nhà nước bảo đảm chi cho khoa học, công nghệ và đổi mới sáng tạo hằng năm tối thiểu 2% tổng chi ngân sách nhà nước trong nguồn tổng chi tối thiểu 3% ngân sách nhà nước cho phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số và tăng dần theo yêu cầu phát triển để thực hiện chủ trương, chính sách của Đảng, Nhà nước trong từng thời kỳ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1469,
+    "line_end": 1470
+  },
+  {
+    "clause_id": "dieu-61-khoan-2",
+    "anchor": "dieu-61-khoan-2",
+    "title": "2. Ngân sách nhà nước chi cho khoa học, công nghệ và đổi mới sáng tạo phải được sử dụng có trọng tâm, trọng điểm, gắn với kết quả, hiệu quả thực hiện nhiệm vụ, theo nguyên tắc đề cao trách nhiệm của các cơ quan ở trung ương và địa phương.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1472,
+    "line_end": 1473
+  },
+  {
+    "clause_id": "dieu-61-khoan-3",
+    "anchor": "dieu-61-khoan-3",
+    "title": "3. Nhà nước có chính sách hỗ trợ ngân sách nhà nước nhằm khuyến khích tổ chức, doanh nghiệp đầu tư cho khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1475,
+    "line_end": 1476
+  },
+  {
+    "clause_id": "dieu-61-khoan-4",
+    "anchor": "dieu-61-khoan-4",
+    "title": "4. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1478,
+    "line_end": 1479
+  },
+  {
+    "clause_id": "dieu-62",
+    "anchor": "dieu-62",
+    "title": "Điều 62. Nội dung chi ngân sách nhà nước cho khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1482,
+    "line_end": 1483
+  },
+  {
+    "clause_id": "dieu-62-khoan-1",
+    "anchor": "dieu-62-khoan-1",
+    "title": "1. Ngân sách nhà nước cho khoa học, công nghệ và đổi mới sáng tạo được sử dụng cho nội dung sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1485,
+    "line_end": 1506
+  },
+  {
+    "clause_id": "dieu-62-khoan-2",
+    "anchor": "dieu-62-khoan-2",
+    "title": "2. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1508,
+    "line_end": 1509
+  },
+  {
+    "clause_id": "dieu-63",
+    "anchor": "dieu-63",
+    "title": "Điều 63. Lập dự toán, phân bổ, quản lý, sử dụng, quyết toán ngân sách nhà nước cho khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1512,
+    "line_end": 1513
+  },
+  {
+    "clause_id": "dieu-63-khoan-1",
+    "anchor": "dieu-63-khoan-1",
+    "title": "1. Việc lập nội dung đầu tư phát triển khoa học, công nghệ và đổi mới sáng tạo trong kế hoạch tài chính 05 năm và kế hoạch đầu tư công trung hạn thực hiện theo quy định của Luật Ngân sách nhà nước, Luật Đầu tư công, bảo đảm phù hợp với Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo và mục tiêu phát triển khoa học, công nghệ và đổi mới sáng tạo của từng giai đoạn.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1515,
+    "line_end": 1516
+  },
+  {
+    "clause_id": "dieu-63-khoan-2",
+    "anchor": "dieu-63-khoan-2",
+    "title": "2. Việc lập dự toán chi ngân sách nhà nước hằng năm cho khoa học, công nghệ và đổi mới sáng tạo phải được thực hiện như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1518,
+    "line_end": 1531
+  },
+  {
+    "clause_id": "dieu-63-khoan-3",
+    "anchor": "dieu-63-khoan-3",
+    "title": "3. Việc phân bổ ngân sách nhà nước chi cho khoa học, công nghệ và đổi mới sáng tạo được thực hiện theo các nguyên tắc sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1533,
+    "line_end": 1546
+  },
+  {
+    "clause_id": "dieu-63-khoan-4",
+    "anchor": "dieu-63-khoan-4",
+    "title": "4. Việc quản lý và sử dụng ngân sách nhà nước được thực hiện như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1548,
+    "line_end": 1557
+  },
+  {
+    "clause_id": "dieu-63-khoan-5",
+    "anchor": "dieu-63-khoan-5",
+    "title": "5. Nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo áp dụng khoán chi đến sản phẩm cuối cùng hoặc khoán chi từng phần theo nội dung nghiên cứu thực hiện như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1559,
+    "line_end": 1566
+  },
+  {
+    "clause_id": "dieu-63-khoan-6",
+    "anchor": "dieu-63-khoan-6",
+    "title": "6. Quyết toán ngân sách nhà nước cho khoa học, công nghệ và đổi mới sáng tạo thực hiện theo quy định của pháp luật về ngân sách nhà nước, pháp luật về đầu tư công.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1568,
+    "line_end": 1569
+  },
+  {
+    "clause_id": "dieu-63-khoan-7",
+    "anchor": "dieu-63-khoan-7",
+    "title": "7. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1571,
+    "line_end": 1572
+  },
+  {
+    "clause_id": "dieu-64",
+    "anchor": "dieu-64",
+    "title": "Điều 64. Quỹ phát triển khoa học và công nghệ quốc gia, Quỹ đổi mới công nghệ quốc gia",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1575,
+    "line_end": 1576
+  },
+  {
+    "clause_id": "dieu-64-khoan-1",
+    "anchor": "dieu-64-khoan-1",
+    "title": "1. Quỹ phát triển khoa học và công nghệ quốc gia được hình thành từ nguồn kinh phí được cấp hằng năm từ ngân sách nhà nước, các khoản đóng góp tự nguyện, hiến, tặng cho hợp pháp của tổ chức, cá nhân. Quỹ thực hiện chức năng tài trợ, đặt hàng thực hiện chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo để nghiên cứu khoa học và phát triển công nghệ; hỗ trợ hoạt động nâng cao năng lực khoa học và công nghệ quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1578,
+    "line_end": 1579
+  },
+  {
+    "clause_id": "dieu-64-khoan-2",
+    "anchor": "dieu-64-khoan-2",
+    "title": "2. Quỹ đổi mới công nghệ quốc gia được hình thành từ nguồn kinh phí được cấp hằng năm từ ngân sách nhà nước, các khoản đóng góp tự nguyện, hiến, tặng cho hợp pháp của tổ chức, cá nhân. Quỹ thực hiện chức năng tài trợ, đặt hàng thực hiện chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo, hỗ trợ lãi suất vay, hỗ trợ kinh phí để ứng dụng công nghệ, chuyển giao công nghệ, đổi mới công nghệ, đổi mới sáng tạo; hỗ trợ hoạt động phát triển hệ thống đổi mới sáng tạo, hệ sinh thái khởi nghiệp sáng tạo, thúc đẩy văn hóa đổi mới sáng tạo, khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1581,
+    "line_end": 1582
+  },
+  {
+    "clause_id": "dieu-64-khoan-3",
+    "anchor": "dieu-64-khoan-3",
+    "title": "3. Việc lập kế hoạch và xác định tổng ngân sách nhà nước cấp hằng năm cho các quỹ quy định tại khoản 1 và khoản 2 Điều này không tính đến khoản đóng góp tự nguyện, hiến, tặng cho của tổ chức, cá nhân. Tại thời điểm kết thúc năm ngân sách, khoản đóng góp tự nguyện, hiến, tặng cho không sử dụng hết được giữ lại quỹ để sử dụng, không phải nộp lại ngân sách nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1584,
+    "line_end": 1585
+  },
+  {
+    "clause_id": "dieu-64-khoan-4",
+    "anchor": "dieu-64-khoan-4",
+    "title": "4. Quỹ phát triển khoa học và công nghệ quốc gia, Quỹ đổi mới công nghệ quốc gia không phải là quỹ tài chính nhà nước ngoài ngân sách.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1587,
+    "line_end": 1588
+  },
+  {
+    "clause_id": "dieu-64-khoan-5",
+    "anchor": "dieu-64-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1590,
+    "line_end": 1591
+  },
+  {
+    "clause_id": "dieu-65",
+    "anchor": "dieu-65",
+    "title": "Điều 65. Quỹ phát triển khoa học, công nghệ và đổi mới sáng tạo của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1594,
+    "line_end": 1595
+  },
+  {
+    "clause_id": "dieu-65-khoan-1",
+    "anchor": "dieu-65-khoan-1",
+    "title": "1. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh tùy theo tình hình thực tế thành lập quỹ phát triển khoa học, công nghệ và đổi mới sáng tạo để đặt hàng, tài trợ cho chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo; hỗ trợ kinh phí, hỗ trợ lãi suất vay để ứng dụng công nghệ, chuyển giao công nghệ, đổi mới công nghệ, đổi mới sáng tạo; hỗ trợ hoạt động nâng cao năng lực khoa học và công nghệ; hỗ trợ hoạt động phát triển hệ thống đổi mới sáng tạo, hệ sinh thái khởi nghiệp sáng tạo, thúc đẩy văn hóa đổi mới sáng tạo, khởi nghiệp sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1597,
+    "line_end": 1598
+  },
+  {
+    "clause_id": "dieu-65-khoan-2",
+    "anchor": "dieu-65-khoan-2",
+    "title": "2. Nguồn kinh phí của quỹ được cấp hằng năm từ ngân sách nhà nước, các khoản đóng góp tự nguyện, hiến, tặng cho hợp pháp của tổ chức, cá nhân.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1600,
+    "line_end": 1601
+  },
+  {
+    "clause_id": "dieu-65-khoan-3",
+    "anchor": "dieu-65-khoan-3",
+    "title": "3. Việc lập kế hoạch và xác định tổng ngân sách nhà nước cấp hằng năm cho quỹ không tính đến khoản đóng góp tự nguyện, hiến, tặng cho của tổ chức, cá nhân. Tại thời điểm kết thúc năm ngân sách, khoản đóng góp tự nguyện, hiến, tặng cho không sử dụng hết được giữ lại quỹ để sử dụng, không phải nộp lại ngân sách nhà nước.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1603,
+    "line_end": 1604
+  },
+  {
+    "clause_id": "dieu-65-khoan-4",
+    "anchor": "dieu-65-khoan-4",
+    "title": "4. Kết quả hoạt động của quỹ phải được định kỳ đánh giá dựa trên hiệu quả phục vụ các mục tiêu chiến lược, kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo 05 năm, kế hoạch về khoa học, công nghệ và đổi mới sáng tạo, khả năng đóng góp cho phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, phát triển các ngành, lĩnh vực.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1606,
+    "line_end": 1607
+  },
+  {
+    "clause_id": "dieu-65-khoan-5",
+    "anchor": "dieu-65-khoan-5",
+    "title": "5. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh giao cơ quan, đơn vị hiện có trong hệ thống tổ chức của mình để thực hiện nhiệm vụ điều hành quỹ, chịu trách nhiệm kiểm tra, giám sát hoạt động của đơn vị điều hành quỹ, bảo đảm việc giải ngân và sử dụng ngân sách nhà nước đã cấp đúng tiến độ và có hiệu quả.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1609,
+    "line_end": 1610
+  },
+  {
+    "clause_id": "dieu-65-khoan-6",
+    "anchor": "dieu-65-khoan-6",
+    "title": "6. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1612,
+    "line_end": 1613
+  },
+  {
+    "clause_id": "dieu-66",
+    "anchor": "dieu-66",
+    "title": "Điều 66. Quỹ phát triển khoa học và công nghệ của doanh nghiệp, tổ chức, đơn vị sự nghiệp",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1616,
+    "line_end": 1617
+  },
+  {
+    "clause_id": "dieu-66-khoan-1",
+    "anchor": "dieu-66-khoan-1",
+    "title": "1. Doanh nghiệp, tổ chức, đơn vị sự nghiệp được phép trích lập quỹ phát triển khoa học và công nghệ theo quy định của pháp luật về thuế thu nhập doanh nghiệp. Quỹ được nhận khoản đóng góp tự nguyện, hiến, tặng cho hợp pháp của tổ chức, cá nhân để thực hiện các nhiệm vụ của quỹ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1619,
+    "line_end": 1620
+  },
+  {
+    "clause_id": "dieu-66-khoan-2",
+    "anchor": "dieu-66-khoan-2",
+    "title": "2. Doanh nghiệp, tổ chức, đơn vị sự nghiệp được sử dụng quỹ phát triển khoa học và công nghệ để thực hiện các hoạt động sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1622,
+    "line_end": 1633
+  },
+  {
+    "clause_id": "dieu-66-khoan-3",
+    "anchor": "dieu-66-khoan-3",
+    "title": "3. Ngoài nội dung quy định tại khoản 2 Điều này, doanh nghiệp nhà nước được sử dụng quỹ phát triển khoa học và công nghệ để thực hiện dự án trọng điểm, dự án phát triển công nghệ chiến lược theo cơ chế đặc biệt quy định tại Điều 31 của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1635,
+    "line_end": 1636
+  },
+  {
+    "clause_id": "dieu-66-khoan-4",
+    "anchor": "dieu-66-khoan-4",
+    "title": "4. Doanh nghiệp, tổ chức, đơn vị sự nghiệp có quyền tự chủ, tự chịu trách nhiệm trong quản lý, sử dụng quỹ phát triển khoa học và công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1638,
+    "line_end": 1639
+  },
+  {
+    "clause_id": "dieu-66-khoan-5",
+    "anchor": "dieu-66-khoan-5",
+    "title": "5. Việc sử dụng quỹ phát triển khoa học và công nghệ của doanh nghiệp nhà nước, tổ chức khoa học và công nghệ công lập, đơn vị sự nghiệp công lập để thực hiện mua, sáp nhập, đầu tư, cùng đầu tư vào doanh nghiệp khởi nghiệp sáng tạo phải đáp ứng các yêu cầu sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1641,
+    "line_end": 1650
+  },
+  {
+    "clause_id": "dieu-66-khoan-6",
+    "anchor": "dieu-66-khoan-6",
+    "title": "6. Doanh nghiệp, tổ chức, đơn vị sự nghiệp, cá nhân quản lý, sử dụng quỹ được miễn trách nhiệm dân sự, loại trừ trách nhiệm hành chính liên quan đến tổn thất đầu tư khi thực hiện hoạt động đầu tư quy định tại khoản 5 Điều này trong trường hợp phát sinh tổn thất mặc dù đã thực hiện đầy đủ các quy trình, quy định liên quan trong quá trình thực hiện đầu tư và công khai, minh bạch, trung thực trong quá trình ra quyết định đầu tư.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1652,
+    "line_end": 1653
+  },
+  {
+    "clause_id": "dieu-66-khoan-7",
+    "anchor": "dieu-66-khoan-7",
+    "title": "7. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1655,
+    "line_end": 1656
+  },
+  {
+    "clause_id": "dieu-67",
+    "anchor": "dieu-67",
+    "title": "Điều 67. Ưu đãi trong mua sắm sử dụng ngân sách nhà nước đối với sản phẩm, hàng hóa của tổ chức, doanh nghiệp có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1659,
+    "line_end": 1660
+  },
+  {
+    "clause_id": "dieu-67-khoan-1",
+    "anchor": "dieu-67-khoan-1",
+    "title": "1. Sản phẩm công nghệ cao thuộc Danh mục sản phẩm công nghệ cao được khuyến khích phát triển được sản xuất bởi doanh nghiệp công nghệ cao hoặc doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm công nghệ cao được công nhận theo quy định của pháp luật về công nghệ cao; sản phẩm, hàng hóa từ kết quả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo đặc biệt; sản phẩm, hàng hóa từ kết quả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo trong nước được ưu đãi theo quy định của pháp luật về đấu thầu.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1662,
+    "line_end": 1663
+  },
+  {
+    "clause_id": "dieu-67-khoan-2",
+    "anchor": "dieu-67-khoan-2",
+    "title": "2. Nhà nước xem xét tài trợ chi phí thử nghiệm, kiểm định, đánh giá chất lượng sản phẩm tham gia trong mua sắm sử dụng ngân sách nhà nước trong các trường hợp sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1665,
+    "line_end": 1670
+  },
+  {
+    "clause_id": "dieu-67-khoan-3",
+    "anchor": "dieu-67-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1672,
+    "line_end": 1673
+  },
+  {
+    "clause_id": "dieu-68",
+    "anchor": "dieu-68",
+    "title": "Điều 68. Nguyên tắc hội nhập, hợp tác quốc tế về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1680,
+    "line_end": 1681
+  },
+  {
+    "clause_id": "dieu-68-khoan-1",
+    "anchor": "dieu-68-khoan-1",
+    "title": "1. Tích cực, chủ động hội nhập trên cơ sở bảo đảm độc lập, chủ quyền, an ninh quốc gia, bình đẳng và cùng có lợi; tham gia giải quyết các vấn đề khoa học, công nghệ toàn cầu.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1683,
+    "line_end": 1684
+  },
+  {
+    "clause_id": "dieu-68-khoan-2",
+    "anchor": "dieu-68-khoan-2",
+    "title": "2. Đa dạng hóa, đa phương hóa hợp tác, đầu tư với nước ngoài; bảo đảm ngân sách, cơ chế tài chính phù hợp để tham gia các hoạt động hội nhập.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1686,
+    "line_end": 1687
+  },
+  {
+    "clause_id": "dieu-68-khoan-3",
+    "anchor": "dieu-68-khoan-3",
+    "title": "3. Phát triển khoa học, công nghệ và đổi mới sáng tạo theo chuẩn mực quốc tế gắn với nhu cầu phát triển kinh tế - *xã* hội, bảo đảm quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1689,
+    "line_end": 1690
+  },
+  {
+    "clause_id": "dieu-68-khoan-4",
+    "anchor": "dieu-68-khoan-4",
+    "title": "4. Tiếp thu có chọn lọc kinh nghiệm quốc tế, nhất là các quốc gia có hệ sinh thái khoa học, công nghệ và đổi mới sáng tạo phát triển; tận dụng nguồn lực quốc tế để nâng cao năng lực nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đặc biệt là đối với công nghệ cao, công nghệ chiến lược.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1692,
+    "line_end": 1693
+  },
+  {
+    "clause_id": "dieu-68-khoan-5",
+    "anchor": "dieu-68-khoan-5",
+    "title": "5. Bảo đảm quyền sở hữu trí tuệ của các bên tham gia hợp tác quốc tế được bảo vệ thông qua điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1695,
+    "line_end": 1696
+  },
+  {
+    "clause_id": "dieu-69",
+    "anchor": "dieu-69",
+    "title": "Điều 69. Hoạt động hội nhập, hợp tác quốc tế về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1699,
+    "line_end": 1700
+  },
+  {
+    "clause_id": "dieu-69-khoan-1",
+    "anchor": "dieu-69-khoan-1",
+    "title": "1. Tham gia xây dựng, định hình các cơ chế hợp tác khoa học, công nghệ và đổi mới sáng tạo khu vực và quốc tế.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1702,
+    "line_end": 1703
+  },
+  {
+    "clause_id": "dieu-69-khoan-2",
+    "anchor": "dieu-69-khoan-2",
+    "title": "2. Tham gia các tổ chức, hiệp hội khu vực và quốc tế trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1705,
+    "line_end": 1706
+  },
+  {
+    "clause_id": "dieu-69-khoan-3",
+    "anchor": "dieu-69-khoan-3",
+    "title": "3. Tham gia với các tổ chức nước ngoài, quốc tế trong việc thành lập tổ chức, triển khai hoạt động khoa học, công nghệ và đổi mới sáng tạo chung.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1708,
+    "line_end": 1709
+  },
+  {
+    "clause_id": "dieu-69-khoan-4",
+    "anchor": "dieu-69-khoan-4",
+    "title": "4. Thu hút, thuê chuyên gia, nhà khoa học là người Việt Nam định cư ở nước ngoài, chuyên gia, nhà khoa học nước ngoài.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1711,
+    "line_end": 1712
+  },
+  {
+    "clause_id": "dieu-69-khoan-5",
+    "anchor": "dieu-69-khoan-5",
+    "title": "5. Tìm kiếm, chuyển giao công nghệ tiên tiến của nước ngoài; quảng bá kết quả nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo ra nước ngoài.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1714,
+    "line_end": 1715
+  },
+  {
+    "clause_id": "dieu-69-khoan-6",
+    "anchor": "dieu-69-khoan-6",
+    "title": "6. Phát triển mạng lưới đại diện khoa học và công nghệ ở nước ngoài.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1717,
+    "line_end": 1718
+  },
+  {
+    "clause_id": "dieu-70",
+    "anchor": "dieu-70",
+    "title": "Điều 70. Thúc đẩy hội nhập, hợp tác quốc tế về khoa học, công nghệ và đổi mới sáng tạo",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1721,
+    "line_end": 1722
+  },
+  {
+    "clause_id": "dieu-70-khoan-1",
+    "anchor": "dieu-70-khoan-1",
+    "title": "1. Nhà nước tài trợ nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo theo hình thức hợp tác song phương, đa phương, chuyển giao công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1724,
+    "line_end": 1725
+  },
+  {
+    "clause_id": "dieu-70-khoan-2",
+    "anchor": "dieu-70-khoan-2",
+    "title": "2. Kinh phí tài trợ, đặt hàng nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo trong các hoạt động hợp tác quốc tế được sử dụng theo quy định của tổ chức cấp kinh phí, đồng thời bảo đảm không vi phạm pháp luật Việt Nam.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1727,
+    "line_end": 1728
+  },
+  {
+    "clause_id": "dieu-70-khoan-3",
+    "anchor": "dieu-70-khoan-3",
+    "title": "3. Nhà nước đóng góp vào quỹ nghiên cứu chung với quốc gia, tổ chức quốc tế theo điều ước quốc tế, thỏa thuận quốc tế đã ký kết.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1730,
+    "line_end": 1731
+  },
+  {
+    "clause_id": "dieu-70-khoan-4",
+    "anchor": "dieu-70-khoan-4",
+    "title": "4. Nhà nước hỗ trợ pháp lý và tư vấn cho tổ chức, cá nhân tham gia hợp tác quốc tế để bảo vệ quyền sở hữu trí tuệ và giải quyết tranh chấp liên quan đến chuyển giao công nghệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1733,
+    "line_end": 1734
+  },
+  {
+    "clause_id": "dieu-70-khoan-5",
+    "anchor": "dieu-70-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1736,
+    "line_end": 1737
+  },
+  {
+    "clause_id": "dieu-71",
+    "anchor": "dieu-71",
+    "title": "Điều 71. Sửa đổi, bổ sung, bãi bỏ một số điều, khoản của các luật, nghị quyết có liên quan",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1744,
+    "line_end": 1745
+  },
+  {
+    "clause_id": "dieu-71-khoan-1",
+    "anchor": "dieu-71-khoan-1",
+    "title": "1. Bổ sung Điều 6a vào sau Điều 6 của Luật Công nghệ cao số 21/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 67/2014/QH13 và Luật số 71/2025/QH15 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1747,
+    "line_end": 1748
+  },
+  {
+    "clause_id": "dieu-6a",
+    "anchor": "dieu-6a",
+    "title": "Điều 6a. Công nghệ chiến lược",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1751,
+    "line_end": 1752
+  },
+  {
+    "clause_id": "dieu-6a-khoan-1",
+    "anchor": "dieu-6a-khoan-1",
+    "title": "1. Công nghệ chiến lược là công nghệ cao được ưu tiên đầu tư phát triển và đáp ứng một trong các điều kiện hoặc tạo ra sự phát triển đột phá, phát triển chất lượng cao về kinh tế - xã hội hoặc đóng vai trò nền tảng cho các ngành công nghiệp, dịch vụ hoặc có tầm quan trọng chiến lược đối với quốc phòng, an ninh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1754,
+    "line_end": 1755
+  },
+  {
+    "clause_id": "dieu-6a-khoan-2",
+    "anchor": "dieu-6a-khoan-2",
+    "title": "2. Sản phẩm công nghệ chiến lược là sản phẩm công nghệ cao được khuyến khích phát triển, được hình thành từ công nghệ chiến lược. Sản phẩm công nghệ chiến lược đáp ứng một trong các điều kiện sau đây:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1757,
+    "line_end": 1764
+  },
+  {
+    "clause_id": "dieu-6a-khoan-3",
+    "anchor": "dieu-6a-khoan-3",
+    "title": "3. Thủ tướng Chính phủ ban hành Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1766,
+    "line_end": 1767
+  },
+  {
+    "clause_id": "dieu-6a-khoan-4",
+    "anchor": "dieu-6a-khoan-4",
+    "title": "4. Nhà nước dành một tỷ lệ ngân sách nhà nước bảo đảm chi cho các hoạt động công nghệ chiến lược, bao gồm cả chương trình khoa học và công nghệ phát triển công nghệ chiến lược.”.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1769,
+    "line_end": 1770
+  },
+  {
+    "clause_id": "dieu-21a",
+    "anchor": "dieu-21a",
+    "title": "Điều 21a. Thẩm định, chuyển giao công nghệ trong trường hợp đặc thù",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1778,
+    "line_end": 1779
+  },
+  {
+    "clause_id": "dieu-21a-khoan-1",
+    "anchor": "dieu-21a-khoan-1",
+    "title": "1. Thẩm định công nghệ trong trường hợp tổ chức, cá nhân có nhu cầu thẩm định công nghệ do mình nghiên cứu tạo ra hoặc công nghệ do mình đầu tư nhằm ứng dụng trong sản xuất, kinh doanh.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1781,
+    "line_end": 1782
+  },
+  {
+    "clause_id": "dieu-21a-khoan-2",
+    "anchor": "dieu-21a-khoan-2",
+    "title": "2. Trong gói thầu được tổ chức đấu thầu quốc tế để thực hiện dự án quan trọng quốc gia, hồ sơ mời thầu phải có điều kiện cam kết của tổng thầu, nhà thầu nước ngoài về việc chuyển giao công nghệ, đào tạo nguồn nhân lực cho tổ chức, doanh nghiệp Việt Nam. Việc chuyển giao công nghệ thực hiện theo quy định của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1784,
+    "line_end": 1785
+  },
+  {
+    "clause_id": "dieu-21a-khoan-3",
+    "anchor": "dieu-21a-khoan-3",
+    "title": "3. Chính phủ quy định chi tiết Điều này.”;",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1787,
+    "line_end": 1790
+  },
+  {
+    "clause_id": "dieu-38-khoan-19",
+    "anchor": "dieu-38-khoan-19",
+    "title": "19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1811,
+    "line_end": 1812
+  },
+  {
+    "clause_id": "dieu-38-khoan-20",
+    "anchor": "dieu-38-khoan-20",
+    "title": "20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.”.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1814,
+    "line_end": 1815
+  },
+  {
+    "clause_id": "dieu-38-khoan-4",
+    "anchor": "dieu-38-khoan-4",
+    "title": "4. Bổ sung điểm m vào sau điểm l khoản 1 Điều 157 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15, Luật số 47/2024/QH15, Luật số 58/2024/QH15, Luật số 71/2025/QH15 và Luật số 84/2025/QH15 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1817,
+    "line_end": 1820
+  },
+  {
+    "clause_id": "dieu-38-khoan-5",
+    "anchor": "dieu-38-khoan-5",
+    "title": "5. Sửa đổi, bổ sung một số điều của Luật Báo chí số 103/2016/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1822,
+    "line_end": 1843
+  },
+  {
+    "clause_id": "dieu-38-khoan-6",
+    "anchor": "dieu-38-khoan-6",
+    "title": "6. Sửa đổi, bổ sung điểm b khoản 2 Điều 83a của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 35/2018/QH14, Luật số 40/2019/QH14, Luật số 62/2020/QH14, Luật số 45/2024/QH15, Luật số 47/2024/QH15, Luật số 55/2024/QH15, Luật số 61/2024/QH15 và Luật số 84/2025/QH15 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1845,
+    "line_end": 1848
+  },
+  {
+    "clause_id": "dieu-38-khoan-7",
+    "anchor": "dieu-38-khoan-7",
+    "title": "7. Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Sở hữu trí tuệ số 50/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 36/2009/QH12, Luật số 42/2019/QH14 và Luật số 07/2022/QH15 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1850,
+    "line_end": 1885
+  },
+  {
+    "clause_id": "dieu-38-khoan-8",
+    "anchor": "dieu-38-khoan-8",
+    "title": "8. Sửa đổi, bổ sung điểm e khoản 1 Điều 45 của Luật Nhà ở số 27/2023/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15, Luật số 47/2024/QH15, Luật số 84/2025/QH15 và Luật số 90/2025/QH15 như sau:",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1887,
+    "line_end": 1890
+  },
+  {
+    "clause_id": "dieu-38-khoan-9",
+    "anchor": "dieu-38-khoan-9",
+    "title": "9. Bãi bỏ các điều 3, 4, 5, 6, 7, 8 và 9 của Nghị quyết số 193/2025/QH15 về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1892,
+    "line_end": 1893
+  },
+  {
+    "clause_id": "dieu-72",
+    "anchor": "dieu-72",
+    "title": "Điều 72. Hiệu lực thi hành",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1896,
+    "line_end": 1897
+  },
+  {
+    "clause_id": "dieu-72-khoan-1",
+    "anchor": "dieu-72-khoan-1",
+    "title": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2025, trừ trường hợp quy định tại khoản 2 Điều này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1899,
+    "line_end": 1900
+  },
+  {
+    "clause_id": "dieu-72-khoan-2",
+    "anchor": "dieu-72-khoan-2",
+    "title": "2. Các điều 15, 61, 62, 63, 64, 65 và 66 của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1902,
+    "line_end": 1903
+  },
+  {
+    "clause_id": "dieu-72-khoan-3",
+    "anchor": "dieu-72-khoan-3",
+    "title": "3. Luật Khoa học và công nghệ số 29/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 07/2022/QH15 (sau đây gọi chung là Luật Khoa học và Công nghệ số 29/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại các khoản 1, 2, 3, 6, 8 và 9 Điều 73 của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1905,
+    "line_end": 1906
+  },
+  {
+    "clause_id": "dieu-73",
+    "anchor": "dieu-73",
+    "title": "Điều 73. Quy định chuyển tiếp",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1909,
+    "line_end": 1910
+  },
+  {
+    "clause_id": "dieu-73-khoan-1",
+    "anchor": "dieu-73-khoan-1",
+    "title": "1. Đối với đề xuất nhiệm vụ khoa học và công nghệ, đề xuất đặt hàng nhiệm vụ khoa học và công nghệ đã nộp cho cơ quan nhà nước có thẩm quyền nhưng đến ngày 01 tháng 10 năm 2025 chưa được cơ quan nhà nước có thẩm quyền phê duyệt giao chủ trì thực hiện nhiệm vụ thì trình tự, thủ tục xác định, tuyển chọn, giao trực tiếp, phê duyệt nhiệm vụ khoa học và công nghệ được tiếp tục thực hiện theo quy định của Luật Khoa học và công nghệ số 29/2013/QH13 và văn bản quy định chi tiết, hướng dẫn thi hành Luật Khoa học và công nghệ số 29/2013/QH13.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1912,
+    "line_end": 1913
+  },
+  {
+    "clause_id": "dieu-73-khoan-2",
+    "anchor": "dieu-73-khoan-2",
+    "title": "2. Đối với hồ sơ đăng ký thực hiện nhiệm vụ khoa học và công nghệ được gửi tới Quỹ phát triển khoa học và công nghệ quốc gia trước ngày 01 tháng 10 năm 2025 thì quy trình, thủ tục đánh giá để tài trợ thực hiện nhiệm vụ khoa học và công nghệ được tiếp tục thực hiện theo quy định của Luật Khoa học và công nghệ số 29/2013/QH13 và văn bản quy định chi tiết, hướng dẫn thi hành Luật Khoa học và công nghệ số 29/2013/QH13.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1915,
+    "line_end": 1916
+  },
+  {
+    "clause_id": "dieu-73-khoan-3",
+    "anchor": "dieu-73-khoan-3",
+    "title": "3. Đối với nhiệm vụ khoa học và công nghệ đã được cơ quan có thẩm quyền phê duyệt giao chủ trì thực hiện nhiệm vụ trước ngày 01 tháng 10 năm 2025 thì tiếp tục thực hiện theo quy định của Luật Khoa học và công nghệ số 29/2013/QH13, Nghị quyết số 193/2025/QH15 và văn bản quy định chi tiết và hướng dẫn thi hành có hiệu lực tại thời điểm phê duyệt nhiệm vụ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1918,
+    "line_end": 1919
+  },
+  {
+    "clause_id": "dieu-73-khoan-4",
+    "anchor": "dieu-73-khoan-4",
+    "title": "4. Đối với nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước đã được cơ quan có thẩm quyền phê duyệt giao chủ trì thực hiện trước ngày 01 tháng 10 năm 2025 mà chưa được cấp có thẩm quyền ban hành quyết định xử lý tài sản trang bị thực hiện nhiệm vụ khoa học và công nghệ và kết quả của nhiệm vụ khoa học và công nghệ theo quy định của pháp luật về quản lý, sử dụng tài sản công thì việc xử lý tài sản trang bị thực hiện nhiệm vụ khoa học và công nghệ và kết quả của nhiệm vụ khoa học và công nghệ thực hiện theo quy định tại Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1921,
+    "line_end": 1922
+  },
+  {
+    "clause_id": "dieu-73-khoan-5",
+    "anchor": "dieu-73-khoan-5",
+    "title": "5. Chính phủ quy định chuyển tiếp về hoạt động của Quỹ đổi mới công nghệ quốc gia.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1924,
+    "line_end": 1925
+  },
+  {
+    "clause_id": "dieu-73-khoan-6",
+    "anchor": "dieu-73-khoan-6",
+    "title": "6. Đối với hồ sơ đề nghị chứng nhận doanh nghiệp khoa học và công nghệ đã được gửi đến cơ quan nhà nước có thẩm quyền trước ngày 01 tháng 10 năm 2025 thì trình tự, thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ được tiếp tục thực hiện theo quy định của Luật Khoa học và công nghệ số 29/2013/QH13 và văn bản quy định chi tiết và hướng dẫn thi hành Luật Khoa học và công nghệ số 29/2013/QH13.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1927,
+    "line_end": 1928
+  },
+  {
+    "clause_id": "dieu-73-khoan-7",
+    "anchor": "dieu-73-khoan-7",
+    "title": "7. Quy định về phân chia lợi nhuận từ thương mại hóa kết quả nghiên cứu theo quy định tại Điều 28 của Luật này được áp dụng đối với lợi nhuận chưa được phân chia từ việc thương mại hóa sáng chế, kiểu dáng công nghiệp, thiết kế bố trí, giống cây trồng là kết quả nghiên cứu khoa học và phát triển công nghệ của các nhiệm vụ được giao từ ngày 01 tháng 01 năm 2023 đến trước ngày 01 tháng 10 năm 2025 được cơ quan quản lý nhà nước có thẩm quyền về sở hữu trí tuệ cấp văn bằng bảo hộ.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1930,
+    "line_end": 1931
+  },
+  {
+    "clause_id": "dieu-73-khoan-8",
+    "anchor": "dieu-73-khoan-8",
+    "title": "8. Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ đã được cơ quan có thẩm quyền cấp trước ngày Luật này có hiệu lực thi hành thì vẫn còn hiệu lực. Trường hợp đề nghị thay đổi, bổ sung thông tin hoặc cấp lại Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ thì thực hiện theo quy định của Luật này.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1933,
+    "line_end": 1934
+  },
+  {
+    "clause_id": "dieu-73-khoan-9",
+    "anchor": "dieu-73-khoan-9",
+    "title": "9. Văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ nước ngoài tại Việt Nam đã được cấp Giấy phép thành lập văn phòng đại diện, chi nhánh tại Việt Nam thì tiếp tục được hoạt động đến khi Giấy phép thành lập văn phòng đại diện, chi nhánh hết hiệu lực.",
+    "source_file": "luat_93_2025_qh15.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1936,
+    "line_end": 1939
+  }
+]

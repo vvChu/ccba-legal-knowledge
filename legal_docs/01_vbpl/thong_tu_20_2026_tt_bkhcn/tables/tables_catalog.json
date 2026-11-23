@@ -1,0 +1,127 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 12,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "title": "Bảng 01",
+      "rows": 3,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_01.csv",
+      "json": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "title": "Bảng 02",
+      "rows": 5,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_02.csv",
+      "json": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "title": "Bảng 03",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_03.csv",
+      "json": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "title": "Bảng 04",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_04.csv",
+      "json": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "title": "Bảng 05",
+      "rows": 2,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_05.csv",
+      "json": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "title": "Bảng 06",
+      "rows": 22,
+      "cols": 6,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_06.csv",
+      "json": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "title": "Bảng 07",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_07.csv",
+      "json": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "title": "Bảng 08",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_08.csv",
+      "json": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "title": "Bảng 09",
+      "rows": 18,
+      "cols": 5,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_09.csv",
+      "json": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "title": "Bảng 10",
+      "rows": 19,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_10.csv",
+      "json": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "title": "Bảng 11",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_11.csv",
+      "json": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "title": "Bảng 12",
+      "rows": 1,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_12.csv",
+      "json": "tables/json/bang_12.json"
+    }
+  ]
+}

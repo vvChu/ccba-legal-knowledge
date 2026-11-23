@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 3,
+  "columns_count": 2,
+  "headers": [
+    "STT",
+    "Tên mẫu"
+  ],
+  "records": [
+    {
+      "STT": "Mẫu số 01",
+      "Tên mẫu": "Mời thương thảo hợp đồng đặt hàng cung cấp dịch vụ viễn thông phổ cập"
+    },
+    {
+      "STT": "Mẫu số 02",
+      "Tên mẫu": "Mời thương thảo hợp đồng đặt hàng hỗ trợ sử dụng dịch vụ viễn thông công ích"
+    }
+  ],
+  "footnotes": []
+}
