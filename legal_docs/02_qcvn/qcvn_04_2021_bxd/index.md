@@ -16,5 +16,6 @@ Tài liệu được đóng gói theo chuẩn **OKF v2.4 Universal Agent-Centric
 ---
 
 ## 📂 2. Nguồn Lịch Sử & Bảng Đối Chiếu
+- [📜 **Thông tư 31/2026/TT-BXD (Nguyên Văn Ban Hành Sửa Đổi 01:2026 — Hiệu Lực Từ 15/12/2026)**](../../01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.md) — *Gói tri thức độc lập kèm DOCX & PDF Công báo xác thực SHA-256*
 - [📂 **Thư Mục Lưu Trữ Nguồn Lịch Sử (Văn bản gốc 2021, Sửa đổi 1, PDF Công báo)**](sources/)
 - [🔄 **Bảng So Sánh Đối Chiếu Thay Đổi Sửa Đổi 01:2026**](./bang_so_sanh_thay_doi.md)

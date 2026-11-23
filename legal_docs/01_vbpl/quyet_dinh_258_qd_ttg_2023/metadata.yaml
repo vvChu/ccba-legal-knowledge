@@ -1,0 +1,39 @@
+id: quyet_dinh_258_qd_ttg_2023
+document_number: 258/QĐ-TTg
+type: Quyết định
+title: Quyết định 258/QĐ-TTg phê duyệt Lộ trình áp dụng Mô hình thông tin công trình
+  (BIM) trong hoạt động xây dựng
+status: active
+effective_date: '2023-03-17'
+signer: Trần Hồng Hà
+pdf_path: legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/sources/quyet_dinh_258_qd_ttg_2023.pdf
+pdf_sha256: e41d6a7f53322ac320a0aa5712ffe93378f9fd1a8f50adbeaaa9e677c53a49e8
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+  title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+- doc_id: nghị_định_số_15_2021_nđ_cp_ngày_03_tháng_3_năm_202
+  title: Nghị định số 15/2021/NĐ-CP ngày 03 tháng 3 năm 2021 của Chính phủ quy định
+    chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T09:01:20.277120+00:00'
+issued_by: Thủ tướng Chính phủ
+issued_date: '2023-03-17'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: e41d6a7f53322ac320a0aa5712ffe93378f9fd1a8f50adbeaaa9e677c53a49e8
+    vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_258_qd_ttg_2023/quyet_dinh_258_qd_ttg_2023.pdf
+    status: verified
+  docx:
+    sha256: c2e70d324c0eb1dab75ca2b1694e920270421aa2d8107264ee25c57e13ec0314
+    vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_258_qd_ttg_2023/quyet_dinh_258_qd_ttg_2023.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-258-QD-TTg-2023-ap-dung-Mo-hinh-thong-tin-cong-trinh-BIM-trong-hoat-dong-xay-dung-559799.aspx
+source_file: legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/sources/quyet_dinh_258_qd_ttg_2023.docx
+relations: {}

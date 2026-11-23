@@ -1,0 +1,50 @@
+id: thong_tu_31_2026_tt_bxd
+document_number: 31/2026/TT-BXD
+type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Nguyễn Văn Sinh
+issued_date: '2026-06-15'
+effective_date: '2026-12-15'
+published_date: ''
+status: pending_effective
+relations:
+  amends:
+  - QCVN-04-2021-BXD
+title: Thông tư 31/2026/TT-BXD ban hành Sửa đổi 01:2026 QCVN 04:2021/BXD Quy chuẩn
+  kỹ thuật quốc gia về Nhà chung cư
+bundle_path: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
+sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+pdf_path: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/sources/thong_tu_31_2026_tt_bxd.pdf
+pdf_sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
+cong_bao_number: null
+pdf_status: verified
+source_file: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/sources/thong_tu_31_2026_tt_bxd.docx
+source_file_size_kb: 15.0
+source_assets:
+  pdf:
+    sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.pdf
+    status: verified
+  docx:
+    sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.docx
+    status: verified
+url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
+cong_bao_date: null
+pdf_tier: 1
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-23T08:51:37.971465+00:00'
+legal_basis:
+- doc_id: luật_tiêu_chuẩn_và_quy_chuẩn_kỹ_thuật_số_68_2006_q
+  title: Luật Tiêu chuẩn và quy chuẩn kỹ thuật số 68/2006/QH11, được sửa đổi, bổ sung
+    bởi Luật số 70/2025/QH15
+- doc_id: nghị_định_số_22_2026_nđ_cp_của_chính_phủ_quy_định_
+  title: Nghị định số 22/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều và
+    biện pháp để tổ chức, hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật
+- doc_id: nghị_định_số_33_2025_nđ_cp_của_chính_phủ_quy_định_
+  title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
+    hạn và cơ cấu tổ chức của Bộ Xây dựng
+replaces: []

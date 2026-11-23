@@ -1,10 +1,10 @@
 version: 0.3.0
-updated_at: '2026-11-22T03:32:36.461231+00:00'
+updated_at: '2026-11-23T09:00:24.045150+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 107
+  total_documents: 109
   categories:
-    01_vbpl: 53
+    01_vbpl: 55
     02_qcvn: 17
     03_tcvn: 34
     04_appendices: 3
@@ -1101,10 +1101,10 @@ laws:
       effective_date: '2026-12-15'
       status: pending_effective
       source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
-      sha256: ''
-      pdf_sha256: ''
+      sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+      pdf_sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
       cong_bao_number: 373/2026
-      pdf_status: pending_download
+      pdf_status: verified
   sha256: 8aebdb36c54db76b2a1c71bfbfcb2841e2c16977a9751b0453e4dfa868493ac3
   pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
   pdf_sha256: c34d11842766492d9acd48ef27c738ab9b4a0431cf12228e93fe7b2537752524
@@ -1722,8 +1722,8 @@ laws:
     guided_by:
     - nghi_dinh_212_2026_nd_cp
     - thong_tu_39_2026_tt_bxd
-  title: Quyết định số 1812/QĐ-BXD ban hành Từ điển dữ liệu Cơ sở dữ liệu quốc gia về
-    hoạt động xây dựng và năng lực hành nghề hoạt động xây dựng (Phiên bản 1.0)
+  title: Quyết định số 1812/QĐ-BXD ban hành Từ điển dữ liệu Cơ sở dữ liệu quốc gia
+    về hoạt động xây dựng và năng lực hành nghề hoạt động xây dựng (Phiên bản 1.0)
   bundle_path: legal_docs/01_vbpl/quyet_dinh_1812_qd_bxd_2026/
   source_url: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1812-QD-BXD-2026-Tu-dien-du-lieu-Co-so-du-lieu-quoc-gia-hoat-dong-xay-dung-Phien-ban-1-0-729970.aspx
   sha256: d6e7c7d3fdd25a187fe66eeddfaf843741dc8054e575b0a0718652ed1f6a2e19
@@ -1786,6 +1786,74 @@ laws:
       phủ số do Thủ tướng Chính phủ ban hành
     href: https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-2629-QD-TTg-2025-phe-duyet-Chuong-trinh-phat-trien-Chinh-phu-so-682760.aspx
     relationship: Guides
+  pdf_tier: 1
+- id: thong_tu_31_2026_tt_bxd
+  document_number: 31/2026/TT-BXD
+  type: Thông tư
+  issued_by: Bộ Xây dựng
+  signer: Nguyễn Văn Sinh
+  issued_date: '2026-06-15'
+  effective_date: '2026-12-15'
+  published_date: ''
+  status: pending_effective
+  relations:
+    amends:
+    - QCVN-04-2021-BXD
+  title: Thông tư 31/2026/TT-BXD ban hành Sửa đổi 01:2026 QCVN 04:2021/BXD Quy chuẩn
+    kỹ thuật quốc gia về Nhà chung cư
+  bundle_path: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
+  sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+  pdf_path: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/sources/thong_tu_31_2026_tt_bxd.pdf
+  pdf_sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/sources/thong_tu_31_2026_tt_bxd.docx
+  source_file_size_kb: 15.0
+  source_assets:
+    pdf:
+      sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
+  cong_bao_date: null
+  pdf_tier: 1
+- id: quyet_dinh_258_qd_ttg_2023
+  document_number: 258/QĐ-TTg
+  type: Quyết định
+  issued_by: Thủ tướng Chính phủ
+  signer: Trần Hồng Hà
+  issued_date: '2023-03-17'
+  effective_date: '2023-03-17'
+  published_date: ''
+  status: active
+  relations: {}
+  title: Quyết định 258/QĐ-TTg phê duyệt Lộ trình áp dụng Mô hình thông tin công trình
+    (BIM) trong hoạt động xây dựng
+  bundle_path: legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-258-QD-TTg-2023-ap-dung-Mo-hinh-thong-tin-cong-trinh-BIM-trong-hoat-dong-xay-dung-559799.aspx
+  sha256: c2e70d324c0eb1dab75ca2b1694e920270421aa2d8107264ee25c57e13ec0314
+  pdf_path: legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/sources/quyet_dinh_258_qd_ttg_2023.pdf
+  pdf_sha256: e41d6a7f53322ac320a0aa5712ffe93378f9fd1a8f50adbeaaa9e677c53a49e8
+  cong_bao_number: null
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/quyet_dinh_258_qd_ttg_2023/sources/quyet_dinh_258_qd_ttg_2023.docx
+  source_file_size_kb: 9.8
+  source_assets:
+    pdf:
+      sha256: e41d6a7f53322ac320a0aa5712ffe93378f9fd1a8f50adbeaaa9e677c53a49e8
+      vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_258_qd_ttg_2023/quyet_dinh_258_qd_ttg_2023.pdf
+      status: verified
+    docx:
+      sha256: c2e70d324c0eb1dab75ca2b1694e920270421aa2d8107264ee25c57e13ec0314
+      vault_path: CCBA_Legal_Vault/01_vbpl/quyet_dinh_258_qd_ttg_2023/quyet_dinh_258_qd_ttg_2023.docx
+      status: verified
+  url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-258-QD-TTg-2023-ap-dung-Mo-hinh-thong-tin-cong-trinh-BIM-trong-hoat-dong-xay-dung-559799.aspx
+  cong_bao_date: null
   pdf_tier: 1
 standards:
 - id: TCVN-7336-2021

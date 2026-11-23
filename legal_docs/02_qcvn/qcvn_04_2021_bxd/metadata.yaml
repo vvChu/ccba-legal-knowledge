@@ -45,10 +45,10 @@ relations:
     effective_date: '2026-12-15'
     status: pending_effective
     source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
-    sha256: ''
-    pdf_sha256: ''
+    sha256: c060c2cafe5201227391ef75635c7463ce5fd335a785eb9f80fb0a4586196ebc
+    pdf_sha256: 4863c9fa9cc07c9379c1e33c5c1b4981a4fea2de773cbe0edc96a6f65eb7055b
     cong_bao_number: 373/2026
-    pdf_status: pending_download
+    pdf_status: verified
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
