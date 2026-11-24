@@ -1,0 +1,53 @@
+{
+  "table_id": "bang_30",
+  "title": "Bảng 30",
+  "rows_count": 4,
+  "columns_count": 9,
+  "headers": [
+    "STT",
+    "Loại máy móc, thiết bị phục vụ thi công",
+    "Số lượng",
+    "Công suất",
+    "Tính năng",
+    "Nước sản xuất",
+    "Năm sản xuất",
+    "Sở hữu của tổ chức hay đi thuê",
+    "Chất lượng sử dụng hiện nay"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Loại máy móc, thiết bị phục vụ thi công": "",
+      "Số lượng": "",
+      "Công suất": "",
+      "Tính năng": "",
+      "Nước sản xuất": "",
+      "Năm sản xuất": "",
+      "Sở hữu của tổ chức hay đi thuê": "",
+      "Chất lượng sử dụng hiện nay": ""
+    },
+    {
+      "STT": "2",
+      "Loại máy móc, thiết bị phục vụ thi công": "",
+      "Số lượng": "",
+      "Công suất": "",
+      "Tính năng": "",
+      "Nước sản xuất": "",
+      "Năm sản xuất": "",
+      "Sở hữu của tổ chức hay đi thuê": "",
+      "Chất lượng sử dụng hiện nay": ""
+    },
+    {
+      "STT": "...",
+      "Loại máy móc, thiết bị phục vụ thi công": "",
+      "Số lượng": "",
+      "Công suất": "",
+      "Tính năng": "",
+      "Nước sản xuất": "",
+      "Năm sản xuất": "",
+      "Sở hữu của tổ chức hay đi thuê": "",
+      "Chất lượng sử dụng hiện nay": ""
+    }
+  ],
+  "footnotes": []
+}

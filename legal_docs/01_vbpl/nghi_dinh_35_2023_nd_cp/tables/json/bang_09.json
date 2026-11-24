@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_09",
+  "title": "Bảng 09",
+  "rows_count": 2,
+  "columns_count": 8,
+  "headers": [
+    "STT",
+    "Lĩnh vực hoạt động xây dựng",
+    "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng I",
+    "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng II",
+    "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng III",
+    "Ghi chú — Hạng III",
+    "Ghi chú",
+    "col_8"
+  ],
+  "records": [
+    {
+      "STT": "3.1",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế, thẩm tra thiết kế xây dựng công trình dân dụng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng I": "Được thiết kế, thẩm tra thiết kế xây dựng công trình tất cả các cấp của công trình: dân dụng, hạ tầng kỹ thuật (trừ cấp nước, thoát nước, xử lý chất thải rắn) và công trình khác có kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng II": "Được thiết kế, thẩm tra thiết kế xây dựng công trình từ cấp II trở xuống của công trình: dân dụng, hạ tầng kỹ thuật (trừ cấp nước, thoát nước, xử lý chất thải rắn) và công trình khác có kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ năng lực — Hạng III": "Được thiết kế, thẩm tra thiết kế xây dựng công trình từ cấp III trở xuống của công trình: dân dụng, hạ tầng kỹ thuật (trừ cấp nước, thoát nước, xử lý chất thải rắn) và công trình khác có kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống.",
+      "Ghi chú — Hạng III": "Được thiết kế, thẩm tra thiết kế xây dựng công trình từ cấp III trở xuống của công trình: dân dụng, hạ tầng kỹ thuật (trừ cấp nước, thoát nước, xử lý chất thải rắn) và công trình khác có kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống.",
+      "Ghi chú": "Trường hợp tổ chức được cấp chứng chỉ năng lực với một hoặc một số bộ môn của thiết kế xây dựng thì phạm vi thiết kế, thẩm tra thiết kế xây dựng áp dụng đối với bộ môn đó tương ứng với từng hạng chứng chỉ.",
+      "col_8": "Trường hợp tổ chức được cấp chứng chỉ năng lực với một hoặc một số bộ môn của thiết kế xây dựng thì phạm vi thiết kế, thẩm tra thiết kế xây dựng áp dụng đối với bộ môn đó tương ứng với từng hạng chứng chỉ."
+    }
+  ],
+  "footnotes": []
+}

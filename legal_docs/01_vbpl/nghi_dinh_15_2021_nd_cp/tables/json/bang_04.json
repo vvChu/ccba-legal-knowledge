@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 2,
+  "columns_count": 3,
+  "headers": [
+    "col_1",
+    "(TÊN CƠ QUAN THỰC HIỆN THẨM TRA)",
+    "col_3"
+  ],
+  "records": [
+    {
+      "col_1": "",
+      "(TÊN CƠ QUAN THỰC HIỆN THẨM TRA)": "THẨM TRA Theo Văn bản số............/............ ngày...... tháng...... năm 20......... Chủ trì bộ môn ký tên:",
+      "col_3": ""
+    }
+  ],
+  "footnotes": []
+}

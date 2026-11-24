@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_07",
+  "title": "Bảng 07",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Lĩnh vực hoạt động xây dựng",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "3.1",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế kết cấu công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của tất cả các cấp công trình.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của công trình từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của công trình từ cấp III trở xuống",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

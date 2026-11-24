@@ -1,10 +1,10 @@
 version: 0.3.0
-updated_at: '2026-11-23T09:27:33.339405+00:00'
+updated_at: '2026-11-24T01:36:12.866200+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 113
+  total_documents: 117
   categories:
-    01_vbpl: 59
+    01_vbpl: 63
     02_qcvn: 17
     03_tcvn: 34
     04_appendices: 3
@@ -1933,6 +1933,33 @@ laws:
   url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-20-2026-TT-BKHCN-sua-doi-cac-Thong-tu-de-cat-giam-thu-tuc-hanh-chinh-706286.aspx
   cong_bao_date: null
   pdf_tier: 1
+- id: thong_tu_09_2023_tt_bxd
+  document_number: 09/2023/TT-BXD
+  type: Thông tư
+  issued_by: Bộ Xây dựng
+  signer: Nguyễn Tường Văn
+  issued_date: '2023-10-16'
+  effective_date: '2023-12-01'
+  published_date: ''
+  status: active
+  relations:
+    amends:
+    - QCVN-06-2022-BXD
+  title: Thông tư 09/2023/TT-BXD ban hành Sửa đổi 1:2023 QCVN 06:2022/BXD Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình
+  bundle_path: legal_docs/01_vbpl/thong_tu_09_2023_tt_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-09-2023-TT-BXD-sua-doi-1-2023-QCVN-06-2022-BXD-an-toan-chay-cho-nha-cong-trinh-583536.aspx
+  pdf_path: legal_docs/01_vbpl/thong_tu_09_2023_tt_bxd/sources/thong_tu_09_2023_tt_bxd.pdf
+  pdf_sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
+  cong_bao_number: 235+236/2023
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_09_2023_tt_bxd/thong_tu_09_2023_tt_bxd.pdf
+      status: verified
+  doc_id: thong_tu_09_2023_tt_bxd
+  category: 01_vbpl
+  doc_type: vbpl
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
@@ -3794,3 +3821,134 @@ decrees:
   url: https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Nghi-dinh-268-2025-ND-CP-huong-dan-Luat-Khoa-hoc-cong-nghe-khuyen-khich-hoat-dong-khoa-hoc-677733.aspx
   cong_bao_date: null
   pdf_tier: 1
+- id: nghi_dinh_35_2023_nd_cp
+  document_number: 35/2023/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Trần Hồng Hà
+  issued_date: '2023-06-20'
+  effective_date: '2023-06-20'
+  published_date: ''
+  status: partially_expired
+  relations:
+    amends:
+    - 37/2010/NĐ-CP
+    - 44/2015/NĐ-CP
+    - 85/2020/NĐ-CP
+    - 11/2013/NĐ-CP
+    - 99/2015/NĐ-CP
+    - 100/2015/NĐ-CP
+    - 69/2021/NĐ-CP
+    - 62/2016/NĐ-CP
+    - 37/2015/NĐ-CP
+    - 10/2021/NĐ-CP
+    - 06/2021/NĐ-CP
+    - 15/2021/NĐ-CP
+    partially_repealed_by:
+    - 207/2026/NĐ-CP
+    - 210/2026/NĐ-CP
+    - 217/2026/NĐ-CP
+  title: Nghị định 35/2023/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định thuộc
+    lĩnh vực quản lý nhà nước của Bộ Xây dựng
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/
+  source_url: https://vanban.chinhphu.vn/?pageid=27160&docid=208135
+  sha256: f690ba116e14633a9cf618501c27e48264513fa1614f1663af26401dbc1473fb
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/sources/nghi_dinh_35_2023_nd_cp.pdf
+  pdf_sha256: 281639861503b2297d584a775c6118adc4be380ba48fcba4c1ba5136850f040e
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/sources/nghi_dinh_35_2023_nd_cp.docx
+  source_file_size_kb: 68.9
+  source_assets:
+    pdf:
+      sha256: 281639861503b2297d584a775c6118adc4be380ba48fcba4c1ba5136850f040e
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_35_2023_nd_cp/nghi_dinh_35_2023_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: f690ba116e14633a9cf618501c27e48264513fa1614f1663af26401dbc1473fb
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_35_2023_nd_cp/nghi_dinh_35_2023_nd_cp.docx
+      status: verified
+  doc_id: nghi_dinh_35_2023_nd_cp
+  category: 01_vbpl
+  doc_type: vbpl
+- id: nghi_dinh_06_2021_nd_cp
+  document_number: 06/2021/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Xuân Phúc
+  issued_date: '2021-01-26'
+  effective_date: '2021-01-26'
+  expiration_date: '2026-07-01'
+  published_date: ''
+  status: expired
+  relations:
+    replaced_by:
+    - 207/2026/NĐ-CP
+    replaces:
+    - 46/2015/NĐ-CP
+    amended_by:
+    - 35/2023/NĐ-CP
+  title: Nghị định 06/2021/NĐ-CP quy định chi tiết một số nội dung về quản lý chất
+    lượng, thi công xây dựng và bảo trì công trình xây dựng
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_06_2021_nd_cp/
+  source_url: 06/2021/NĐ-CP
+  sha256: 83d5813ca6fa8a356f1d71ebf2107c6e40defd4726abb6d34c082248362db5db
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_06_2021_nd_cp/sources/nghi_dinh_06_2021_nd_cp.pdf
+  pdf_sha256: 43b09a651ff6af9da823693c3809e41ac18cd47f979b7ef75367673adf56ae98
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_06_2021_nd_cp/sources/nghi_dinh_06_2021_nd_cp.docx
+  source_file_size_kb: 64.2
+  source_assets:
+    pdf:
+      sha256: 43b09a651ff6af9da823693c3809e41ac18cd47f979b7ef75367673adf56ae98
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_06_2021_nd_cp/nghi_dinh_06_2021_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 83d5813ca6fa8a356f1d71ebf2107c6e40defd4726abb6d34c082248362db5db
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_06_2021_nd_cp/nghi_dinh_06_2021_nd_cp.docx
+      status: verified
+  doc_id: nghi_dinh_06_2021_nd_cp
+  category: 01_vbpl
+  doc_type: vbpl
+- id: nghi_dinh_15_2021_nd_cp
+  document_number: 15/2021/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Xuân Phúc
+  issued_date: '2021-03-03'
+  effective_date: '2021-03-03'
+  expiration_date: '2024-12-30'
+  published_date: ''
+  status: expired
+  relations:
+    replaced_by:
+    - 217/2026/NĐ-CP
+    - 175/2024/NĐ-CP
+    replaces:
+    - 59/2015/NĐ-CP
+    - 42/2017/NĐ-CP
+    amended_by:
+    - 35/2023/NĐ-CP
+  title: Nghị định 15/2021/NĐ-CP quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_15_2021_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/dau-tu/Nghi-dinh-15-2021-ND-CP-huong-dan-mot-so-noi-dung-quan-ly-du-an-dau-tu-xay-dung-466771.aspx
+  sha256: 2c9e3a1af5061d3e09e53d7946df3eb8be7ac503974e343e8e0b44deefdc3a98
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_15_2021_nd_cp/sources/nghi_dinh_15_2021_nd_cp.pdf
+  pdf_sha256: 37b51716194dc45788f1b234f1cb53006204e47247bed11022524ed41102721f
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_15_2021_nd_cp/sources/nghi_dinh_15_2021_nd_cp.docx
+  source_file_size_kb: 546.6
+  source_assets:
+    pdf:
+      sha256: 37b51716194dc45788f1b234f1cb53006204e47247bed11022524ed41102721f
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_15_2021_nd_cp/nghi_dinh_15_2021_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 2c9e3a1af5061d3e09e53d7946df3eb8be7ac503974e343e8e0b44deefdc3a98
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_15_2021_nd_cp/nghi_dinh_15_2021_nd_cp.docx
+      status: verified
+  doc_id: nghi_dinh_15_2021_nd_cp
+  category: 01_vbpl
+  doc_type: vbpl

@@ -1,0 +1,54 @@
+id: nghi_dinh_15_2021_nd_cp
+document_number: 15/2021/NĐ-CP
+type: Nghị định
+title: Nghị định 15/2021/NĐ-CP quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
+status: expired
+effective_date: '2021-03-03'
+expiration_date: '2024-12-30'
+signer: Nguyễn Xuân Phúc
+pdf_path: legal_docs/01_vbpl/nghi_dinh_15_2021_nd_cp/sources/nghi_dinh_15_2021_nd_cp.pdf
+pdf_sha256: 37b51716194dc45788f1b234f1cb53006204e47247bed11022524ed41102721f
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+  title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+- doc_id: luật_đầu_tư_ngày_17_tháng_6_năm_2020
+  title: Luật Đầu tư ngày 17 tháng 6 năm 2020
+- doc_id: luật_đầu_tư_công_ngày_13_tháng_6_năm_2019
+  title: Luật Đầu tư công ngày 13 tháng 6 năm 2019
+- doc_id: luật_đầu_tư_theo_phương_thức_đối_tác_công_tư_ngày_
+  title: Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020
+- doc_id: luật_quy_hoạch_đô_thị_ngày_17_tháng_6_năm_2009
+  title: Luật Quy hoạch đô thị ngày 17 tháng 6 năm 2009
+replaces:
+- 59/2015/NĐ-CP
+- 42/2017/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-24T01:36:14.783856+00:00'
+issued_by: Chính phủ
+issued_date: '2021-03-03'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: 37b51716194dc45788f1b234f1cb53006204e47247bed11022524ed41102721f
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_15_2021_nd_cp/nghi_dinh_15_2021_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 2c9e3a1af5061d3e09e53d7946df3eb8be7ac503974e343e8e0b44deefdc3a98
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_15_2021_nd_cp/nghi_dinh_15_2021_nd_cp.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/dau-tu/Nghi-dinh-15-2021-ND-CP-huong-dan-mot-so-noi-dung-quan-ly-du-an-dau-tu-xay-dung-466771.aspx
+source_file: legal_docs/01_vbpl/nghi_dinh_15_2021_nd_cp/sources/nghi_dinh_15_2021_nd_cp.docx
+relations:
+  replaced_by:
+  - 217/2026/NĐ-CP
+  - 175/2024/NĐ-CP
+  replaces:
+  - 59/2015/NĐ-CP
+  - 42/2017/NĐ-CP
+  amended_by:
+  - 35/2023/NĐ-CP

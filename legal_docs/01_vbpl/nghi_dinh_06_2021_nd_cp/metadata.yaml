@@ -1,0 +1,56 @@
+id: nghi_dinh_06_2021_nd_cp
+document_number: 06/2021/NĐ-CP
+type: Nghị định
+title: Nghị định 06/2021/NĐ-CP quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng
+status: expired
+effective_date: '2021-01-26'
+expiration_date: '2026-07-01'
+signer: Nguyễn Xuân Phúc
+pdf_path: legal_docs/01_vbpl/nghi_dinh_06_2021_nd_cp/sources/nghi_dinh_06_2021_nd_cp.pdf
+pdf_sha256: 43b09a651ff6af9da823693c3809e41ac18cd47f979b7ef75367673adf56ae98
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+  title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+- doc_id: luật_an_toàn_vệ_sinh_lao_động_ngày_25_tháng_6_năm_
+  title: Luật An toàn, vệ sinh lao động ngày 25 tháng 6 năm 2015
+- doc_id: luật_chất_lượng_sản_phẩm_hàng_hóa_ngày_21_tháng_11
+  title: Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007
+- doc_id: luật_sửa_đổi_bổ_sung_một_số_điều_của_37_luật_có_li
+  title: Luật sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch
+    ngày 20 tháng 11 năm 2018
+- doc_id: luật_đầu_tư_ngày_17_tháng_6_năm_2020
+  title: Luật Đầu tư ngày 17 tháng 6 năm 2020
+- doc_id: luật_đầu_tư_theo_phương_thức_đối_tác_công_tư_ngày_
+  title: Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020
+- doc_id: luật_đấu_thầu_ngày_26_tháng_11_năm_2013
+  title: Luật Đấu thầu ngày 26 tháng 11 năm 2013
+replaces:
+- 46/2015/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-24T01:34:58.281614+00:00'
+issued_by: Chính phủ
+issued_date: '2021-01-26'
+published_date: ''
+source_assets:
+  pdf:
+    sha256: 43b09a651ff6af9da823693c3809e41ac18cd47f979b7ef75367673adf56ae98
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_06_2021_nd_cp/nghi_dinh_06_2021_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 83d5813ca6fa8a356f1d71ebf2107c6e40defd4726abb6d34c082248362db5db
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_06_2021_nd_cp/nghi_dinh_06_2021_nd_cp.docx
+    status: verified
+source_url: 06/2021/NĐ-CP
+source_file: legal_docs/01_vbpl/nghi_dinh_06_2021_nd_cp/sources/nghi_dinh_06_2021_nd_cp.docx
+relations:
+  replaced_by:
+  - 207/2026/NĐ-CP
+  replaces:
+  - 46/2015/NĐ-CP
+  amended_by:
+  - 35/2023/NĐ-CP

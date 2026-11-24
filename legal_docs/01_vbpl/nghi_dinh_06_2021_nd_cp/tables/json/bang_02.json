@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 3,
+  "columns_count": 4,
+  "headers": [
+    "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG",
+    "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG",
+    "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG",
+    "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG"
+  ],
+  "records": [
+    {
+      "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG": "BẢN VẼ HOÀN CÔNGNgày……tháng…..năm….."
+    },
+    {
+      "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG": "Tư vấn giám sát trưởng(Ghi rõ họ tên, chức vụ, chữ ký)"
+    }
+  ],
+  "footnotes": []
+}

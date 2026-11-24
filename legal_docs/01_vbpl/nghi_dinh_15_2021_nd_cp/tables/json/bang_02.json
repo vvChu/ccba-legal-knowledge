@@ -1,0 +1,65 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 8,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Nội dung chi phí",
+    "Giá trị đề nghị thẩm tra",
+    "Giá trị sau thẩm tra",
+    "Tăng, giảm (+;-)"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Nội dung chi phí": "Chi phí xây dựng",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "2",
+      "Nội dung chi phí": "Chi phí thiết bị (nếu có)",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "3",
+      "Nội dung chi phí": "Chi phí quản lý dự án",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "4",
+      "Nội dung chi phí": "Chi phí tư vấn đầu tư xây dựng",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "5",
+      "Nội dung chi phí": "Chi phí khác",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "6",
+      "Nội dung chi phí": "Chi phí dự phòng",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    },
+    {
+      "STT": "",
+      "Nội dung chi phí": "Tổng cộng",
+      "Giá trị đề nghị thẩm tra": "",
+      "Giá trị sau thẩm tra": "",
+      "Tăng, giảm (+;-)": ""
+    }
+  ],
+  "footnotes": []
+}

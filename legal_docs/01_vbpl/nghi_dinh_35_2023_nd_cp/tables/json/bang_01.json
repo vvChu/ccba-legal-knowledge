@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 3,
+  "columns_count": 2,
+  "headers": [
+    "Mẫu số",
+    "Mẫu tên văn bản"
+  ],
+  "records": [
+    {
+      "Mẫu số": "Mẫu số 01",
+      "Mẫu tên văn bản": "Đơn đăng ký cấp/cấp lại Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng"
+    },
+    {
+      "Mẫu số": "Mẫu số 02",
+      "Mẫu tên văn bản": "Đơn đăng ký bổ sung, sửa đổi Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_32",
+  "title": "Bảng 32",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Thời gian công tác (Từ tháng, năm đến tháng, năm)",
+    "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị, số điện thoại liên hệ)",
+    "Kê khai kinh nghiệm thực hiện công việc tiêu biểu (Ghi rõ tên Dự án/công trình; Nhóm dự án/Cấp công trình; Loại công trình; Chức danh/Nội dung công việc thực hiện)",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Thời gian công tác (Từ tháng, năm đến tháng, năm)": "",
+      "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị, số điện thoại liên hệ)": "",
+      "Kê khai kinh nghiệm thực hiện công việc tiêu biểu (Ghi rõ tên Dự án/công trình; Nhóm dự án/Cấp công trình; Loại công trình; Chức danh/Nội dung công việc thực hiện)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "2",
+      "Thời gian công tác (Từ tháng, năm đến tháng, năm)": "",
+      "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị, số điện thoại liên hệ)": "",
+      "Kê khai kinh nghiệm thực hiện công việc tiêu biểu (Ghi rõ tên Dự án/công trình; Nhóm dự án/Cấp công trình; Loại công trình; Chức danh/Nội dung công việc thực hiện)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "...",
+      "Thời gian công tác (Từ tháng, năm đến tháng, năm)": "",
+      "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị, số điện thoại liên hệ)": "",
+      "Kê khai kinh nghiệm thực hiện công việc tiêu biểu (Ghi rõ tên Dự án/công trình; Nhóm dự án/Cấp công trình; Loại công trình; Chức danh/Nội dung công việc thực hiện)": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

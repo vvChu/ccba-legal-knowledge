@@ -1,0 +1,193 @@
+{
+  "table_id": "bang_36",
+  "title": "Bảng 36",
+  "rows_count": 23,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Lĩnh vực hoạt động xây dựng",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Lĩnh vực hoạt động xây dựng": "Khảo sát xây dựng, bao gồm:",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "1.1",
+      "Lĩnh vực hoạt động xây dựng": "Khảo sát địa hình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm khảo sát xây dựng tất cả các nhóm dự án, các cấp công trình cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm khảo sát xây dựng dự án nhóm B, công trình cấp II trở xuống cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm khảo sát xây dựng dự án nhóm C, dự án có yêu cầu lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng, công trình cấp III trở xuống cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "1.2",
+      "Lĩnh vực hoạt động xây dựng": "Khảo sát địa chất công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm khảo sát xây dựng tất cả các nhóm dự án, các cấp công trình cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm khảo sát xây dựng dự án nhóm B, công trình cấp II trở xuống cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm khảo sát xây dựng dự án nhóm C, dự án có yêu cầu lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng, công trình cấp III trở xuống cùng lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "2",
+      "Lĩnh vực hoạt động xây dựng": "Lập thiết kế quy hoạch xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm đồ án, chủ trì thiết kế quy hoạch xây dựng lĩnh vực chuyên môn của tất cả các đồ án quy hoạch xây dựng.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm đồ án, chủ trì thiết kế quy hoạch xây dựng lĩnh vực chuyên môn của tất cả các đồ án quy hoạch xây dựng thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm đồ án, chủ trì thiết kế quy hoạch xây dựng lĩnh vực chuyên môn các đồ án quy hoạch xây dựng thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp huyện",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế xây dựng, bao gồm:",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.1",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế kết cấu công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến ống/cống, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của tất cả các cấp công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của công trình từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các kết cấu dạng nhà, cột, trụ, tháp, bể chứa, si lô, tuyến cáp treo vận chuyển người và các dạng kết cấu khác của công trình từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.2",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế cơ - điện công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cơ - điện của tất cả các cấp công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cơ - điện của công trình từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cơ - điện của công trình cấp III, cấp IV",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.3",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế cấp - thoát nước công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cấp - thoát nước của tất cả các cấp công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cấp - thoát nước của công trình từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế bộ môn cấp - thoát nước của công trình cấp III, cấp IV",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.4",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế xây dựng công trình khai thác mỏ",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.5",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế xây dựng công trình giao thông, gồm: 3.5.1. Đường bộ 3.5.2. Đường sắt 3.5.3. Cầu - Hầm 3.5.4. Đường thủy nội địa - Hàng hải",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.6",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế xây dựng công trình hạ tầng kỹ thuật, gồm: 3.6.1. Cấp nước - Thoát nước 3.6.2. Xử lý chất thải rắn",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "3.7",
+      "Lĩnh vực hoạt động xây dựng": "Thiết kế xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều)",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "4",
+      "Lĩnh vực hoạt động xây dựng": "Giám sát thi công xây dựng, bao gồm:",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "4.1",
+      "Lĩnh vực hoạt động xây dựng": "Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám sát trưởng các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám sát trưởng các công trình từ cấp II trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám sát trưởng các công trình từ cấp III trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "4.2",
+      "Lĩnh vực hoạt động xây dựng": "Giám sát công tác xây dựng công trình giao thông",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám sát trưởng các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám sát trưởng các công trình từ cấp II trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám sát trưởng các công trình từ cấp III trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "4.3",
+      "Lĩnh vực hoạt động xây dựng": "Giám sát công tác xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều)",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám sát trưởng các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám sát trưởng các công trình từ cấp II trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám sát trưởng các công trình từ cấp III trở xuống thuộc lĩnh vực được ghi trong chứng chỉ hành nghề; được làm giám sát viên thi công xây dựng tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "4.4",
+      "Lĩnh vực hoạt động xây dựng": "Giám sát công tác lắp đặt thiết bị vào công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám sát trưởng, giám sát viên lắp đặt thiết bị vào công trình của tất cả các cấp công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được giám sát trưởng lắp đặt thiết bị vào công trình của các công trình từ cấp II trở xuống, giám sát viên lắp đặt thiết bị vào công trình của tất cả các cấp công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được giám sát trưởng lắp đặt thiết bị vào công trình của các công trình từ cấp III trở xuống, giám sát viên lắp đặt thiết bị vào công trình của tất cả các cấp công trình",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "5",
+      "Lĩnh vực hoạt động xây dựng": "Định giá xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được chủ trì thực hiện quản lý chi phí đầu tư xây dựng không phân biệt loại, nhóm dự án và loại, cấp công trình xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được chủ trì thực hiện quản lý chi phí đầu tư xây dựng các loại dự án từ nhóm B trở xuống và các loại công trình từ cấp II trở xuống",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được chủ trì thực hiện quản lý chi phí đầu tư xây dựng các loại dự án nhóm C, dự án có yêu cầu lập Báo cáo kinh tế - kỹ thuật đầu tư xây dựng và các loại công trình từ cấp III trở xuống",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "6",
+      "Lĩnh vực hoạt động xây dựng": "Quản lý dự án đầu tư xây dựng công trình, bao gồm:",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "6.1",
+      "Lĩnh vực hoạt động xây dựng": "Quản lý dự án đầu tư xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám đốc quản lý dự án tất cả các nhóm dự án thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám đốc quản lý dự án nhóm B, nhóm C thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám đốc quản lý dự án nhóm C và dự án chỉ yêu cầu lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "6.2",
+      "Lĩnh vực hoạt động xây dựng": "Quản lý dự án đầu tư xây dựng công trình giao thông",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám đốc quản lý dự án tất cả các nhóm dự án thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám đốc quản lý dự án nhóm B, nhóm C thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám đốc quản lý dự án nhóm C và dự án chỉ yêu cầu lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "6.3",
+      "Lĩnh vực hoạt động xây dựng": "Quản lý dự án đầu tư xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều)",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm giám đốc quản lý dự án tất cả các nhóm dự án thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm giám đốc quản lý dự án nhóm B, nhóm C thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm giám đốc quản lý dự án nhóm C và dự án chỉ yêu cầu lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng thuộc lĩnh vực được ghi trong chứng chỉ hành nghề",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}
