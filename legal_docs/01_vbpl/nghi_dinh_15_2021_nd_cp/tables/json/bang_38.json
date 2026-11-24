@@ -1,0 +1,192 @@
+{
+  "table_id": "bang_38",
+  "title": "Bảng 38",
+  "rows_count": 36,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Nơi cấp",
+    "Ký hiệu",
+    "STT",
+    "Nơi cấp",
+    "Ký hiệu"
+  ],
+  "records": [
+    {
+      "STT": "Đối với chứng chỉ do cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng cấp",
+      "Nơi cấp": "Đối với chứng chỉ do cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng cấp",
+      "Ký hiệu": "Đối với chứng chỉ do cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng cấp"
+    },
+    {
+      "STT": "",
+      "Nơi cấp": "",
+      "Ký hiệu": ""
+    },
+    {
+      "STT": "Đối với chứng chỉ hạng II, hạng III do Sở Xây dựng và tổ chức xã hội - nghề nghiệp được công nhận cấp",
+      "Nơi cấp": "Đối với chứng chỉ hạng II, hạng III do Sở Xây dựng và tổ chức xã hội - nghề nghiệp được công nhận cấp",
+      "Ký hiệu": "Đối với chứng chỉ hạng II, hạng III do Sở Xây dựng và tổ chức xã hội - nghề nghiệp được công nhận cấp"
+    },
+    {
+      "STT": "33",
+      "Nơi cấp": "Kon Tum",
+      "Ký hiệu": "KOT"
+    },
+    {
+      "STT": "34",
+      "Nơi cấp": "Lai Châu",
+      "Ký hiệu": "LAC"
+    },
+    {
+      "STT": "35",
+      "Nơi cấp": "Lâm Đồng",
+      "Ký hiệu": "LAD"
+    },
+    {
+      "STT": "36",
+      "Nơi cấp": "Lạng Sơn",
+      "Ký hiệu": "LAS"
+    },
+    {
+      "STT": "37",
+      "Nơi cấp": "Lào Cai",
+      "Ký hiệu": "LCA"
+    },
+    {
+      "STT": "38",
+      "Nơi cấp": "Long An",
+      "Ký hiệu": "LOA"
+    },
+    {
+      "STT": "39",
+      "Nơi cấp": "Nam Định",
+      "Ký hiệu": "NAD"
+    },
+    {
+      "STT": "40",
+      "Nơi cấp": "Nghệ An",
+      "Ký hiệu": "NGA"
+    },
+    {
+      "STT": "41",
+      "Nơi cấp": "Ninh Bình",
+      "Ký hiệu": "NIB"
+    },
+    {
+      "STT": "42",
+      "Nơi cấp": "Ninh Thuân",
+      "Ký hiệu": "NIT"
+    },
+    {
+      "STT": "43",
+      "Nơi cấp": "Phú Thọ",
+      "Ký hiệu": "PHT"
+    },
+    {
+      "STT": "44",
+      "Nơi cấp": "Phú Yên",
+      "Ký hiệu": "PHY"
+    },
+    {
+      "STT": "45",
+      "Nơi cấp": "Quảng Bình",
+      "Ký hiệu": "QUB"
+    },
+    {
+      "STT": "46",
+      "Nơi cấp": "Quảng Nam",
+      "Ký hiệu": "QUN"
+    },
+    {
+      "STT": "47",
+      "Nơi cấp": "Quảng Ngãi",
+      "Ký hiệu": "QNG"
+    },
+    {
+      "STT": "48",
+      "Nơi cấp": "Quảng Ninh",
+      "Ký hiệu": "QNI"
+    },
+    {
+      "STT": "49",
+      "Nơi cấp": "Quảng Trị",
+      "Ký hiệu": "QTR"
+    },
+    {
+      "STT": "50",
+      "Nơi cấp": "Sóc Trăng",
+      "Ký hiệu": "SOT"
+    },
+    {
+      "STT": "51",
+      "Nơi cấp": "Sơn La",
+      "Ký hiệu": "SOL"
+    },
+    {
+      "STT": "52",
+      "Nơi cấp": "Tây Ninh",
+      "Ký hiệu": "TAN"
+    },
+    {
+      "STT": "53",
+      "Nơi cấp": "Thái Bình",
+      "Ký hiệu": "THB"
+    },
+    {
+      "STT": "54",
+      "Nơi cấp": "Thái Nguyên",
+      "Ký hiệu": "THN"
+    },
+    {
+      "STT": "55",
+      "Nơi cấp": "Thanh Hóa",
+      "Ký hiệu": "THH"
+    },
+    {
+      "STT": "56",
+      "Nơi cấp": "Thừa Thiên Huế",
+      "Ký hiệu": "TTH"
+    },
+    {
+      "STT": "57",
+      "Nơi cấp": "Tiền Giang",
+      "Ký hiệu": "TIG"
+    },
+    {
+      "STT": "58",
+      "Nơi cấp": "TP. Hồ Chí Minh",
+      "Ký hiệu": "HCM"
+    },
+    {
+      "STT": "59",
+      "Nơi cấp": "Trà Vinh",
+      "Ký hiệu": "TRV"
+    },
+    {
+      "STT": "60",
+      "Nơi cấp": "Tuyên Quang",
+      "Ký hiệu": "TUQ"
+    },
+    {
+      "STT": "61",
+      "Nơi cấp": "Vĩnh Long",
+      "Ký hiệu": "VIL"
+    },
+    {
+      "STT": "62",
+      "Nơi cấp": "Vĩnh Phúc",
+      "Ký hiệu": "VIP"
+    },
+    {
+      "STT": "63",
+      "Nơi cấp": "Yên Bái",
+      "Ký hiệu": "YEB"
+    },
+    {
+      "STT": "64",
+      "Nơi cấp": "Chứng chỉ do tổ chức xã hội - nghề nghiệp được công nhận cấp",
+      "Ký hiệu": "Bộ Xây dựng quy định cụ thể trong Quyết định công nhận tổ chức xã hội - nghề nghiệp đủ điều kiện cấp chứng chỉ hành nghề hoạt động xây dựng, chứng chỉ năng lực hoạt động xây dựng"
+    }
+  ],
+  "footnotes": []
+}

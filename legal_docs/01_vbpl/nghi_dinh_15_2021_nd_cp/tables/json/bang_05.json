@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_05",
+  "title": "Bảng 05",
+  "rows_count": 2,
+  "columns_count": 3,
+  "headers": [
+    "col_1",
+    "(TÊN CHỦ ĐẦU TƯ)",
+    "col_3"
+  ],
+  "records": [
+    {
+      "col_1": "",
+      "(TÊN CHỦ ĐẦU TƯ)": "PHÊ DUYỆT Theo Quyết định số............/............ ngày...... tháng...... năm 20......... Ký tên:",
+      "col_3": ""
+    }
+  ],
+  "footnotes": []
+}

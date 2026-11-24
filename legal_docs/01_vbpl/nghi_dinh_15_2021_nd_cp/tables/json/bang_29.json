@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_29",
+  "title": "Bảng 29",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Nội dung hoạt động xây dựng (Ghi rõ lĩnh vực hoạt động và vai trò: nhà thầu chính, nhà thầu phụ, tổng thầu; Nội dung công việc thực hiện)",
+    "Thông tin dự án/ công trình (Ghi rõ tên dự án/công trình; nhóm dự án; loại, cấp công trình; quy mô kết cấu, công suất, vị trí xây dựng)",
+    "Chủ đầu tư (Tên chủ đầu tư, số điện thoại liên hệ)",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Nội dung hoạt động xây dựng (Ghi rõ lĩnh vực hoạt động và vai trò: nhà thầu chính, nhà thầu phụ, tổng thầu; Nội dung công việc thực hiện)": "",
+      "Thông tin dự án/ công trình (Ghi rõ tên dự án/công trình; nhóm dự án; loại, cấp công trình; quy mô kết cấu, công suất, vị trí xây dựng)": "",
+      "Chủ đầu tư (Tên chủ đầu tư, số điện thoại liên hệ)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "2",
+      "Nội dung hoạt động xây dựng (Ghi rõ lĩnh vực hoạt động và vai trò: nhà thầu chính, nhà thầu phụ, tổng thầu; Nội dung công việc thực hiện)": "",
+      "Thông tin dự án/ công trình (Ghi rõ tên dự án/công trình; nhóm dự án; loại, cấp công trình; quy mô kết cấu, công suất, vị trí xây dựng)": "",
+      "Chủ đầu tư (Tên chủ đầu tư, số điện thoại liên hệ)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "...",
+      "Nội dung hoạt động xây dựng (Ghi rõ lĩnh vực hoạt động và vai trò: nhà thầu chính, nhà thầu phụ, tổng thầu; Nội dung công việc thực hiện)": "",
+      "Thông tin dự án/ công trình (Ghi rõ tên dự án/công trình; nhóm dự án; loại, cấp công trình; quy mô kết cấu, công suất, vị trí xây dựng)": "",
+      "Chủ đầu tư (Tên chủ đầu tư, số điện thoại liên hệ)": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 2,
+  "columns_count": 3,
+  "headers": [
+    "col_1",
+    "(TÊN CƠ QUAN THỰC HIỆN THẨM ĐỊNH)",
+    "col_3"
+  ],
+  "records": [
+    {
+      "col_1": "",
+      "(TÊN CƠ QUAN THỰC HIỆN THẨM ĐỊNH)": "THẨM ĐỊNH Theo Văn bản số............/............ ngày...... tháng...... năm 20......... Ký tên:",
+      "col_3": ""
+    }
+  ],
+  "footnotes": []
+}

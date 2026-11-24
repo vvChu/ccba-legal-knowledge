@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 2,
+  "columns_count": 4,
+  "headers": [
+    "TT",
+    "Tên chỉ tiêu thí nghiệm",
+    "Tiêu chuẩn kỹ thuật",
+    "Máy móc, thiết bị"
+  ],
+  "records": [
+    {
+      "TT": "(1)",
+      "Tên chỉ tiêu thí nghiệm": "(2)",
+      "Tiêu chuẩn kỹ thuật": "(3)",
+      "Máy móc, thiết bị": "(4)"
+    }
+  ],
+  "footnotes": []
+}

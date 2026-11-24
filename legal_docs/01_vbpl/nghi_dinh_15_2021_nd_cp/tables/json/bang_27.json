@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_27",
+  "title": "Bảng 27",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Họ và tên",
+    "Vị trí/Chức danh",
+    "Số chứng chỉ hành nghề",
+    "Điện thoại liên hệ"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Họ và tên": "",
+      "Vị trí/Chức danh": "",
+      "Số chứng chỉ hành nghề": "",
+      "Điện thoại liên hệ": ""
+    },
+    {
+      "STT": "2",
+      "Họ và tên": "",
+      "Vị trí/Chức danh": "",
+      "Số chứng chỉ hành nghề": "",
+      "Điện thoại liên hệ": ""
+    },
+    {
+      "STT": "...",
+      "Họ và tên": "",
+      "Vị trí/Chức danh": "",
+      "Số chứng chỉ hành nghề": "",
+      "Điện thoại liên hệ": ""
+    }
+  ],
+  "footnotes": []
+}

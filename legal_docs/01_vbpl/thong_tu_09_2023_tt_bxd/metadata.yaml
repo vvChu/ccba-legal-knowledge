@@ -1,0 +1,40 @@
+id: thong_tu_09_2023_tt_bxd
+document_number: 09/2023/TT-BXD
+title: Thông tư 09/2023/TT-BXD ban hành Sửa đổi 1:2023 QCVN 06:2022/BXD Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình
+type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Nguyễn Tường Văn
+issued_date: '2023-10-16'
+effective_date: '2023-12-01'
+status: active
+pdf_path: legal_docs/01_vbpl/thong_tu_09_2023_tt_bxd/sources/thong_tu_09_2023_tt_bxd.pdf
+pdf_sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
+pdf_status: verified
+legal_basis:
+- doc_id: luat_tieu_chuan_va_quy_chuan_ky_thuat_2006
+  title: Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29/6/2006
+- doc_id: nghi_dinh_127_2007_nd_cp
+  title: Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ
+- doc_id: nghi_dinh_78_2018_nd_cp
+  title: Nghị định số 78/2018/NĐ-CP ngày 16/5/2018 của Chính phủ
+- doc_id: nghi_dinh_52_2022_nd_cp
+  title: Nghị định số 52/2022/NĐ-CP ngày 08/8/2022 của Chính phủ
+replaces: []
+bundle_path: legal_docs/01_vbpl/thong_tu_09_2023_tt_bxd/
+cong_bao_number: 235+236/2023
+source_assets:
+  pdf:
+    sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_09_2023_tt_bxd/thong_tu_09_2023_tt_bxd.pdf
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-09-2023-TT-BXD-sua-doi-1-2023-QCVN-06-2022-BXD-an-toan-chay-cho-nha-cong-trinh-583536.aspx
+relations:
+  amends:
+  - QCVN-06-2022-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-11-24T01:42:00+00:00'
+verification_scope:
+  normative_body_pages:
+  - 1
+  - 2

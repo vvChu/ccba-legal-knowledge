@@ -1,0 +1,87 @@
+id: nghi_dinh_35_2023_nd_cp
+document_number: 35/2023/NĐ-CP
+type: Nghị định
+title: Nghị định 35/2023/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng
+status: partially_expired
+effective_date: '2023-06-20'
+signer: Trần Hồng Hà
+pdf_path: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/sources/nghi_dinh_35_2023_nd_cp.pdf
+pdf_sha256: 281639861503b2297d584a775c6118adc4be380ba48fcba4c1ba5136850f040e
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_ban_hành_văn_bản_quy_phạm_pháp_luật_ngày_22_t
+  title: Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015
+- doc_id: luật_quy_hoạch_đô_thị_ngày_17_tháng_6_năm_2009
+  title: Luật Quy hoạch đô thị ngày 17 tháng 6 năm 2009
+- doc_id: luật_giám_định_tư_pháp_ngày_20_tháng_6_năm_2012
+  title: Luật Giám định tư pháp ngày 20 tháng 6 năm 2012
+- doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+  title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+- doc_id: luật_nhà_ở_ngày_25_tháng_11_năm_2014
+  title: Luật Nhà ở ngày 25 tháng 11 năm 2014
+- doc_id: luật_kinh_doanh_bất_động_sản_ngày_25_tháng_11_năm_
+  title: Luật Kinh doanh bất động sản ngày 25 tháng 11 năm 2014
+- doc_id: luật_kiến_trúc_ngày_13_tháng_6_năm_2019
+  title: Luật Kiến trúc ngày 13 tháng 6 năm 2019
+- doc_id: luật_tiêu_chuẩn_và_quy_chuẩn_kỹ_thuật_ngày_29_thán
+  title: Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006
+- doc_id: luật_chất_lượng_sản_phẩm_hàng_hóa_ngày_21_tháng_11
+  title: Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007
+- doc_id: luật_đầu_tư_ngày_17_tháng_6_năm_2020
+  title: Luật Đầu tư ngày 17 tháng 6 năm 2020
+- doc_id: luật_đầu_tư_theo_phương_thức_đối_tác_công_tư_ngày_
+  title: Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020
+- doc_id: luật_sửa_đổi_bổ_sung_một_số_điều_của_37_luật_liên_
+  title: Luật sửa đổi, bổ sung một số điều của 37 Luật liên quan đến quy hoạch ngày
+    20 tháng 11 năm 2018
+- doc_id: luật_sửa_đổi_bổ_sung_một_số_điều_của_luật_đầu_tư_c
+  title: Luật sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư theo
+    phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện
+    lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và Luật Thi hành án dân sự
+    ngày 11 tháng 01 năm 2022
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-11-24T01:32:29.926095+00:00'
+issued_by: Chính phủ
+issued_date: '2023-06-20'
+published_date: ''
+corrigendum:
+  document_number: 333/CP-CN
+  issued_date: '2023-07-13'
+  issued_by: Chính phủ
+  note: Đính chính khoản 5 Điều 6 (bỏ cụm từ "khoản 2 Điều 5," còn lại "5. Bãi bỏ khoản 2 Điều 9.")
+  attachment_path: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/sources/attachments/vb_333_cp_cn_dinh_chinh_nd_35_2023.pdf
+  attachment_sha256: b103b37d6c440c89bb7b75ae71cd013ed4ea5ef169a211d53563d9ad4b85611d
+source_assets:
+  pdf:
+    sha256: 281639861503b2297d584a775c6118adc4be380ba48fcba4c1ba5136850f040e
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_35_2023_nd_cp/nghi_dinh_35_2023_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: f690ba116e14633a9cf618501c27e48264513fa1614f1663af26401dbc1473fb
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_35_2023_nd_cp/nghi_dinh_35_2023_nd_cp.docx
+    status: verified
+source_url: https://vanban.chinhphu.vn/?pageid=27160&docid=208135
+source_file: legal_docs/01_vbpl/nghi_dinh_35_2023_nd_cp/sources/nghi_dinh_35_2023_nd_cp.docx
+relations:
+  amends:
+  - 37/2010/NĐ-CP
+  - 44/2015/NĐ-CP
+  - 85/2020/NĐ-CP
+  - 11/2013/NĐ-CP
+  - 99/2015/NĐ-CP
+  - 100/2015/NĐ-CP
+  - 69/2021/NĐ-CP
+  - 62/2016/NĐ-CP
+  - 37/2015/NĐ-CP
+  - 10/2021/NĐ-CP
+  - 06/2021/NĐ-CP
+  - 15/2021/NĐ-CP
+  partially_repealed_by:
+  - 207/2026/NĐ-CP
+  - 210/2026/NĐ-CP
+  - 217/2026/NĐ-CP

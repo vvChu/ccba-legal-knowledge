@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_28",
+  "title": "Bảng 28",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Họ và tên",
+    "Vị trí/chức danh",
+    "Trình độ chuyên môn",
+    "Điện thoại liên hệ"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Họ và tên": "",
+      "Vị trí/chức danh": "",
+      "Trình độ chuyên môn": "",
+      "Điện thoại liên hệ": ""
+    },
+    {
+      "STT": "2",
+      "Họ và tên": "",
+      "Vị trí/chức danh": "",
+      "Trình độ chuyên môn": "",
+      "Điện thoại liên hệ": ""
+    },
+    {
+      "STT": "...",
+      "Họ và tên": "",
+      "Vị trí/chức danh": "",
+      "Trình độ chuyên môn": "",
+      "Điện thoại liên hệ": ""
+    }
+  ],
+  "footnotes": []
+}

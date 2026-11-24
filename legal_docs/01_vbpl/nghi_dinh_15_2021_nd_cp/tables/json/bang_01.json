@@ -1,0 +1,41 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 8,
+  "columns_count": 2,
+  "headers": [
+    "Mẫu số 01",
+    "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng"
+  ],
+  "records": [
+    {
+      "Mẫu số 01": "Mẫu số 02",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Thông báo kết quả thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 03",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Quyết định phê duyệt dự án"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 04",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Tờ trình thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 05",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Báo cáo kết quả thẩm tra thiết kế xây dựng"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 06",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Thông báo kết quả thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 07",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Quyết định phê duyệt thiết kế xây dựng triển khai sau thiết kế cơ sở"
+    },
+    {
+      "Mẫu số 01": "Mẫu số 08",
+      "Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng": "Mẫu dấu thẩm định, thẩm tra, phê duyệt thiết kế xây dựng"
+    }
+  ],
+  "footnotes": []
+}

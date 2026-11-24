@@ -1,0 +1,93 @@
+{
+  "table_id": "bang_06",
+  "title": "Bảng 06",
+  "rows_count": 12,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Loại công trình",
+    "Tiêu chí phân cấp",
+    "Quy mô",
+    "col_5"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Loại công trình": "Cảng hàng không",
+      "Tiêu chí phân cấp": "Lượt hành khách (triệu khách/năm)",
+      "Quy mô": "≥ 20",
+      "col_5": ""
+    },
+    {
+      "STT": "2",
+      "Loại công trình": "Đường ô tô cao tốc",
+      "Tiêu chí phân cấp": "Tốc độ thiết kế (km/h)",
+      "Quy mô": "≥ 100",
+      "col_5": ""
+    },
+    {
+      "STT": "3",
+      "Loại công trình": "Cầu",
+      "Tiêu chí phân cấp": "Nhịp kết cấu lớn nhất (m)",
+      "Quy mô": "≥ 150",
+      "col_5": ""
+    },
+    {
+      "STT": "4",
+      "Loại công trình": "Hầm giao thông",
+      "Tiêu chí phân cấp": "Chiều dài hầm (m)",
+      "Quy mô": "≥ 1.500",
+      "col_5": ""
+    },
+    {
+      "STT": "5",
+      "Loại công trình": "Đường sắt cao tốc, đường sắt tốc độ cao, đường sắt đô thị",
+      "Tiêu chí phân cấp": "Tầm quan trọng",
+      "Quy mô": "Với mọi quy mô",
+      "col_5": ""
+    },
+    {
+      "STT": "6",
+      "Loại công trình": "Cảng biển",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (DWT)",
+      "Quy mô": "≥ 100.000",
+      "col_5": ""
+    },
+    {
+      "STT": "7",
+      "Loại công trình": "Công trình lọc dầu, hóa dầu, lọc hóa dầu",
+      "Tiêu chí phân cấp": "Tổng công suất (triệu tấn /năm)",
+      "Quy mô": "≥ 2",
+      "col_5": ""
+    },
+    {
+      "STT": "8",
+      "Loại công trình": "Công trình thủy điện",
+      "Tiêu chí phân cấp": "Tổng công suất (MW)",
+      "Quy mô": "≥ 200",
+      "col_5": ""
+    },
+    {
+      "STT": "9",
+      "Loại công trình": "Công trình nhiệt điện",
+      "Tiêu chí phân cấp": "Tổng công suất (MW)",
+      "Quy mô": "≥ 1.000",
+      "col_5": ""
+    },
+    {
+      "STT": "10",
+      "Loại công trình": "Hồ chứa nước",
+      "Tiêu chí phân cấp": "Dung tích ứng với mực nước dâng bình thường (triệu m3)",
+      "Quy mô": "> 1.000",
+      "col_5": ""
+    },
+    {
+      "STT": "11",
+      "Loại công trình": "Các công trình quy mô lớn, kỹ thuật phức tạp khác do Thủ tướng Chính phủ phê duyệt hàng năm.",
+      "Tiêu chí phân cấp": "Các công trình quy mô lớn, kỹ thuật phức tạp khác do Thủ tướng Chính phủ phê duyệt hàng năm.",
+      "Quy mô": "Các công trình quy mô lớn, kỹ thuật phức tạp khác do Thủ tướng Chính phủ phê duyệt hàng năm.",
+      "col_5": "Các công trình quy mô lớn, kỹ thuật phức tạp khác do Thủ tướng Chính phủ phê duyệt hàng năm."
+    }
+  ],
+  "footnotes": []
+}

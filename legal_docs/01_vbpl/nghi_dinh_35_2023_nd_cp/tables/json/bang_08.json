@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_08",
+  "title": "Bảng 08",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Lĩnh vực hoạt động xây dựng",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "3.5",
+      "Lĩnh vực hoạt động xây dựng": "3.5.1. Đường bộ",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng I": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế tất cả các cấp công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề và công trình khu bay.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng II": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề và công trình khu bay từ cấp II trở xuống.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề — Hạng III": "Được làm chủ nhiệm thiết kế xây dựng, chủ trì thiết kế, thẩm tra thiết kế các công trình thuộc lĩnh vực được ghi trong chứng chỉ hành nghề và công trình khu bay từ cấp III trở xuống.",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}
