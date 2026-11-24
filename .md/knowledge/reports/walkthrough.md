@@ -1,4 +1,37 @@
-# Walkthrough: Phát Hành Tính Năng PR #75 — Đồng Bộ Hub Skills & Guardrails (2026-11-24)
+# Walkthrough: Phát Hành Tính Năng PR #79 — Dọn 24 Vị Trí Bold-Glue `____`, Gỡ `_recheck_parity_nfc` & Đồng Bộ Fallback CI (2026-11-24)
+
+> **Mục tiêu:** Đóng vòng hậu hợp nhất Hub `vvChu/ccba-agent-platform#892` (`PR #895` / `5d1a8af8`), dọn sạch toàn bộ `24` vị trí `____` bold-glue trên `8` văn bản quy phạm `active`, gỡ hàm vá tạm `_recheck_parity_nfc` tại validator Spoke, đồng bộ rule #13 `MALFORMED_BOLD_GLUE` vào nhánh fallback CI và bổ sung kiểm thử hồi quy.
+> **Trạng thái:** ✅ **MERGED VÀO MAIN (`PR #79`, Squash Commit `b0b5d12`)**
+> - **Spoke PR #79:** [vvChu/ccba-legal-knowledge#79](https://github.com/vvChu/ccba-legal-knowledge/pull/79) — Feature Commits: `ca6027f`, `ff7a5aa` → Squash Merge Commit: `b0b5d12` (`2026-11-24T05:48:57Z`, `6/6` CI Checks Passed, `0` Copilot comments)
+> - **Branch cleanup:** Đã xóa local & remote `fix/clean-bold-glue-and-remove-nfc-recheck`
+> - **Issue liên quan:** Hub [vvChu/ccba-agent-platform#892](https://github.com/vvChu/ccba-agent-platform/issues/892) (`CLOSED` sau Hub PR `#895`)
+
+## 1. Tóm Tắt Thay Đổi (`PR #79`, `11` tệp, `+89/-77`)
+- **Dọn `24` vị trí `____` bold-glue trên `8` văn bản VBPL `active` (`0` thay đổi từ vựng quy phạm):**
+  - `20` vị trí bị `MALFORMED_BOLD_GLUE` bắt: [`thong_tu_31_2026_tt_bxd.md`](../../../legal_docs/01_vbpl/thong_tu_31_2026_tt_bxd/thong_tu_31_2026_tt_bxd.md) (`9`), [`luat_dat_dai_2024_31_2024_qh15.md`](../../../legal_docs/01_vbpl/luat_dat_dai_2024_31_2024_qh15/luat_dat_dai_2024_31_2024_qh15.md) (`8` trên `5` dòng), [`luat_kien_truc_2019_40_2019_qh14.md`](../../../legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.md) (`1`), [`nghi_dinh_17_2025_nd_cp.md`](../../../legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/nghi_dinh_17_2025_nd_cp.md) (`1`), [`thong_tu_20_2026_tt_bkhcn.md`](../../../legal_docs/01_vbpl/thong_tu_20_2026_tt_bkhcn/thong_tu_20_2026_tt_bkhcn.md) (`1`).
+  - `4` vị trí bold-glue ngoài regex (đứng sau `“` hoặc trước `\[`): [`luat_57_2024_qh15.md`](../../../legal_docs/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.md) (`1`), [`14_vbhn_bgddt.md`](../../../legal_docs/01_vbpl/14_vbhn_bgddt/14_vbhn_bgddt.md) (`1` + gỡ `__` lẻ thừa cuối liên kết footnote), [`83_vbhn_tt_bxd.md`](../../../legal_docs/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.md) (`2`).
+- **Gỡ hàm vá tạm `_recheck_parity_nfc` tại [`validate_legal_spoke.py`](../../../scripts/validate_legal_spoke.py) (`-56` dòng):**
+  - Xóa `@classmethod def _recheck_parity_nfc` và lời gọi tại Gate 11 sau khi `ccba_legal.provenance` (Hub PR `#895`) đã chuẩn hóa NFC tại nguồn (`106/107` bundle DOCX đạt trực tiếp, `qcvn_06_2022_bxd` qua `goc_verified` VBHN).
+  - Giữ nguyên `@staticmethod def _norm_words_nfc` cho nhánh standalone fallback `_standalone_verify_bundle` khi chạy trên GitHub Actions CI không cài `ccba-legal-intel`.
+- **Đồng bộ fallback CI & bổ sung test hồi quy:**
+  - [`lint_visual_parity.py`](../../../scripts/lint_visual_parity.py) (`+19` dòng): đồng bộ 1:1 `_MALFORMED_BOLD_GLUE_RE`, `_is_bold_glue_exempt` (`templates/` & `sources/`), và `in_code_fence` vào nhánh fallback.
+  - [`test_validate_legal_spoke.py`](../../../tests/integration/test_validate_legal_spoke.py) (`+49` dòng): bổ sung `test_lint_visual_parity_fallback_detects_malformed_bold_glue` giả lập chặn `ccba_legal` trong `sys.modules`.
+
+## 2. Ma Trận Nghiệm Thu Kiểm Định (`PR #79`)
+
+| Cổng Kiểm Định | Lệnh Thực Thi | Kết Quả | Trạng Thái |
+| :--- | :--- | :--- | :---: |
+| **TRIHT Pre & Post Cleanliness** | `check_release_cleanliness.py --phase pre/post --repo-root .` | Clean 100%, 100% Hermetic | ✅ **PASSED** |
+| **Visual Parity Linter (`.venv` & CI Fallback)** | `.venv/bin/python scripts/lint_visual_parity.py` (cả 2 chế độ) | `1220` tệp, `Total errors : 0` | ✅ **PASSED** |
+| **Master Legal 15 CI Gates (`.venv` & CI Fallback)** | `.venv/bin/python scripts/validate_legal_spoke.py` (full & `--skip-pdf-vault` chặn `ccba_legal`) | `Errors: 0 \| Warnings: 0` | ✅ **PASSED** |
+| **Cleanliness & Import Depth** | `check_spoke_cleanliness.py` + `check_hub_import_depth.py` | Script Budget `15/15`, `48` file(s) `0` vi phạm | ✅ **PASSED** |
+| **Unit & Integration Tests** | `pytest tests/unit tests/integration/test_validate_legal_spoke.py -q` | `144 passed in 0.07s` | ✅ **PASSED** |
+| **Door Triage & Diff Hygiene** | `ccba_harness door-triage --enforce-tradeoff-card` + `sanitize_review_diff.py` | `ONE_WAY_DOOR` (`tradeoff_card_valid: true`), `0` secrets | ✅ **PASSED** |
+| **GitHub Actions CI & Copilot** | `gh pr checks 79` + `audit_pr_comments.py --pr 79` | `6/6` CI Checks Passed, `0` Copilot comments | ✅ **PASSED** |
+
+---
+
+## Lịch Sử Trước Đó — PR #75 — Đồng Bộ Hub Skills & Guardrails (2026-11-24)
 
 > **Mục tiêu:** Ghi nhận kết quả đồng bộ Spoke `/ccba-update-spoke` từ Hub `ccba-agent-platform@6a21510f` (bao gồm RFCs `#873`/`#877`, `#874`/`#880`, `#882`, `#884`, `#870`), dọn `6` skill `scope: hub`, cập nhật `scripts/_guardrails/*` và làm mới `docs/adr/TRACEABILITY_MATRIX.md` qua Gate 10.
 > **Trạng thái:** ✅ **MERGED VÀO MAIN (`PR #75`, Squash Commit `67356cf`)**
