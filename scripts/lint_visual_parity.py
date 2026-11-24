@@ -21,6 +21,12 @@ except ImportError:
     try:
         from ccba_legal.visual_parity import lint_document
     except (ImportError, ModuleNotFoundError):
+        _MALFORMED_BOLD_GLUE_RE = re.compile(r"(?:\s|^)____(?=[A-Za-zÀ-ỹ0-9])")
+
+        def _is_bold_glue_exempt(md_path: Path) -> bool:
+            """Return True for directory scopes exempt from MALFORMED_BOLD_GLUE linting."""
+            return any(part.lower() in ("templates", "sources") for part in md_path.parts)
+
         def lint_document(md_path: Path) -> list[str]:
             """Lint a single Markdown file for visual formatting and layout parity issues."""
             errors: list[str] = []
@@ -31,9 +37,18 @@ except ImportError:
 
             lines = text.splitlines()
             in_display_math = False
+            in_code_fence = False
+            skip_bold_glue = _is_bold_glue_exempt(md_path)
 
             for idx, line in enumerate(lines, 1):
                 stripped = line.strip()
+
+                if stripped.startswith("```"):
+                    in_code_fence = not in_code_fence
+                    continue
+
+                if in_code_fence:
+                    continue
 
                 if stripped.startswith("$$") and stripped.endswith("$$") and len(stripped) > 2:
                     pass
@@ -43,6 +58,10 @@ except ImportError:
 
                 if in_display_math:
                     continue
+
+                # 13. Check malformed bold-glue artifacts (e.g. ____Điều 14, ____khoản 4)
+                if not skip_bold_glue and _MALFORMED_BOLD_GLUE_RE.search(line):
+                    errors.append(f"Line {idx}: MALFORMED_BOLD_GLUE: '{stripped[:80]}'")
 
                 # 1. Check double bullets
                 if re.match(r"^\s*[-*]\s+[-*]\s+", line):
