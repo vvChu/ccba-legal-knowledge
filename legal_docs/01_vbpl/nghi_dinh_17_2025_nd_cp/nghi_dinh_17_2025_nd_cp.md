@@ -43,7 +43,7 @@ Bổ sung khoản 3a vào sau khoản 3 Điều 1 như sau:
 <a id="dieu-2-khoan-2"></a>
 **2.** Bổ sung Điều 2a vào sau Điều 2 như sau:
 
-__“Điều 2a. Trình tự, thủ tục thực hiện ____khoản 5 Điều 3 của Luật Đấu thầu__
+__“Điều 2a. Trình tự, thủ tục thực hiện khoản 5 Điều 3 của Luật Đấu thầu__
 
 Trước khi ký kết điều ước quốc tế, thỏa thuận vay nước ngoài có quy định về đấu thầu khác hoặc chưa được quy định tại Luật Đấu thầu, Chính phủ quyết định việc áp dụng quy định về đấu thầu theo trình tự, thủ tục như sau:
 

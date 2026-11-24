@@ -30,7 +30,7 @@ pdf_anchor:
 
 
 <a id="dieu-2"></a>
-### Điều 2.____[\[2\]](#_ftn2)__ Thông tư này có hiệu lực thi hành kể từ ngày 11 tháng 7 năm 2020.
+### Điều 2.[\[2\]](#_ftn2) Thông tư này có hiệu lực thi hành kể từ ngày 11 tháng 7 năm 2020.
 
 
 <a id="dieu-3"></a>
