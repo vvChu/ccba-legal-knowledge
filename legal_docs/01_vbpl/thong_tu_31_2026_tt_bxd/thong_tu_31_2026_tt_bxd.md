@@ -88,15 +88,15 @@ Sửa đổi 01:2026 QCVN 04:2021/BXD do Viện Khoa học công nghệ xây d�
 
 # __1. QUY ĐỊNH CHUNG__
 
-__Bổ sung điểm 1.1.3 vào sau ____điểm 1.1.2 như sau:__
+__Bổ sung điểm 1.1.3 vào sau điểm 1.1.2 như sau:__
 
 “1.1.3 Các quy định liên quan đến chỗ để xe, chỗ để xe điện và khu vực đổi pin áp dụng đối với nhà chung cư xây mới và nhà chung cư hiện hữu.”
 
-__Bổ sung vào cuối ____điểm 1.3 như sau:__
+__Bổ sung vào cuối điểm 1.3 như sau:__
 
 “QCVN 10:2025/BCA, *Quy chuẩn kỹ thuật quốc gia về trang bị, bố trí phương tiện phòng cháy,* *chữa cháy, cứu nạn, cứu hộ cho nhà và công trình*.”
 
-__Bổ sung vào sau ____điểm 1.4.30 như sau:__
+__Bổ sung vào sau điểm 1.4.30 như sau:__
 
 “__1.4.31__
 
@@ -124,11 +124,11 @@ Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy đi
 
 # __2. QUY ĐỊNH KỸ THUẬT__
 
-__Sửa đổi ____điểm 2.2.17 như sau:__
+__Sửa đổi điểm 2.2.17 như sau:__
 
 “__2.2.17  Chỗ để xe”__
 
-__Bổ sung vào sau ____điểm 2.9 điểm 2.10 và 2.11 như sau:__
+__Bổ sung vào sau điểm 2.9 điểm 2.10 và 2.11 như sau:__
 
 “__2.10  Yêu cầu về chỗ để xe điện__
 
@@ -396,7 +396,7 @@ e) Tủ đổi pin phải có biện pháp an toàn trước nguy cơ ngập nư
 
 # __3. QUY ĐỊNH VỀ QUẢN LÝ__
 
-__Bổ sung vào cuối ____điểm 3.3 như sau:__
+__Bổ sung vào cuối điểm 3.3 như sau:__
 
 “- Đối với chỗ để xe, khu vực để xe điện, khu vực sạc xe điện, khu vực đổi pin của nhà chung cư xây mới, nhà chung cư hiện hữu thực hiện như sau:
 
@@ -406,7 +406,7 @@ __Bổ sung vào cuối ____điểm 3.3 như sau:__
 
 \+ Thiết kế về phòng cháy và chữa cháy đối với khu vực để xe điện, khu vực sạc xe điện, khu vực đổi pin sau thời điểm quy chuẩn này có hiệu lực phải tuân thủ các quy định của quy chuẩn này.”
 
-__Bổ sung điểm 3.4 và 3.5 vào sau ____điểm 3.3 như sau:__
+__Bổ sung điểm 3.4 và 3.5 vào sau điểm 3.3 như sau:__
 
 “__3.4 __Chủ đầu tư, chủ sở hữu, ban quản trị, đơn vị quản lý, khai thác vận hành khu vực để xe điện, khu vực sạc xe điện, khu vực đổi pin thực hiện việc quản lý, vận hành đảm bảo hoạt động an toàn, đúng công năng thiết kế phải tuân thủ các quy định của quy chuẩn này.
 
@@ -414,12 +414,12 @@ __3.5 __Khu vực để xe điện, khu vực sạc xe điện, khu vực đổi
 
 # __4. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN__
 
-__Bổ sung điểm 4.1a và 4.1b vào sau ____điểm 4.1 như sau:__
+__Bổ sung điểm 4.1a và 4.1b vào sau điểm 4.1 như sau:__
 
 “__4.1a __Mọi tổ chức, cá nhân khi tham gia các hoạt động liên quan lắp đặt, quản lý, vận hành khu vực để xe điện, khu vực sạc xe điện, khu vực đổi pin của nhà chung cư phải tuân thủ các quy định của quy chuẩn này.
 
 __4.1b __Cơ quan có thẩm quyền theo quy định pháp luật về phòng cháy chữa cháy có trách nhiệm kiểm tra việc tuân thủ các quy định của quy chuẩn này.”
 
-__Sửa đổi ____điểm 4.3 như sau:__
+__Sửa đổi điểm 4.3 như sau:__
 
 “__4.3 __Trong quá trình triển khai thực hiện, nếu có vướng mắc, mọi ý kiến gửi về Bộ Xây dựng để được hướng dẫn và xử lý.”

@@ -268,7 +268,7 @@ Lĩnh vực hành nghề và thời hạn hành nghề đối với từng lĩnh
 
 # __Chương IV__
 
-__TỔ CHỨC THỰC HIỆN ____[\[2\]](#_ftn2)__
+__TỔ CHỨC THỰC HIỆN [\[2\]](#_ftn2)__
 
 
 <a id="dieu-11"></a>
@@ -284,7 +284,7 @@ Thông tư này có hiệu lực thi hành từ ngày 15/9/2020.
 
 __ __
 
-__PHỤ LỤC I ____[\[3\]](#_ftn3)__
+__PHỤ LỤC I [\[3\]](#_ftn3)__
 
 KÝ HIỆU NƠI CẤP CHỨNG CHỈ HÀNH NGHỀ KIẾN TRÚC  
 - (Kèm theo Thông tư số 03/2020/TT-BXD ngày 28 tháng 7 năm 2020 của Bộ Xây dựng)*

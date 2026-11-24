@@ -756,56 +756,6 @@ class LegalSpokeValidator:
         text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
         return re.sub(r"\s+", " ", text).strip()
 
-    @classmethod
-    def _recheck_parity_nfc(
-        cls, bundle_dir: Path, res: dict[str, Any]
-    ) -> dict[str, Any]:
-        """Re-evaluate Gate 11 missing paragraphs using NFC normalization."""
-        misses = res.get("missing_paras") or []
-        total_paras = int(res.get("docx_paras", 0))
-        if not misses or total_paras <= 0:
-            return res
-
-        md_texts: list[str] = []
-        for md_f in sorted(bundle_dir.rglob("*.md")):
-            if DIR_SOURCES not in md_f.parts:
-                try:
-                    md_texts.append(md_f.read_text(encoding="utf-8"))
-                except OSError:
-                    pass
-        tables_dir = bundle_dir / "tables"
-        if tables_dir.exists():
-            for csv_f in sorted(tables_dir.rglob("*.csv")):
-                try:
-                    md_texts.append(csv_f.read_text(encoding="utf-8"))
-                except OSError:
-                    pass
-
-        norm_md = cls._norm_words_nfc("\n".join(md_texts))
-        still_missing: list[tuple[int, str]] = []
-        for idx_p, p_txt in misses:
-            np = cls._norm_words_nfc(p_txt)
-            words = np.split()
-            if len(words) >= 4:
-                matched = any(
-                    " ".join(words[w : w + 6]) in norm_md
-                    for w in range(max(1, len(words) - 5))
-                )
-            elif len(words) >= 2:
-                matched = np in norm_md
-            else:
-                matched = True
-            if not matched:
-                still_missing.append((idx_p, p_txt))
-
-        parity_rate = ((total_paras - len(still_missing)) / total_paras) * 100.0
-        updated = dict(res)
-        updated["missing_paras"] = still_missing
-        updated["missing_count"] = len(still_missing)
-        updated["parity_rate"] = parity_rate
-        updated["pass"] = parity_rate >= GATE_11_MIN_VERBATIM_PARITY
-        return updated
-
     def _validate_amendments_future_dates(
         self,
         doc_id: str,
@@ -2030,12 +1980,6 @@ class LegalSpokeValidator:
                     pass
 
                 res = verify_bundle_docx_vs_markdown(bundle_dir)
-                if (
-                    res.get("status") == "success"
-                    and not res.get("pass", True)
-                    and res.get("missing_paras")
-                ):
-                    res = self._recheck_parity_nfc(bundle_dir, res)
                 if res.get("status") == "error":
                     self.errors.append(
                         f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}"

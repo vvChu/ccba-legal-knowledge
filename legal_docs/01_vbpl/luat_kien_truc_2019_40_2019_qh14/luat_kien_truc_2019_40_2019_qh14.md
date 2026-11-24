@@ -181,7 +181,7 @@ d) Thừa nhận lẫn nhau về hành nghề kiến trúc.
 <a id="dieu-9-khoan-9"></a>
 **9.** Lợi dụng, lạm dụng chức vụ, quyền hạn hoặc thiếu trách nhiệm trong quản lý kiến trúc.
 
-# __Chương ____II__
+# __Chương II__
 
 __QUẢN LÝ KIẾN TRÚC__
 

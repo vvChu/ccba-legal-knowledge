@@ -1,6 +1,9 @@
 """Unit tests for CCBA Legal Spoke Automated Validator."""
 
 from pathlib import Path
+
+import pytest
+
 from scripts.validate_legal_spoke import LegalSpokeValidator
 
 
@@ -425,3 +428,49 @@ laws:
     validator = LegalSpokeValidator(tmp_path)
     validator._validate_legal_validity_and_in_force()
     assert any("Split-Brain Status Error" in err for err in validator.errors)
+
+
+def test_lint_visual_parity_fallback_detects_malformed_bold_glue(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    """Standalone fallback lint_document must detect MALFORMED_BOLD_GLUE identically to Hub."""
+    import importlib.util
+    import sys
+
+    monkeypatch.setitem(sys.modules, "ccba_legal", None)
+    monkeypatch.setitem(sys.modules, "ccba_legal.visual_parity", None)
+
+    script_path = Path(__file__).resolve().parents[2] / "scripts" / "lint_visual_parity.py"
+    spec = importlib.util.spec_from_file_location("_test_lint_visual_parity_fallback", script_path)
+    assert spec is not None and spec.loader is not None
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+
+    normative_md = tmp_path / "legal_docs" / "01_vbpl" / "doc_a" / "doc_a.md"
+    normative_md.parent.mkdir(parents=True)
+    normative_md.write_text(
+        "### Điều 244. Sửa đổi, bổ sung ____khoản 4\n"
+        "__Sửa đổi ____điểm 2.2.17 như sau:__\n"
+        "Tên cơ quan: _____ [ghi tên cơ quan]\n"
+        "Ngày ____ tháng ____ năm ____\n"
+        "```text\n"
+        "____Điều 99. Ví dụ trong code fence\n"
+        "```\n",
+        encoding="utf-8",
+    )
+    errs = mod.lint_document(normative_md)
+    assert len(errs) == 2
+    assert all("MALFORMED_BOLD_GLUE" in e for e in errs)
+    assert any("Line 1:" in e and "____khoản 4" in e for e in errs)
+    assert any("Line 2:" in e and "____điểm 2.2.17" in e for e in errs)
+
+    templates_md = tmp_path / "legal_docs" / "01_vbpl" / "doc_a" / "templates" / "mau_01.md"
+    templates_md.parent.mkdir(parents=True)
+    templates_md.write_text("____KHỞI CÔNG\n", encoding="utf-8")
+    assert mod.lint_document(templates_md) == []
+
+    sources_md = tmp_path / "legal_docs" / "01_vbpl" / "doc_a" / "sources" / "raw.md"
+    sources_md.parent.mkdir(parents=True)
+    sources_md.write_text("____Điều 14\n", encoding="utf-8")
+    assert mod.lint_document(sources_md) == []
