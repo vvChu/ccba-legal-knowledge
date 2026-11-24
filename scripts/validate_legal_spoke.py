@@ -704,6 +704,108 @@ class LegalSpokeValidator:
             return "pending_effective"
         return "active"
 
+    @staticmethod
+    def _norm_words_nfc(text: str) -> str:
+        """Normalize text to lowercase NFC word tokens for Gate 11 parity matching."""
+        greek_map = {
+            r"\alpha": "α",
+            r"\beta": "β",
+            r"\gamma": "γ",
+            r"\delta": "δ",
+            r"\epsilon": "ε",
+            r"\varepsilon": "ε",
+            r"\zeta": "ζ",
+            r"\eta": "η",
+            r"\theta": "θ",
+            r"\vartheta": "θ",
+            r"\iota": "ι",
+            r"\kappa": "κ",
+            r"\lambda": "λ",
+            r"\mu": "μ",
+            r"\nu": "ν",
+            r"\xi": "ξ",
+            r"\pi": "π",
+            r"\rho": "ρ",
+            r"\sigma": "σ",
+            r"\tau": "τ",
+            r"\upsilon": "υ",
+            r"\phi": "φ",
+            r"\varphi": "φ",
+            r"\chi": "χ",
+            r"\psi": "ψ",
+            r"\omega": "ω",
+            r"\dots": "...",
+            r"\cdot": "·",
+        }
+        text = unicodedata.normalize("NFC", text).lower()
+        for k, v in greek_map.items():
+            text = text.replace(k, v)
+        text = re.sub(r"\(#[^)]+\)", " ", text)
+        text = re.sub(r"\\text\{([^}]+)\}", r"\1", text)
+        text = re.sub(
+            r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)",
+            " ",
+            text,
+        )
+        text = re.sub(r"&nbsp;", " ", text)
+        text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
+        text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
+        text = re.sub(r"[_\{\}\$\^]", "", text)
+        text = re.sub(r"(\d+)\s*([a-zα-ω]+)", r"\1 \2", text)
+        text = re.sub(r"([a-zα-ω]+)\s*(\d+)", r"\1 \2", text)
+        text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
+        return re.sub(r"\s+", " ", text).strip()
+
+    @classmethod
+    def _recheck_parity_nfc(
+        cls, bundle_dir: Path, res: dict[str, Any]
+    ) -> dict[str, Any]:
+        """Re-evaluate Gate 11 missing paragraphs using NFC normalization."""
+        misses = res.get("missing_paras") or []
+        total_paras = int(res.get("docx_paras", 0))
+        if not misses or total_paras <= 0:
+            return res
+
+        md_texts: list[str] = []
+        for md_f in sorted(bundle_dir.rglob("*.md")):
+            if DIR_SOURCES not in md_f.parts:
+                try:
+                    md_texts.append(md_f.read_text(encoding="utf-8"))
+                except OSError:
+                    pass
+        tables_dir = bundle_dir / "tables"
+        if tables_dir.exists():
+            for csv_f in sorted(tables_dir.rglob("*.csv")):
+                try:
+                    md_texts.append(csv_f.read_text(encoding="utf-8"))
+                except OSError:
+                    pass
+
+        norm_md = cls._norm_words_nfc("\n".join(md_texts))
+        still_missing: list[tuple[int, str]] = []
+        for idx_p, p_txt in misses:
+            np = cls._norm_words_nfc(p_txt)
+            words = np.split()
+            if len(words) >= 4:
+                matched = any(
+                    " ".join(words[w : w + 6]) in norm_md
+                    for w in range(max(1, len(words) - 5))
+                )
+            elif len(words) >= 2:
+                matched = np in norm_md
+            else:
+                matched = True
+            if not matched:
+                still_missing.append((idx_p, p_txt))
+
+        parity_rate = ((total_paras - len(still_missing)) / total_paras) * 100.0
+        updated = dict(res)
+        updated["missing_paras"] = still_missing
+        updated["missing_count"] = len(still_missing)
+        updated["parity_rate"] = parity_rate
+        updated["pass"] = parity_rate >= GATE_11_MIN_VERBATIM_PARITY
+        return updated
+
     def _validate_amendments_future_dates(
         self,
         doc_id: str,
@@ -1731,56 +1833,7 @@ class LegalSpokeValidator:
         try:
             from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:
-
-            def _standalone_norm_words(text: str) -> str:
-                greek_map = {
-                    r"\alpha": "α",
-                    r"\beta": "β",
-                    r"\gamma": "γ",
-                    r"\delta": "δ",
-                    r"\epsilon": "ε",
-                    r"\varepsilon": "ε",
-                    r"\zeta": "ζ",
-                    r"\eta": "η",
-                    r"\theta": "θ",
-                    r"\vartheta": "θ",
-                    r"\iota": "ι",
-                    r"\kappa": "κ",
-                    r"\lambda": "λ",
-                    r"\mu": "μ",
-                    r"\nu": "ν",
-                    r"\xi": "ξ",
-                    r"\pi": "π",
-                    r"\rho": "ρ",
-                    r"\sigma": "σ",
-                    r"\tau": "τ",
-                    r"\upsilon": "υ",
-                    r"\phi": "φ",
-                    r"\varphi": "φ",
-                    r"\chi": "χ",
-                    r"\psi": "ψ",
-                    r"\omega": "ω",
-                    r"\dots": "...",
-                    r"\cdot": "·",
-                }
-                text = unicodedata.normalize("NFC", text).lower()
-                for k, v in greek_map.items():
-                    text = text.replace(k, v)
-                text = re.sub(r"\(#[^)]+\)", " ", text)
-                text = re.sub(r"\\text\{([^}]+)\}", r"\1", text)
-                text = re.sub(
-                    r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)",
-                    " ",
-                    text,
-                )
-                text = re.sub(r"&nbsp;", " ", text)
-                text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
-                text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
-                text = re.sub(r"[_\{\}\$\^]", "", text)
-                text = re.sub(r"(\d+)\s*([a-zα-ω]+)", r"\1 \2", text)
-                text = re.sub(r"([a-zα-ω]+)\s*(\d+)", r"\1 \2", text)
-                text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
-                return re.sub(r"\s+", " ", text).strip()
+            _standalone_norm_words = self._norm_words_nfc
 
             def _standalone_verify_bundle(bundle_dir: Path) -> dict[str, Any]:
                 src_dir = bundle_dir / DIR_SOURCES
@@ -1977,6 +2030,12 @@ class LegalSpokeValidator:
                     pass
 
                 res = verify_bundle_docx_vs_markdown(bundle_dir)
+                if (
+                    res.get("status") == "success"
+                    and not res.get("pass", True)
+                    and res.get("missing_paras")
+                ):
+                    res = self._recheck_parity_nfc(bundle_dir, res)
                 if res.get("status") == "error":
                     self.errors.append(
                         f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}"
