@@ -25,7 +25,7 @@ pdf_anchor:
 
 
 <a id="dieu-1"></a>
-### Điều 1. Sửa đổi, bổ sung một số khoản của ____Điều 14 Nghị định số 37/2010/NĐ-CP ____ngày 07 tháng 4 năm 2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị đã được sửa đổi, bổ sung tại Nghị định số ____72/2019/NĐ-CP ____ngày 30 tháng 8 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số ____37/2010/NĐ-CP ____ngày 07 tháng 4 năm 2010 về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị và Nghị định số ____44/2015/NĐ-CP ____ngày 06 tháng 5 năm 2015 quy định chi tiết một số nội dung về quy hoạch xây dựng
+### Điều 1. Sửa đổi, bổ sung một số khoản của Điều 14 Nghị định số 37/2010/NĐ-CP ngày 07 tháng 4 năm 2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị đã được sửa đổi, bổ sung tại Nghị định số 72/2019/NĐ-CP ngày 30 tháng 8 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2010/NĐ-CP ngày 07 tháng 4 năm 2010 về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị và Nghị định số 44/2015/NĐ-CP ngày 06 tháng 5 năm 2015 quy định chi tiết một số nội dung về quy hoạch xây dựng
 
 Sửa đổi, bổ sung khoản 3, khoản 4, bổ sung các khoản 4a, 4b, 4c và 4d vào sau khoản 4 Điều 14 như sau:
 
@@ -58,7 +58,7 @@ d) Cơ quan có thẩm quyền phê duyệt đồ án quy hoạch chi tiết có
 
 
 <a id="dieu-2"></a>
-### Điều 2. Sửa đổi, bổ sung một số khoản của ____Điều 10 Nghị định số 44/2015/NĐ-CP ____ngày 06 tháng 5 năm 2015 của Chính phủ quy định chi tiết một số nội dung về quy hoạch xây dựng đã được sửa đổi, bổ sung tại Nghị định số ____72/2019/NĐ-CP ____ngày 30 tháng 8 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số ____37/2010/NĐ-CP ____ngày 07 tháng 4 năm 2010 về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị và Nghị định số ____44/2015/NĐ-CP ____ngày 06 tháng 5 năm 2015 quy định chi tiết một số nội dung về quy hoạch xây dựng
+### Điều 2. Sửa đổi, bổ sung một số khoản của Điều 10 Nghị định số 44/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của Chính phủ quy định chi tiết một số nội dung về quy hoạch xây dựng đã được sửa đổi, bổ sung tại Nghị định số 72/2019/NĐ-CP ngày 30 tháng 8 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2010/NĐ-CP ngày 07 tháng 4 năm 2010 về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị và Nghị định số 44/2015/NĐ-CP ngày 06 tháng 5 năm 2015 quy định chi tiết một số nội dung về quy hoạch xây dựng
 
 Sửa đổi, bổ sung khoản 4, khoản 5, bổ sung các khoản 5a, 5b, 5c, 5d và 5đ vào sau khoản 5 Điều 10 như sau:
 
@@ -93,7 +93,7 @@ d) Cơ quan có thẩm quyền phê duyệt đồ án quy hoạch chi tiết xâ
 
 
 <a id="dieu-3"></a>
-### Điều 3. Sửa đổi, bổ sung một số điều của Nghị định số ____85/2020/NĐ-CP ____ngày 17 tháng 7 năm 2020 của Chính phủ quy định chi tiết một số điều của ____Luật Kiến trúc
+### Điều 3. Sửa đổi, bổ sung một số điều của Nghị định số 85/2020/NĐ-CP ngày 17 tháng 7 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Kiến trúc
 
 <a id="dieu-3-khoan-1"></a>
 **1.** Sửa đổi, bổ sung một số khoản của Điều 25 như sau:
@@ -139,7 +139,7 @@ b) Bổ sung khoản 4 như sau:
 
 
 <a id="dieu-4"></a>
-### Điều 4. Sửa đổi, bổ sung một số điều của Nghị định số ____11/2013/NĐ-CP ____ngày 14 tháng 01 năm 2013 của Chính phủ về quản lý đầu tư phát triển đô thị
+### Điều 4. Sửa đổi, bổ sung một số điều của Nghị định số 11/2013/NĐ-CP ngày 14 tháng 01 năm 2013 của Chính phủ về quản lý đầu tư phát triển đô thị
 
 <a id="dieu-4-khoan-1"></a>
 **1.** Sửa đổi, bổ sung một số khoản của Điều 2 như sau:
@@ -164,7 +164,7 @@ c) Sửa đổi, bổ sung khoản 12 như sau:
 <a id="dieu-4-khoan-3"></a>
 **3.** Bổ sung Điều 3a vào sau Điều 3 như sau:
 
-__“____Điều 3a. Chương trình phát triển đô thị__
+__“Điều 3a. Chương trình phát triển đô thị__
 
 <a id="dieu-4-khoan-1"></a>
 **1.** Chương trình phát triển đô thị là tập hợp các nhiệm vụ, giải pháp, chương trình, đề án, dự án nhằm thực hiện các mục tiêu phát triển đô thị của từng giai đoạn theo quy hoạch tỉnh, quy hoạch chung đô thị, được lập cho các đối tượng sau:
@@ -363,7 +363,7 @@ b) Thay thế cụm từ “quy hoạch tổng thể hệ thống đô thị qu�
 
 
 <a id="dieu-5"></a>
-### Điều 5. Sửa đổi, bổ sung một số điều của Nghị định số ____99/2015/NĐ-CP ____ngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của ____Luật Nhà ở ____đã được sửa đổi, bổ sung tại Nghị định số ____30/2019/NĐ-CP ____ngày 28 tháng 3 năm 2019, Nghị định số ____30/2021/NĐ-CP ____ngày 26 tháng 3 năm 2021 của Chính phủ
+### Điều 5. Sửa đổi, bổ sung một số điều của Nghị định số 99/2015/NĐ-CP ngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Nhà ở đã được sửa đổi, bổ sung tại Nghị định số 30/2019/NĐ-CP ngày 28 tháng 3 năm 2019, Nghị định số 30/2021/NĐ-CP ngày 26 tháng 3 năm 2021 của Chính phủ
 
 <a id="dieu-5-khoan-1"></a>
 **1.** Sửa đổi, bổ sung khoản 1, khoản 2 Điều 18 như sau:
@@ -417,7 +417,7 @@ Các trường hợp quy định tại điểm c và điểm d khoản này ph�
 
 
 <a id="dieu-6"></a>
-### Điều 6. Sửa đổi, bổ sung một số điều của Nghị định số ____100/2015/NĐ-CP ____ngày 20 tháng 10 năm 2015 của Chính phủ về phát triển và quản lý nhà ở xã hội đã được sửa đổi, bổ sung tại Nghị định số ____49/2021/NĐ-CP ____ngày 01 tháng 4 năm 2021 của Chính phủ
+### Điều 6. Sửa đổi, bổ sung một số điều của Nghị định số 100/2015/NĐ-CP ngày 20 tháng 10 năm 2015 của Chính phủ về phát triển và quản lý nhà ở xã hội đã được sửa đổi, bổ sung tại Nghị định số 49/2021/NĐ-CP ngày 01 tháng 4 năm 2021 của Chính phủ
 
 <a id="dieu-6-khoan-1"></a>
 **1.** Sửa đổi, bổ sung khoản 4 Điều 3 như sau:
@@ -449,7 +449,7 @@ Các trường hợp quy định tại điểm c và điểm d khoản này ph�
 
 
 <a id="dieu-7"></a>
-### Điều 7. Sửa đổi, bổ sung một số điều của Nghị định số ____69/2021/NĐ-CP ____ngày 15 tháng 7 năm 2021 của Chính phủ về cải tạo, xây dựng lại nhà chung cư
+### Điều 7. Sửa đổi, bổ sung một số điều của Nghị định số 69/2021/NĐ-CP ngày 15 tháng 7 năm 2021 của Chính phủ về cải tạo, xây dựng lại nhà chung cư
 
 <a id="dieu-7-khoan-1"></a>
 **1.** Sửa đổi, bổ sung khoản 3 Điều 13 như sau:
@@ -461,7 +461,7 @@ Các trường hợp quy định tại điểm c và điểm d khoản này ph�
 
 
 <a id="dieu-8"></a>
-### Điều 8. Sửa đổi, bổ sung một số điều của Nghị định số 62/2016/NĐ-CP ____ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện hoạt động giám định tư pháp xây dựng và thí nghiệm chuyên ngành xây dựng
+### Điều 8. Sửa đổi, bổ sung một số điều của Nghị định số 62/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện hoạt động giám định tư pháp xây dựng và thí nghiệm chuyên ngành xây dựng
 
 <a id="dieu-8-khoan-1"></a>
 **1.** Sửa đổi, bổ sung Điều 2 như sau:
@@ -541,7 +541,7 @@ __“Điều 5a. Phạm vi và lĩnh vực thí nghiệm chuyên ngành xây d�
 
 b) Bổ sung Điều 5b như sau:
 
-__“____Điều 5b. Phòng thí nghiệm chuyên ngành xây dựng và trạm thí nghiệm hiện trường__
+__“Điều 5b. Phòng thí nghiệm chuyên ngành xây dựng và trạm thí nghiệm hiện trường__
 
 <a id="dieu-8-khoan-1"></a>
 **1.** Phòng thí nghiệm chuyên ngành xây dựng là một bộ phận trực thuộc tổ chức hoạt động thí nghiệm chuyên ngành xây dựng, bao gồm: nhân lực (trưởng, phó phòng thí nghiệm, các thí nghiệm viên) và các máy móc, thiết bị, dụng cụ phục vụ cho việc thí nghiệm được bố trí trong một không gian riêng nhằm cung cấp các điều kiện để thực hiện các thí nghiệm chuyên ngành xây dựng. Phòng thí nghiệm chuyên ngành xây dựng được cấp mã số và có địa chỉ cố định ghi trong Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng.
@@ -711,7 +711,7 @@ e) Trách nhiệm khác theo quy định của pháp luật.”.
 
 
 <a id="dieu-9"></a>
-### Điều 9. Sửa đổi, bổ sung một số điều của Nghị định số ____37/2015/NĐ-CP ____ngày 22 tháng 4 năm 2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng đã được sửa đổi, bổ sung tại Nghị định số ____50/2021/NĐ-CP ____ngày 01 tháng 4 năm 2021 của Chính phủ
+### Điều 9. Sửa đổi, bổ sung một số điều của Nghị định số 37/2015/NĐ-CP ngày 22 tháng 4 năm 2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng đã được sửa đổi, bổ sung tại Nghị định số 50/2021/NĐ-CP ngày 01 tháng 4 năm 2021 của Chính phủ
 
 <a id="dieu-9-khoan-1"></a>
 **1.** Sửa đổi, bổ sung khoản 3 Điều 18 như sau:
@@ -725,7 +725,7 @@ e) Trách nhiệm khác theo quy định của pháp luật.”.
 
 
 <a id="dieu-10"></a>
-### Điều 10. Sửa đổi, bổ sung một số điều của Nghị định số ____10/2021/NĐ-CP ____ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng
+### Điều 10. Sửa đổi, bổ sung một số điều của Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng
 
 <a id="dieu-10-khoan-1"></a>
 **1.** Sửa đổi, bổ sung điểm a khoản 2 Điều 5 như sau:
@@ -739,7 +739,7 @@ e) Trách nhiệm khác theo quy định của pháp luật.”.
 
 
 <a id="dieu-11"></a>
-### Điều 11. Sửa đổi, bổ sung một số điều của Nghị định số ____06/2021/NĐ-CP ____ngày 26 tháng 01 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng
+### Điều 11. Sửa đổi, bổ sung một số điều của Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng
 
 <a id="dieu-11-khoan-1"></a>
 **1.** Sửa đổi, bổ sung khoản 4, bổ sung khoản 4a vào sau khoản 4 Điều 7 như sau:
@@ -818,7 +818,7 @@ b) Sửa đổi, bổ sung điểm b khoản 4 như sau:
 
 
 <a id="dieu-12"></a>
-### Điều 12. Sửa đổi, bổ sung một số điều của Nghị định số ____15/2021/NĐ-CP ____ngày 03 tháng 3 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
+### Điều 12. Sửa đổi, bổ sung một số điều của Nghị định số 15/2021/NĐ-CP ngày 03 tháng 3 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng
 
 <a id="dieu-12-khoan-1"></a>
 **1.** Sửa đổi, bổ sung điểm a khoản 1 Điều 4 như sau:

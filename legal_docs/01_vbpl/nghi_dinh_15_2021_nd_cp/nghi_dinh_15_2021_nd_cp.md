@@ -451,7 +451,7 @@ c) Các bản vẽ được thẩm tra phải được đóng dấu theo quy đ�
 
 
 <a id="dieu-16"></a>
-### Điều 16. Thẩm quyền thẩm định hoặc có ý kiến về công nghệ đối với dự án đầu tư xây dựng sử dụng công nghệ hạn chế chuyển giao hoặc dự án đầu tư xây dựng có nguy cơ tác động xấu đến môi trường có sử dụng công nghệ theo ____Luật Chuyển giao công nghệ
+### Điều 16. Thẩm quyền thẩm định hoặc có ý kiến về công nghệ đối với dự án đầu tư xây dựng sử dụng công nghệ hạn chế chuyển giao hoặc dự án đầu tư xây dựng có nguy cơ tác động xấu đến môi trường có sử dụng công nghệ theo Luật Chuyển giao công nghệ
 
 <a id="dieu-16-khoan-1"></a>
 **1.** Đối với dự án sử dụng vốn đầu tư công:
