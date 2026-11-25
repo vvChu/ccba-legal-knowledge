@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+language: "en-US"
+
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  auto_review:
+    enabled: true
+    drafts: false
+    auto_incremental_review: false
+    ignore_title_keywords:
+      - "docs(walkthrough)"
+      - "WIP"
+      - "Draft"
+      - "[skip review]"
+  path_filters:
+    - "!.md/peer_exchange/**"
+    - "!.md/extracted_docs/**"
+    - "!.md/knowledge/reports/walkthrough.md"
+  path_instructions:
+    - path: "**/*.md"
+      instructions: |
+        Enforce ADR-0059 legal verbatim grounding and in-force law baseline (135/2025/QH15, ND 217/2026/ND-CP, ND 207/2026/ND-CP). Flag broken relative links or synthetic clauses.
+    - path: "scripts/**"
+      instructions: |
+        Verify deterministic execution, zero hardcoded credentials, and Windows UTF-8 subprocess safety.
