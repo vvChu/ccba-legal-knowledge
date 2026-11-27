@@ -14,7 +14,7 @@
 
 Sửa đổi 1:2023 QCVN 06:2022/BXD chỉ bao gồm nội dung sửa đổi, bổ sung một số quy định của QCVN 06:2022/BXD. Các nội dung không được nêu tại Sửa đổi 1 này thì tiếp tục áp dụng QCVN 06:2022/BXD ban hành kèm theo Thông tư số 06/2022/TT-BXD ngày 30 tháng 11 năm 2022 của Bộ trưởng Bộ Xây dựng.
 
-Sửa đổi 1:2023 QCVN 06.2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì, Cục Cảnh sát Phòng cháy chữa cháy và cứu nạn cứu hộ (Bộ Công an), Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (Công an TP. Hà Nội), Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (Công an TP. Hồ Chí Minh) phối hợp biên soạn, Vụ Khoa học công nghệ và môi trường (Bộ Xây dựng) trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng.
+Sửa đổi 1:2023 QCVN 06.2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì, Cục Cảnh sát Phòng cháy chữa cháy và cứu nạn cứu hộ (Bộ Công an), Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (Công an TP. Hà Nội), Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (Công an TP. Hồ Chí Minh) phối hợp biên soạn, Vụ Khoa học công nghệ và môi trường (Bộ Xây dựng) trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 16 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng.
 
 ### <a id="sd1-chuong-1" name="sd1-chuong-1"></a>1  QUY ĐỊNH CHUNG
 
