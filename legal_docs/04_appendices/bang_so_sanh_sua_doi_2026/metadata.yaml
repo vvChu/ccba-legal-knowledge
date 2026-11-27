@@ -9,10 +9,9 @@ doc_type: appendix
 relations:
   compares:
   - QCVN 04:2021/BXD
-  - Thông tư 31/2026/TT-BXD
+  - 31/2026/TT-BXD
 document_number: APPENDIX-SD-2026-QCVN-04
-pdf_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/bang_so_sanh_sua_doi_2026.pdf
 pdf_sha256: ''
-pdf_status: pending_download
-cong_bao_number: Đang cập nhật
+pdf_status: not_applicable
+cong_bao_number: N/A (Tài liệu đối chiếu nội bộ CCBA)
 bundle_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/

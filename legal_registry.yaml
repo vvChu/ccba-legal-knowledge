@@ -1211,7 +1211,7 @@ laws:
     Xây dựng 2014 (50/2014/QH13)
   type: Phụ lục đối chiếu
   issued_by: CCBA Legal Research Group
-  issued_date: '2026-07-01'
+  issued_date: '2025-12-10'
   effective_date: '2026-07-01'
   status: active
   bundle_path: legal_docs/04_appendices/bang_so_sanh_luat_xay_dung_2025_vs_2014/
@@ -1219,11 +1219,10 @@ laws:
     compares:
     - 135/2025/QH15
     - 50/2014/QH13
-  pdf_path: legal_docs/04_appendices/bang_so_sanh_luat_xay_dung_2025_vs_2014/bang_so_sanh_luat_xay_dung_2025_vs_2014.pdf
   pdf_sha256: ''
-  cong_bao_number: Đang cập nhật
-  pdf_status: pending_download
-  sha256: 3f4fea08315fd7f8229d00c1fd7ef1e269544a8397c94ab59ba89f8de343391e
+  cong_bao_number: N/A (Tài liệu đối chiếu nội bộ CCBA)
+  pdf_status: not_applicable
+  sha256: e127ee3c013dc39cf2450d8be8573232e80fedfa4651cab011b1e9681dc2020a
 - id: bang_so_sanh_sua_doi_2026
   document_number: APPENDIX-SD-2026-QCVN-04
   title: Bảng So sánh Đối chiếu Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
@@ -1237,17 +1236,16 @@ laws:
     compares:
     - QCVN 04:2021/BXD
     - 31/2026/TT-BXD
-  pdf_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/bang_so_sanh_sua_doi_2026.pdf
   pdf_sha256: ''
-  cong_bao_number: Đang cập nhật
-  pdf_status: pending_download
-  sha256: 6d839159bf8a75ac95c15ed62d44c3a4519ab299ecc116e4613d19f07d1f63d0
+  cong_bao_number: N/A (Tài liệu đối chiếu nội bộ CCBA)
+  pdf_status: not_applicable
+  sha256: 4ee3c96b999218d19adf15672d43c43a170867fae40db11a2f560a214978fa2a
 - id: bang_so_sanh_sua_doi_2023_qcvn_06
   document_number: APPENDIX-SD-2023-QCVN-06
   title: Bảng So sánh Đối chiếu Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
   type: Phụ lục đối chiếu
   issued_by: CCBA Legal Research Group
-  issued_date: '2023-10-10'
+  issued_date: '2023-10-16'
   effective_date: '2023-12-01'
   status: active
   bundle_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2023_qcvn_06/
@@ -1255,11 +1253,10 @@ laws:
     compares:
     - QCVN 06:2022/BXD
     - 09/2023/TT-BXD
-  pdf_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2023_qcvn_06/bang_so_sanh_sua_doi_2023_qcvn_06.pdf
   pdf_sha256: ''
-  cong_bao_number: Đang cập nhật
-  pdf_status: pending_download
-  sha256: 9f3c45d2e039d95959c61a5de490046d19f7b78e859db6a4f8f031aacb37fc49
+  cong_bao_number: N/A (Tài liệu đối chiếu nội bộ CCBA)
+  pdf_status: not_applicable
+  sha256: 5e0e32927b58c7e44d02e788fef13d43e51bb9778172ac2cb1890da7206b69d9
 - id: QCVN-03-2023-BCA
   document_number: QCVN 03:2023/BCA
   title: QCVN 03:2023/BCA — Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy
